@@ -1,5 +1,7 @@
 # POCUS
 
+> 📖 **Tintinalli**：[Ch263 › Ultrasonography](https://drive.google.com/file/d/1w4jnBj-LN-UVy0Rx1fwkThse_R9IiuzO/view)｜[Ch241 › Ocular Ultrasonography](https://drive.google.com/file/d/1jL8ddVTSfFBFm5hYsUYkXbb8OVassdTD/view)
+
 > Source: Heptabase「E-FAST」「心臟超音波 Cardiac echo」（含 McConnell's Sign、D-shape sign、RV dilation、TAPSE、RV strain in PSAX）「A線／B線」
 > Related: [Primary Survey (ABCDE)](初級評估ABCDE.md)
 

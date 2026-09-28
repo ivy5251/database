@@ -1,0 +1,2754 @@
+# Tintinalli 9th ed. 章節索引
+
+> 連結指向 Google Drive（ivy5251@gmail.com › 我的雲端硬碟 › Tintinalli_章節拆分），需登入該帳號才能開啟。
+> 自動由整本 PDF 拆分。每章一個 PDF；有多個疾病/小節的章節，另外在同名資料夾裡拆成小節 PDF。
+> 頁碼 = 整本 PDF 的頁數（不是課本印刷頁碼）。小節檔以「標題所在頁 → 下一個標題所在頁」切，前後可能多帶到半頁。
+
+
+## SECTION 1 Prehospital Care
+
+- **[1 Emergency Medical Services](https://drive.google.com/file/d/1MvbpQjNj7wlh_xNTy4q5xMlrLajtT1lf/view)** · p46–48
+- **[2 Prehospital Equipment](https://drive.google.com/file/d/1UourI-gBd6A5AGgfKssOHa2rpUJhZyqT/view)** · p48–54
+    - [Vehicles](https://drive.google.com/file/d/1zQz53NkbZyYSO7-ZYUR4z3HQ_Y20_2Zb/view) · p48–49
+    - [Communications](https://drive.google.com/file/d/1a8oLKZ8XtA_wmuZTeTqDxvGzMsuIAy3H/view) · p49–49
+    - [Electronic Medical Record](https://drive.google.com/file/d/1PZhtcpC2FsFioreo-g5aE6T1cuq9j8nZ/view) · p49–49
+    - [Personal Protective Equipment](https://drive.google.com/file/d/1SyUwXHfWjep_Ux_ljvZ0FRiTsmLytW3P/view) · p49–49
+    - [Equipment for Stabilization, Resuscitation, and Treatment](https://drive.google.com/file/d/1Jc46jrStjLRz_sYckTw6iqvvnMtsNEx0/view) · p49–54
+- **[3 Air Medical Transport](https://drive.google.com/file/d/1D2qGv6SuAW-0H5pLtJa-0ql4xF1nXJKx/view)** · p54–58
+    - [Overview](https://drive.google.com/file/d/1fOjAeUv8mQZ2UG_cGsyJTxTzpQU-7t6i/view) · p54–55
+    - [Helicopter Transport](https://drive.google.com/file/d/1H7aUPjiSgqBgbjLWpclphUXtJWI6-s4q/view) · p55–56
+    - [Clinical Use of Helicopters](https://drive.google.com/file/d/1EHP54xNy7Xr8zvEucfnAWsedCzD1E29b/view) · p56–57
+    - [Fixed-Wing Air Medical Transport](https://drive.google.com/file/d/1zSMCUUcTY0F1qwa4RfJKL7Qw291sYbe1/view) · p57–58
+    - [Medical Direction of Air Medical Services](https://drive.google.com/file/d/1bsOMzLCk6gQsJHOuKN7AL9qQ5EsncVIr/view) · p58–58
+- **[4 Mass Gatherings](https://drive.google.com/file/d/1tEsUoqC8kepKBQPAc7rNMsbZ2jjFepn_/view)** · p58–63
+    - [Epidemiology and Types of Mass Gatherings](https://drive.google.com/file/d/17c0hIVphZdV87o7E0iA7a47I29l-H5Qp/view) · p58–58
+    - [Components of a Medical Action Plan](https://drive.google.com/file/d/1tRX4m1YRFB39U04IzMswoezEU8QYYTYC/view) · p58–62
+
+## SECTION 2 Disaster Management
+
+- **[5 Disaster Preparedness](https://drive.google.com/file/d/17wygeH6luUEQdzjirrCgZh_DgOW_hfOo/view)** · p64–70
+    - [Disaster Preparedness and Planning](https://drive.google.com/file/d/1hNRlHcq_qUzzybfR0pKtTyZwn-vdF5WZ/view) · p64–68
+    - [Field Disaster Response](https://drive.google.com/file/d/183nyTJq7s9yzYgtKE4fCI_gxd2rvXfQc/view) · p68–69
+    - [ED Disaster Response](https://drive.google.com/file/d/1KeNHMjsPrNZreS7EqpC6_2hGnE7xW70v/view) · p69–70
+- **[6 Natural Disasters](https://drive.google.com/file/d/1P_J-VFOsjIBe19-Jj9TsQg11dmv2Jqsy/view)** · p70–75
+    - [Overview](https://drive.google.com/file/d/1Ao5A8aBtDO9EXM-FV4sXiulh4q2FXEWw/view) · p70–71
+    - [Loss of Resources](https://drive.google.com/file/d/1Sk46hKVQGhnqow8hKyFfmLLqVNh0tiCd/view) · p71–71
+    - [Disease Burden](https://drive.google.com/file/d/1FjxpI1FWnqNezhrv51ABghEZL-5Rjk5v/view) · p71–72
+    - [Handling of Bodies](https://drive.google.com/file/d/13IG1-qLwdwtgmDReL-s4ediYBzbv6jdx/view) · p72–73
+    - [Hurricanes](https://drive.google.com/file/d/1qskwDH_ryYSHcrgizJa3M1OrFpcQWSUI/view) · p73–73
+    - [Earthquakes](https://drive.google.com/file/d/11Aa7LT2CglNFMxdyJqukCRwuJqBKR0-5/view) · p73–73
+    - [Tornadoes](https://drive.google.com/file/d/1yZ--FfQLtzjL0PAYU3-B3mFbrJ1g17pi/view) · p73–74
+    - [Floods and Tsunamis](https://drive.google.com/file/d/1Ko7ijtbvjeXIByglplRPZxPc9WGfnf-6/view) · p74–74
+    - [Blizzards and Snow Disasters](https://drive.google.com/file/d/1ub_AEics4R5EFXLN0SrTvB5YEUnoKQZS/view) · p74–74
+    - [Relief Efforts](https://drive.google.com/file/d/1dhJahL1fHJez0YMh1QGGnmiJI-bUjji3/view) · p74–75
+- **[7 Bomb, Blast, and Crush Injuries](https://drive.google.com/file/d/1KopaLp_X3mEyGin7iMiVaugusZxKYuQ7/view)** · p75–80
+    - [Bomb and Blast Injuries](https://drive.google.com/file/d/1SO5Jgw0jk1dTfXp6qwm7vl7XnFwxZWMM/view) · p75–78
+    - [Crush Injury and the Crush Syndrome](https://drive.google.com/file/d/1Uilkbu0_nsjjaTvalFWpCdFZfZbUI3nE/view) · p78–80
+- **[8 Chemical Disasters](https://drive.google.com/file/d/1sP6sDMLkCpf0KKd8GIrGHvoZWlBG5Q3p/view)** · p80–86
+    - [Principles of Physics: Solids, Liquids, and Gases](https://drive.google.com/file/d/1BXVcQDkUhKYsU0GhySTGA8gU3sbyYcd5/view) · p80–80
+    - [Hazardous Materials Exposure-Limit Guidelines](https://drive.google.com/file/d/18E53VLFa4SqRXiHmcev_eYN0qVA9rTi1/view) · p80–81
+    - [Scene Hazardous Materials Response](https://drive.google.com/file/d/1IxlyDWzPbniKeVz8SffHjjsIkoHzxShc/view) · p81–81
+    - [Community Risk Assessment](https://drive.google.com/file/d/16ZjKft3W6RLVT5tocWPnBCCNO1-uxioH/view) · p81–81
+    - [Recognition of an Event](https://drive.google.com/file/d/1Fym2D1Cx8tfXsp0jOb4PzrGuDeXRWQGq/view) · p81–81
+    - [Identification of the Substances Involved](https://drive.google.com/file/d/1o_FiF7HiALt2FmffmEhW7WSJ2JSWA999/view) · p81–81
+    - [Isolation and Scene Control](https://drive.google.com/file/d/1ygVHVIPop6WH88u0ZvYHdDNwqGUutYOx/view) · p81–82
+    - [Decontamination in the Warm Zone](https://drive.google.com/file/d/1kCQ_bSqK1r-vOCLeNSOlNYtJmoUDGB6a/view) · p82–82
+    - [Stabilization and Triage in the Cold Zone](https://drive.google.com/file/d/1Irxq8DKLzTQSQyf8S5f5FXak6tC-RZQI/view) · p82–83
+    - [ED Hazardous Material Response](https://drive.google.com/file/d/1YUMsgtujd8oZPTL3jSGkib7khR4g0xVo/view) · p83–83
+    - [High-Risk Chemicals](https://drive.google.com/file/d/1b8qgj80RZiDBMR58HidED6Q7BdtKZ3gu/view) · p83–86
+- **[9 Bioterrorism](https://drive.google.com/file/d/1HpVcwx8DzSryzkmr1eke1k2CAgsiq9xr/view)** · p86–92
+    - [Overview](https://drive.google.com/file/d/1T2KDdREHcX156Z_HP7xklrxXc-C-ayCp/view) · p86–87
+    - [Agents of Concern](https://drive.google.com/file/d/1G-zOVod3IB8-96W4hgfN5VOazEwHqB_G/view) · p87–87
+    - [Recognition](https://drive.google.com/file/d/1aC1RQhCJiNbsqtZd-BW61LCoAZI8w-Gr/view) · p87–90
+    - [Infection Control and Decontamination](https://drive.google.com/file/d/1JOdZCmk2EreClPR4V0kFacpfCbJ99Qkr/view) · p90–91
+    - [Medical Surge Capacity and Capability](https://drive.google.com/file/d/1oasUS2OpYfLVoV7W-F_03CPqutbPIxkJ/view) · p91–92
+- **[10 Radiation Injuries](https://drive.google.com/file/d/1i4eJKsVyiAK9rYe06fvyGKCgt-hU5jOh/view)** · p92–97
+    - [Fundamentals of Radiation Physics](https://drive.google.com/file/d/1zSOkobL2yPmUz9_WN7XgKhB0EBXEwTiw/view) · p92–93
+    - [Biologic Effects of Ionizing Radiation](https://drive.google.com/file/d/1jvCoFYJ3j-ZYiWQEZANEaU5zxnK1wZ62/view) · p93–94
+    - [Clinical Effects of Radiation](https://drive.google.com/file/d/13oqW4hJkiDXrYLLMeMwK-PkbrunCB2JU/view) · p94–94
+    - [Emergency Response Planning](https://drive.google.com/file/d/1pGtO4lxkilKz7_DUXQDjHsVjMDqvUm9n/view) · p94–95
+    - [Triage Principles](https://drive.google.com/file/d/1_oL1o83QWJE1iQL3rZmmFU2B_X4quRp9/view) · p95–96
+    - [Prenatal Exposures](https://drive.google.com/file/d/1FuOUsUvVn10k3xIEOl2WJnsGoYFau6rh/view) · p97–97
+    - [Sources of Assistance](https://drive.google.com/file/d/1GvB-rFAkrNxjvjP-y_uWNJb72EQBtpo4/view) · p97–97
+
+## SECTION 3 Resuscitation
+
+- **[11 Sudden Cardiac Death](https://drive.google.com/file/d/1JLxk0l1BUAfAa9dK4T5I3w8QNc_Ue7Dt/view)** · p98–102
+    - [Overview](https://drive.google.com/file/d/1LGLXFH74GMST8xKBOi2w3R3b5Pc4eyvF/view) · p98–101
+    - [Prevention of Sudden Cardiac Death](https://drive.google.com/file/d/1sGReF7_WhO1u5S5Wa4pMOevYdmQTFebu/view) · p101–101
+    - [Sudden Cardiac Death Rescue](https://drive.google.com/file/d/16Ea9Dl8r_gkGhN0jlK1_KNDeUm83T-Cs/view) · p101–102
+- **[12 Approach to Nontraumatic Shock](https://drive.google.com/file/d/1_-7K7cghtBDttli6WR5kb4xnJkFFjlYi/view)** · p102–108
+    - [Categories of Shock](https://drive.google.com/file/d/1jFeFETWRaKKmxtrut4Hh0_IOoRBqZPRx/view) · p102–103
+    - [Factors Affecting Cardiac Output](https://drive.google.com/file/d/1kFRQlyi8nsaJqPRASPkxm_TCgT6jaPp-/view) · p103–103
+    - [Lactic Acid](https://drive.google.com/file/d/1KvxKYQy4TWG09erl0i_uZr00dc8oSjoK/view) · p103–103
+    - [Compensatory Mechanisms and Their Failure](https://drive.google.com/file/d/1w-U9s_YeHTccq5YgjlfVX4y1BwFIMKf5/view) · p103–103
+    - [History and Comorbidities](https://drive.google.com/file/d/1iy0HocD9mfmFeC9fva9sNfbgSCGVpFnY/view) · p103–105
+    - [Hemodynamic Monitoring](https://drive.google.com/file/d/1ifN1wnui99-qmARtkxM5mKmQMlsRs6xw/view) · p105–105
+    - [Establishing the Airway](https://drive.google.com/file/d/17byIRIAOYZVf0j4vXw2Nu_QizbHms_6c/view) · p105–105
+    - [Controlling the Work of Breathing](https://drive.google.com/file/d/1LMrM_JqkKekKss_KwAAlIw960g60Rtf3/view) · p105–105
+    - [Optimizing the Circulation](https://drive.google.com/file/d/1_8gwzTlUd30Qul5BgMH_8yZ652dCa_BO/view) · p105–106
+    - [Ensuring Adequate Oxygen Delivery](https://drive.google.com/file/d/1OfUm4GlHz9DJCCFZVy5b5ik7foMevF18/view) · p106–107
+    - [End Points of Resuscitation](https://drive.google.com/file/d/1N8PHTOdth2NETYb7Mz0xLO3AySXipy2J/view) · p107–107
+    - [Controversies of Treatment](https://drive.google.com/file/d/1ywxCUAN3wjSy-vkG8f4Me_qVmDZTKMiG/view) · p107–108
+    - [Transition to the Intensive Care Unit](https://drive.google.com/file/d/1pFsKpvXLmmZfStE-gPTGeV-916cOa3cX/view) · p108–108
+- **[13 Approach to Traumatic Shock](https://drive.google.com/file/d/1RAkgz-tjGkgKGHaH4pBb_qasFdmZeM16/view)** · p108–113
+    - [Overview](https://drive.google.com/file/d/1erbdzIZaK9vqVYKqWiMxPFYj0wm9ahGE/view) · p108–110
+    - [Airway Control, Ventilation, and Oxygenation](https://drive.google.com/file/d/1vbVTRlnJp2UJIOZRo87DzZecMRr0NtM-/view) · p110–110
+    - [Vascular Access and Monitoring](https://drive.google.com/file/d/1OyCC1izEuCFpWwR9IykE5Mwj_eDLZRAE/view) · p110–110
+    - [Hemostatic-Hypotensive Resuscitation](https://drive.google.com/file/d/1FtAEA-1JF8KNyZC5QL3C7H8bMQK2U6mb/view) · p110–110
+    - [Isotonic Crystalloid Solutions](https://drive.google.com/file/d/1nUolQKzYjh78AzikPByxXZXUl1iy0KVV/view) · p110–111
+    - [Colloids](https://drive.google.com/file/d/1SXKYRJDCl9etx9tfvjDTzcsK2LCVliMj/view) · p111–111
+    - [Packed Red Blood Cells](https://drive.google.com/file/d/1ooFD8_VebUX1H0sF5Va1ylnzOmkZkmyB/view) · p111–111
+    - [Plasma](https://drive.google.com/file/d/1KHaA9FoiEfl3hZTmsUQYYiwIzLZZAWMV/view) · p111–111
+    - [Platelets](https://drive.google.com/file/d/14sjcL5vfSh7SZgtMy_UVAP9yJbApv8mP/view) · p111–111
+    - [Massive Transfusion Protocols](https://drive.google.com/file/d/1G2QM8RkUlLnmikNybDowYSUcBDu5Ofk-/view) · p111–111
+    - [Concept](https://drive.google.com/file/d/1JDQaG-he6uvgUxSc0Er60-xXM5CRNY6u/view) · p111–112
+    - [Protocol](https://drive.google.com/file/d/1utzg_qAlqFenf96Jk1ISX9yfbUFOWRyD/view) · p112–112
+    - [Adjuncts](https://drive.google.com/file/d/1JnHw1mDpEf3-JCm6ax67zUX3AY2UY8Vr/view) · p112–113
+- **[14 Allergy and Anaphylaxis](https://drive.google.com/file/d/1kYi-nJzn8YbVnwxnPy8b35LCfa9pTuWt/view)** · p113–118
+    - [Anaphylaxis](https://drive.google.com/file/d/15vajX5-6yEkVHyQH_RGfLhm__PJ4jCwS/view) · p113–116
+    - [Urticaria](https://drive.google.com/file/d/1N6x7CLfAZXtBltNg_M_p3SfQ03gqJ5pv/view) · p116–116
+    - [Angioedema](https://drive.google.com/file/d/1WZwX7wo1UPKVNHzuTLVo1dWMQENdzeUm/view) · p116–117
+    - [Food Allergy Reactions](https://drive.google.com/file/d/1h5kzeb8yD_4gXWHBVsCM6JCWwZCumriq/view) · p117–117
+    - [Allergic Drug Reactions](https://drive.google.com/file/d/1rIEQC5-baLoivVVYlAnrKTw3XhmOHkC2/view) · p117–118
+- **[15 Acid-Base Disorders](https://drive.google.com/file/d/1F7rdMVn_KNEIF2LD3WESATTyCvQHJkNU/view)** · p118–123
+    - [Overview](https://drive.google.com/file/d/1jn7a12zM9y4It6dddyRnKi2QCoUyiI7l/view) · p118–119
+    - [Parameters Required for Clinical Acid-Base Evaluation](https://drive.google.com/file/d/1KzKvIGMWYVdhsQaS9y3cC2aybgxXPs2G/view) · p119–119
+    - [Metabolic Acidosis](https://drive.google.com/file/d/1ZugxglhClL0Q4fe5l1cmcUc-xiONRUtN/view) · p119–122
+    - [Metabolic Alkalosis](https://drive.google.com/file/d/1gKTxc9iuFQiXxhAGxGKCpSffUOsb1nV6/view) · p122–122
+    - [Respiratory Acidosis](https://drive.google.com/file/d/1WGQxWIDFCzE0IaL2A-OTLSfYRzC0w3xY/view) · p122–123
+    - [Respiratory Alkalosis](https://drive.google.com/file/d/14yAXZWMJPkVdU7h42vqij2X7Pgr9AT0S/view) · p123–123
+- **[16 Blood Gases, Pulse Oximetry, and Capnography](https://drive.google.com/file/d/1I6atSfVfZjJ9qYj7cfWfODN2k8u6y1b8/view)** · p123–126
+    - [Respiratory Physiology](https://drive.google.com/file/d/1w_Mg4tjMWvLDekUqfvwrjF9Q3XO6vd64/view) · p123–124
+    - [Arterial Blood Gas Analysis](https://drive.google.com/file/d/1HqKyGNBo2Xcgx5A5QuEEGIPNDlIHKOL2/view) · p124–125
+    - [Venous Blood Gas Analysis](https://drive.google.com/file/d/18jxmDhVaNo6J0Rk6vnOOUhiB553lt9AJ/view) · p125–125
+    - [Pulse Oximetry](https://drive.google.com/file/d/1xn5ADXmQCAfzvylotcyY6zReRKI6HnGE/view) · p125–125
+    - [Capnography](https://drive.google.com/file/d/1R8zKHCl5EN4mBUdOMy-yjCmoEXCLTCCx/view) · p125–126
+- **[17 Fluids and Electrolytes](https://drive.google.com/file/d/1Ujl01lZDzm5nspFqvwg2p3LX16CG67HF/view)** · p126–144
+    - [Fluids and Sodium](https://drive.google.com/file/d/1FyJVG2bl3Es35gYVE8JyJztK7hFQqQfS/view) · p126–127
+    - [Dehydration](https://drive.google.com/file/d/1uwQZrU6OXGmfejYfGkMO5hQgiQA7mgg3/view) · p127–128
+    - [Hyponatremia](https://drive.google.com/file/d/1gm1zRX-4-fXAWu8rOZpN1aP3OtwOneAv/view) · p128–130
+    - [Hypernatremia](https://drive.google.com/file/d/1a-UzTzGmfSBG-YvuYR0bdj88z3xw1scr/view) · p130–132
+    - [Diabetes Insipidus](https://drive.google.com/file/d/14P4A9v8IgZERul7258MOpzKvjOtMYelw/view) · p132–133
+    - [Hypokalemia](https://drive.google.com/file/d/1xH_4I7jQuuNb-x5p7uj2wcnYUgMgyqJc/view) · p133–134
+    - [Hyperkalemia](https://drive.google.com/file/d/1BMI5PbU3LiZyPaVYKiinkB6pZGWNw7tE/view) · p134–136
+    - [Magnesium](https://drive.google.com/file/d/1rx9Qk2LwvmYK_rWj8ujnGhWpGiZJ21UD/view) · p136–138
+    - [Hypomagnesemia](https://drive.google.com/file/d/1RGaoebwuVqqN4auqA4pXQrf7Bw446KcK/view) · p138–139
+    - [Hypermagnesemia](https://drive.google.com/file/d/1c2zblGZVtKJF6q0ltN02DEAiy8NtOcIC/view) · p139–139
+    - [Hypocalcemia](https://drive.google.com/file/d/1DNkVsRodHJia9rUxeYJFNoSomxtnMQpj/view) · p140–142
+    - [Hypercalcemia](https://drive.google.com/file/d/1i6h5z3jI9YI3IHeNQCod5KIFHQ0dHoLm/view) · p142–143
+    - [Hypophosphatemia](https://drive.google.com/file/d/14dQy3cHZPqWOBfePjPSqWaEHFtE2euuH/view) · p143–144
+    - [Hyperphosphatemia](https://drive.google.com/file/d/1aBIXfUOFjVmB9WSNQFj5YbmihDFGgd-B/view) · p144–144
+- **[18 Cardiac Rhythm Disturbances](https://drive.google.com/file/d/1094D-fHkcVYpN7jThVAQpZagskfivxk1/view)** · p144–168
+    - [Initial Approach to the Stable Patient](https://drive.google.com/file/d/1BuHm23aqRVWW13WNTBfebwTntcphdKDY/view) · p144–145
+    - [Initial Approach to the Unstable Patient](https://drive.google.com/file/d/1f6orrNwrLLQvJZ321woDqzbjKTBgzhKY/view) · p145–145
+    - [General Approach to Bradydysrhythmias](https://drive.google.com/file/d/1j3RpURpln_5wBFEeCzqSCmH01BRVVwij/view) · p145–145
+    - [General Approach to Tachydysrhythmias](https://drive.google.com/file/d/12-aRm3PnXUulndeFWqrTgdN2Hxlqc5h9/view) · p145–148
+    - [Ectopic Beats](https://drive.google.com/file/d/11tWK5iUaxFnXDjbNqAfZdQL2ADKT27JI/view) · p148–148
+    - [Premature Atrial Contractions](https://drive.google.com/file/d/1uUakC_BFlZ6InL_jNnLfvKJ09rD31T9l/view) · p149–149
+    - [Premature Ventricular Contractions](https://drive.google.com/file/d/1fWxCUZopMfPX8oFVsIg-ABFwzeRg-I4y/view) · p149–150
+    - [Junctional Rhythm](https://drive.google.com/file/d/1xJ5s2pWslAcT6RjGxLuYDn38P7GCnZIJ/view) · p150–151
+    - [Idioventricular Rhythm](https://drive.google.com/file/d/1lR4VrsDpruzdqivOGSj0Seit25qfcv9M/view) · p151–151
+    - [Atrial Fibrillation and Atrial Flutter](https://drive.google.com/file/d/1aI7Ey1Nc4KVft44OjXopS5ONrpDsFvXd/view) · p151–155
+    - [Multifocal Atrial Tachycardia](https://drive.google.com/file/d/1okwHa14AakFUB-nRpc8aewBySP-g3Vls/view) · p155–155
+    - [Paroxysmal Supraventricular Tachycardia (Atrioventricular Nodal Reentrant Tachycardia)](https://drive.google.com/file/d/1KVTzETFsCY7c5Szh2RIEo6ZNcUuzow-4/view) · p155–156
+    - [First-Degree Atrioventricular Block](https://drive.google.com/file/d/1YX_axbhDZQ1TMfs4IBRBxtZytcB4oYdG/view) · p156–157
+    - [Second-Degree Mobitz Type I (Wenckebach’s) Atrioventricular Block](https://drive.google.com/file/d/1nhZo1E6bEy8kDzyo2YwwxgHc822mIvpm/view) · p157–157
+    - [Second-Degree Mobitz Type II Atrioventricular Block](https://drive.google.com/file/d/15kD7LhPiA69eXBSUvNC1kCUuIo2JBlFY/view) · p157–158
+    - [Third-Degree Atrioventricular Block (Complete Heart Block)](https://drive.google.com/file/d/1xBu4lyWYYwagfMeJIdhCzSPhV8H_ALp-/view) · p158–159
+    - [Ventricular Tachycardia](https://drive.google.com/file/d/1fqP27yGrJ4s5nOKOApYcMdJbnckZH5P6/view) · p159–161
+    - [Undifferentiated Wide-Complex Tachycardia](https://drive.google.com/file/d/1cqdMXUESFKrN6bZkDSYU1jWxeLw_Ihi8/view) · p161–162
+    - [Ventricular Fibrillation](https://drive.google.com/file/d/123hJsFoR_ZClzX54cxJL_tedN6fCkoaz/view) · p162–163
+    - [Wolff-Parkinson-White Syndrome](https://drive.google.com/file/d/1nZkWMl6rXeauXeWtDuB2TQlwwzA5B_nZ/view) · p163–165
+    - [Brugada Syndrome](https://drive.google.com/file/d/1wrzmzqbuYjirHIH-eE9mKrY7K5Tq9G84/view) · p165–167
+    - [Long QT Syndrome](https://drive.google.com/file/d/1hlmDQMTqB1tNBvYpF8u2_hbFsERrgzWX/view) · p167–167
+    - [Short QT Syndrome](https://drive.google.com/file/d/1qGilly70vhBssKeaAD0atJyVDqZvhE9z/view) · p167–168
+    - [Arrhythmogenic Right Ventricular Cardiomyopathy](https://drive.google.com/file/d/1dQh-LfhgCKXCHf_SjTQ_-30J3lhBGxRh/view) · p168–168
+- **[19 Pharmacology of Antiarrhythmics and Antihypertensives](https://drive.google.com/file/d/1ukWIb_IzPONCXrz8lhk5TidMi9MI5ym8/view)** · p168–178
+    - [Class I Antiarrhythmics: FAST Sodium Channel Blockers](https://drive.google.com/file/d/1y0jZnxV8iWRalqjy8BoXNvmBBcBBzKQi/view) · p168–170
+    - [Class II Antiarrhythmics: β-BLOCKERS](https://drive.google.com/file/d/1L4A92GDPelKYvLdLJejuWHofZu05U0_c/view) · p170–171
+    - [Class III Antiarrhythmics: Inhibit Potassium Currents](https://drive.google.com/file/d/1wl2RR8i2Y3cYQUV1q2scaXsl0RVFilNY/view) · p171–174
+    - [Class IV Antiarrhythmics: Calcium Channel Blockers](https://drive.google.com/file/d/1em5ns88Ug_iZRaRCelEqx0ImcFu0UQZS/view) · p174–176
+    - [Other Antiarrhythmic Medications](https://drive.google.com/file/d/13cZbXhHLqzLLZa_6a81Or2SwAJfeVCW7/view) · p176–177
+    - [Selected Antihypertensive Medications](https://drive.google.com/file/d/1aCfZ8GrnA3jwrQiQTU9pvqtIWgk1QmTo/view) · p177–178
+- **[20 Pharmacology of Vasopressors and Inotropes](https://drive.google.com/file/d/1fkDY7Ku-iJnXkkMYy-Kn-v1XoH3eyBIv/view)** · p178–182
+    - [Administration Recommendations and Complications](https://drive.google.com/file/d/1EhSivp2monOhtkh2H3WkMYZy5SMv076X/view) · p178–180
+    - [Vasopressors](https://drive.google.com/file/d/1VaoD9em8EI0LoL2TVUIB3n1v00VZKiFd/view) · p180–182
+    - [Inotropes](https://drive.google.com/file/d/1K0qKj5bjzR7lfjvoWMAhJwVw9mEAAJYF/view) · p182–182
+- **[21 Hyperbaric Oxygen Therapy](https://drive.google.com/file/d/15IxIP9ueuh2Epe2nOWW-mo9V08ya1zCf/view)** · p182–187
+    - [Physiologic Effects](https://drive.google.com/file/d/1nzjI38hfqdKD3kPXFHpOqf-OV2F40AxJ/view) · p182–183
+    - [Indications](https://drive.google.com/file/d/1rNySczuNAfOPv1DtDvXLZyccMKqfYakJ/view) · p183–185
+    - [Complications of HBO Therapy](https://drive.google.com/file/d/1LyXfsJug5qW0sungApRT07P6K7pNVQhY/view) · p185–186
+
+## SECTION 4 Resuscitative Procedures
+
+- **[22 Basic Cardiopulmonary Resuscitation](https://drive.google.com/file/d/1uV2yN-MxTyu8LxCJ_Dll6jPMIhvDE0-D/view)** · p188–193
+    - [Sequence of Steps for Basic CPR](https://drive.google.com/file/d/1AjzHhT1wiPCE2NXHHxlG3xi2oCv_Lxgv/view) · p188–188
+    - [Steps of Basic CPR](https://drive.google.com/file/d/1Tn0lLcLUPqAlnYfqzieh7s0HIDf2G-zo/view) · p188–191
+    - [Foreign Body Obstruction](https://drive.google.com/file/d/1dV5T1lHmmdGFamzW3UTzrgZaMkLZVf-u/view) · p191–193
+    - [Mechanical Devices for Chest Compressions](https://drive.google.com/file/d/16OIrurapMZfXvbZKFdKiif_tdUDJzrAd/view) · p193–193
+    - [Complications of CPR](https://drive.google.com/file/d/1jGcChlB0KNvmJ86hP3xbVd8ma8RGrujf/view) · p193–193
+    - [Terminating Resuscitation](https://drive.google.com/file/d/1JlIHkQE_euOf7riqCztDLejSl_7C5-A3/view) · p193–193
+    - [Ethical Considerations in Resuscitation](https://drive.google.com/file/d/126HfGTdZr6zO3YJyupcRiR4bcUMlKpgr/view) · p193–193
+- **[23 Defibrillation and Electrical Cardioversion](https://drive.google.com/file/d/1H_mHFlthD_NV9MGjN0wt1nBf3DjEnkWC/view)** · p194–198
+    - [Purpose of Procedure](https://drive.google.com/file/d/1z1GRYEwHrYJ0AoydY5Ym4jTwsMtePxqd/view) · p194–194
+    - [Patient Selection](https://drive.google.com/file/d/1KDOQmucN6Y_M7ePwLVYvPijdoU5MrMgC/view) · p194–194
+    - [Equipment](https://drive.google.com/file/d/1e6df-h5CdwvLWvTzECMI7Ccywl5aUxkr/view) · p194–195
+    - [Patient Positioning and Skin Preparation](https://drive.google.com/file/d/14WI6fe37aQNdUVLH_8544_uvipCYGthf/view) · p195–195
+    - [Anesthesia and Procedural Monitoring](https://drive.google.com/file/d/1gY5MbGebxyts3ApAzJiB1chN_r3OHqBv/view) · p196–196
+    - [Step-By-Step Technique](https://drive.google.com/file/d/1wIe9zViCPZ_jlZiTBeCCWIS8bdUdVVmm/view) · p196–197
+    - [Risks and Precautions](https://drive.google.com/file/d/1wM-TABoeMZkDeWCPhKAh4-UTfa5zIgO5/view) · p197–197
+    - [Defibrillation in High-Performance CPR](https://drive.google.com/file/d/1egMUhMf8WhNr6I9uAD1lerxfFHCE5owj/view) · p197–198
+- **[24 Cardiac Resuscitation](https://drive.google.com/file/d/1OYNaPgIrVUR-KRsiwNz_d8NyZ8Ijrxlz/view)** · p198–209
+    - [Overview](https://drive.google.com/file/d/1xkCJGRgY6znDgbjcH55dnDZpQgx17eav/view) · p198–199
+    - [The Chain of Survival](https://drive.google.com/file/d/19Ty4kjcIksISopexYa51kzeM-Ev2dB88/view) · p199–200
+    - [Primary Survey](https://drive.google.com/file/d/1J5xLEpb0iiUfvxhe1DKWWEzEjCyRVhEf/view) · p200–202
+    - [Secondary Survey](https://drive.google.com/file/d/126JgWIHwQUVXWQ3TwcgB1vCM64Yp9n02/view) · p202–202
+    - [Vascular Access](https://drive.google.com/file/d/1EFBVjNzZ6XQV0BQBLN6ZHzqMkyZ32l-a/view) · p202–203
+    - [Capnography](https://drive.google.com/file/d/1TmAgK9u3RuD5EIHHzfiGB8koyEa5E57W/view) · p203–203
+    - [Drugs Used for Rosc from Cardiac Arrest](https://drive.google.com/file/d/1zPFZyZN5iZ8P_vKt1uPBEVQuV5ZxXbnk/view) · p203–204
+    - [Ventricular Fibrillation/Pulseless Ventricular Tachycardia](https://drive.google.com/file/d/1cwvL8OVffQ6F-AlKSFXxeRhr11Kz-63Z/view) · p204–205
+    - [Asystole/Pulseless Electrical Activity](https://drive.google.com/file/d/1fSaTPitjHl8mV_jhEW0H25-ElWZdlRVL/view) · p205–206
+    - [Differential Diagnoses of Cardiac Arrest](https://drive.google.com/file/d/1cBJcUsVd_MwvMkiBP7v8H5N71EPUFUli/view) · p206–207
+    - [Oxygenation and Ventilation](https://drive.google.com/file/d/1Njrsg5AQRFCYJ0vc9oLqgHfrH7W1Ll3B/view) · p207–207
+    - [Hemodynamic Management](https://drive.google.com/file/d/1oLNJ-aGB1EYV_MucDqevbmYbzEVY2gQ0/view) · p207–208
+    - [Targeted Temperature Management (Therapeutic Hypothermia)](https://drive.google.com/file/d/1JXBQHcPtRumVJgf-DGsQO8x67tTNO6M-/view) · p208–208
+    - [Glycemic Control](https://drive.google.com/file/d/1pv1sB7YDzzyfTkXY_LGcMRZ0jhyk8jPN/view) · p208–208
+    - [Neurologic Assessment](https://drive.google.com/file/d/1mkOIQiibrgPIi8DGNxSTxCh_poejvjCa/view) · p208–208
+    - [Advanced Resuscitation Techniques](https://drive.google.com/file/d/1Sm2sPDjBgzSl9kud5PBj75uQ4AmVnq4d/view) · p208–209
+- **[25 Resuscitation in Pregnancy](https://drive.google.com/file/d/14-y3sXmT_Eup9_ikxN8N59RdVWv68np5/view)** · p209–214
+    - [Overview](https://drive.google.com/file/d/1NpQE-sJk8NJy0iDKrNx5n9oWsURBlSp4/view) · p209–210
+    - [Cardiovascular Changes](https://drive.google.com/file/d/1ruIRRjeZrXsErDNKI2szOMdE2p7RWQV6/view) · p210–211
+    - [Respiratory and Pulmonary Changes](https://drive.google.com/file/d/1UqSFtxFhKhiLMp46xXAblOoOfHHkMhYQ/view) · p211–211
+    - [Sepsis](https://drive.google.com/file/d/1OJZnjUPVQJL6lnkUoDo47-YwbyNBXfTy/view) · p211–212
+    - [Anatomic Changes Affecting Intubation](https://drive.google.com/file/d/1R65oITMbwudBBwfC1dHsldjEWXFNvA9X/view) · p212–212
+    - [Intubation](https://drive.google.com/file/d/10Z60CI2XToUGgSAhTR3Lu-eUzQ3wKCIU/view) · p212–212
+    - [Cardiac Arrest in Pregnancy](https://drive.google.com/file/d/1q9weBFc81aJsFP94-Q8ceeFfJim09-cE/view) · p212–213
+    - [Defibrillation and Vasoactive Medications](https://drive.google.com/file/d/1tK8lWi6Zff2eamFxEoYG9EVOD7WHunC5/view) · p213–214
+    - [Post–cardiac Arrest Hypothermia and Extracorporeal Membrane Oxygenation](https://drive.google.com/file/d/1sOyWutcz_AgFlNj-KXEKSCOBEeldKzLO/view) · p214–214
+- **[26 Post–Cardiac Arrest Syndrome](https://drive.google.com/file/d/1d1iwnsC429d5gk4YOYP7bUZ0L8rvrHKj/view)** · p214–216
+    - [Pathophysiology of Ischemia- Reperfusion Injury](https://drive.google.com/file/d/1qM9d6vMvvWRSfAGcsFd0BN2kIuTHQgBl/view) · p214–215
+    - [Clinical Features after Return of Spontaneous Circulation](https://drive.google.com/file/d/1hQYzc8Q1ZLFwdoZ_ccpxJf88GJ_bvAN9/view) · p215–215
+    - [Diagnosis of Anoxic Brain Injury after Return of Spontaneous Circulation](https://drive.google.com/file/d/1MG_WaKDBZiMG0oW9VNjnB6106bFHcjTq/view) · p215–215
+    - [Targeted Temperature Management (Or Therapeutic Hypothermia)](https://drive.google.com/file/d/1C6V-ZSh6uD-xgJBPMgGc4mbpVBHXUShB/view) · p215–216
+- **[27 Ethical Issues of Resuscitation](https://drive.google.com/file/d/1bP3J9EDFxr6BJBqLK97lg45ctV601D-y/view)** · p217–218
+    - [General Principles of Medical Ethics](https://drive.google.com/file/d/1pSzEcX-uxrhOec6N9kedpLEwcRtFBSES/view) · p217–217
+    - [Cardiac Resuscitation and Outcomes](https://drive.google.com/file/d/1Hv-bC9U_wyDdqyZU8IEhsPd11yWJ2UuN/view) · p217–217
+- **[28 Noninvasive Airway Management and Supraglottic Airways](https://drive.google.com/file/d/1U9aAltYAH3c7iUsuQLB0xsX4bwjWK3Bu/view)** · p218–224
+    - [Overview](https://drive.google.com/file/d/1OcBwB5Gc0hWBJjHsrEDITMjD3k0pm_qn/view) · p218–220
+    - [Noninvasive Positive-Pressure Ventilation](https://drive.google.com/file/d/1nHiL0wtP_F0rOb9UOKXajVrVFQHTZbwy/view) · p220–222
+    - [Supraglottic Airways](https://drive.google.com/file/d/1yo8a4Lg0p5bagYV4I7N9VPN6InU9YrHA/view) · p222–223
+    - [Converting a Supraglottic Airway to an Endotracheal Tube](https://drive.google.com/file/d/1ggTtMHQfL2qTOutqsvu38p0sY6au_UQB/view) · p223–224
+- **[29A Tracheal Intubation](https://drive.google.com/file/d/1EzozC3XxZCQqQeMXXEU2HJ-ltszaHLDf/view)** · p224–235
+    - [Preparation](https://drive.google.com/file/d/17j7JtNx6sjFnzNgNtmd2Ya0PWrzEChbP/view) · p224–225
+    - [Airway Assessment](https://drive.google.com/file/d/1WMr0F7kxCDH8uOctu2fBa8g_TS3N6aFJ/view) · p225–226
+    - [Orotracheal Intubation](https://drive.google.com/file/d/1frxv4w_whLiBW6JOuqudAj6CZMKhbwTt/view) · p226–230
+    - [Rapid-Sequence Intubation](https://drive.google.com/file/d/1509AlIweFa1cYdlUiClmNoDqQ04iubao/view) · p230–232
+    - [Video Laryngoscopy](https://drive.google.com/file/d/1MlJX6-4C7VlMJfB4EtIv-djjyLRgFLfl/view) · p232–232
+    - [Flexible Fiberoptic Laryngoscopy](https://drive.google.com/file/d/19qDMcmmLu5FHH3zkZsiAt5zQ1tvg1Z60/view) · p233–234
+    - [Blind Nasotracheal Intubation](https://drive.google.com/file/d/1K9G6x9oEaUIFRyuP93N6w-bxie9a1Waw/view) · p234–234
+    - [Managing Intubation Difficulty](https://drive.google.com/file/d/1Si5zuJqSOo40DpXagOka1RhhaKVclBdJ/view) · p234–235
+- **[29B Mechanical Ventilation](https://drive.google.com/file/d/1GL6lLFm5qKA3USjztFehw-BS1XTMGgdc/view)** · p235–238
+    - [Managing Ventilators Settings](https://drive.google.com/file/d/1v_VqT6gLQzpftunKCOwxrjjF-7hd0bIF/view) · p235–236
+    - [Sedation of the Intubated Patient](https://drive.google.com/file/d/1wdX9u2IxpYyo63jkniR04-EraQA31PY8/view) · p236–237
+    - [Obstructive Lung Disease](https://drive.google.com/file/d/1-OLmyxNl5bp0a9Ue7SbUx-Wl7lscMZ8k/view) · p237–237
+    - [Severe Hypoxia/Hypoxemia, Acute Respiratory Distress Syndrome, and Trauma](https://drive.google.com/file/d/1hStinaP60ORgpCaMMlKbikhHM2AuffOw/view) · p237–237
+    - [Ventilator Care Bundle](https://drive.google.com/file/d/17WZzvKBdDswW68jP3pDVVnn7jQhqfxOd/view) · p237–238
+- **[30 Surgical Airways](https://drive.google.com/file/d/1_JaYRRr9UtizDgI9E2J6j02DD0Y9oQpj/view)** · p239–245
+    - [Patient Selection](https://drive.google.com/file/d/1m54ovk4vezFYmOVvjTdTLftabj795B0B/view) · p239–239
+    - [Type of Emergency Airway and Tube Selection](https://drive.google.com/file/d/1rDB1kl09GtHw2Frn4TxvaYg6s2qliF42/view) · p240–240
+    - [Surgical (Open) Cricothyrotomy](https://drive.google.com/file/d/1ZQCPfNoXS0T2_7nqno9ftiTP_HWnbh_U/view) · p240–243
+    - [Percutaneous Cricothyrotomy and Transtracheal Jet Insufflation](https://drive.google.com/file/d/1M2-1v2mrlq5jWbpT0goUbjbcDeRHawAe/view) · p243–245
+- **[31 Vascular Access](https://drive.google.com/file/d/1RYNeC8xRdgMjyXq5R9iXqKwWxb6G4L7T/view)** · p246–256
+    - [Technique for Peripheral Venous Access](https://drive.google.com/file/d/1vqyIRQNlODFo65-oUngwnRvAYLY_TU8d/view) · p246–247
+    - [Us-Guided Peripheral Access](https://drive.google.com/file/d/1Ah9eZpogIQEHQvaIX1qcd-SbqIgsYk_X/view) · p247–247
+    - [Central Venous Access and Anatomy](https://drive.google.com/file/d/1bluWG_bKXYXbovJ3MB1Iu5LJ8n4THBQA/view) · p247–248
+    - [US Technique for Central Venous Access](https://drive.google.com/file/d/1h27xeOvPev6pVWMj3F2bG6QXv_UTacb8/view) · p248–248
+    - [External Jugular Vein](https://drive.google.com/file/d/1hU6B4Vu7x2VH1B621qnbcoF0nhwTxWg_/view) · p248–248
+    - [Internal Jugular Vein](https://drive.google.com/file/d/184vTnMU4_Y9SIbSDYHoOG68r65_xJqMF/view) · p248–251
+    - [Subclavian Vein](https://drive.google.com/file/d/12TzarLb-grBmfy0k-o72MLPtTM7IZk_l/view) · p251–252
+    - [Femoral Vein](https://drive.google.com/file/d/1G4rPtwIVZXTfbCHQyDOa54dn9MCFfHgz/view) · p252–253
+    - [Technique for IO Access](https://drive.google.com/file/d/1SIXnxcUGiDZ9xb_0ZfB5rCyMmnW2LIGY/view) · p253–254
+    - [Radial Artery Anatomy](https://drive.google.com/file/d/1Xp-ALn_gZpdLiA_bpL3_X6ZnBz4wxEWA/view) · p254–254
+    - [Alternative Arterial Sites](https://drive.google.com/file/d/1K-CkqOyTy301MS9EwI4ptHMhn3EZz_3Y/view) · p254–255
+    - [Technique for Arterial Access](https://drive.google.com/file/d/19slh_fzSoy7tU5BkEJrdVlTVAjMXwmGa/view) · p255–256
+- **[32 Hemodynamic Monitoring](https://drive.google.com/file/d/1SFI-Uqna6ycyLSsPgnLTsmcDhOPdhoRH/view)** · p257–261
+    - [Arterial Blood Pressure](https://drive.google.com/file/d/1bpLWCP5N2BWoIkRLqVo6axFMooWUaArw/view) · p257–257
+    - [Noninvasive Blood Pressure Measurement](https://drive.google.com/file/d/1ooE8oxaerkxWdaQj7v-VsUtEKyexDuQa/view) · p257–257
+    - [Invasive Blood Pressure Measurement](https://drive.google.com/file/d/1mXanSNvN7cF_P70Nv3T7y9bsjviCYjyG/view) · p257–258
+    - [Central Venous Pressure Monitoring](https://drive.google.com/file/d/1NOpXoXDkvCCAA31gX6BQ8NXV7rQcDsVw/view) · p258–259
+    - [Noninvasive Cvp Measurement](https://drive.google.com/file/d/1pexDM1kIMffxfSQhBnbEFNhjLngRp2ff/view) · p259–259
+    - [Invasive Central Venous Pressure Measurement](https://drive.google.com/file/d/1dsDiuVYiARTKAxV_6bO2sTulqrgAClpu/view) · p259–259
+    - [Cardiac Output Monitoring](https://drive.google.com/file/d/19PsB-Ahacw1_1e4SNcRniifM0IBlGRyI/view) · p259–260
+    - [Noninvasive Cardiac Output Measurement](https://drive.google.com/file/d/1RAVTBdHgIYTO40biubavkOe-jsD8Ke7f/view) · p260–260
+    - [Invasive CO Measurement](https://drive.google.com/file/d/14389cn70fG0hltKdXTIk6hFvH6ND2kI2/view) · p260–260
+    - [Organ Oxygenation and Perfusion Monitoring](https://drive.google.com/file/d/1scrPtwPWWW196sbDhHDmKYqIBGIo8JKR/view) · p260–261
+- **[33 Cardiac Pacing and Implanted Defibrillation](https://drive.google.com/file/d/14jTHt6f8cj_ElyA40Gpxc2GwCv_Nve-6/view)** · p261–268
+    - [Purpose of Procedure](https://drive.google.com/file/d/1K59EQ30oB7Xrhj6yJWlg1eoSDdozMIq1/view) · p261–261
+    - [General Equipment](https://drive.google.com/file/d/1DTXOcz4kphLFazJNT0yiM-Ava49iZVa8/view) · p261–262
+    - [Transcutaneous Pacing](https://drive.google.com/file/d/1QTv9b-LA1CbqN6pdfVQvyqFUxLqc7NBV/view) · p262–262
+    - [Transvenous Pacing](https://drive.google.com/file/d/1UrOhJTVb6cFGety3WhdWdIc03ZtnEI3J/view) · p262–263
+    - [Permanent Pacing](https://drive.google.com/file/d/1bjjW4TXk7nwRFpcO2-2PLC15MCcHL51C/view) · p263–267
+    - [Implantable Cardioverter-Defibrillators](https://drive.google.com/file/d/1baC5mL6N4A9CMioIFhRFAQrw1-9Ork1N/view) · p267–268
+- **[34 Pericardiocentesis](https://drive.google.com/file/d/11kFW7j8Ujad_b1zf_QZvV3Wn2AnqYy0T/view)** · p268–273
+    - [Overview](https://drive.google.com/file/d/1cekzOiKf7ERYnKezNPrwXwkmolmNGuPO/view) · p268–270
+    - [Procedure: Emergency Pericardiocentesis](https://drive.google.com/file/d/17-80IEdfbnCcapAS41uF8kLqm6dWJv15/view) · p270–272
+    - [Step-By-Step Technique (See Video: Pericardiocentesis)](https://drive.google.com/file/d/1rDM5z4I7R5UKvAFmpaPPhb1GVf-ZBzwH/view) · p272–273
+
+## SECTION 5 Analgesia, Anesthesia, and Procedural Sedation
+
+- **[35 Acute Pain Management](https://drive.google.com/file/d/1y8Rv4ZXJPUz5REnD31DhQG7kd9iB9Qzv/view)** · p274–281
+    - [Overview](https://drive.google.com/file/d/10y2TnQRmvynMkL83lNRkwArRTBjaVdWt/view) · p274–275
+    - [Pharmacologic Acute Pain Treatment](https://drive.google.com/file/d/1YJUkncC_8w4jxQ9lQmlCfiUSDjKPzY8D/view) · p275–280
+    - [Nonpharmacologic Modalities](https://drive.google.com/file/d/1y715TpZ-_efzUeyNiuJJ18B33ReYYp-u/view) · p280–281
+    - [Specific Situations](https://drive.google.com/file/d/1bAn5fepZbR8TM-Rjm8kUPetfnboZJKoM/view) · p281–281
+- **[36 Local and Regional Anesthesia](https://drive.google.com/file/d/1dFKxOhCm5ebELkYo09ieJzsDI_sX81WU/view)** · p281–293
+    - [Pharmacology](https://drive.google.com/file/d/14bDjhSrEFlbxjruYJA1tQgXlQYDNxnNE/view) · p281–281
+    - [Local Anesthetic Systemic Toxicity](https://drive.google.com/file/d/1ts4WtNuykcIOzrYmIdsfW4TOQH9hDCu8/view) · p281–283
+    - [Topical Anesthesia](https://drive.google.com/file/d/1YY9QJP3ZXD0ka_kGtyKvWax8YseDgyLh/view) · p283–283
+    - [Intradermal and Subdermal Anesthesia](https://drive.google.com/file/d/1ohN4CZjX4xuHm6Z_e7gHKHFQQyLMncHM/view) · p283–283
+    - [Regional Anesthesia](https://drive.google.com/file/d/11gwG3qXw_2b6OINBtOkHFSb3fas1vsgC/view) · p283–284
+    - [Digital Blocks](https://drive.google.com/file/d/1xowsdkcHE9Oy_p3D7KConWU8mrYhS6Hr/view) · p284–285
+    - [Hand and Wrist Blocks](https://drive.google.com/file/d/1Ab-yLaItCdHxo3e_3EWucbGT-_Z3WQOq/view) · p285–287
+    - [Foot and Ankle Blocks](https://drive.google.com/file/d/18qM7ksV6WYXJ24hX-9pIBt_U4YHGx6t_/view) · p287–289
+    - [Facial Nerve Blocks](https://drive.google.com/file/d/1dbozFKVSSaYoc0CpWrptJWNwG9EjCN-q/view) · p289–291
+    - [Extremity Blocks](https://drive.google.com/file/d/1kCh65_Xpr4XWmp2dydD3EHP7c03Oci-X/view) · p291–292
+    - [Intravenous Regional Anesthesia (Bier Block)](https://drive.google.com/file/d/1eHOo8dnyiaXgjBKp8F1HIcM-bSBhshUY/view) · p292–293
+- **[37 Procedural Sedation and Analgesia in Adults](https://drive.google.com/file/d/1I-w0MQzAOqNUeDb1LfAX7qrp4mCG5LRv/view)** · p293–303
+    - [Overview](https://drive.google.com/file/d/1-sgZ5Ky1Wzj4kqgpLhNvctcT1Ns_RDrL/view) · p293–294
+    - [Psa Sedation Policies and Guidelines](https://drive.google.com/file/d/1h6M-Q5v46z1PQaQGNwwJRvK47ZDw9FOw/view) · p294–294
+    - [Clinical Approach to Procedural Sedation](https://drive.google.com/file/d/1EqFw1p9pwscJApPVeBJM39UA5BijEb4g/view) · p294–297
+    - [Agents for Procedural Sedation](https://drive.google.com/file/d/1qc2Ih7dQJh9B_TwgPcd2DRCnJrkThBQ2/view) · p297–301
+    - [Dosing Considerations in Special Populations](https://drive.google.com/file/d/1_4UztLw_JrXPoEvkyLcUX_JPreVFldRe/view) · p301–302
+    - [Rescue Medications and Reversal Agents](https://drive.google.com/file/d/1j6EW4uKwC4xt1-914C2xNuCpwUbyNIWu/view) · p302–302
+    - [Complications of ED Psa](https://drive.google.com/file/d/1Nliev8hmZqgAUmckaZCf6PW7HPt4-hP1/view) · p302–303
+    - [Common Procedural Sedation Errors in the ED](https://drive.google.com/file/d/1TJRH0_M-nLQtxf-W40NaRw2Ybi11wq9k/view) · p303–303
+- **[38 Chronic Pain](https://drive.google.com/file/d/1VkuaQTHD1LcPa5O7BY1VWpEsnDSc0NR6/view)** · p304–311
+    - [Chronic Pain](https://drive.google.com/file/d/1cxeoLkBjQW4TxPvQrDpGSLVOfELvo-TB/view) · p304–310
+    - [Aberrant Drug-Related Behavior](https://drive.google.com/file/d/1fY7oRIzpf-QEP4AsQ1kU7q_9hHBa2x-b/view) · p310–311
+    - [Special Considerations: Legal Issues](https://drive.google.com/file/d/1vbl07d8ZZDk76-zvsTpwvomJk-80aRlt/view) · p311–311
+
+## SECTION 6 Wound Management
+
+- **[39 Wound Evaluation](https://drive.google.com/file/d/1lnYxagot-VWy9gSg6Uyr9HtJMa2WIF_r/view)** · p312–314
+    - [Principles of Initial Evaluation](https://drive.google.com/file/d/10BROer1zHRsK-7Fxu9heCQCbMGP7TGEc/view) · p312–313
+    - [Wound Examination](https://drive.google.com/file/d/18_OxmVdbcgtrW5LxPQAMrFgHkKfhd_U6/view) · p313–314
+    - [Patient Education](https://drive.google.com/file/d/1-iKSrj5Yqr44fkk3ys5onE1jk_kj5w36/view) · p314–314
+- **[40 Wound Preparation](https://drive.google.com/file/d/1tzsmWeyi1LKFlXDtLu05RQMZL0lhtUj9/view)** · p314–317
+    - [Sterile Technique](https://drive.google.com/file/d/1n5YTZFjt-pAFpw47FIGk6wifHijnYqa3/view) · p314–314
+    - [Skin Disinfection](https://drive.google.com/file/d/1lt7Plm7qAMHbWaNBroHasufkbp8VA810/view) · p314–314
+    - [Wound Anesthesia](https://drive.google.com/file/d/1tzODo9RBz842VdvIruYLjU4GF_yMCP7v/view) · p314–314
+    - [Hair Removal](https://drive.google.com/file/d/1YH8tN7e2zdxNgLfU3iaD5prhdqLlN6uI/view) · p314–314
+    - [Control of Bleeding](https://drive.google.com/file/d/1warxlf4HmOu_PQhgAznQ25-holYqpKrt/view) · p315–315
+    - [Wound Irrigation](https://drive.google.com/file/d/1EszC_igu7oguOPo9t3LNoXuHRq1bOqif/view) · p315–316
+    - [Wound Debridement](https://drive.google.com/file/d/1ZOp6LfXcNx-ubIURmLdwfILrHOdVDt4M/view) · p316–316
+    - [Removal of Foreign Bodies](https://drive.google.com/file/d/1q5lAHjB2uAfdhz4X6dD3yGQgMIrrE7Ee/view) · p316–317
+- **[41 Wound Closure](https://drive.google.com/file/d/16zUmFt5VKONMhiFMexigpqr9BF4WlS6j/view)** · p317–330
+    - [Overview of Wound Closure Methods](https://drive.google.com/file/d/1z0SztJHZSkAiv30SXfEbVY1l29w2YzhL/view) · p317–318
+    - [Sutures](https://drive.google.com/file/d/10I03un28W-SxzOwTCsjJISuj_tyY5iA-/view) · p318–325
+    - [Staples](https://drive.google.com/file/d/1mqvxwQh81Im8kcUVdszirP48aVPoh6Vf/view) · p325–327
+    - [Adhesive Tapes](https://drive.google.com/file/d/1qSxF-u5I-0HMwFZtiX2LtcMfzoxbJSVI/view) · p327–327
+    - [Cyanoacrylate Tissue Adhesives](https://drive.google.com/file/d/1aoiRqI5nyp0166EFLY4-sR99dKPMomzm/view) · p327–329
+    - [Hair Apposition](https://drive.google.com/file/d/1LSZsT77ecQn6Vgx0GeCRdmYs3Bsyq4OA/view) · p329–330
+- **[42 Face and Scalp Lacerations](https://drive.google.com/file/d/1ye2XkIckuQ3Dq-KgYfGgVjQXhS23QUDV/view)** · p330–337
+    - [Scalp and Forehead](https://drive.google.com/file/d/13Pwvt_fW8L6FdG6Bwt149GePF6e_hUbO/view) · p330–331
+    - [Eyelids](https://drive.google.com/file/d/1hzUzVlj0UDOEXlh4lCRqDeYpvfrxNNQQ/view) · p331–333
+    - [Nose](https://drive.google.com/file/d/1GcyrlSla-vpWJffVzZRwkCA1N_CptMeF/view) · p333–334
+    - [Ears](https://drive.google.com/file/d/1P0c_p3Qv0mXo7hSwiRbqTu25VlRJIPEs/view) · p334–335
+    - [Lips](https://drive.google.com/file/d/1TCPLNqOs-G2p3v9ZB7nNg5HUkT02-6Cy/view) · p335–335
+    - [Intraoral Mucosal Lacerations](https://drive.google.com/file/d/1E_4x62vhlr-aRpJ1oHouBp00zEtt5okq/view) · p335–336
+    - [Cheeks and Face](https://drive.google.com/file/d/1DtBcMejrwU4_UkQ28AGM-8UHAImCGh3y/view) · p336–337
+- **[43 Arm, Forearm, and Hand Lacerations](https://drive.google.com/file/d/1ysfcjmLsDSX3Sp3Oa1V0rUb7xORPdiQ-/view)** · p337–344
+    - [Overview](https://drive.google.com/file/d/1dg3u8gnQ499ROsE4ulEmdt7XKzECc87e/view) · p337–339
+    - [Upper Arm and Elbow Lacerations](https://drive.google.com/file/d/1snBFnvmv8Jzse8ptM-EGYZl5hEFyvLO8/view) · p339–339
+    - [Dorsal Forearm, Wrist, and Hand Lacerations](https://drive.google.com/file/d/1WAY1GjwU7EsRKhDy_CMKIWyjooQQ-j-2/view) · p339–339
+    - [Clenched Fist Injuries](https://drive.google.com/file/d/1vaG08-AHH2pHkQzLKMS31-suGxZEBng6/view) · p339–339
+    - [Extensor Tendon Lacerations](https://drive.google.com/file/d/17OA6yjdBIQ31v8qk3xUN7nxTVIfoFLtW/view) · p339–340
+    - [Volar Forearm, Wrist, and Hand Lacerations](https://drive.google.com/file/d/1qJST437tDYpDJzVGValZXCyUHL7C2iKp/view) · p340–341
+    - [Palm Lacerations](https://drive.google.com/file/d/1s6YrQkQcpquMRW1xjifpwG0r-h1CaQSI/view) · p341–341
+    - [Flexor Tendon Lacerations](https://drive.google.com/file/d/13I37_6raMmUYD3QGxRrKu97zYmJwgpnU/view) · p341–341
+    - [Finger Lacerations](https://drive.google.com/file/d/18UXIKBiX3rsGduhVQXG5yxoqY1okAQCD/view) · p341–341
+    - [Digital Amputations](https://drive.google.com/file/d/1sG80YARdoLbQ2Or3XE-fiHSlSDE-bfhh/view) · p341–342
+    - [Digital Nerve Injuries](https://drive.google.com/file/d/1EFgMgohLsImyRIt_uWGdy4eqgUUwQQTX/view) · p342–342
+    - [Fingertip Injuries](https://drive.google.com/file/d/1U-O6MlJxXVuwcWkiQX61q4Wnp_NHztyy/view) · p342–343
+    - [Injuries Involving the Nail and Nail Bed](https://drive.google.com/file/d/1J9ZdCYCZkzPydHC5LNdCXsV3OKWmCeJP/view) · p343–343
+    - [Ring Tourniquet Syndrome](https://drive.google.com/file/d/1nMnPwyBNw0BOBhYQHMB4lPF97aE8uMLm/view) · p344–344
+- **[44 Thigh, Leg, and Foot Lacerations](https://drive.google.com/file/d/1bXi4WsVnSYe7o_RNXk9T2DKplb_G74vz/view)** · p344–352
+    - [Overview](https://drive.google.com/file/d/1OmGS5EFmMOZVOH7s-Kix9tuwwDQWOSHz/view) · p344–348
+    - [Leg Lacerations](https://drive.google.com/file/d/184o1PkY2gXI1NzfwExLrZ12mXq3wYrlW/view) · p348–350
+    - [Foot and Ankle Lacerations](https://drive.google.com/file/d/1v2u4KPCOvF4OMQzmEPWKlzCqRb9gXYQf/view) · p350–352
+- **[45 Soft Tissue Foreign Bodies](https://drive.google.com/file/d/1Lo6ZDCrrWsToSLV7q1RFsKna5thWQ5dK/view)** · p352–362
+    - [Overview](https://drive.google.com/file/d/18K6QpPSEOKALAq1BMpw_pqg53s0O144f/view) · p352–354
+    - [Localization Methods](https://drive.google.com/file/d/1GRv6VX5Stx9qfL15gzGnGM3TVC22wAZ7/view) · p354–354
+    - [Image Study Selection](https://drive.google.com/file/d/1ggyfmzEPFCIdp4KnpwOd41sa460V-1UV/view) · p354–354
+    - [Plain Radiography](https://drive.google.com/file/d/1FrNHybCHBT83MkdKzbkq3s7CZ5hIMzPR/view) · p354–355
+    - [Computed Tomography](https://drive.google.com/file/d/1hLCFcpemw77kxTVbTY7LkgiwgIHmjlcd/view) · p355–356
+    - [Ultrasound](https://drive.google.com/file/d/1C8lTti-RT2q8djp_9hNddU2A4WOP5A6I/view) · p356–357
+    - [Magnetic Resonance Imaging](https://drive.google.com/file/d/1gFNCDA42AK5AzCI4245YUEHNAoztKBXc/view) · p357–357
+    - [Fluoroscopy](https://drive.google.com/file/d/1GSCfLb82EU85etvZcAP2U4L9Z3HbZeg4/view) · p357–359
+    - [Postremoval Treatment](https://drive.google.com/file/d/15OhvasexXMxp0b3KII8ZBxdcuv81z1AC/view) · p359–359
+    - [Delayed Removal](https://drive.google.com/file/d/1GXtYK2EDmNMlfj_01pN5LZzXhnApDD2J/view) · p359–359
+    - [Specific Foreign Bodies and Removal Procedures](https://drive.google.com/file/d/1cnUOajrQCdY9si7TCgq5YCaznLirCqEM/view) · p359–359
+    - [Metallic Needles](https://drive.google.com/file/d/1TTe9oApRpDJIgBHbqVEb72tukWMqc0Jx/view) · p359–360
+    - [Wood Splinters and Organic Spines](https://drive.google.com/file/d/1260mGg2ucX-0jhmBKHUj24izCy6wCjoT/view) · p360–360
+    - [Fishhooks](https://drive.google.com/file/d/1QrgC39jUC9h0mb-3YxvBhpaSFw8sm453/view) · p360–362
+    - [Traumatic Dermal Tattooing](https://drive.google.com/file/d/1iMLmyasaQqd4g4_KO0UT0GvkzxEV-f-Y/view) · p362–362
+- **[46 Puncture Wounds and Bites](https://drive.google.com/file/d/1qO4mbLwrGUxw5-r9givaKv3wWL69_VKJ/view)** · p362–369
+    - [Puncture Wounds](https://drive.google.com/file/d/1WEkA2_EDdFPO8GbNSkx4sLQM_2fvc_dL/view) · p362–366
+    - [General Principles of Bite Wound Management](https://drive.google.com/file/d/17i-d66sdOhStpk7clnWg5iYs-aT_nqOl/view) · p366–366
+    - [Cat and Dog Bites](https://drive.google.com/file/d/1eCU1GTKUPFBzmX29gs9_ci6ipDXGbCx1/view) · p366–368
+    - [Human Bites](https://drive.google.com/file/d/1i4So-XC7rE02NfLFrwWk2p0k3FpzuS6D/view) · p368–368
+    - [Rodents, Livestock, and Exotic and Wild Animals](https://drive.google.com/file/d/1HsJp_2pNsPpWD2S3QbNfRy7loiflS_hc/view) · p368–368
+    - [Systemic Viral Infections](https://drive.google.com/file/d/1YT8YYm55jP08hQj3tFIfNX7s74Rq4Gqn/view) · p368–369
+- **[47 Postrepair Wound Care](https://drive.google.com/file/d/1x-kQgH-YR9xEmJnQuKLhctxW0rettEmB/view)** · p369–373
+    - [Wound Dressings](https://drive.google.com/file/d/1Yobh-g8rfn7FgicR5b2xNjEbSwVM6Xw8/view) · p369–369
+    - [Edema Reduction](https://drive.google.com/file/d/1_xveRaGa9Pnd2c7dwdgGCIw_XvJeyCKA/view) · p369–369
+    - [Prophylactic Antibiotics](https://drive.google.com/file/d/1jc5Rs9PUM4KDKBMszSrNCF1gpgyp8YO2/view) · p369–370
+    - [Tetanus Prophylaxis](https://drive.google.com/file/d/1vktMfdeYGA9NLXoYalCYHP3BzHOqzx72/view) · p370–370
+    - [Water Contact and Cleaning](https://drive.google.com/file/d/1Y_F2KkeG2IHSjl-wHM3FfiR2Rk64VYqT/view) · p370–370
+    - [Pain Control](https://drive.google.com/file/d/1f4kEUvlftGaVwp8_IQO6AnOtPJPTXpQx/view) · p370–371
+    - [Long-Term Cosmetic Outcome](https://drive.google.com/file/d/1OfIKkI65p2kkd9J3Gkr9a7K3pjih2D9o/view) · p372–372
+
+## SECTION 7 Cardiovascular Disease
+
+- **[48 Chest Pain](https://drive.google.com/file/d/1uXHAWfGnHVxVqiK-AIN7so5yijk_njIy/view)** · p374–378
+    - [Initial Assessment](https://drive.google.com/file/d/1BhkaXyo29eKMrpvvvZhIFN19aI4kJucE/view) · p374–375
+    - [Ami Signs and Symptoms: Likelihood Ratios](https://drive.google.com/file/d/1PW6ds3SpG6PY10Qq2F5PA3VFvBCer_dI/view) · p375–375
+    - [Response to Therapy](https://drive.google.com/file/d/1kpB0Bd1I6ERsb-ulUpAIdDoYoc2TO0w-/view) · p375–376
+    - [Pulmonary Embolism](https://drive.google.com/file/d/1OxRhAe6Du5hg__GT-SJzEWwcvzda4V61/view) · p376–376
+    - [Aortic Dissection](https://drive.google.com/file/d/1Na4zdvAjiYBFv4PqLy1-HdPExr8z9FUt/view) · p376–376
+    - [Pneumonia](https://drive.google.com/file/d/1eQUg4Q0bNYH0wVak_7H7zbQ5OSeFvk8D/view) · p376–376
+    - [Esophageal Rupture (Boerhaave’s Syndrome)](https://drive.google.com/file/d/1hIRR2twvjijs4hQLJopkMy5qtwKbU3Zp/view) · p376–376
+    - [Spontaneous Pneumothorax](https://drive.google.com/file/d/19N_JarTWge7faLCVOOc8nQAalHEV2BE1/view) · p377–377
+    - [Acute Pericarditis](https://drive.google.com/file/d/16ihlYVxPoMsJvyUmtxh8--g8qE8a5PGi/view) · p377–377
+    - [Mitral Valve Prolapse](https://drive.google.com/file/d/1dVPqNFxv5_ZuXKL-BSqIIbHcBvQzhBdo/view) · p377–377
+    - [Chest Wall Pain](https://drive.google.com/file/d/12uUZe6lCIaE2NPW6ySyKa1hhKizGNTai/view) · p377–377
+    - [GI Pain](https://drive.google.com/file/d/1Py7192R_qGL4StaY5Uqqpy0-foe4eDgS/view) · p377–377
+    - [Panic Disorder](https://drive.google.com/file/d/1MdfuVDdRg3C12QPquoyXTggEU6Cv2HMV/view) · p377–377
+    - [ECG](https://drive.google.com/file/d/1fOIt_Kj3RBnREhLfmKmnBTLWT-IsK2Sh/view) · p377–377
+    - [Cardiac Biomarkers](https://drive.google.com/file/d/1lvrUyimX4Eg0FF79U4ha5b30qf-buHZA/view) · p377–378
+- **[49 Acute Coronary Syndromes](https://drive.google.com/file/d/1ez2KlnukcroahyngGtQyv2os8ghmjIHP/view)** · p379–397
+    - [Overview](https://drive.google.com/file/d/1MiHgGrFiNOzmG5vvfSPuZjggTtIkh1X1/view) · p379–381
+    - [Electrocardiography](https://drive.google.com/file/d/1EFhbf1eh1TjSFw78NiQdi2_1YczthjYU/view) · p381–387
+    - [Serum Markers of Myocardial Injury](https://drive.google.com/file/d/1G6BQj1VtXn1lbhjZtcP-kvbOTGmUJU-A/view) · p387–388
+    - [STEMI Treatment](https://drive.google.com/file/d/1cLtwB_jX2n8Nb9JCV83NQ5uAgSKX6QWE/view) · p388–389
+    - [NSTEMI Treatment](https://drive.google.com/file/d/1zYQDzoPqPuIJN5K1H4yTQf2hFCvSOGGR/view) · p389–389
+    - [Percutaneous Coronary Intervention](https://drive.google.com/file/d/1pin9Pmr9hNzjWl1glCHAGxtwwjwIBzSj/view) · p389–390
+    - [Fibrinolytics](https://drive.google.com/file/d/15B9TldJ_KWsebjMam0EPFLW7mMK-wQKp/view) · p390–391
+    - [Antiplatelet Agents](https://drive.google.com/file/d/1KXh21rB6Ndj--IYBU1gntw4OhdYfNcfc/view) · p391–393
+    - [Limiting Infarct Size](https://drive.google.com/file/d/1ziAz6izPwTFdlHX5PIRG4k3gPgoMEJ14/view) · p393–393
+    - [Complications of Acute Coronary Syndrome](https://drive.google.com/file/d/1bIVOLQoVI1VfhPpO6xPrQ0u75N4tleJr/view) · p393–397
+- **[50 Cardiogenic Shock](https://drive.google.com/file/d/1Oy6Lvl1SXgsJT7ECxiyTyL6j1UuyEtiM/view)** · p397–402
+    - [Overview](https://drive.google.com/file/d/14zSO1i7aJaA8jWIaS7KlO76oQo4zCkUd/view) · p397–400
+    - [ED Treatment and Stabilization](https://drive.google.com/file/d/1ElPwyWijFdKHDwXVlCyeNzuD1c67TJVZ/view) · p400–401
+    - [Definitive Management](https://drive.google.com/file/d/1Qbyg_hngiojuc4kF5tLKWebUTckgacjF/view) · p401–402
+- **[51 Low-Probability Acute Coronary Syndrome](https://drive.google.com/file/d/1egEc2hAP5vr89oDYCdTSpFmkXHA-JAOG/view)** · p402–407
+    - [Primary Evaluation](https://drive.google.com/file/d/1Jv7nqDzUdTdv3ca5lnV7hYRt2ap54RTv/view) · p402–403
+    - [Risk Assessment](https://drive.google.com/file/d/1lrfW3o-1DcJ8v_N0CKKpvXLhfIzVTTgn/view) · p403–404
+    - [Secondary Evaluation](https://drive.google.com/file/d/1h3BjWI-t9oKgiHJM6AiQwWWNam2_5Dpi/view) · p404–405
+    - [Advanced Cardiac Testing](https://drive.google.com/file/d/1K-4Rj5Pvxd28rZ8OeG455dLZUqBLXz-z/view) · p405–405
+    - [Echocardiography](https://drive.google.com/file/d/1PRmn1ZcwzXcsmSEHtXIthmdX64IWK2Fv/view) · p405–406
+    - [Inpatient Admission](https://drive.google.com/file/d/1mWyirrb91z85hgV4tuJmsFxkyGl7ZFsd/view) · p407–407
+    - [ED Observation and Testing](https://drive.google.com/file/d/1875_-FaiBfgSBR9YMTY7coLqwEBc-Ndk/view) · p407–407
+- **[52 Syncope](https://drive.google.com/file/d/1TcI6pcpSpp4iYzqhfUBKx-U_fgDf7pI7/view)** · p407–412
+    - [Cardiac-Related Syncope](https://drive.google.com/file/d/1nz_lbhJ231rgJuq9bswQX1Rm8RsX1MIP/view) · p407–408
+    - [Vasovagal and Neurally or Reflex-Mediated Syncope](https://drive.google.com/file/d/1QXYeGA4Dt6Jy1Y-7fImjrnNeSeRiyt5K/view) · p408–408
+    - [Orthostatic Syncope](https://drive.google.com/file/d/14wiPxca92_LVYWjV3c866HyIJih8w-OH/view) · p408–409
+    - [Psychiatric Disorders](https://drive.google.com/file/d/1h_bwi1nhT3VJs6lWPrjCGTCnGSVLJVL_/view) · p409–409
+    - [Medication-Induced Syncope](https://drive.google.com/file/d/1vMGM1AAjcwUFPoJ2_mkzTECNzIfOQz9k/view) · p409–409
+    - [Neurologic Disorders Associated with Loss of Consciousness](https://drive.google.com/file/d/1bTDyQiY2y-2PPT6yZbTQVqkNaewXBtHU/view) · p409–410
+    - [ECG and ED Monitoring](https://drive.google.com/file/d/1-XrjH6S9t7o_3I25FwfjkSNkYpjo447U/view) · p410–410
+    - [Ancillary Testing](https://drive.google.com/file/d/11ExhbfpJ1u2IBrKdChWnlDjR_fr5pADY/view) · p410–410
+    - [Decision Making and Risk Assessment](https://drive.google.com/file/d/1WhrSOqbBN36xlOVFWl2iJ1HIpcrxzoFj/view) · p410–410
+    - [Diagnosis Established](https://drive.google.com/file/d/1wH4opKvjKBl9UgpO4kkdHsp0SG9Xefhe/view) · p410–410
+    - [Unexplained Syncope](https://drive.google.com/file/d/18kpQMK2jXRJcSIiLQv1Vk2EJjFZK_N1l/view) · p410–411
+    - [Inpatient Evaluation](https://drive.google.com/file/d/1UYaaiD521cr0U0gjaYFBDv2IUU-SEWbI/view) · p411–412
+    - [Outpatient Evaluation](https://drive.google.com/file/d/10dZTr8Ej5ELYlNomv0Y9JkdKrLHf6fGA/view) · p412–412
+    - [The Elderly](https://drive.google.com/file/d/1QZtynkhgTo-jliuS_r1J1CH23_VO55Qt/view) · p412–412
+- **[53 Acute Heart Failure](https://drive.google.com/file/d/1ecafWC36Yg6reSU2h32b1Px_38-dsdx8/view)** · p412–419
+    - [Overview](https://drive.google.com/file/d/1QTfz89t2ZXquhs_SElpoBsBeu_Zeh9MT/view) · p412–415
+    - [Hypertensive Acute Heart Failure](https://drive.google.com/file/d/10wclRxK9TBq1ztJAJXTrxFPEyz_9lDFU/view) · p415–416
+    - [Normotensive Heart Failure](https://drive.google.com/file/d/1RjorVPoiOyuvsa-87-rZ1gyQqrFHMD_t/view) · p416–419
+- **[54 Valvular Emergencies](https://drive.google.com/file/d/1xB1lfW7r6fUU_t3mg_xt_DsbrIY3MGGu/view)** · p419–425
+    - [Mitral Regurgitation](https://drive.google.com/file/d/1J7hXFBkRgP1ax-bPOOVS3kjwIOVRQtE3/view) · p419–421
+    - [Mitral Valve Prolapse](https://drive.google.com/file/d/1H7FBTuzfJATJct2p1yL7A9rjYtvtlKLw/view) · p421–422
+    - [Aortic Regurgitation](https://drive.google.com/file/d/16O8UtVrCzVGkYMaLyp_Eu9QwCmjmaDaG/view) · p422–423
+    - [Right-Sided Valvular Heart Disease](https://drive.google.com/file/d/1lDy08Lv5_kimpeejSdgtwNyJHEUntraz/view) · p423–424
+    - [Diagnosis of Prosthetic Valve Dysfunction or Complications](https://drive.google.com/file/d/1uDFrkyVKEq_z5q2w-2s1RwsZ6yC1iPMP/view) · p424–424
+    - [Reversal of Anticoagulation with Prosthetic Valves](https://drive.google.com/file/d/1cN56MSdGDNB4s9SLYzUy1DM2LZHoVcDI/view) · p424–425
+- **[55 Cardiomyopathies and Pericardial Disease](https://drive.google.com/file/d/1eUv5FV_XntuA3fEzdCHIhg_F7TfYTbTS/view)** · p425–433
+    - [Overview](https://drive.google.com/file/d/1kMtY5-rNDs2ELGEk6F1alXqtq1ZfiLH6/view) · p425–425
+    - [Dilated Cardiomyopathy](https://drive.google.com/file/d/1psHgsUgoKRPbWgVNpz3e1e3FUsDJDYod/view) · p426–426
+    - [Myocarditis (Inflammatory Cardiomyopathy)](https://drive.google.com/file/d/1Qmqpby8CVqh9EPLDKNcd5UUKSjBcgAWI/view) · p426–428
+    - [Hypertrophic Cardiomyopathy](https://drive.google.com/file/d/1jdh6c4Kfd6lUGCP2mAtiHvZCJ5LF1DsP/view) · p428–429
+    - [Restrictive Cardiomyopathy](https://drive.google.com/file/d/1u8Ni_HKlsxSfEot6sHqdZzvdm9qQfjnT/view) · p429–429
+    - [Acute Pericarditis](https://drive.google.com/file/d/11CpXptRgI_kHuOxH78vXdYCwADy1RPy0/view) · p429–432
+    - [Nontraumatic Cardiac Tamponade](https://drive.google.com/file/d/1fbLS8ROC-s7ycXosS0zDb4sGTqtxe3jy/view) · p432–433
+    - [Constrictive Pericarditis](https://drive.google.com/file/d/1OMfqVXOry0SUDdYBMFzoRN_WGpNtRXlB/view) · p433–433
+- **[56 Venous Thromboembolism Including Pulmonary Embolism](https://drive.google.com/file/d/1Ja1kl8i5ngp1ltqYAJd5qK_9W_L2GGeA/view)** · p434–444
+    - [Overview](https://drive.google.com/file/d/1o2-1OPI95MKyp638JQe5ebWupql67b_6/view) · p434–435
+    - [Clinical Features of Pulmonary Embolism](https://drive.google.com/file/d/1feACWQcuoPXJ44yTOvgDuAPN5b4u-4il/view) · p435–436
+    - [Clinical Features of Deep Vein Thrombosis](https://drive.google.com/file/d/1KUlrzem2vL4Nu-l4LyUrrXbC6oZ0oQWr/view) · p436–437
+    - [Decision Rules and Clinical Assessment](https://drive.google.com/file/d/1q-whJbdjym_k8ZKh0JamddrPP_Yb-9vw/view) · p437–441
+    - [Step One](https://drive.google.com/file/d/1Hr2qEljcb7Pz820uba_Lk-tfUmQT9YK0/view) · p441–441
+    - [Step Two](https://drive.google.com/file/d/17SghETadQQvLibf1ynpuIF3N1ZT2mgan/view) · p441–441
+    - [Step Three](https://drive.google.com/file/d/1uDl8C7_8smNeTG_RzWSa8HwGAsu0LNgL/view) · p441–441
+    - [Step Four](https://drive.google.com/file/d/1XaWYM2iJNr8njyrNkGe3BBhkc9nYVSCe/view) · p441–442
+    - [Treatment of Pulmonary Embolism and Deep and Superficial Extremity Thromboses](https://drive.google.com/file/d/1kRhCx5UHr_-H7dpxHIHGoPcHjR8nj7Ig/view) · p442–443
+    - [Treatment for Superficial Thrombophlebitis](https://drive.google.com/file/d/1EJEY_tke3ImeOlYdfQtU_IVokeovXirw/view) · p443–443
+    - [Treatment for Isolated Calf Vein Thrombosis](https://drive.google.com/file/d/1Sc-YWdDy-VL1ysy5mRRD0ixzyoc66QRj/view) · p443–443
+    - [Outpatient Treatment of Pulmonary Embolism](https://drive.google.com/file/d/1vnusNMKeIqgptjtkI7NJagFbA6Mcwovo/view) · p443–443
+    - [Fibrinolysis for Pulmonary Embolism](https://drive.google.com/file/d/1q2hdtbTkpaSZKKyYNwjoge_4OEP4XwNf/view) · p443–444
+- **[57 Systemic Hypertension](https://drive.google.com/file/d/1SXA51zeF2hDeg2PVKuQ5iENBXsy0GzkA/view)** · p444–453
+    - [Overview](https://drive.google.com/file/d/10kjX_CtH2abSRlWiJTQusCYd_wNloyiQ/view) · p444–449
+    - [Pharmacologic Agents](https://drive.google.com/file/d/1XkiYI8BYmjdhGR9IxL_SRnbSzYMsq1FR/view) · p449–451
+    - [Treatment of Asymptomatic Severe Hypertension](https://drive.google.com/file/d/1RK3wAo-khB5WwuHKUuoO1hw8sF_W61PF/view) · p451–451
+    - [Disposition and Follow-Up of Asymptomatic Hypertension](https://drive.google.com/file/d/1hc1KtCwu4GJo7V_NI6O5NXDMlaUo6Wht/view) · p451–453
+- **[58 Pulmonary Hypertension](https://drive.google.com/file/d/1htM5e_GAzr84ATsoQX1NbL2GSmF7dvzt/view)** · p453–457
+    - [Overview](https://drive.google.com/file/d/1XCBd7u-VZxdoEhaq_uuXs2xzMDT_lx1D/view) · p453–454
+    - [ECG](https://drive.google.com/file/d/1cWl20FzZoS9SuqrvW-rrtVCf6L67dCGK/view) · p454–455
+    - [Oxygen and Mechanical Ventilation](https://drive.google.com/file/d/1ADJ3wJ7w47Zb8NjC_dMcDY_Mo8jIJro6/view) · p455–456
+    - [Intravascular Volume](https://drive.google.com/file/d/18bXIIqsfdaTpL8yMGZlBFkhXs5DSju62/view) · p456–456
+    - [RV Function](https://drive.google.com/file/d/1mkTp0bIzwFdl1Jc8sp5ynVsEoYCsEsSB/view) · p456–456
+    - [Right Coronary Artery Perfusion](https://drive.google.com/file/d/1rKOR_k2HUSS9ctzRtKBTMCz4nIhG2S8z/view) · p456–456
+    - [RV Afterload](https://drive.google.com/file/d/1cTDDjsxgPvu3BbH9KAv9HbmuetqtMjJ_/view) · p456–457
+- **[59 Aortic Dissection and Related Aortic Syndromes](https://drive.google.com/file/d/1t6A-MmsP7U-jDnDw8emcWe8hqZrFSSZv/view)** · p457–460
+    - [Overview](https://drive.google.com/file/d/1cDyIkRwEZ70cI9qYJhEPA4evd3VElSIF/view) · p457–458
+    - [ECG](https://drive.google.com/file/d/1kW8ULK7m4LQwZMywnWizXpVClz7c-vQ0/view) · p458–458
+    - [Biomarkers](https://drive.google.com/file/d/1xwYo4WEHP_8DQ_AxBf-3LMlpF8WmrtdV/view) · p458–459
+    - [Antihypertensives: Negative Inotropic Agents](https://drive.google.com/file/d/1coXi_zRVHPzvzONngdHU2TowrwZv6omR/view) · p459–460
+    - [Vasodilators](https://drive.google.com/file/d/1R68NgB24XOiafVomthV3Mr3Sk0Kw1JFM/view) · p460–460
+    - [Aortic Dissection Complicating Pregnancy](https://drive.google.com/file/d/1DQ946a6SDdW3C2hS0p8FJxz531RNOb7K/view) · p460–460
+- **[60 Aneurysmal Disease](https://drive.google.com/file/d/1wU1H9LR7o-zsaTIQ_ahWltCO74CkFOXv/view)** · p460–464
+    - [Overview](https://drive.google.com/file/d/1BaykZwGrcaFLjmzj55JMtmQhsmRfblWo/view) · p460–461
+    - [General Clinical Features of Aneurysms](https://drive.google.com/file/d/1QFm27npiQRbulIr_hBpGOHyYTkoXp0Gq/view) · p461–461
+    - [Symptomatic Abdominal Aortic Aneurysms](https://drive.google.com/file/d/1fvBjfLVKOVSvhH_ZZV8sHNBbm0TmoDXq/view) · p461–464
+    - [Thoracic Aortic Aneurysms](https://drive.google.com/file/d/1gJt2aj3VV7Xlyx5rItDZz6c0ArUVFX44/view) · p464–464
+    - [Extremity and Visceral Aneurysms](https://drive.google.com/file/d/1Silwb21dKoINrIl-dNJrVnQRzo3LePYI/view) · p464–464
+- **[61 Arterial Occlusion](https://drive.google.com/file/d/1QoNJMrKeZ8HdyFOVLtHQ9hBLuIBdrtjl/view)** · p465–469
+    - [Thrombosis](https://drive.google.com/file/d/1cpeeL1raqzIQMg-2uSPIEoxNnSNTuNCB/view) · p465–465
+    - [Embolism](https://drive.google.com/file/d/19TTDaheEnbxpGf-QJNgJBZ2fmtZ8V_Fa/view) · p465–465
+    - [Other Causes](https://drive.google.com/file/d/16TKHkaKhVr4QbtTYtZHPXrgJdL-DXZIG/view) · p465–466
+    - [Acute versus Chronic Arterial Disease](https://drive.google.com/file/d/1knq0OUX9esITY20QveMhAz34M25UNNJO/view) · p466–467
+    - [Other Diagnoses That Mimic Arterial Ischemia](https://drive.google.com/file/d/1VMzhWuyKC8QNWUU_dUxrPv0AFALWtNID/view) · p467–468
+    - [Upper Extremity Ischemia](https://drive.google.com/file/d/1ijNdiQi5sZPcPTONcpT9A26V_5YwzOBi/view) · p468–468
+
+## SECTION 8 Pulmonary Disorders
+
+- **[62 Respiratory Distress](https://drive.google.com/file/d/151Auez-wUbJVfgBkNWDUHMrkZXP2eVCw/view)** · p470–477
+    - [General Approach to Respiratory Distress](https://drive.google.com/file/d/1VHtDJblVczYoe0HQudbvkSXGtukKzmeY/view) · p470–471
+    - [Hypoxia and Hypoxemia](https://drive.google.com/file/d/1IVI8rqyAqoVDQhLWjz7cZQHumidwU4yp/view) · p471–472
+    - [Hypercapnia](https://drive.google.com/file/d/1PMcR7NUse7zmENOPp_Leht35meNCnU8z/view) · p472–473
+    - [Cough](https://drive.google.com/file/d/1v_KrilicKeVsr_8i_agyovFUDZ1IJtXY/view) · p473–474
+    - [Hiccups](https://drive.google.com/file/d/13M-huMU-y13HAJsy0-_9lWuOC7ersgOv/view) · p474–475
+    - [Pleural Effusion](https://drive.google.com/file/d/1cloq2BlVMcFR_8IrA0OSUTw-dGCtDC9o/view) · p475–477
+- **[63 Hemoptysis](https://drive.google.com/file/d/1AcTcYk7HjS7dV4KiQjcFt6uVep428RPf/view)** · p477–481
+    - [Overview](https://drive.google.com/file/d/11Hkjhz0tJcxMqLMRqWdK6O1FD_Hpxr6f/view) · p477–479
+    - [Treatment: Mild Hemoptysis](https://drive.google.com/file/d/1vQyh3ddcyXj4C4iyJ6WIRPsGK6zcY6Dz/view) · p479–479
+    - [Treatment: Severe Hemoptysis](https://drive.google.com/file/d/1x26KaL_P--PJoM2V35EmNp-XGeIn3jBB/view) · p479–481
+- **[64 Acute Bronchitis and Upper Respiratory Tract Infections](https://drive.google.com/file/d/1Wu0vWJcf8cxFtLG2c_3Ly3QYWzp-W_aE/view)** · p481–484
+    - [Acute Bronchitis](https://drive.google.com/file/d/1rk5n5nEHd_Duj7foR22Gkii-4RislHgM/view) · p481–482
+    - [Common Cold](https://drive.google.com/file/d/16eKMTlYUPfD3jT4hlQiukZsylggDDUBx/view) · p482–482
+    - [Influenza](https://drive.google.com/file/d/1-D-hsdt4lpMi5PeEqxdTrImQlOckIYkG/view) · p482–483
+    - [Pertussis](https://drive.google.com/file/d/1QQOsJGA510xNtokH-f0Ht_sE2i0n5nH_/view) · p483–484
+- **[65 Community-Acquired Pneumonia, Aspiration Pneumonia, and Noninfectious Pulmonary Infiltrates](https://drive.google.com/file/d/1n1cNJx8cMO7leBHgEmQu-UC1JBHCYMaJ/view)** · p484–494
+    - [Community-Acquired Pneumonia](https://drive.google.com/file/d/1MTc7iAA4Yf0Xac-BIkrKnMj0_WT30CvU/view) · p484–487
+    - [Pneumonia in Special Populations](https://drive.google.com/file/d/1hjvfxA008SBh2-GLUHb2YiiWNXMlwHj5/view) · p487–491
+    - [Aspiration Pneumonia](https://drive.google.com/file/d/1l6N-ZhMFNWeFnH0EvOinh03p8feMN4fj/view) · p491–492
+    - [Noninfectious Pulmonary Infiltrates](https://drive.google.com/file/d/1tFmG_KwV-oFuLqeLlU8R2jjytIj_hm4_/view) · p492–494
+- **[66 Lung Empyema and Abscess](https://drive.google.com/file/d/1qlkrd4_EVZjfSMllV5mgRj3jkFR4bjDa/view)** · p494–496
+    - [Empyema](https://drive.google.com/file/d/1zOh5wLntUPS8s-MBEQH5X3Mc8cKMvXzw/view) · p494–495
+    - [Lung Abscess](https://drive.google.com/file/d/1Xx-yapbzFwDXLT9TIYBjLRuFoEWkWkwW/view) · p495–496
+- **[67 Tuberculosis](https://drive.google.com/file/d/1qZEbAVe5XvUK1HyQIkkHVQqbcry2hsS8/view)** · p496–502
+    - [Primary and Latent Infection](https://drive.google.com/file/d/10emYkqynr_0SuMQOb8XjES-HL5RgXPIG/view) · p496–497
+    - [Reactivation Tuberculosis](https://drive.google.com/file/d/16QTGXP9kuZNzT0xcX38hEvJkKgSpn8PU/view) · p497–497
+    - [Primary Tuberculosis](https://drive.google.com/file/d/1bL8yN1lkQVRHm4Vo48RRROlCHrbUJnIn/view) · p497–497
+    - [Reactivation Tuberculosis](https://drive.google.com/file/d/1a7yzBPGjqB1Y-t5Iqs9e-Q8rJ4w23pnU/view) · p497–497
+    - [Mantoux or Tuberculin Skin Test](https://drive.google.com/file/d/1NtMp7tO53xPNcECLqIeoV5_yfA6L7EwM/view) · p497–498
+    - [Blood Tests](https://drive.google.com/file/d/1gP29f39-O-hxqIxFqH7D0Pzoha5aGynd/view) · p498–498
+    - [Chest Radiograph](https://drive.google.com/file/d/1J6Yuj__3kX2ZPjtvZDAZuWwDqG3DnHTA/view) · p498–498
+    - [Microscopy and Cultures](https://drive.google.com/file/d/1Y3pjaCID60vu0gQHzRNjRi_bazWhsydm/view) · p498–499
+    - [Treatment of Active Tuberculosis](https://drive.google.com/file/d/1GEvDx0HOxQxrytvPxiFeVae5kTeQnW95/view) · p499–500
+    - [Treatment of Latent Tuberculosis](https://drive.google.com/file/d/1-xi0U0Y7QgwiytkhXfrfjtnIQMWx-hay/view) · p500–500
+    - [Outpatient Care](https://drive.google.com/file/d/1ZBE2VweD1bpF3IEc0UO3ybHLpJyR5-0K/view) · p500–500
+    - [Hospital Admission](https://drive.google.com/file/d/1zV89PnX75aKpzqvhX3sGSYAIISAKnrLO/view) · p500–500
+    - [Patients with Tuberculosis and Human Immunodeficiency Virus](https://drive.google.com/file/d/1RuxClBzpxKYOo8RpkyAxHH_UaSrK1LfI/view) · p500–501
+    - [Multidrug-Resistant Tuberculosis](https://drive.google.com/file/d/1aRtM9bZ1wpDMhFJsf3q0oNBIQg04xPYu/view) · p501–501
+    - [Children](https://drive.google.com/file/d/1gRTpB4T_X_NJJcf3UaWNASlAq3DDQabg/view) · p501–501
+    - [Miliary Tuberculosis](https://drive.google.com/file/d/1wiUkk9kPG2AcioD6gF0xLKd62M5i5Xlj/view) · p501–501
+    - [Extrapulmonary Tuberculosis](https://drive.google.com/file/d/1bFbi0mnVaIu5FN13j85EfXjB76R0Jlmt/view) · p501–501
+    - [Tuberculous Meningitis](https://drive.google.com/file/d/1KmuMMgvRWL3-xVVTt0cCG4m2z7K1XB2L/view) · p501–502
+- **[68 Pneumothorax](https://drive.google.com/file/d/1l87kmUKVRJW6mQSzqAE7Dojr9Px8qURU/view)** · p502–506
+    - [Overview](https://drive.google.com/file/d/112HmqmV6_z3RfMH1EiG0apTmvUuNCyqi/view) · p502–504
+    - [Needle Decompression](https://drive.google.com/file/d/1jdwBAt6bdAvXH6kzyM_t2Sn9jTFj-2iC/view) · p504–505
+    - [Needle or Catheter Aspiration](https://drive.google.com/file/d/1d_2pnR7iH0031CQoQTQGtr5H3m_-XxzE/view) · p505–505
+    - [Iatrogenic Pneumothorax](https://drive.google.com/file/d/1Rh7zaedpfg0eV5RJoFbUBp9xIbgw70ZG/view) · p505–505
+    - [Air Transport with Pneumothorax](https://drive.google.com/file/d/1oXunERBs7B9sDmRfiIXnclBb-Abf3fZD/view) · p505–505
+    - [Diving](https://drive.google.com/file/d/1mHCIWRHdpeW7CUdEKE4Mo7OlfyYuJAmL/view) · p505–506
+- **[69 Acute Asthma and Status Asthmaticus](https://drive.google.com/file/d/1h79ysac55tl4BF3b7pwCm4EtOqcWPEtC/view)** · p506–511
+    - [Overview](https://drive.google.com/file/d/1keMNjLqoI0pii3orvO_QLVjvYmYef3OK/view) · p506–507
+    - [Diagnosis and Patient Monitoring](https://drive.google.com/file/d/1e8nku7n0c3AHH3AsUQlXQ-JDQZIPQ80I/view) · p507–507
+    - [Acute Asthma Standard Treatment](https://drive.google.com/file/d/1HMcJLvOBYIfNKCzFqUVuU4z41wQnyn9Y/view) · p507–510
+    - [Follow-Up of Patients with Acute Asthma](https://drive.google.com/file/d/1aEXUBUHr1H_cK32xo0hbBXcyjhfMUY5x/view) · p510–510
+    - [Status Asthmaticus (Acute Severe Asthma)](https://drive.google.com/file/d/1DK7-2e4wv8bML1DHSH5Az2EjYjQsOQ_y/view) · p510–511
+- **[70 Chronic Obstructive Pulmonary Disease](https://drive.google.com/file/d/18MRtmwv48ahLrgIevjpxtytcScPgsp4p/view)** · p512–517
+    - [Chronic Compensated Obstructive Pulmonary Disease](https://drive.google.com/file/d/1x4faTrTaMSSeUzdwEU13jqLB4tpbRfYU/view) · p512–513
+    - [Acute Exacerbations of Chronic Obstructive Pulmonary Disease](https://drive.google.com/file/d/1Gt2pN0keGpxNyOweBDmQOzXpAFDUbzNf/view) · p513–516
+
+## SECTION 9 Gastrointestinal Disorders
+
+- **[71 Acute Abdominal Pain](https://drive.google.com/file/d/1ohAwZcdxPJ4ihfCpJ4wcexiw317IrSxJ/view)** · p518–526
+    - [Overview](https://drive.google.com/file/d/1jRQj6k5Tnt9IQi1cCb_VUSkJ1zm9aMZo/view) · p518–519
+    - [Symptom Treatment and Further Clinical Diagnosis](https://drive.google.com/file/d/1_IwW9XiNfXoA6iMgN2S2tlE7ko61bAc4/view) · p519–525
+    - [The Postoperative Patient with Acute Abdominal Pain](https://drive.google.com/file/d/1GAbX3-3P_M_kEQXtBNVzh3cfzz84Ouaz/view) · p525–526
+- **[72 Nausea and Vomiting](https://drive.google.com/file/d/1TY-UvZXXILJxHFdPcqxTxMQ5X7EBMt3y/view)** · p526–529
+    - [Overview](https://drive.google.com/file/d/11cynLDGyN-eM1e3TKLcCfeyoPAZ5OcLD/view) · p526–527
+    - [Gastroparesis](https://drive.google.com/file/d/1O2xzdqZIKvUkTu-a5oHKIZGL5tzhGoxH/view) · p527–528
+    - [Cyclic Vomiting Syndrome](https://drive.google.com/file/d/1tiItCtR2R8PP9PL4GsHF0fBOzdHj6R8k/view) · p528–529
+- **[73 Disorders Presenting Primarily With Diarrhea](https://drive.google.com/file/d/13mUBg854F94q0JsccFH4qtaryi0vVY0F/view)** · p529–537
+    - [General Assessment of Patients with Diarrhea](https://drive.google.com/file/d/1IyOPtoZRV0sUeSEdPlFFRFC53xwDdk72/view) · p529–530
+    - [Acute Infectious and Traveler’s Diarrhea](https://drive.google.com/file/d/1cnFw6U5HSyLRbyot8AaF_hYhGRA8EFDF/view) · p530–531
+    - [Clostridium Difficile –Associated Diarrhea and Colitis](https://drive.google.com/file/d/1LxmqWzaI3hwBaQXlXJdJEa-jFH5QTJrO/view) · p531–533
+    - [Inflammatory Bowel Disease/Ileitis/ Colitis/Crohn’s Disease](https://drive.google.com/file/d/1daG_rTcPO_KRpzMxsG29KJTmznhBfckw/view) · p533–536
+    - [Ulcerative Colitis](https://drive.google.com/file/d/1_MAB-0YRQ1WBWAhrowsjkH-1XwjzSrJN/view) · p536–537
+- **[74 Constipation](https://drive.google.com/file/d/1kLCeUZhmvaZG8Bh3GQZH6siKrNu5YPSt/view)** · p537–540
+    - [Overview](https://drive.google.com/file/d/1vf1E0fEPthpXmGtRDtk0gjxPQ-bend7Q/view) · p537–539
+    - [Functional Constipation](https://drive.google.com/file/d/1KVqyptCP2ASkMj2u82vaT1gu2zWFOhnM/view) · p539–539
+    - [Opioid-Induced Bowel Dysfunction](https://drive.google.com/file/d/1s1FmbuSo_cV3zSk_FwM9CNXFA2tNqaNb/view) · p539–540
+    - [Fecal Impaction](https://drive.google.com/file/d/1jhiGzsnwWNQxXZtrk-nCmLkMOdqkJQU7/view) · p540–540
+    - [Intestinal Pseudo-Obstruction (Ogilvie’s Syndrome)](https://drive.google.com/file/d/1wkL9uGT0WoQdvtg2JxjzqUoOrxzg2WBB/view) · p540–540
+    - [Organic Constipation](https://drive.google.com/file/d/1LcM-FMZ_xI0SaW0khzvoGA09vnBo6Pux/view) · p540–540
+- **[75 Upper Gastrointestinal Bleeding](https://drive.google.com/file/d/10wZ9SUxV95WI4JM1I9bx-LRuzWlbOxMg/view)** · p540–543
+    - [Overview](https://drive.google.com/file/d/1TOsWXFSrdYaVz73i3nhB1WA2MFT0VlrK/view) · p540–542
+    - [Endoscopy](https://drive.google.com/file/d/1t8gxH6slxfsjAoC-UfM57-QqtxWTQJHR/view) · p542–543
+    - [Balloon Tamponade](https://drive.google.com/file/d/14TFBmZyFfSRzWFDjWHgzimpY2kSAXDC2/view) · p543–543
+- **[76 Lower Gastrointestinal Bleeding](https://drive.google.com/file/d/1dlLHaSUFNu0ZVZ18qMqb-EuRDluG0FM8/view)** · p543–545
+    - [Diverticulosis](https://drive.google.com/file/d/1ilu1rrViFAhWoU6YibIhFIQA2Xn_0ALP/view) · p543–543
+    - [Vascular Ectasia](https://drive.google.com/file/d/1WGOPwEii7Pfzd9w1I0eTU0Emu7bSj51H/view) · p543–543
+    - [Ischemic Colitis and Mesenteric Ischemia](https://drive.google.com/file/d/1s4xN23Y29G5tOKYYzm3fi37qAGPqFwoj/view) · p543–543
+    - [Meckel’s Diverticulum](https://drive.google.com/file/d/1FaLDvhFT5f2j6fO7DJushhFETzUV4TnB/view) · p543–544
+    - [Hemorrhoids](https://drive.google.com/file/d/12niY9WBPHDZ0-EgFYPsWhniKJ6ynpbZj/view) · p544–544
+    - [Other Causes of Lower GI Bleeding](https://drive.google.com/file/d/1yZOzuEH8fcCPMlu6XpjmKuJXATrkH_Hb/view) · p544–545
+    - [Endoscopy and Surgery](https://drive.google.com/file/d/1ZiC4OYHL_lsmJc38SyjOynnpCm2EBeig/view) · p545–545
+- **[77 Esophageal Emergencies](https://drive.google.com/file/d/1hpoTTb-Gv-ckByKtVIFqZsRbTO7umGk1/view)** · p545–550
+    - [Overview](https://drive.google.com/file/d/1tzGN4deRfmIDph4bYWvVYfprR4f-Oqov/view) · p545–546
+    - [Dysphagia](https://drive.google.com/file/d/1DNbezRH6NAfzc37GW75KjFnOtB8_ZC4Q/view) · p546–546
+    - [Gastroesophageal Reflux Disease](https://drive.google.com/file/d/1_dgwU2I9zNLRRJIk1JY0Wcu4amTUoQNl/view) · p546–547
+    - [Esophagitis](https://drive.google.com/file/d/1EqOCNoEzZ-JWgd-NmWz4tgct_zBj0vFm/view) · p547–547
+    - [Esophageal Perforation](https://drive.google.com/file/d/19EP2U9j_r82uvzZwwNxRqhpMbc1ORPwI/view) · p547–547
+    - [Swallowed Foreign Bodies and Food Impaction](https://drive.google.com/file/d/1YtZZJAM7VouELfmnf1JCxuaWcO4d0tS3/view) · p548–550
+- **[78 Peptic Ulcer Disease and Gastritis](https://drive.google.com/file/d/1jzEbxfniz14jU_2wlL0SVxFZ0IXHonJ7/view)** · p550–553
+    - [Overview](https://drive.google.com/file/d/1MGJIR1XCSUV8JAHB4x6oBEbpOYLnTIOw/view) · p550–551
+    - [Ancillary Testing](https://drive.google.com/file/d/1Bj6sQ238eXmK_rChusmvId8mpJoCBiBn/view) · p551–552
+    - [Proton Pump Inhibitors](https://drive.google.com/file/d/11QeAGdUUZx98eoi1PWyyH0QSKbC4gGOk/view) · p552–552
+    - [H 2 Receptor Antagonists](https://drive.google.com/file/d/1FSVk2gJAltnXJNDXFTRg-ydXoI7hhj4s/view) · p552–552
+    - [Other Agents](https://drive.google.com/file/d/1vW0gMvz2B28MxcvwjFDoHG9HHIy7RZmz/view) · p552–552
+    - [H. Pylori Eradication](https://drive.google.com/file/d/1ryPKub8_mni5XcO4u6m5Nl2DCSqgNayj/view) · p552–552
+    - [Hemorrhage](https://drive.google.com/file/d/1Zq-ZMA-wOuH6r5PpkOzYf92omNnlifZk/view) · p552–553
+    - [Perforation](https://drive.google.com/file/d/1cnL8ZgMXkB8kZpQysS8yn_KjEM61fEF_/view) · p553–553
+    - [Obstruction](https://drive.google.com/file/d/12Vz8N5pof0w6Ca7GP6L0Rc_xnvDrUe2n/view) · p553–553
+- **[79 Pancreatitis and Cholecystitis](https://drive.google.com/file/d/1FuXvcZk82cSViwPvWp714L25ul9BHtgQ/view)** · p553–561
+    - [Pancreatitis](https://drive.google.com/file/d/1gApL6KetXK7Ab8Kl1anpvz1BZFjBxO3s/view) · p553–555
+    - [Complications of Acute Pancreatitis](https://drive.google.com/file/d/1oO5-4__FIJSIW5NcjXJCSSywZt2c42iX/view) · p555–557
+    - [Cholecystitis](https://drive.google.com/file/d/1yEUxF4PtPOQ_O5mU9TLNTUv_1ckUJoQX/view) · p557–561
+- **[80 Hepatic Disorders](https://drive.google.com/file/d/12mH1kGlzF06VjS3PPtjdDjKkWXQvyVcg/view)** · p561–568
+    - [Overview](https://drive.google.com/file/d/1xZ7EeUU-ep7e3GvihlHZamIrbfS0_q0Y/view) · p561–562
+    - [Nonhepatic Causes of Abnormal Liver Tests](https://drive.google.com/file/d/1Nd48urTl7FD1IRR0eUHIVV-uQ6tVh7Ra/view) · p562–563
+    - [Acute, Chronic, and Fulminant Hepatic Disease](https://drive.google.com/file/d/1TW9z9Yq5POdQzYsEgQO02YzJ3jAtFWQJ/view) · p563–563
+    - [Acute Hepatitis—viral](https://drive.google.com/file/d/1EnW-WH-PRr-je4RabOGI9OUwmsNmNM_G/view) · p563–563
+    - [Acute Hepatitis—toxic](https://drive.google.com/file/d/1Xv98f8toZOsszO38z_YUfqLsCFT5SaFF/view) · p563–564
+    - [Chronic Hepatitis and Cirrhosis](https://drive.google.com/file/d/1yD5nVLhsuBicgfKBkXqbx0rtS8M7-u1-/view) · p564–566
+    - [Hepatic Failure](https://drive.google.com/file/d/18fWr_zb0fTeSDk_B91-WmgAUVqMMODfK/view) · p566–566
+    - [Nonalcoholic Fatty Liver Disease](https://drive.google.com/file/d/17nXxrBsoLKMAsu3469_NhOFkSiZ_o6GZ/view) · p566–566
+    - [Genetic and Autoimmune Liver Disorders](https://drive.google.com/file/d/12b-LG0CtosHvfbihkilBbfyGdA9B7hjr/view) · p566–566
+    - [Pre- and Posthepatic Venous Thrombosis](https://drive.google.com/file/d/1_32gKXLLimSZwbcAQ7LSOQG8kB96hWWy/view) · p566–567
+    - [Pain Control in Patients with Hepatic Disease](https://drive.google.com/file/d/1Nu6nKnLWn36fW6j7J3KiM68nXd8HLP4u/view) · p567–567
+    - [Medication Dose Adjustment](https://drive.google.com/file/d/1z6sutSe27KTY4ODPAbE4dc88md-ny5uz/view) · p567–567
+    - [Pregnancy](https://drive.google.com/file/d/1qU1dJx8hDCYwRzOGUosTfvrOOgHqhaCH/view) · p567–567
+    - [Liver Transplant Patient](https://drive.google.com/file/d/1wjIuC4JT8YNTZfQsmdkEO66jesSjGYa9/view) · p567–567
+    - [Travelers and Global Citizens](https://drive.google.com/file/d/1_8E43a0YTUStCp6Av4F93REvVw9g4aaV/view) · p567–567
+    - [Palliative Care](https://drive.google.com/file/d/1d4a33MEpiFoHILnIa6kUR_Dx-RwGsX5h/view) · p567–568
+- **[81 Acute Appendicitis](https://drive.google.com/file/d/1JNady54j6zvYTFPbxRq4SQV3q9BM0RHi/view)** · p568–572
+- **[82 Diverticulitis](https://drive.google.com/file/d/1_jrv05It1R3_X_5xWfd1NmT5rUnEvdTG/view)** · p572–574
+- **[83 Bowel Obstruction](https://drive.google.com/file/d/1hGNM-BPa9hRz_XSNXQkp8N4bfb5rDa5V/view)** · p575–577
+- **[84 Hernias](https://drive.google.com/file/d/1K0uFG69_XyYkyHJNOpjxUux9AUhMglHu/view)** · p577–581
+- **[85 Anorectal Disorders](https://drive.google.com/file/d/1Yi_hmWNAWgvI7mTAdxAw5QNFW4HXX8WO/view)** · p581–596
+    - [Anal Tags](https://drive.google.com/file/d/10yjADrwIn7zgEXFE7KxEkp8F1EXXaXHp/view) · p581–582
+    - [Hemorrhoids](https://drive.google.com/file/d/1lm-NR5hgugz8G8PT2hYwJjwuM4Te2gM4/view) · p582–585
+    - [Anal Fissures](https://drive.google.com/file/d/1ksBLNnl4cvPVp16fg-TOZ_njsdkAFhgR/view) · p585–586
+    - [Anal Stenosis](https://drive.google.com/file/d/1Dxa_ZIIGWwp-qBQBbXIE4fkhk6H2ZEpw/view) · p586–586
+    - [Cryptitis](https://drive.google.com/file/d/1yj5VQtaRdNW0_NLHZnVuiqZC24lZ6w48/view) · p586–587
+    - [Fistula-In-Ano](https://drive.google.com/file/d/1pz-dVsAOLZ5XIK7SPsCXyub8QiXChGCg/view) · p587–588
+    - [Anorectal Abscesses](https://drive.google.com/file/d/1XG6XpvubQtj-4RSbB_edq3rCkwuoX0p7/view) · p588–588
+    - [Proctitis](https://drive.google.com/file/d/1gl7WfsMbjRmFEfwEE2rbRfq70pIljaar/view) · p588–588
+    - [Rectal Prolapse](https://drive.google.com/file/d/1FxI8EFLBtDywA91WZOlrKZE11_nGGjsf/view) · p588–591
+    - [Anorectal Tumors](https://drive.google.com/file/d/1UEto6mZC17fbDDVaiL4FnYJU8MtAwS8M/view) · p591–592
+    - [Rectal Foreign Bodies](https://drive.google.com/file/d/1pOOuMBazL9nJi1G7SgcVEhOLWcHfdRgA/view) · p592–593
+    - [Pruritus Ani](https://drive.google.com/file/d/1ebRWdH5lfLgO5sFEDZtKI4zGYw75PJXo/view) · p593–593
+    - [Pilonidal Sinus](https://drive.google.com/file/d/1oaiAtu12l5d4WDl1kgLlavAOXP9o6AAk/view) · p593–595
+    - [Hidradenitis Suppurativa](https://drive.google.com/file/d/1xlZco4-QEwiVCTY7m2IjsYE-z3DRDxGo/view) · p595–596
+    - [Rectovaginal Fistula](https://drive.google.com/file/d/1SWwkqq4Su0m_7SaD-vII33HYUeOZtS0M/view) · p596–596
+- **[86 Gastrointestinal Procedures and Devices](https://drive.google.com/file/d/1-UGfxxjcyTc2Qdq3Hf92QKK98uqdlmG6/view)** · p596–600
+    - [Nasogastric Aspiration](https://drive.google.com/file/d/186vaz-qnAlPM26xomJPZqlWcXdvhzpm2/view) · p596–597
+    - [Anoscopy](https://drive.google.com/file/d/1fXT0Ul5Snm0Qqmaad90sAacFc9-xowre/view) · p597–597
+    - [Orogastric Lavage](https://drive.google.com/file/d/1mJnGEw9UeBBmufAziBXMPONxDQpU-3mV/view) · p597–597
+    - [Esophageal Balloon (Sengstaken-Blakemore) Tamponade](https://drive.google.com/file/d/1G3PRy7utAfObOEKUeEL1aoroFlZ-5LM_/view) · p597–598
+    - [Abdominal Paracentesis](https://drive.google.com/file/d/1MGItldPOh58nOY0g9dJbLpnOQkUO56_i/view) · p598–599
+    - [Transabdominal Feeding Tubes](https://drive.google.com/file/d/1e6sUyhzeBitCoo4XlAfa5tmhu4CAMYeW/view) · p599–600
+    - [Ostomy Complications](https://drive.google.com/file/d/1_7gLYNJvSKxcqOp_nXM-cxaMej3Rt8ZX/view) · p600–600
+- **[87 Complications of General Surgical Procedures](https://drive.google.com/file/d/1d0XqUQ3Yn70XNfLKyqW3HnFs1-Rh-l7C/view)** · p600–607
+    - [Fever](https://drive.google.com/file/d/1jt9GVFuOf7LCEXoBt0EAvvPC1slit1ZI/view) · p600–601
+    - [Respiratory Complications](https://drive.google.com/file/d/15bS4D7y7mNBsiSFlIyr-IVwrVqpmS65i/view) · p601–601
+    - [GU Complications](https://drive.google.com/file/d/1tL2nMtuzP6gVkPEf58tgpZYlm40tM8-L/view) · p601–602
+    - [Wound Complications](https://drive.google.com/file/d/1RrfD9pkzIzShn4HfTcmNp5Y4pvZ7bXAC/view) · p602–603
+    - [Vascular Complications](https://drive.google.com/file/d/1echICADrtoGzDITjllh3Uq4qJ5shzDYe/view) · p603–603
+    - [Complications of Drug Therapy](https://drive.google.com/file/d/1CbjcSkCGCNFTFAjFta0qZDyOYDnGqeVO/view) · p603–603
+    - [Complications of Breast Surgery](https://drive.google.com/file/d/1JUeE5ceSp7kWaYIoNS4lCKedgDINb7Xj/view) · p603–603
+    - [Complications of GI Surgery](https://drive.google.com/file/d/1ixMuuCS0UyCA1zgr6rO7oQgZOvoaK7d0/view) · p603–605
+    - [Laparoscopic Surgery](https://drive.google.com/file/d/1Oz65i3mM8_bx6f9f5kdVqhGoBmq7YlIv/view) · p605–606
+    - [Stomas](https://drive.google.com/file/d/1Jl5q0ZbuKfwmWc0m6lLFKfo4wz3WdVpE/view) · p606–606
+    - [Colonoscopy](https://drive.google.com/file/d/1Ngr0XaMAn5mBuHW7A_iHt4hbaTxrm12j/view) · p606–606
+    - [Rectal Surgery](https://drive.google.com/file/d/1wvY_8N9BttusiP0_oLlLX8-D6DDN28U6/view) · p606–606
+
+## SECTION 10 Renal and Genitourinary Disorders
+
+- **[88 Acute Kidney Injury](https://drive.google.com/file/d/14cgehIiNia9qBPs_NrSeZ74PVUYP7shn/view)** · p608–615
+    - [History and Comorbidities](https://drive.google.com/file/d/1dMohUwn1XMyqutQiLOoAoeraJXUUIezk/view) · p608–609
+    - [Prerenal Acute Kidney Injury](https://drive.google.com/file/d/1t9oD3bQuvvpK-7daDeh6LUhb1ueG-HUK/view) · p609–609
+    - [Postrenal Acute Kidney Injury](https://drive.google.com/file/d/1uHe008hPPNYzni8deMutF_umO8I2j5OV/view) · p609–609
+    - [Intrinsic Acute Kidney Injury](https://drive.google.com/file/d/1b8s90NlKj0BwXYUiSbHsfq0C91KuzZjq/view) · p609–613
+    - [Volume Depletion](https://drive.google.com/file/d/1VoB63QWuSo3obOXwx5_L5kXf-LxmeW9T/view) · p613–613
+    - [Preventing Renal Injury](https://drive.google.com/file/d/1eoobGaQcSmOGRutHNA723387_dfghyLV/view) · p613–613
+    - [Relieve Urine Outflow Obstruction](https://drive.google.com/file/d/1LxTLsBPgkunFNaOL45hEHX7kFMT6PiGr/view) · p613–613
+    - [Fluid Overload](https://drive.google.com/file/d/1xgTpjKTNMTpM9w-UPPJgfiR-GVAf7O95/view) · p613–614
+    - [Hypertension](https://drive.google.com/file/d/1abWq0aGFBWp_oIWDy_QbVoCPjKAd8JwY/view) · p614–614
+    - [Metabolic Acidosis](https://drive.google.com/file/d/1URnu0tU0Mwam5SLMgknQUzxKIKNXjBQw/view) · p614–614
+    - [Electrolyte Disorders](https://drive.google.com/file/d/1GTn0g9p34ZDPNZfD2_qvxlMyUNBimxxi/view) · p614–614
+    - [Glomerulonephritis](https://drive.google.com/file/d/1ndx9RFv_lOIHZ4OGIY23NnRMiEVtFlaW/view) · p614–614
+    - [Disposition and Consultation](https://drive.google.com/file/d/1ahrmXRgIcZNZGIjEny6Wk3RlkK1eWo77/view) · p614–614
+    - [Dialysis/Renal Replacement Therapy](https://drive.google.com/file/d/1MTel3tc-JQQlBQQG8u0j4XRdDCLfsro4/view) · p614–614
+    - [Cardiorenal Syndrome](https://drive.google.com/file/d/1DfPybIiBIYKmNGmqnMW6mlZHKF952ZNR/view) · p614–615
+    - [IV Contrast in Patients Taking Metformin](https://drive.google.com/file/d/1tREMCePEmVeLTJfdbGSVbhQANxlfCM5k/view) · p615–615
+- **[89 Rhabdomyolysis](https://drive.google.com/file/d/12qceDKYG2kgzx5vIC0QNouTUkHQRtRRt/view)** · p615–617
+    - [Emergency Department Care](https://drive.google.com/file/d/1B74WW8gmpnFk1nFvRwv7cNIXhaKVAWhX/view) · p617–617
+    - [Disease Complications](https://drive.google.com/file/d/1LSOHXDPHp-mnOmgJmVGlS6L7v_XRDj5v/view) · p617–617
+- **[90 End-Stage Renal Disease](https://drive.google.com/file/d/1CMvq3CXo_iR8I2DeC42l2NBXFgB8FsZi/view)** · p618–623
+    - [Neurologic Complications](https://drive.google.com/file/d/1C5XAZ9om8jbqulQKa4vHHskblD80_brv/view) · p618–619
+    - [Cardiovascular Complications](https://drive.google.com/file/d/1T0PrbksbFpEvnhZ_c2nTc7lfcTBGZHeA/view) · p619–619
+    - [Hematologic Complications](https://drive.google.com/file/d/1U_1rSdFh6U5EJBmrCfXyrDX4y8F6Smdk/view) · p619–620
+    - [Renal Bone Disease](https://drive.google.com/file/d/1zpcC8v9D4IvLzn4UVnD6ILWiAdoaaI_2/view) · p620–620
+    - [β 2 -Microglobulin Amyloidosis](https://drive.google.com/file/d/1ICk9BogvIar0tje0kongYzVKH2x5zIjL/view) · p620–620
+    - [Technical Aspects of Hemodialysis](https://drive.google.com/file/d/1oa4_IU-KTGzMJ0fHM5LaG67zaAa6WBB4/view) · p620–620
+    - [Complications of Vascular Access](https://drive.google.com/file/d/1_jfhO-zYe_Jw8nlzdC8mX6ZWGlxpLHCM/view) · p620–621
+    - [Vascular Insufficiency](https://drive.google.com/file/d/1ELztJih7tqoUrVU7LS863wEGnfeFD4DG/view) · p621–621
+    - [Complications during Hemodialysis](https://drive.google.com/file/d/1tKNCGOU5ATcV0_bmv5BHcCy7Bi-ugg38/view) · p621–622
+    - [ED Evaluation of Hemodialysis Patients](https://drive.google.com/file/d/1_-0RrxA3tCfHbWn-b4c9McCY6ghfHPvy/view) · p622–622
+    - [Technical Aspects of Peritoneal Dialysis](https://drive.google.com/file/d/1ix7Mw7TeqkgzbGbo1ZIwqZy8sSKJOfvu/view) · p622–622
+    - [Complications of Continuous Ambulatory Peritoneal Dialysis](https://drive.google.com/file/d/1rAco_7uSEDCCLfGDZ79qXHVA6gYGE2Rp/view) · p622–623
+    - [ED Evaluation of Peritoneal Dialysis Patients](https://drive.google.com/file/d/1WRjzFQHmBuRQgKQUH18eLxJnNJ6d1tuY/view) · p623–623
+- **[91 Urinary Tract Infections and Hematuria](https://drive.google.com/file/d/1URHRorPXzouMfg4dlnSEgjEo5dmj5pGh/view)** · p623–630
+    - [Urinary Tract Infections](https://drive.google.com/file/d/12syRAHBVh45nGEUW0laZ2vHyNPA6ZMCE/view) · p623–625
+    - [Urinalysis](https://drive.google.com/file/d/1GZnE_tbLRXphAv_DlVUCWWhpk9im1SuZ/view) · p625–628
+    - [Hematuria](https://drive.google.com/file/d/1evEUurP9lq9MNj-40VqnHzwEqbl8SrIt/view) · p628–630
+- **[92 Acute Urinary Retention](https://drive.google.com/file/d/1Y6vnAZ97telWYwWQCUbFkDpZILjXxm36/view)** · p631–635
+    - [Overview](https://drive.google.com/file/d/1KGM0SfoY1arFsFgW_R2xezCBkgiusciA/view) · p631–632
+    - [Urethral Catheterization Technique](https://drive.google.com/file/d/1dr9clIaramwgC9ws1c4fi-E1E4GupQNt/view) · p632–632
+    - [Suprapubic Catheterization Technique](https://drive.google.com/file/d/1RrlH63jxiYeOXe5DB_uqWQ-xFjucBWRl/view) · p632–634
+    - [Postcatheterization Care](https://drive.google.com/file/d/1liNO1M9nvEKBPBsPUwDwUvj1J7rwiJdS/view) · p634–634
+    - [Urine Leakage Around a Suprapubic Catheter](https://drive.google.com/file/d/1LVgzMeDabuBPs_hsZ6tAmTfTzUPvhTup/view) · p634–634
+    - [Females with Urinary Retention](https://drive.google.com/file/d/1cxlVrVwuD6llvaRAU97w5N-fOOboO-85/view) · p634–634
+    - [Gross Hematuria and Clot Retention](https://drive.google.com/file/d/1PI5l_06X2m0lmXTSOMETIms6R7ch_I9l/view) · p634–634
+    - [Postoperative Urinary Retention](https://drive.google.com/file/d/1f1itU-qkLFOvMJAhsu0J9uh9hlc0sY2I/view) · p634–635
+- **[93 Male Genital Problems](https://drive.google.com/file/d/14eh_KaBIZJIuMJjTPJnMvqJ4LAX5OJ8-/view)** · p636–643
+    - [Overview](https://drive.google.com/file/d/1qY2d4aLP1e5CR2v03ZqXfibBhGXbtlr8/view) · p636–637
+    - [Scrotal Edema](https://drive.google.com/file/d/1AjKzrrrXz_R7AQ-8qmK76fqJnuageFbK/view) · p637–637
+    - [Scrotal Abscess](https://drive.google.com/file/d/16QdKBNzR7jXqZat3QWAgTWtc439LDLC2/view) · p637–637
+    - [Fournier’s Gangrene](https://drive.google.com/file/d/1t4LbnLTQ33oiRtAfQZK0dNc6lbvO9-QF/view) · p637–638
+    - [Balanoposthitis](https://drive.google.com/file/d/1R39Eic_OsOTV1bb5II-HxhounE_4BgUK/view) · p638–638
+    - [Phimosis](https://drive.google.com/file/d/1TackOI2hWQ3ErItmcgWq9VXJ-lhtQgEo/view) · p638–638
+    - [Paraphimosis](https://drive.google.com/file/d/1HvG7vArXt-zVHcttkWJiYkTzWvIfDhNO/view) · p638–638
+    - [Entrapment Injuries](https://drive.google.com/file/d/1dVZ9AjdD5UOYj2bREHODoFFCTMoPSMea/view) · p639–639
+    - [Fracture of the Penis](https://drive.google.com/file/d/1rWKQJckxj2qmuMzh9hcCImf3cggor8Ar/view) · p639–639
+    - [Peyronie’s Disease](https://drive.google.com/file/d/1HLYMzgy2VcnI8CBFWofC0fxv79R0SxFF/view) · p639–639
+    - [Priapism](https://drive.google.com/file/d/19XV_VCBi9paVXPCwV3UaU0Xwv5r1aijU/view) · p639–640
+    - [Penile Carcinoma](https://drive.google.com/file/d/1dYW4sVD9VdMoDWCPRjVLb2o6Q2URwIf0/view) · p640–640
+    - [Testicular Torsion](https://drive.google.com/file/d/1gAlaBIJ0bC_uMkWCFWQvYzZzhMe44wSf/view) · p640–641
+    - [Appendageal Torsion](https://drive.google.com/file/d/16--tmttsRRwPmUPu2FsprhXR0c73VuSO/view) · p641–641
+    - [Epididymitis](https://drive.google.com/file/d/100Mfd9zBUshVqZLLkrHF68kovBkeCMVp/view) · p641–642
+    - [Orchitis](https://drive.google.com/file/d/1CMa7g3iDhtzZ1sy_YOQflr9NiUiXaeGj/view) · p642–642
+    - [Testicular Malignancy](https://drive.google.com/file/d/16LcdsM9RkmMoqkodn5THeDjzjEWlizPM/view) · p642–642
+    - [Urethral Foreign Bodies](https://drive.google.com/file/d/1Mc7JaR6-GGfgKWkDr8h5gCBBvYmmP3uz/view) · p642–642
+    - [Hematospermia](https://drive.google.com/file/d/1quoDul7wcg0lXKcq9ihH6zPxIIPI38cx/view) · p643–643
+- **[94 Urologic Stone Disease](https://drive.google.com/file/d/1Oe-nYWKTAsXSlTQmU27EAWuDY7mGD9Ku/view)** · p643–647
+    - [Overview](https://drive.google.com/file/d/1QezIrQ6_hWV4wZpKNkWvqlAV5xjOu2tl/view) · p643–646
+    - [Pain and Nausea](https://drive.google.com/file/d/1Fm2SPLJnzssgmM1Ige858KVQS8-Btxky/view) · p646–646
+    - [Urinary Tract Infection](https://drive.google.com/file/d/1Ha4ywTChLRVUzupjMZSkH-YTi-noVyys/view) · p646–647
+    - [Medical Expulsion Therapy](https://drive.google.com/file/d/1G3ePk5-2U2kvqOo1F09VPzX1Ygz6N9a6/view) · p647–647
+    - [Pregnancy](https://drive.google.com/file/d/1DsI-Kp-x4Q05Ji0gxFk4hOi0pmRLQVVI/view) · p647–647
+- **[95 Complications of Urologic Procedures and Devices](https://drive.google.com/file/d/1YHgmWHIbEfHfT-181naYWusA9FEsIiJO/view)** · p647–651
+    - [Complications of Urinary Catheters](https://drive.google.com/file/d/13YeshfyAB229ma3IsKOXJbODAaFvDlV0/view) · p647–649
+    - [Complications of Percutaneous Nephrostomy and Nephrolithotomy](https://drive.google.com/file/d/1w_fBj-TlRpEP66g_UmAGbVP_kzLQcHGV/view) · p649–649
+    - [Urinary Diversion and Orthotopic Bladder Substitution](https://drive.google.com/file/d/1-JoweJV0ypsbpfnWQGaFkudtIafI33Ix/view) · p649–649
+    - [Lithotripsy](https://drive.google.com/file/d/1KXiFxudNCDqgO-uIseUnj7SjTw615GHg/view) · p649–649
+    - [Complications of Ureteral Stents](https://drive.google.com/file/d/1puPTKt5ropXYOZLf1BO0X0g21XDAd-Mc/view) · p649–650
+    - [Prostate Surgical Procedures](https://drive.google.com/file/d/1EBXHh09G6Ij-jq28jZKObu2RwahifkjK/view) · p650–650
+    - [Complications of Artificial Urinary Sphincters](https://drive.google.com/file/d/1Advkr46EhTOV6HPi9hv0_FUNn-JAtZMv/view) · p650–651
+    - [Complications of Treatments for Erectile Dysfunction](https://drive.google.com/file/d/1JtylgRYkKATvP28PKVcubh2Bu3aeAIRX/view) · p651–651
+    - [Vasectomy](https://drive.google.com/file/d/1btkjffspNXIPimYvENITCiPVcUfp5Ibq/view) · p651–651
+    - [Adult Circumcision](https://drive.google.com/file/d/1TYtOe1p7aKA65MicJtS5r2_as34h_sJy/view) · p651–651
+
+## SECTION 11 Obstetrics and Gynecology
+
+- **[96 Abnormal Uterine Bleeding](https://drive.google.com/file/d/1PCe9kw5mlR1u3N2Qur1Cyx-ppilqFRpD/view)** · p652–657
+    - [Menstrual Cycle](https://drive.google.com/file/d/1_MOAyIgQW3krudMdtCjeqzj6Lb-u9nPm/view) · p652–652
+    - [Causes of Vaginal Bleeding](https://drive.google.com/file/d/1RV8H8JbkvvBThuoUEFj8dlypzyMA8got/view) · p652–652
+    - [Structural Causes of Vaginal Bleeding](https://drive.google.com/file/d/1ih-twgyPWC5xV7vKJ5fjln6Cuu7RIOm1/view) · p652–654
+    - [Nonstructural Causes of Vaginal Bleeding](https://drive.google.com/file/d/1_-rdvO0BBsLMsYlYU3z2tN4vv3g8tTjS/view) · p654–657
+- **[97 Abdominal and Pelvic Pain in the Nonpregnant Female](https://drive.google.com/file/d/1G9wCQTwjoQGUPzcmBHihoWk-1XRPIi-M/view)** · p657–660
+    - [Overview](https://drive.google.com/file/d/1docF6KsmN6jxkqlXkw5YXSiD6OW33hZg/view) · p657–658
+    - [Ovarian Cysts](https://drive.google.com/file/d/1O87ZqtSLYLg2V7mkDZi5pwg9n69YUtat/view) · p658–659
+    - [Endometriomas](https://drive.google.com/file/d/1nDfDGrlYNEgHyqf3LcAcPll74lsGiqlW/view) · p659–659
+    - [Ovarian Neoplasm](https://drive.google.com/file/d/1JPFJP0arNJqxs0T95xVC73pnFLVlVLm8/view) · p659–659
+    - [Ovarian Hyperstimulation Syndrome](https://drive.google.com/file/d/1jJHHB8rR52FCmyD1ddgYWJmGkT9MziJY/view) · p659–659
+    - [Endometriosis and Adenomyosis](https://drive.google.com/file/d/1IqMe9Tz7yrvrWBTPhEJaZpQLTv6SJlV5/view) · p659–659
+    - [Foreign Body/Trauma](https://drive.google.com/file/d/1MpzQ95usyPObkq7Olcb4obnI_KyiV0GH/view) · p659–659
+    - [Ovarian Torsion](https://drive.google.com/file/d/1hsS3UbWvjzyF-ID9IgwDQf_FldrAh3V2/view) · p659–660
+- **[98 Ectopic Pregnancy and Emergencies in the First 20 Weeks of Pregnancy](https://drive.google.com/file/d/1XYpyYqakhX8g8gNHZhpDvrv-F6hU2uig/view)** · p660–667
+    - [Pregnancy Testing](https://drive.google.com/file/d/1wbPwOEZSE6505ykukkHVr9bovdEDIKdo/view) · p660–660
+    - [Ectopic Pregnancy](https://drive.google.com/file/d/18woaR9mgaGR7J3yWMnlNQlBxEBE_zC2P/view) · p660–665
+    - [Spontaneous Abortion](https://drive.google.com/file/d/1vEzhImtEKKSY4Te22WKbsJXB-1VyJjDZ/view) · p665–666
+    - [Nausea and Vomiting of Pregnancy and Hyperemesis Gravidarum](https://drive.google.com/file/d/1OXxft0ExtwomWtZ7wl0N2Hd4G3ri-2fJ/view) · p666–667
+- **[99 Comorbid Disorders in Pregnancy](https://drive.google.com/file/d/1-4ImTbPAEVNEfl61K-SLlsyP-v4gLx4G/view)** · p667–676
+    - [Diabetes in Pregnancy](https://drive.google.com/file/d/1hI_85b2canvb4BijEgX7GgIv7txqyP7C/view) · p667–668
+    - [Hypoglycemia](https://drive.google.com/file/d/1S817nRgxWqIMPC7lg1s-kbd4Wkj8Rl77/view) · p668–668
+    - [Diabetic Ketoacidosis in Pregnancy](https://drive.google.com/file/d/1-g_ssSKJsG8l3H9eDX1MAyVpX176VOTf/view) · p668–668
+    - [Transient Hyperthyroidism of Hyperemesis Gravidarum](https://drive.google.com/file/d/1cGNFGA68KvFd4cdVEmFIPZ7Mrs5TzTp8/view) · p668–668
+    - [Hyperthyroidism](https://drive.google.com/file/d/1ftd3xxvvj0DKCWWTzAvsvyopZj_u4VEC/view) · p668–668
+    - [Dysrhythmias](https://drive.google.com/file/d/1TYZUTdBHOiPG44TwBvJuJ3-9PzDYX7ls/view) · p668–669
+    - [Chest Pain and Heart Failure](https://drive.google.com/file/d/1c6QHLr8JCvcgk6bVwGae0P2NqRIZK3BG/view) · p669–669
+    - [Deep Venous Thrombosis](https://drive.google.com/file/d/1gJo4VrjTGooUuNVLYham8lnvIoNSltoQ/view) · p669–670
+    - [Pulmonary Embolism](https://drive.google.com/file/d/1qavGGFUq0ORgh-hWOasopHigpkb77cyR/view) · p670–670
+    - [Treatment of Deep Venous Thrombosis and Pulmonary Embolism](https://drive.google.com/file/d/1yF1uMP9NvybpZIYki8_vBLlA-o544Z7k/view) · p671–671
+    - [Treatment of Life-Threatening Pulmonary Embolism](https://drive.google.com/file/d/1VfgwFHeBSnrGwf3MVJooZEHq8EXoRg5F/view) · p671–671
+    - [Asymptomatic Bacteriuria, Cystitis, and Pyelonephritis](https://drive.google.com/file/d/1CA8wd8Fi3vZ6PzuhO6HELsd4oH54sUL3/view) · p671–672
+    - [Intracerebral Hemorrhage](https://drive.google.com/file/d/11Ph10Kp_oq4g5e-F-R74Vc2FyaHjyVUr/view) · p672–672
+    - [Subarachnoid Hemorrhage](https://drive.google.com/file/d/1hzfckrrD_KoHQs4belO0ATHO8-GtM4NN/view) · p672–672
+    - [Stroke](https://drive.google.com/file/d/1YFzC29EdtkXVkKrMPx47xP-PBdAnOSw-/view) · p672–672
+    - [Central Venous Thrombosis](https://drive.google.com/file/d/14UWENOI96QcmblgEmB4xqgBuj6zAf46S/view) · p672–672
+    - [Migraine Headache](https://drive.google.com/file/d/1wcpjkBsS1jauUmi3t3ZaChukrpHIOGdM/view) · p672–673
+    - [Gastroesophageal Reflux Disease](https://drive.google.com/file/d/1cyWmbkXw6Dg3ehlhUpEbldIAotlL2Lb4/view) · p673–673
+    - [Hemorrhoids](https://drive.google.com/file/d/1_X8k4J9SOBhioVYka4_cfrkVUQU_Pu77/view) · p673–673
+    - [Cholecystitis](https://drive.google.com/file/d/1wza0ymaWG94WRqsf04vprb6y1WyoaojJ/view) · p673–673
+    - [Appendicitis](https://drive.google.com/file/d/1csPy3FY2JnumicwePSWUHS4l9kLbTSRS/view) · p673–673
+    - [Human Immunodeficiency Virus Infection](https://drive.google.com/file/d/1FxeZeb3LXHqb3zmDJcrCo9qFputuaV17/view) · p673–674
+    - [Cocaine](https://drive.google.com/file/d/1CoNWBlDzBZwgWB-veLoEFbMhxg2EwUzH/view) · p674–674
+    - [Opioids](https://drive.google.com/file/d/1B4qTmUdNnC8cUuGm5YediivChsDl1FVM/view) · p674–674
+    - [Alcohol](https://drive.google.com/file/d/1i65f3RAXtyGOx9fgD_kNsKB9ttPAZ02v/view) · p674–674
+    - [Medications in Pregnancy and Lactation](https://drive.google.com/file/d/1YW1XLgYiqKagcVQSvOEL25PSDcwGwfqh/view) · p674–676
+    - [MRI in Pregnancy](https://drive.google.com/file/d/1UwiSEef4n0ITjo8j3rXP6SjWuXBruC-_/view) · p676–676
+    - [Lactation after Imaging](https://drive.google.com/file/d/1pcjpbhv-GQdp0q6ybASEWgnFbPzPa8jg/view) · p676–676
+- **[100 Maternal Emergencies After 20 Weeks of Pregnancy and in the Peripartum Period](https://drive.google.com/file/d/1gNBsvu4dHV2Djh5415UBupuTnCiAgUXv/view)** · p676–681
+    - [Chronic and Gestational Hypertension](https://drive.google.com/file/d/1hwLBN94FV2q6lYeUyFcxniHaEem9YBDf/view) · p676–677
+    - [Preeclampsia](https://drive.google.com/file/d/1jNHX5FxtEZUrcvkPAa-sV_M4rKvb_Wq4/view) · p677–678
+    - [Eclampsia](https://drive.google.com/file/d/1c6G0DLfOT4Rb9m5V19rKIU39zBNofH37/view) · p678–678
+    - [Abruptio Placentae](https://drive.google.com/file/d/1osgQVfayrm2PmB_EK3SwYazSk3mCkRJe/view) · p678–679
+    - [Premature Rupture of Membranes, Preterm Labor, and Preterm Birth](https://drive.google.com/file/d/1p7fc9gSCjs5q_U3oGXbxQZrW-9rTdGeo/view) · p679–680
+    - [Diagnosis of Premature Rupture of Membranes](https://drive.google.com/file/d/1nInzdC3vKN0FoQay9UbzaIeF1Ul2aSDA/view) · p680–681
+    - [Transfer of the Pregnant Patient and the Emergency Medical Treatment in Active Labor Act](https://drive.google.com/file/d/1bIhrn6wKA4s1pjGygw5okpo23kFLvKfM/view) · p681–681
+- **[101 Emergency Delivery](https://drive.google.com/file/d/1ZX2jfpQ0x2YFSUjbkeJpKmVlVNEAJPlj/view)** · p682–692
+    - [Labor](https://drive.google.com/file/d/1c2BTTpIKntSGAcMrWovIB0CEmH6H7TWJ/view) · p682–685
+    - [Clamping the Umbilical Cord](https://drive.google.com/file/d/1p6XhuCXUV3TzNVee7Qwx4mBvxZps3Cne/view) · p685–686
+    - [Delivery of the Placenta](https://drive.google.com/file/d/1sNK-opV5ipCfY96RoC2SD9nq90m_AVPb/view) · p686–687
+    - [Complications of Labor and Delivery](https://drive.google.com/file/d/1R9I-TB8gbXxCXgAnh92fxRRl44HOFMuu/view) · p687–689
+    - [Uterine Inversion and Rupture](https://drive.google.com/file/d/1eyb39pzs5gl_kLkI_mQW4q0x8zO7Z9Bf/view) · p689–691
+    - [Emergency Cesarean Section](https://drive.google.com/file/d/16-ulacZtq5Hq-yKloMvmKWu62IDInpQW/view) · p691–692
+- **[102 Vulvovaginitis](https://drive.google.com/file/d/16VZ9VjHiUoYHyMvM6Eg2aWUgA_1xBHfO/view)** · p692–699
+    - [Overview](https://drive.google.com/file/d/1Ylfm90t6K5UbVoIqVML3IFxtxqyJAJ89/view) · p692–693
+    - [Bacterial Vaginosis](https://drive.google.com/file/d/1595cMdqYqp8bo4fYmHPf_09rPnmBZ_H6/view) · p693–694
+    - [Candida Vaginitis](https://drive.google.com/file/d/1vX-5BF_C4vkf6BBRFiuh8MGqN7J-jtdQ/view) · p694–695
+    - [Trichomonas Vaginitis](https://drive.google.com/file/d/1eFaY2OGLOjRIRWfKLBH1C41xnEH4rKNs/view) · p695–696
+    - [Herpes Simplex Virus Infection](https://drive.google.com/file/d/1ULO1O9cakF40tsoFxJoGHGvKcmxKhQBp/view) · p696–697
+    - [Contact Vulvovaginitis](https://drive.google.com/file/d/13syQvC1oqyKVJwhlR6gmcJMByYB1pRz-/view) · p697–697
+    - [Atrophic Vaginitis](https://drive.google.com/file/d/1Mqb3R1jWl7EaAHHK33mWgC6i-GL-CB2P/view) · p697–698
+    - [Bartholin Gland Cyst and Abscess](https://drive.google.com/file/d/1cZnX6cF6_92Ct4Fa46uV4bBZ8aQMBnh9/view) · p698–699
+    - [Vaginal Foreign Bodies](https://drive.google.com/file/d/1AfB8bMmd1B-Bkp5x-7ZcWZzrgSmLsYzh/view) · p699–699
+    - [Pinworms](https://drive.google.com/file/d/1frVmQu5gTjfOGR1g11WX8Bk0o6A68cNa/view) · p699–699
+- **[103 Pelvic Inflammatory Disease](https://drive.google.com/file/d/1ZKqIgWU37M83GXDrTH4KDeN3AfavLIvn/view)** · p699–703
+    - [Organisms Associated with PID](https://drive.google.com/file/d/1rWpwaUKMCoOHccf5TTgWEmhRgFWNTiLB/view) · p699–700
+    - [Ascending Infection](https://drive.google.com/file/d/1H4dHEnU964ns1d9dKEuKhy9iO8jnjFVt/view) · p700–700
+    - [Risk Factors for PID](https://drive.google.com/file/d/17xM5bl-AzoNYuBcdtmyAzDoMBxz4S5Ta/view) · p700–700
+    - [Complications of PID](https://drive.google.com/file/d/1FWLua5dwgKWzhkZcb3QS8DwtIo5r0NUI/view) · p700–701
+    - [Imaging and Other Diagnostic Modalities](https://drive.google.com/file/d/1UW-NQasbo5_d7TVAoLeBp7Nla7-9m2Hz/view) · p701–701
+    - [Treatment with Iud in Place](https://drive.google.com/file/d/1M2BOcP6rCuhzH2CUE0VNBXnmhczaxsBJ/view) · p701–702
+    - [Treatment in HIV Infection](https://drive.google.com/file/d/1rOtTqMNB7grPI7DIOL3ok2cfWjJDSCUu/view) · p702–702
+    - [Treatment of Adolescents](https://drive.google.com/file/d/1qKktkIO3NCcxldxm6C5JQn-1wcc5WT-D/view) · p702–702
+    - [Alternative Antibiotics](https://drive.google.com/file/d/1v5TDx9UEq0QjIj5G2KY6KRMTM22uA-vs/view) · p702–702
+    - [Tubo-Ovarian Abscess](https://drive.google.com/file/d/1aWt1SsTVBhnL9UyxsjhwVtPg8b_-W_cF/view) · p702–703
+- **[104 Breast Disorders](https://drive.google.com/file/d/1RP5sIxzeVCHO2Un3TSYqYFRFlJtQD6XW/view)** · p703–707
+    - [Overview](https://drive.google.com/file/d/1vdkXVCkQY7wQSvHv7WCQ6u8UEuWpyVPt/view) · p703–704
+    - [Disorders of the Lactating Breast](https://drive.google.com/file/d/1D_3nDpaXBk-b3fJxBv0K11JKdqZHh84d/view) · p704–705
+    - [Inflammatory Breast Conditions](https://drive.google.com/file/d/1t_c8BiWFgWLlKjectZ_0kpQ-W7zi7HHM/view) · p705–705
+    - [Noninflammatory Painful Breast Disorders](https://drive.google.com/file/d/1qKBL4aDOTqDsAjQ-Y2ODn4bBGj8sBUqM/view) · p705–706
+    - [Skin and Nipple Abnormalities](https://drive.google.com/file/d/1FlIcjqCAjBcC-G8GgNR5ZMDGJYeRbEfB/view) · p706–707
+    - [Fibrocystic Disease and the Evaluation of a Breast Mass](https://drive.google.com/file/d/15LR_HR56TWEjSbGYhII9ZO3B1r1e2220/view) · p707–707
+    - [Perioperative and Postoperative Complications](https://drive.google.com/file/d/1KNPBqhhCC4QQucDswL4YV4eNZRwYIbEs/view) · p707–707
+- **[105 Complications of Gynecologic Procedures](https://drive.google.com/file/d/1eLSdX0lCbpTKMh4Ey33d_zycmYTtXRRR/view)** · p708–713
+    - [Complications of Endoscopic Procedures](https://drive.google.com/file/d/19TNZ6c5M2KjGpJ2-xBQDALxQm68wHIZ7/view) · p708–709
+    - [Complications of Major Gynecologic-Abdominal Surgery](https://drive.google.com/file/d/13DrcwX-sevj_1Zkgd3_eU_x19ioS-WIL/view) · p709–710
+    - [Postconization Bleeding](https://drive.google.com/file/d/1S9gMepoXvwMz90ZpNDVtvZydDz3ZwJtl/view) · p710–711
+    - [Induced Abortion](https://drive.google.com/file/d/10gFskHUlQpnuc8Z1bm460cXvziUb18aa/view) · p711–711
+    - [Intrauterine Devices](https://drive.google.com/file/d/1wbTRIcMZLtMHgloq_vP4o7z9M13pt6ym/view) · p711–711
+    - [Endometrial Ablation](https://drive.google.com/file/d/15pkqLbUTHrT7tqhwJASfonMUAYlHh6FH/view) · p711–711
+    - [Pelvic Organ Prolapse Surgery and Synthetic Mesh](https://drive.google.com/file/d/1r8zXap25RMpp2wZH5cXvjr4DofH_gxZ-/view) · p711–711
+    - [Assisted Reproductive Technology](https://drive.google.com/file/d/1msdmdrmlta0xFx_6haFwTyXlewLMpM7_/view) · p711–712
+    - [Postembolization Syndrome](https://drive.google.com/file/d/1h0uLscoGYP6-It1rrnG_m7Y7dhUiW80x/view) · p712–712
+
+## SECTION 12 Pediatrics
+
+- **[106 Emergency Care of Children](https://drive.google.com/file/d/1NzI41-A0OWmjfMB2TqKNaBCf24maO1Vl/view)** · p714–716
+- **[107 Neonatal and Pediatric Transport](https://drive.google.com/file/d/1cas542oGunlekYC6Mzm7LqJ2u8plyvJb/view)** · p716–718
+    - [The Transport Team](https://drive.google.com/file/d/1oA22491uZYbF0RV7MVHTJipBgkjSX7h-/view) · p716–717
+    - [Transport Environment](https://drive.google.com/file/d/180TGSPmVRwRMWPqw9x2JCXEaZDlNolWP/view) · p717–717
+    - [Situations Requiring Transport](https://drive.google.com/file/d/1w7aRJCKd9uS2WsmTqTWzOkxTfTxVSMRb/view) · p717–717
+    - [Decision to Transport](https://drive.google.com/file/d/1bK-mB3iwyZ_U8QpPepReNGKcd6VaqkWF/view) · p717–717
+    - [Mode of Transport](https://drive.google.com/file/d/1_H3veBq__TV6LWZ-0pIb1VZLO829fghl/view) · p717–718
+    - [Preparation for Transport](https://drive.google.com/file/d/1h0942VvlyTHcx7QCg92ntxyoXO-ghbJ-/view) · p718–718
+    - [Conduct of a Transport](https://drive.google.com/file/d/1dT8_vHGRdzLRTlXK_daZBOW8Y8ocy3Cc/view) · p718–718
+    - [Consent for Transport](https://drive.google.com/file/d/1Xad0120NaMIZIbUbj9k0AO3bnbKp0evE/view) · p718–718
+    - [Shared Decision Making](https://drive.google.com/file/d/1v47zAGrJEofKVyJvF77GX1GOitrqOlP8/view) · p718–718
+- **[108 Resuscitation of Neonates](https://drive.google.com/file/d/1oU7-P2GlaI0PHXgruHcC7NVVBwyCEhgK/view)** · p718–724
+    - [Overview](https://drive.google.com/file/d/1om_olpHYKnYwXaLSMegZd6MvHbtRkLJE/view) · p718–719
+    - [Preparation and Equipment](https://drive.google.com/file/d/1cu6dOdqBLkFRJsRAOCoyFORlIzzZPs7H/view) · p719–719
+    - [Routine Newborn Care](https://drive.google.com/file/d/1RZ4UMrluib3pS-Fe6FjyrjrDF9I16oe6/view) · p720–720
+    - [Resuscitation](https://drive.google.com/file/d/1XfeCDJ4tGlMIBMmJAW6fNfY8lPZ0cj-f/view) · p720–721
+    - [Vascular Access](https://drive.google.com/file/d/1vtnIB02xKLpgT9F1e6SRm9-0cavmytd4/view) · p721–721
+    - [Withholding and Discontinuing Neonatal Resuscitation](https://drive.google.com/file/d/1YB3YpcDALMe-56yorKXn5typUjLE0ddj/view) · p721–721
+    - [Special Problems in the Newborn](https://drive.google.com/file/d/1TrBVU8T9qXAlgsGhbt161H_x6CKV7n_M/view) · p721–724
+- **[109 Resuscitation of Children](https://drive.google.com/file/d/1RLWFU5BzHYvLSUpErref-tLsIpuYw3V5/view)** · p724–734
+    - [Choking and Foreign-Body Management](https://drive.google.com/file/d/1ZdIm3liQHo2N2rLikpvmznds50CRQv13/view) · p724–725
+    - [Airway](https://drive.google.com/file/d/1TugUlLBg_QfrVs3B7TfGBYsDehJKXGs6/view) · p725–727
+    - [Breathing](https://drive.google.com/file/d/1GC5p1W0vF5xpYZ3ttRPv7p7me_a4QcUg/view) · p727–727
+    - [Circulation](https://drive.google.com/file/d/1sPmz4Qg0u6M4bz7rwPRTom4SvtR0Gl8S/view) · p727–728
+    - [Weight Estimation and Medication Calculations](https://drive.google.com/file/d/17qRYg2THWaSPJN4TcliBJUKkb4E67To1/view) · p728–729
+    - [Pharmacologic Agents](https://drive.google.com/file/d/1PgXdw7MMeLocKr7JvPaPzyOFuGsMTfdE/view) · p729–730
+    - [Epinephrine](https://drive.google.com/file/d/1eTp0Zd1XKku2_DgPajTJIgPUg3kUGUUe/view) · p730–730
+    - [Amiodarone](https://drive.google.com/file/d/1QzrqegBB-Bwx3IoElvQOjiuRI9CPg1hR/view) · p730–730
+    - [Atropine](https://drive.google.com/file/d/1BsZY1h4NU85rd3NLePz-LR0V9mftDDsT/view) · p730–730
+    - [Sodium Bicarbonate](https://drive.google.com/file/d/1dv0TYJKfdiC6O592loRe1miEZhEin2YH/view) · p730–731
+    - [Calcium](https://drive.google.com/file/d/1GVV5RYATD9rJZAi8h4eL7lmFxbM0--6x/view) · p731–731
+    - [Cardioversion, Defibrillation, and Pacing](https://drive.google.com/file/d/1I1AXjyYzWdvkcgtkrA5B4o2mtP0pTcPb/view) · p731–732
+    - [Special Situations during Resuscitation](https://drive.google.com/file/d/1XEqqSzn2w95ymBe2aoIvvk262xCUaJp1/view) · p732–734
+    - [Family Presence during Resuscitation](https://drive.google.com/file/d/1cSjD0SPLfwR-yPpZtRCA2njjHydcgid4/view) · p734–734
+    - [Coping with the Death of a Child](https://drive.google.com/file/d/1lBlHoMNfh1XQoETOdivsGCSWMhg69pfq/view) · p734–734
+- **[110 Pediatric Trauma](https://drive.google.com/file/d/1Tq_d8l7myB4VtuCRc-lCXxLt7d_nn9iH/view)** · p734–743
+    - [Overview](https://drive.google.com/file/d/1f_WXe9wirhzckuQ9IU13rOSHPdSQ-hc0/view) · p734–735
+    - [Pediatric Anatomy](https://drive.google.com/file/d/1dtlpijO6LMr98UpBCvAY6vW3dfy6__Xr/view) · p735–736
+    - [The Primary Survey](https://drive.google.com/file/d/1sofl6G7_6D0LjDKQ-pdsGWSTdobyWQEB/view) · p736–738
+    - [The Secondary Survey and Survey Adjuncts](https://drive.google.com/file/d/1m2oG7lBgbWud3un4f0H-HLx1tcT0ik8K/view) · p738–739
+    - [Referral to a Pediatric Center](https://drive.google.com/file/d/15uUhFyt9D-QlXdCHOq2D_qUnxFgNktGJ/view) · p739–739
+    - [Head Trauma](https://drive.google.com/file/d/1xzYQdXpbWfhgiAhXsIM8K8klfEWyi7al/view) · p739–740
+    - [Neck Trauma](https://drive.google.com/file/d/1zsA9snbl3AOVlfgU5ivuyslTkLutepnM/view) · p740–740
+    - [Thoracic Trauma](https://drive.google.com/file/d/1SYdTD72VoNcy9W4h1KWJt50MAYT1b4Bj/view) · p740–742
+    - [Abdominal Trauma](https://drive.google.com/file/d/1WgnIAB8-2wikkbmDUIxU6ESm1I4Q_peb/view) · p742–743
+    - [Pediatric Spine and Spinal Cord Injury](https://drive.google.com/file/d/1LQHC-kCZPPXlny7aqec9mH7oVSFvKBgL/view) · p743–743
+    - [Traumatic Arrest](https://drive.google.com/file/d/1-t1u_hTPFwv2SOuFSPxeB4KdLQLHzf4m/view) · p743–743
+- **[111 Minor Head Injury and Concussion in Children](https://drive.google.com/file/d/1BVihmdT5CcfpUwbFpY1-tGSFlmfKENLS/view)** · p743–750
+    - [Overview](https://drive.google.com/file/d/1S0SsmkAvJoI5zJnqoGOjbeY62qvvHKeh/view) · p743–745
+    - [Headache](https://drive.google.com/file/d/170zyZpvNxapk6H9cFGw5C_ffZ9s2dhpc/view) · p745–748
+    - [Nausea](https://drive.google.com/file/d/1g2AQM31REABJiYlRokr3fJyOEgUf3D69/view) · p748–748
+    - [Dizziness](https://drive.google.com/file/d/1_t5JKAqspLl-XOZw0JV56h0ie2bmvGZ6/view) · p748–748
+    - [Postdischarge Counseling](https://drive.google.com/file/d/1WtfYrK7g1BaHFEMZ6_TrP4MQjKKYdG13/view) · p748–748
+    - [Rest and Initiating Physical Activities](https://drive.google.com/file/d/1nqjptmhOaRtadkZIb-JInkvuSDE-z-mz/view) · p748–748
+    - [Return to Learn](https://drive.google.com/file/d/1VI3aQIMzckLzhi7gD6dVP093tTyslLtb/view) · p748–748
+    - [Return to Sports](https://drive.google.com/file/d/1JyDDDiRweUITS6k5oVonk4IQF6K79DF3/view) · p748–749
+    - [General Lifestyle Measures](https://drive.google.com/file/d/17d_1DufGADUxd0UHxEDvLUB5I3u9qHj3/view) · p749–749
+    - [Sleep](https://drive.google.com/file/d/14NfNLzU8ipRrznjLHqAOOpDa1QA2A9gz/view) · p749–750
+    - [Fatigue](https://drive.google.com/file/d/1LAlkGgeyPksrRLmufWIQIGfEfwds25gj/view) · p750–750
+    - [Mood](https://drive.google.com/file/d/1y0JtQ3c6t3jxbyfQKa3qApiNHo1S7zPA/view) · p750–750
+- **[112 Cervical Spine Injury in Infants and Children](https://drive.google.com/file/d/1zDZ5o3wwjREr1YraY3NFtcaIZZpUZDb_/view)** · p751–755
+    - [Spinal Motion Restriction in Infants and Children](https://drive.google.com/file/d/12LyffhCfEiypnTgnnIQJsNYTmu-fXDCu/view) · p751–754
+    - [Clinical Algorithms for Cervical Spine Clearance](https://drive.google.com/file/d/1_mOYu5DcmWp_4iTJizdCHWMfVwM4dqC4/view) · p754–754
+- **[113 Intubation and Ventilation of Infants and Children](https://drive.google.com/file/d/10aN17JfGASfx2Z7lPpRMsRAWdaYz6a3l/view)** · p755–764
+    - [Physiologic Characteristics](https://drive.google.com/file/d/1G4UBlpHJB7K1FnSwRvvLuS6odBE2z9K5/view) · p755–755
+    - [Anatomic Characteristics](https://drive.google.com/file/d/1jBxggy8bcXDyEpPHxDoDcP2yziMKgQQL/view) · p755–756
+    - [Bag-Mask Ventilation](https://drive.google.com/file/d/1vEcZwwXMOrNlxK_ZQnwbxNQ6vCB44b_n/view) · p756–757
+    - [Noninvasive Ventilation](https://drive.google.com/file/d/1d0Wb-0rI1n0j9L0NmUeDjFoCKZElKvR5/view) · p757–757
+    - [Endotracheal Intubation Equipment](https://drive.google.com/file/d/1ZuwdW0rnzGDR7wzmFpyomvnwZLdPomQK/view) · p757–758
+    - [Approach to Airway Management in Neonates, Infants, and Children](https://drive.google.com/file/d/1x0SvOzIgxXwZbKwtOwypoMsVwdsdT1_h/view) · p759–761
+    - [The Difficult Pediatric Airway](https://drive.google.com/file/d/1WhT2uK93a5jQDls2OsCXzPU2ctzQZDTV/view) · p761–762
+    - [Techniques for Managing the Difficult Pediatric Airway](https://drive.google.com/file/d/12cUkG0qQlrF_-ufFFZpuUrjqKZ8s938_/view) · p762–763
+    - [Neonatal Airway Considerations](https://drive.google.com/file/d/1CT__nDiIV7cmu8QTEEBzbCJpZXqygNnD/view) · p763–764
+- **[114 Vascular Access in Infants and Children](https://drive.google.com/file/d/1TVNs4VUbJevDVh_ezskCTcdEe9jEufzp/view)** · p764–767
+    - [Intraosseous (IO) Access](https://drive.google.com/file/d/10Pr5Q4ZJRwwvXzTPLeLF77Rn18ble_iT/view) · p764–764
+    - [IO Cannulation Devices](https://drive.google.com/file/d/15Gbp8_dunZkFWD14h8eyoiyzgIqo9dwX/view) · p764–766
+    - [Ultrasound (Us)-Guided Peripheral Venous Access in Infants and Children](https://drive.google.com/file/d/1fmsFRhzghw9iF3EsxMhx1nQvSLehbJLz/view) · p766–766
+    - [Central Venous Access in Infants and Children](https://drive.google.com/file/d/1PQmyCoZMD0vl319FgpjZNy6N9s2EQSPa/view) · p766–767
+    - [Umbilical Vein Access](https://drive.google.com/file/d/1nOVuiz6c7AGoStsLu_ZJRYL4cbxyhbFF/view) · p767–767
+- **[115 Pain Management and Procedural Sedation for Infants and Children](https://drive.google.com/file/d/1HZWra4cS7ew2F6cSExmi4jkEhWfD87dc/view)** · p768–776
+    - [Assessment of Pain and Distress](https://drive.google.com/file/d/1kCwhixn4xpZBgBn43LZ2lJ-ffToRFEDY/view) · p768–769
+    - [Infants and Toddlers <4 Years Old](https://drive.google.com/file/d/1ixZr_AMsaG7UsfRo96wDdyOUtKdmRzJh/view) · p769–769
+    - [School-Aged Children and Youth](https://drive.google.com/file/d/1Ax_5_9aTynbOKG_OdFSagxra_zBn_cU_/view) · p769–769
+    - [Special Needs Children](https://drive.google.com/file/d/1u0kFsEWyJKGKcTyYgJ1nAG3kNB6digoU/view) · p769–770
+    - [Physical Interventions](https://drive.google.com/file/d/1pK0Pz7IhWKviYJXwS8RUspzKJsfQaKdL/view) · p770–770
+    - [Psychological Interventions](https://drive.google.com/file/d/1kGXtSaYTHkvyVxRonLlSLyVSE5u7OwwG/view) · p770–770
+    - [Pharmacologic Treatment](https://drive.google.com/file/d/1kucYc8nfbFxtGmLjuMPbQyXLKp7MiOE3/view) · p770–771
+    - [Pain Management after Discharge](https://drive.google.com/file/d/1aTh7WY2pfjU3US0cmVogKXuswk07FZQ1/view) · p771–771
+    - [Procedural Pain](https://drive.google.com/file/d/1xenOv7yPZrB5zvy1AKh4N38Fm1EAL6J8/view) · p771–772
+    - [Oral Sucrose for Infants](https://drive.google.com/file/d/1KoYk5U6_QjCBDmTZhim8xdSfWY1_Cd8M/view) · p772–772
+    - [Topical Anesthetics for Intact Skin](https://drive.google.com/file/d/1lsf3HaH2iGG3tOTIz9b1aHe5hp2IZWhZ/view) · p772–772
+    - [Topical Anesthetics for Open Wounds](https://drive.google.com/file/d/1QPK8KxAk-XUA9t27HWThxRCH9MRVm-xy/view) · p772–772
+    - [Local Anesthetic Injection](https://drive.google.com/file/d/1p2a9TFEdLI62a5VpRiSgJRgMQ7xbHXrn/view) · p772–772
+    - [Anxiolysis for Minor Procedures](https://drive.google.com/file/d/1HYnoOPHCQOVtsCuyjDkXRVlotpXAmkSW/view) · p772–773
+    - [Assessing the Patient: the Presedation Checklist](https://drive.google.com/file/d/1vSv3gJcbxlMY63f-u--o5K9JbztN269r/view) · p773–773
+    - [Npo Status](https://drive.google.com/file/d/1Gv2nq4h2u36W-H9ubza6nzUVyu23vYJ1/view) · p773–773
+    - [Monitoring during Sedation](https://drive.google.com/file/d/1qaE7N5XxqtM5wnMbj_bSucnWhED55Hyl/view) · p773–774
+    - [Postsedation Monitoring and Recovery](https://drive.google.com/file/d/1BeViLO0__BpfVP22-5Pma5HNEjBrXCaJ/view) · p774–774
+    - [Selecting Agents for Sedation](https://drive.google.com/file/d/1xDo5Ux6HOqKfkurh3bP_z4ShPS-X3lAs/view) · p774–776
+- **[116 Neonatal Emergencies and Common Neonatal Problems](https://drive.google.com/file/d/1_iz_kBqbnNs4ajwbGnEOLvz5OKsA40j8/view)** · p776–784
+    - [Overview](https://drive.google.com/file/d/1dlO78KWjA2w_W4AzjaoS7yNUQoQkvqX1/view) · p776–776
+    - [Normal Neonatal Vegetative Functions](https://drive.google.com/file/d/1zyIu13ENBrY3YusW6tu587DKgUN2z7Pp/view) · p777–777
+    - [The Critically Ill Neonate](https://drive.google.com/file/d/1E3ZE3mDCCISPFuPcKzW3IB3ZwUZrwQ9M/view) · p778–780
+    - [Symptom-Based Neonatal Problems](https://drive.google.com/file/d/1KI68qpazXitTq4jUADlMJu99FvvJ790w/view) · p780–784
+- **[117 Brief Resolved Unexplained Events and Apparent Life-Threatening Events](https://drive.google.com/file/d/1wWBtM3Ku-I_3wxl6lTZ8qJqZd_8kCvuD/view)** · p784–789
+    - [Overview](https://drive.google.com/file/d/1GdE50WfvlxryuXaggUEWs3vQrlGizp0h/view) · p784–785
+    - [Apparent Life-Threatening Event](https://drive.google.com/file/d/1iO7NYR6uO6bcTbqt8wq-eoz98GcBdP-Q/view) · p785–785
+    - [Brief Resolved Unexplained Events](https://drive.google.com/file/d/1LWUKzB2_7p8QUFkawQhVn28dE6QVzcdG/view) · p785–785
+    - [Pathophysiology and Event Classification](https://drive.google.com/file/d/12iyNruQSdc3H-rg44PXGH5gVeod4_0Ce/view) · p785–787
+    - [Gastroesophageal Reflux](https://drive.google.com/file/d/1ynjg1G6aS0_SloxMH3VycZvoJ2iLQRmO/view) · p787–787
+    - [Oral Dysphagia](https://drive.google.com/file/d/1Q8fhNPfKLu4ebp474dYqAgCpXgv0Dz8e/view) · p787–787
+    - [Upper and Lower Respiratory Tract Infections and Pertussis](https://drive.google.com/file/d/1zWsIM5FCMZNHoDbWyN0ehftiA4JHlXEW/view) · p787–787
+    - [Seizures](https://drive.google.com/file/d/1VZVttGNCZ_-epbgFmWwpqOrd6w03nzHK/view) · p787–787
+    - [Child Abuse/Poisoning](https://drive.google.com/file/d/1ylv9kOXmrxpDLRXYFkOVPlFvcrsqrJNO/view) · p787–788
+    - [Serious Bacterial Infections](https://drive.google.com/file/d/1Y-n1HZdvBOcFAvW3rfhQSO4OoqnnAOQt/view) · p788–788
+    - [Breath-Holding Spells](https://drive.google.com/file/d/1Kpnahp-VumcwhVD8KFWG-XbKNg4u9vln/view) · p788–788
+    - [Anatomic Causes](https://drive.google.com/file/d/13EsRBAZ4NZ3TUf6j0SsXQaQ9cKUt925i/view) · p788–788
+    - [Metabolic Causes](https://drive.google.com/file/d/1UMxe0u_iCuA76_-XJUY0MsDZCjM8Ez5z/view) · p788–788
+    - [Cardiac Causes](https://drive.google.com/file/d/1cCS0BCRw8LwC_u8SEK1r2D5sZN9sckaO/view) · p788–788
+    - [Risk Stratification](https://drive.google.com/file/d/1ZdpTuaGnSI_3mIwVITZoLZXd8sVBnDs3/view) · p788–788
+    - [Diagnostic Testing and Disposition in Lower-Risk BRUE](https://drive.google.com/file/d/1aeY6RIuagdRtH2-tNRVjWGCZzZ9P_Pxn/view) · p788–789
+    - [Diagnostic Testing and Disposition of Higher-Risk Brues](https://drive.google.com/file/d/1dUb6it-QouPeCU1qMKW4b3nCvWPZOjQ4/view) · p789–789
+    - [Postdischarge Outcomes](https://drive.google.com/file/d/1GvCnD-fKdGPG5FzWmbQRgY2nwb8uiAKn/view) · p789–789
+- **[118 Sudden Infant Death Syndrome](https://drive.google.com/file/d/1TOY82FNspv30Wsy7vibubbKmzRTLJovg/view)** · p790–791
+- **[119 Fever and Serious Bacterial Illness in Infants and Children](https://drive.google.com/file/d/1McWqCZhfnoCUJsRTJ40WAgGSYrTG-yf9/view)** · p791–797
+    - [Overview](https://drive.google.com/file/d/1h3HQ3V0Z6nSq5JJgchA1eJJsgS0MLoIi/view) · p791–792
+    - [General Treatment and Disposition Principles for Fever Based on Age](https://drive.google.com/file/d/1CQMxhjt912oBRx3eGHouVTf8X5glA3d3/view) · p793–793
+    - [Fever Evaluation in Neonates and Infants ≤3 Months Old](https://drive.google.com/file/d/1uKAbsWnBkrUaFdsCfm73eVyPwb0UzM2c/view) · p793–795
+    - [Fever Evaluation in Infants 3 to 36 Months Old](https://drive.google.com/file/d/1IoQ9HzyOv94-VeDwZ33ceWyHl2NTXWmT/view) · p795–796
+    - [Fever in Children >36 Months Old](https://drive.google.com/file/d/1Zbn0rhfXWmqo_0ccH8MNYM2ci5zEXWOj/view) · p796–796
+    - [Procedures in Children: Lumbar Puncture](https://drive.google.com/file/d/1WBVPo15loqhLgEEpr5Rf1rO3eDLk04mF/view) · p796–797
+- **[120 Meningitis in Infants and Children](https://drive.google.com/file/d/16-xKlgdbFExK5qBenjTTOCHO8wcf2yAe/view)** · p797–801
+    - [Overview](https://drive.google.com/file/d/18GvK9U6Hu3VjeE7F139TIbaf9Uy9wCSP/view) · p797–800
+    - [Steroids](https://drive.google.com/file/d/1gWYz6x-F6yfngGbzNGy1AGGg0UJrIpxL/view) · p800–800
+    - [Disease Complications](https://drive.google.com/file/d/1FSBMu5XXjaKn76jUOlzLWxT_M_eCskOE/view) · p800–800
+    - [Special Considerations and Special Patients](https://drive.google.com/file/d/1UGao3S7KU20QDmT5r1bj3gMFX4VwXLAW/view) · p800–801
+- **[121 Ear and Mastoid Disorders in Infants and Children](https://drive.google.com/file/d/1KCQu-0w3NVwFlm8CdM3y-UFGuwLsHnQa/view)** · p801–807
+    - [Acute Otitis Media](https://drive.google.com/file/d/128uY_76NmEtZyQvSIaH2ahiBTcR2-_ux/view) · p801–804
+    - [Otitis Media with Effusion](https://drive.google.com/file/d/1Nfa92dZosC91IsMYbZXy9i4ra2YkFHIH/view) · p804–806
+    - [Acute Mastoiditis](https://drive.google.com/file/d/1ZycjDxUVvLS62aghqpiHNJ693ieu2RKH/view) · p806–807
+    - [Foreign Body in the Ear Canal](https://drive.google.com/file/d/1hYj1vDzuAOirusKHJFITf8p1mfOVQctn/view) · p807–807
+- **[122 Eye Emergencies in Infants and Children](https://drive.google.com/file/d/1ymsEk_eOGQaOsV-xJfmUS41s5CTvPbxZ/view)** · p808–816
+    - [Visual Acuity and Extraocular Movements](https://drive.google.com/file/d/1o1e4z4i6E4bF1xftz81VBK4B9_qx-cyn/view) · p808–808
+    - [Examination of Pupils and Fundus](https://drive.google.com/file/d/19RyUyYwp_aso5SD9VzCLbPiv1BngLaXd/view) · p808–809
+    - [Dacryostenosis](https://drive.google.com/file/d/1sokJXzWC0NrMGW5tdU4hxJnMQp5h2zP0/view) · p809–810
+    - [Dacryocystitis](https://drive.google.com/file/d/1KItuwomy5ZOKxy4NYVAAWJLWBx3SjVBx/view) · p810–810
+    - [Dacryocele](https://drive.google.com/file/d/1drYOfHtZkUc2VdGK93HxiEHOaqmyBVnW/view) · p810–810
+    - [Dacryoadenitis](https://drive.google.com/file/d/1c3Bi6hwYDu3fYu-BCJCfk4HCsvjVAWwR/view) · p810–810
+    - [Blepharitis](https://drive.google.com/file/d/1vtNcVcuAPm23b68XG1nM3d3dnsw92Lwx/view) · p810–810
+    - [Periorbital Cellulitis](https://drive.google.com/file/d/1tLUUhb_mqFZMXQ20avSE35xgaDKJRrn5/view) · p810–811
+    - [Orbital Cellulitis](https://drive.google.com/file/d/1zOX0c5B8Wvo1n72b4YyX4KBvGkhXeRiy/view) · p811–812
+    - [Corneal Abrasion](https://drive.google.com/file/d/1djM9HIhugKiNT-Sa8O2txABsT5WDtxWO/view) · p812–812
+    - [Ophthalmia Neonatorum](https://drive.google.com/file/d/1KZRLajfIzuzNitFOIXg9x3kNZsYPhjJE/view) · p812–813
+    - [Childhood Conjunctivitis](https://drive.google.com/file/d/1m0foNR0UMyx4RjX2PEahWYzCenBSGEj9/view) · p813–815
+    - [Leukocoria](https://drive.google.com/file/d/1iRUxniPIIuyyFW41NqZ3dPry-hRuj1Nl/view) · p815–816
+    - [Cataracts](https://drive.google.com/file/d/1X8exO0O2uDVmsGW7rJDxb0xHktEdDmLO/view) · p816–816
+    - [Retinoblastoma](https://drive.google.com/file/d/1C3sSda8l7ZTvliS6W1aIBYi39zXkdk4T/view) · p816–816
+    - [Retinal Hemorrhages](https://drive.google.com/file/d/1cWUlo-4H-x5uclhici2TXrPChT_Dy9FH/view) · p816–816
+- **[123 Nose and Sinus Disorders in Infants and Children](https://drive.google.com/file/d/18jb2qUUwQKn1qX7Ke12tEMTOq07PeZ-F/view)** · p817–820
+    - [Acute Bacterial Sinusitis](https://drive.google.com/file/d/1SDkcWY9Ul6vgPgSZXr49JpkDcymgn5Cr/view) · p817–817
+    - [Chronic Bacterial Sinusitis](https://drive.google.com/file/d/1L8U9NYF1DY5kZh6ZuiLpWYBsXQwZxI8z/view) · p817–819
+    - [Nasal Foreign Bodies](https://drive.google.com/file/d/17d9a9R_C3dKA6nkYPG3u0pl5hWLxt9nI/view) · p819–820
+    - [Epistaxis](https://drive.google.com/file/d/1vmDbi9UUf7j8mpeswAwT8qdL1Cesa0si/view) · p820–820
+- **[124 Mouth and Throat Disorders in Infants and Children](https://drive.google.com/file/d/199HcKMQBCNcIcQvjK9Wvz4LZSYbhjEuC/view)** · p820–827
+    - [Overview](https://drive.google.com/file/d/1lqEsrUk4GIGA5ugxceChKFEITpG9uZPQ/view) · p820–821
+    - [Normal Variants](https://drive.google.com/file/d/1kjHx9uFA4pkfjxpfQVoFVgtJm1AQNTWN/view) · p821–821
+    - [Aphthous Ulcers](https://drive.google.com/file/d/11fAaOtJxrbDd1zKUepP7Ic23O1QeKuTV/view) · p821–822
+    - [Stomatitis](https://drive.google.com/file/d/1ogBZsltoBa1to0R_DbsQtRNuFR5xR7lX/view) · p822–823
+    - [Pharyngitis](https://drive.google.com/file/d/1T4dbrDS62RH8NjS2HSaKiLj715Q2Gc-7/view) · p823–825
+    - [Uvulitis](https://drive.google.com/file/d/1Pfscwn1tGWAnithvs0NkHBGo6o22VO1f/view) · p825–826
+    - [Oral Problems](https://drive.google.com/file/d/186M1GXcJrGExelXr4xG5wy-XitvwjgeC/view) · p826–827
+- **[125 Neck Masses in Infants and Children](https://drive.google.com/file/d/1gYGWreZsW_TPKKwh3Q1ZUx7eO6AwMCt3/view)** · p827–834
+    - [Overview](https://drive.google.com/file/d/1A7YcS2lJl0vwjPcPlzczDg2z6Hl_z65q/view) · p827–828
+    - [Inflammatory Neck Masses](https://drive.google.com/file/d/15_6fLR1-wNghkdDs9XTn64rmGO7FzR38/view) · p828–830
+    - [Acute Bilateral Lymphadenopathy](https://drive.google.com/file/d/1IBYATe6tpC_ItF3hz3O88AJMmFudM6J9/view) · p830–830
+    - [Acute Unilateral Lymphadenopathy](https://drive.google.com/file/d/1UZRfiw1HTiEzBrew2Hi158eb0rv0QG90/view) · p830–831
+    - [Subacute/Chronic Lymphadenopathy](https://drive.google.com/file/d/1QhCqP4Qox5FlPJTIUYVfVw-dP0s4IKzz/view) · p831–832
+    - [Thyroglossal Duct Cysts](https://drive.google.com/file/d/1rfF6Cd-C-z9PoA2MizU9ypcYSwLZdJWS/view) · p832–833
+    - [Dermoid Cysts](https://drive.google.com/file/d/1gYueHC_WuaDS6TZLsDm8C-RU19oqW-do/view) · p833–833
+    - [Branchial Cleft Cysts](https://drive.google.com/file/d/1wKkyVE6s1MnuJTwCgqiLMF3Jgl3i3Xjb/view) · p833–833
+    - [Lymphangiomas](https://drive.google.com/file/d/1jD5tyqPWpw5x46sgxCgL_ME6BxNZfIaX/view) · p833–833
+    - [Benign Neoplasms](https://drive.google.com/file/d/1c_ihF4w6u_qW8uvW_jHEMeo_i0UcU01T/view) · p833–834
+    - [Malignant Neoplasms](https://drive.google.com/file/d/1C0kDamKmAkmnU1orep1zRKFQOiO50vu5/view) · p834–834
+- **[126 Stridor and Drooling in Infants and Children](https://drive.google.com/file/d/1DzMhv5F_a2rQhdC_rPw6a27J8AVbezF0/view)** · p834–843
+    - [Overview](https://drive.google.com/file/d/1eLesgbOr4oiv6EEtmH9kiTydmr_hgTXG/view) · p834–835
+    - [Croup](https://drive.google.com/file/d/1D1Qk-dmFq52NxqXooBIuEhx1FeUFdAkY/view) · p835–837
+    - [Epiglottitis](https://drive.google.com/file/d/1HsivLJB7BmIaGyDQagUqurNPOFbZD8si/view) · p837–838
+    - [Bacterial Tracheitis](https://drive.google.com/file/d/1MMexWBQ7yOWSbl-0lxD0t3yjuwOzEj4f/view) · p838–841
+    - [Retropharyngeal Abscess](https://drive.google.com/file/d/1J6Do5gEsQrPZTc2WCCjS0s8KgS3WSatU/view) · p841–842
+    - [Peritonsillar Abscess](https://drive.google.com/file/d/10_BRmUcu0fOu0t0Psv1dSBvWFR0lEdoo/view) · p842–842
+    - [Ludwig’s Angina](https://drive.google.com/file/d/1CapLVeEmYzNknUVxvK37TW-zcVCYXHB2/view) · p842–842
+    - [Diphtheria](https://drive.google.com/file/d/19-eYOq7B-UZavGLTVg-DhFtSu98qUVm9/view) · p842–843
+    - [Oropharyngeal Trauma](https://drive.google.com/file/d/1JpI-BnZE2UchPuIus8aYjL_kaqiXTQLL/view) · p843–843
+- **[127 Wheezing in Infants and Children](https://drive.google.com/file/d/1i-_ZjCnmAizmDbuDaXDuX8r8wBKJAmry/view)** · p843–855
+    - [Overview](https://drive.google.com/file/d/1TB_BW0lbodSMrQhD6VlwdNAPxWtHUzo5/view) · p843–844
+    - [Respiratory Physiology](https://drive.google.com/file/d/1onNurVd5ApJPXdlKOLxdEVP3iNTOTNhP/view) · p844–844
+    - [Wheezing](https://drive.google.com/file/d/1Vh6vlFYwRUN3KSXOgyE1N9HLCliWPvzn/view) · p844–845
+    - [Bronchiolitis](https://drive.google.com/file/d/11UnW4LkxqHPDKlKNOjHzN-sjJe6TgjPi/view) · p846–848
+    - [Clinical Features and Initial Assessment](https://drive.google.com/file/d/1jFDHTuc9fV5rBeqNp4wPqH1pvTpUEJmu/view) · p848–852
+    - [Treatment of Near-Fatal Asthma](https://drive.google.com/file/d/1ka3X13XceboMzL4QsKGlSSyU9ql8B1CS/view) · p852–854
+- **[128 Pneumonia in Infants and Children](https://drive.google.com/file/d/1o25bICNTojE5IdOJA8Ajj1X-gaHrI3-Z/view)** · p856–864
+    - [Overview](https://drive.google.com/file/d/1tZU53-nwNc0J08234NErbKsi5QISVbxt/view) · p856–861
+    - [Disease Complications](https://drive.google.com/file/d/1yedJGGlRanOBCm3r4vLBUfCU8tgHyqw8/view) · p861–863
+    - [The Pediatric Chest Radiograph](https://drive.google.com/file/d/1sQQBtikXsTpr1PHgAc5_QPOxpB_SCeS-/view) · p863–864
+- **[129 Congenital and Acquired Pediatric Heart Disease](https://drive.google.com/file/d/1mF_NuRP1xWHhUWVCsHLf4y25I17i8raP/view)** · p864–880
+    - [Fetal Circulation](https://drive.google.com/file/d/11AIhb04KIEvWaQaUJUYFFDaV38ioRSHq/view) · p864–865
+    - [Transitional Circulation](https://drive.google.com/file/d/1wdVMkOJievMcDrGJukAJGMFavkbGy9zv/view) · p865–865
+    - [Neonatal Cardiac Physiology](https://drive.google.com/file/d/1V1ripJVm14AgrRJ4rXixepUK2tzxWK3q/view) · p865–865
+    - [Pediatric Heart Murmurs](https://drive.google.com/file/d/12DueVHzKYts4QldiPAQ5DWOKckmptYwr/view) · p865–865
+    - [Cyanosis in Congenital Heart Disease](https://drive.google.com/file/d/1CHtdGgjd-43sRlJLTCq-5M-v1zjxg7wV/view) · p865–868
+    - [Clinical Features of Cyanotic Congenital Heart Disease](https://drive.google.com/file/d/10TULwxbAuukvkeSCuvVksABMzrSkDsv1/view) · p868–870
+    - [Shock in Congenital Heart Disease](https://drive.google.com/file/d/1N_MI10hs3DlPgdH3nYmeVxhlqYO4kCe0/view) · p870–870
+    - [Clinical Features of Shock in Congenital Heart Disease](https://drive.google.com/file/d/1NFx2mDWk5UGqBKjjk68YraY8fYyj9Kk_/view) · p870–871
+    - [Congestive Heart Failure in Congenital Heart Disease](https://drive.google.com/file/d/1KoRDC2r-GfcTzIdjnUiEb2wdR2PmVipp/view) · p871–872
+    - [Clinical Features of Heart Failure in Congenital Heart Disease](https://drive.google.com/file/d/1gKj6DGSRwyMeqazb-F_1hSLgHKJd1AIB/view) · p872–873
+    - [Interventional and Surgical Repair of Congenital Heart Defects](https://drive.google.com/file/d/1ZddWcBy5kS3FAge436a0pE2Md4jGalgV/view) · p873–873
+    - [Complications of Congenital Heart Defects](https://drive.google.com/file/d/1FExXS-5kqsMaq7RprOL0-El0yXquHTho/view) · p873–875
+    - [Myocarditis](https://drive.google.com/file/d/1-hTbgLwQCXNAr8Bra0j-4dq6SAMf464m/view) · p875–875
+    - [Pericarditis](https://drive.google.com/file/d/1Q0W1uMR-XtFfh5ss3X15qo-mZ2AWFDiE/view) · p875–876
+    - [Kawasaki’s Disease](https://drive.google.com/file/d/1ngaZH4oNslJQSzEbltms04TT6MGy5O2j/view) · p876–877
+    - [Endocarditis](https://drive.google.com/file/d/1ZsnU4V-pibxeIZN5sxSPrhKLPR3zlt_W/view) · p877–878
+    - [Cardiomyopathies](https://drive.google.com/file/d/1yhJ5u-S3mxDg76ZvpmfHJsfznEeNilnx/view) · p878–880
+- **[130 Syncope, Dysrhythmias, and ECG Interpretation in Children](https://drive.google.com/file/d/1JsqHD9LXCMpBbD-h7oHJNFypAB4eTu8Q/view)** · p880–887
+    - [Syncope](https://drive.google.com/file/d/19ZuTweyJ8tZMG9l4sFpow1giq8M9hdn8/view) · p880–882
+    - [Specific Conditions](https://drive.google.com/file/d/1acYCdmYDkRsoIxvn3Vo_nbqwHFkaztgQ/view) · p882–884
+    - [Atrioventricular Block](https://drive.google.com/file/d/1U92vkxzdAyH_ZHym9aEy2d8k-f-pkgnP/view) · p884–884
+    - [Supraventricular Tachycardia](https://drive.google.com/file/d/1JQdsJGUrdUZsNl--HsPr_djexXKcsohX/view) · p884–884
+    - [Wolff-Parkinson-White Syndrome](https://drive.google.com/file/d/13V3v_eE57iou1hQY8APIHM0Sn8kYV80X/view) · p884–885
+    - [Long QT Syndrome](https://drive.google.com/file/d/1XQ6dGfRky5qlu1gBioNNUC_TiRMt6mvN/view) · p885–886
+    - [Sick Sinus Syndrome](https://drive.google.com/file/d/1FjhFPigLSsMfigA1giW7snTquK-DKdSg/view) · p886–886
+    - [Normal ECG Intervals](https://drive.google.com/file/d/1URd-N9o0MaEtwPPtgYQXHVdEefudUAH5/view) · p886–887
+- **[131 Vomiting, Diarrhea, and Dehydration in Infants and Children](https://drive.google.com/file/d/1fi-azQhnYWnLUJZLQzpVLw7eorkxIL9J/view)** · p887–896
+    - [Vomiting](https://drive.google.com/file/d/1uepxIwxpmcpfS7HBjlpfzE0FR9PVqG5c/view) · p887–888
+    - [Gastroesophageal Reflux (Gerd)](https://drive.google.com/file/d/17OGtzjI2bJkQ5RL4fYprduEOBWZ8HzmD/view) · p888–889
+    - [Diarrhea](https://drive.google.com/file/d/1GAq-napHf9bLqvtY1AkbaGDQajNBm2Wj/view) · p889–889
+    - [Dehydration](https://drive.google.com/file/d/1bAUlK7D1A3GvwwceuIvgtjCvyBubgYE1/view) · p889–890
+    - [Gastroenteritis](https://drive.google.com/file/d/113qtmnC21QCrw8TRII3DXqAL9idVP0Ua/view) · p890–896
+- **[132 Fluid and Electrolyte Therapy in Infants and Children](https://drive.google.com/file/d/1x3htIuvbpCxe0DbP5cH3Fduc0dhvTZwM/view)** · p896–901
+    - [Overview](https://drive.google.com/file/d/1P9AYBK4rM3jojCN7yFAR7ghsqAbhIMSy/view) · p896–898
+    - [Initial Treatment of Dehydration](https://drive.google.com/file/d/1-Nv80qABbhehPTDmbIsQb3t3pZcf2pPh/view) · p898–898
+    - [Maintenance Treatment](https://drive.google.com/file/d/1HsPYU7S1cQ0uaYzs3PssFXSecwzBW5NW/view) · p898–899
+    - [Disorders of Sodium](https://drive.google.com/file/d/1AxBj-E2Y2aASaMf2A8C5KejGkWqc4-8E/view) · p899–900
+    - [Disorders of Potassium](https://drive.google.com/file/d/1o7MSmAHfiHZTE9TOEveUEq__QaVmYXSt/view) · p900–901
+    - [Disorders of Calcium](https://drive.google.com/file/d/1grUEUiuHnfvfLYQGrPKFdBp5qkfwk2TW/view) · p901–901
+    - [Disorders of Magnesium](https://drive.google.com/file/d/1EuFskT5nAGJwytvJ5T7lItjsKoJ4t0d8/view) · p901–901
+- **[133 Acute Abdominal Pain in Infants and Children](https://drive.google.com/file/d/1CtrzEWVfaD7JTPc9cDeX_PvfldMJME3u/view)** · p902–909
+    - [Neonates and Young Infants (0 to 3 Months)](https://drive.google.com/file/d/1tzdL5Vn0bdLQUD-yKYgjZERw0wnrFpfR/view) · p902–903
+    - [Older Infants and Toddlers (3 Months to 3 Years Old)](https://drive.google.com/file/d/1zmbxX44vYAvYTGhA6CnkGarL-2Mkjbcl/view) · p903–903
+    - [Children (3 to 15 Years of Age)](https://drive.google.com/file/d/1k5Q4C2mpelpUPok9sGGzHohpNwUNXz0s/view) · p903–903
+    - [Necrotizing Enterocolitis](https://drive.google.com/file/d/1NzxyxdCTdxK9b-AX0nmS3_o5gPD4CRbu/view) · p903–903
+    - [Malrotation and Volvulus](https://drive.google.com/file/d/1nYHr2qrO1Me5PaWSCv3J5d28OMb3wC88/view) · p903–904
+    - [Intussusception](https://drive.google.com/file/d/1A48Kj5Qr2d4Yf4vAoFEQqvS-ErytTU49/view) · p904–904
+    - [Appendicitis](https://drive.google.com/file/d/1l71q2Fi0yr1t3ZHyqLFyLOyDpSfkT_-_/view) · p904–906
+    - [Henoch-Schönlein Purpura](https://drive.google.com/file/d/1OfUU1-DoMSiyxu8bkCbYvZwihZw91_bW/view) · p906–907
+    - [Inguinal Hernia](https://drive.google.com/file/d/1Tj8roFO9pRBR4_-nm-nx00GgdpC6EQl8/view) · p907–907
+    - [Inflammatory Bowel Disease](https://drive.google.com/file/d/1lLhEKKQ-JTyNNDRb2o6sAGX6Gt64Ymqe/view) · p907–907
+    - [Renal Stones](https://drive.google.com/file/d/1KcYUzNxBvZ-klcdW-NZXe_EuDEEPpTck/view) · p907–908
+    - [Pancreatitis](https://drive.google.com/file/d/1pxQ0BDfhJBsNUSOgyl55NLmGZNsx1p4-/view) · p908–908
+    - [Cholecystitis](https://drive.google.com/file/d/1QNyWWzf331_536pGEwwi2pSavgCveEdt/view) · p908–908
+    - [Pneumonia](https://drive.google.com/file/d/1TCr4UlP8SW3-8yZ_4T5y0dWDMWEujAyq/view) · p908–908
+    - [Streptococcus Pharyngitis](https://drive.google.com/file/d/1kQGMZ6kRBguX_73LeWoaYPXCfoOJFi9B/view) · p908–908
+    - [Colic](https://drive.google.com/file/d/1B1Y3IehDTIp_VinYKMyk7Yo_KmoUja5U/view) · p908–908
+    - [Constipation](https://drive.google.com/file/d/1rFBO2OXGhSBIbqlmbXA1U04kVOwM9PT3/view) · p908–909
+- **[134 Gastrointestinal Bleeding in Infants and Children](https://drive.google.com/file/d/1az5st1ngyFjyIZ4RTFkmScPRaQ7mWCxp/view)** · p909–915
+    - [Assess Bleeding and Begin Resuscitation](https://drive.google.com/file/d/1Dhw0yFF9rh506HHA7E1buc8FdTIxpbyE/view) · p909–909
+    - [Is the Patient Stable or Unstable?](https://drive.google.com/file/d/1_iVOb89B1n_-accCcp96fUIsY1VguaNH/view) · p909–909
+    - [Is This Really Blood?](https://drive.google.com/file/d/1jHeYs65p712jqGAzzA_RxZSmpUJBM7Uo/view) · p909–909
+    - [Is Blood Coming from the GI Tract?](https://drive.google.com/file/d/1kvTCfzcnirUk05nszfZVncNc9CMkqSiG/view) · p910–910
+    - [Is It a Small or Large Amount of Blood?](https://drive.google.com/file/d/1JxxPQQvDyBmZZi3OnritotAvGDt0VNSd/view) · p910–911
+    - [Differential Diagnosis for Upper GI Bleeding by Age Group](https://drive.google.com/file/d/1YsylkmJKcN7hrNNni_qN5OyfAJMdgmEK/view) · p911–912
+    - [Differential Diagnosis for Lower GI Bleeding by Age Group](https://drive.google.com/file/d/1Ps1w8KPiSqHODBqG4Uw9mSXqOZAIdj1N/view) · p912–914
+    - [Upper GI Bleeding](https://drive.google.com/file/d/16Zbb4HwP5mdb9_gWU2OjcNVYlu1zKNmA/view) · p914–914
+    - [Lower GI Bleeding](https://drive.google.com/file/d/1nRlvNK_CZfX1dIKsWvv8enQoiud9eZFn/view) · p914–915
+- **[135 Urinary Tract Infection in Infants and Children](https://drive.google.com/file/d/1XILakxtaOvK9vZD9zMjpNODDZZ2Eu2E4/view)** · p915–919
+    - [Overview](https://drive.google.com/file/d/1Q7uhRzAR3W9gAX5nb8wqqzh534leBJ4b/view) · p915–916
+    - [History and Comorbidities](https://drive.google.com/file/d/187iahM0euIEd6jJDcOrzmCgvPc8eeFVJ/view) · p916–919
+    - [Pediatric UTI with Urolithiasis](https://drive.google.com/file/d/1CK6Jcfs_hajOUOhezpweZL5uzFsXmTJP/view) · p919–919
+- **[136 Pediatric Urologic and Gynecologic Disorders](https://drive.google.com/file/d/1DkcoDpcDrAVSVNksIqCBJy2MdzXKreNf/view)** · p919–925
+    - [Scrotum](https://drive.google.com/file/d/1uOqY1HhhDpiCBiA--ULyx7AnJqFjYaZG/view) · p919–921
+    - [Disorders of the Penis](https://drive.google.com/file/d/1utjLcSiTygm29yXk0PCqcMRrhairBVeJ/view) · p921–924
+    - [Female Gynecologic Problems](https://drive.google.com/file/d/12JX673GQlC6x15rENP0zb2utGpU_-EYu/view) · p924–925
+- **[137 Renal Emergencies in Children](https://drive.google.com/file/d/1cyXYdRQaNcNPajSvYRSmrTvS8hGeGPEP/view)** · p926–933
+    - [Acute Kidney Injury](https://drive.google.com/file/d/1k9NkS61gJh35mPXr4_GuYkfNY_P5zUGL/view) · p926–927
+    - [Nephrotic Syndrome](https://drive.google.com/file/d/1OS1tcyqo61wXLmpPNjJVu2lWewBYLDP8/view) · p927–928
+    - [Glomerulonephritis](https://drive.google.com/file/d/1WwjJBdYbP1QwdRRApqpu8So1jOptzdVb/view) · p928–930
+    - [Renal Tubular Acidosis](https://drive.google.com/file/d/1E4BTIKHrJvG-3gL7eUEUo6WRXE7ETzDc/view) · p930–932
+    - [Hematuria](https://drive.google.com/file/d/10fp5sugRFUBA2yKCXSwjRYiTgpiSCTPb/view) · p932–933
+    - [Chronic Kidney Disease](https://drive.google.com/file/d/1I_R_a0LiqEJQhcLU_DLB9xILQ_e_ApO8/view) · p933–933
+- **[138 Seizures in Infants and Children](https://drive.google.com/file/d/1WTPsCPE8Ubb5ddT5B8wFvnoDxyNopWXt/view)** · p933–941
+    - [Overview](https://drive.google.com/file/d/1QjqfMzw8ntuWAU2AG17z7ar1eC6uBDTR/view) · p933–934
+    - [Types of Seizure](https://drive.google.com/file/d/1gRDUdGvNZ74aP_XjA1Su9ktE2RSr7z2x/view) · p934–934
+    - [Differential Diagnosis and Conditions Masquerading as Seizures](https://drive.google.com/file/d/1d9mrmI7SivGjq4dvCHzt2XkbwikQSLrM/view) · p934–936
+    - [Ancillary Tests](https://drive.google.com/file/d/1OKmBPt5fC4qUf5p4HUviC_C5tNxTShgO/view) · p936–936
+    - [Summary of Approach to Evaluation](https://drive.google.com/file/d/16VjxfqxLPwTAwq0zpCRs2c2SfZQ3nYb1/view) · p936–939
+    - [Febrile Seizures](https://drive.google.com/file/d/1rw3PkjGiXVYoX1-j17klu-e7vAgpHNX8/view) · p939–940
+    - [First Afebrile Seizure](https://drive.google.com/file/d/184aRebFv_yPUtwN9vxmwKMTG1LU0zemG/view) · p940–940
+    - [Neonatal Seizures](https://drive.google.com/file/d/1laHkTn8yyMNS7q5N6pkAAMYdMertys59/view) · p940–940
+    - [Seizures in Children with Epilepsy](https://drive.google.com/file/d/1rvzr_shY-dDN6lOkrCDYIOeMylxarbVR/view) · p940–940
+    - [Seizures in Children with Ventriculoperitoneal Shunts](https://drive.google.com/file/d/1aa-GIVo9hVitUfJNIfcYfaMC3GjFIYXI/view) · p940–940
+    - [Seizures in Trauma](https://drive.google.com/file/d/1lVUxIK0Waog4t3LPJXIMaHUXfv7sve7J/view) · p940–941
+- **[139 Headache in Children](https://drive.google.com/file/d/1VeF9vKKGDWFEiwTY2yvR0DG6_rUfmzv6/view)** · p941–947
+    - [Headache Classification](https://drive.google.com/file/d/1tCYWxzLkGwpRDexvU6TTCZEO4C9I57ph/view) · p941–941
+    - [Temporal Aspects of Headache](https://drive.google.com/file/d/1fAZLW55YwDqpmsNXqrb9mRcHfNw39cNp/view) · p941–943
+    - [Headache Precipitants](https://drive.google.com/file/d/18BtUyqQJV6AY0h41-FrkQPtDP4nJGsI2/view) · p943–943
+    - [Location of Headache](https://drive.google.com/file/d/12OXuLtc2F9qP5L3_e4JUHf9YHfFDGGzz/view) · p943–943
+    - [Quality of Headache](https://drive.google.com/file/d/1FaBX3PR02tCsDhRNPM4hBZnbRApV-hyc/view) · p943–943
+    - [Severity of Headache](https://drive.google.com/file/d/1ZOjuyhZOgvsU_Eeo11mPRToW1eI2Q0Dh/view) · p943–943
+    - [Duration of Headache](https://drive.google.com/file/d/1sXZHOhlgJCvEqZVZYLS250JgGq1ykDH8/view) · p943–943
+    - [Alleviating and Exacerbating Factors](https://drive.google.com/file/d/1ONu3jJ71Zj4JMQdzPMpSoV-TmkxuSee3/view) · p943–943
+    - [Associated Symptoms](https://drive.google.com/file/d/1clZZQc6izPH2rBUuW7lnBpKqv3FHi12M/view) · p943–946
+    - [First-Line Therapy](https://drive.google.com/file/d/1Jhi76fcRqrx2QKINnReEYvd07J_S6H6W/view) · p946–946
+    - [Second-Line Therapy](https://drive.google.com/file/d/1WhK5n59kQjpiJh_NQoPj8xBXRPquek8n/view) · p946–947
+    - [Third-Line Therapy](https://drive.google.com/file/d/17s_D6kGwBCTz1vmgbqNKDpXMtv0HE25X/view) · p947–947
+    - [Prophylactic Treatment](https://drive.google.com/file/d/15PMQ-11BEhy2rtiu5w1YPaGVNYHHMycL/view) · p947–947
+    - [Nonpharmacologic Treatment](https://drive.google.com/file/d/1MRNZEYJ0roJADhfYGZ5j9AqS-KGWL-hI/view) · p947–947
+- **[140 Altered Mental Status in Children](https://drive.google.com/file/d/1SS10IxDMKmNw7xPHLU4w0hvbfgnyoWvv/view)** · p947–949
+- **[141 Pediatric Orthopedic Emergencies](https://drive.google.com/file/d/1fTzCFWi7mxZ6tiojJbdj65oguN89QM1V/view)** · p949–970
+    - [Overview](https://drive.google.com/file/d/1oiWfzoc_GcXIF5GRBf2yXaZQK7bsCL-B/view) · p949–950
+    - [Fracture Patterns](https://drive.google.com/file/d/1a5iniLR6ejDd_pKQPcMCV4piAIHmKDAw/view) · p950–953
+    - [Clavicle Fractures](https://drive.google.com/file/d/1d1jTQZWpqNz4eNZUl2SnIEuSm6IxntO_/view) · p953–954
+    - [Fractures of the Humerus](https://drive.google.com/file/d/1_yc_d-5hRtp4I_5PlhUT5dxi93atzJq9/view) · p954–954
+    - [The Pediatric Elbow](https://drive.google.com/file/d/1hYUBlteUSLcSDutgPc4w9UswgysCNByg/view) · p954–959
+    - [Forearm Injuries](https://drive.google.com/file/d/1OrSVshcG2NQ9983-LM7yZXn5TSnSsNwT/view) · p959–961
+    - [Carpal Bone Injuries](https://drive.google.com/file/d/1p6DsRirp2tFuW_6j6FoMX-gKtlxifJSw/view) · p961–961
+    - [Phalangeal Fractures](https://drive.google.com/file/d/1L7o9MdACeS22zODwQ7MlKudFSgSJnrMq/view) · p961–962
+    - [Pelvic Fractures](https://drive.google.com/file/d/1SoI4gxTs93B0VLL0S7MVUAi8K4So56sJ/view) · p962–962
+    - [Hip Fractures and Dislocations](https://drive.google.com/file/d/1FqhQ3A1FVNK3AuuLzt7XSvb1Bf8m_-x1/view) · p962–962
+    - [Fractures of the Femoral Shaft](https://drive.google.com/file/d/1q6SQ8TpESu0azX4RozcwXm1_qjZGFIJ-/view) · p962–962
+    - [Slipped Capital Femoral Epiphysis](https://drive.google.com/file/d/1aMgecAnVJ6GVRlxqtYP-HBekMkFBnnep/view) · p962–963
+    - [Knee Injuries](https://drive.google.com/file/d/1CZ_zvRuPhELCwl6qf_TFQbre7Jc8Wfaw/view) · p963–964
+    - [Proximal Tibia Fractures](https://drive.google.com/file/d/1vrgBiZlxSe_rVWS68ISCQtQhWlFDKh0y/view) · p964–964
+    - [Fractures of the Tibia and Fibula Diaphyses](https://drive.google.com/file/d/1N3TGkjh4cIJhvLCYc8p6TKF4ws9aB5cS/view) · p964–964
+    - [Ankle Injuries](https://drive.google.com/file/d/1zYHmMaXc5ldsVUwe_MaozYp5TBQK05dK/view) · p964–966
+    - [Foot and Toe Injuries](https://drive.google.com/file/d/1mO8bG0HdrjyaVPHjn4rj3BxZJ5TSvUoZ/view) · p966–966
+    - [Acute Septic Arthritis](https://drive.google.com/file/d/1rOY5n1DRJpMd-G7vOSaT1m_LmPOUgAIH/view) · p966–967
+    - [Transient Synovitis of the Hip](https://drive.google.com/file/d/1DCqZo965Pc9GWehWnnon-SBeS2M8-4l8/view) · p967–968
+    - [Juvenile Idiopathic Arthritis](https://drive.google.com/file/d/1MebH--cGy_GxARg83MnUwaA8vELxHsbE/view) · p968–968
+    - [Avascular Necrosis and Apophysitis](https://drive.google.com/file/d/16p1tAJs1QuW_sdphhqWZVV5LJdIHkyDo/view) · p968–968
+    - [Legg-Calvé-Perthes Disease](https://drive.google.com/file/d/1phLy0qnBKqHjLrv-YBbA_iFL3Sa7ZlvW/view) · p968–969
+    - [Osgood-Schlatter Disease](https://drive.google.com/file/d/1vc2J6NwXjOlJB6W0PfzipgSksrJ182Ma/view) · p969–969
+    - [Acute Rheumatic Fever](https://drive.google.com/file/d/1_h0BJGRaRL81PmW2S1ghstJ7POGfLU_U/view) · p969–970
+    - [Poststreptococcal Reactive Arthritis](https://drive.google.com/file/d/1-hkhU_Plu98rfxBTeFtWrUWQsaRSf761/view) · p970–970
+- **[142 Rashes in Infants and Children](https://drive.google.com/file/d/10DlCV_yXLqaAWLW8ZMaim5QmPYSDBM7J/view)** · p970–989
+    - [Overview](https://drive.google.com/file/d/1nPVvUXL8LZMpj9-zKnFFv4mAWi6OxbVf/view) · p970–971
+    - [Viruses](https://drive.google.com/file/d/1ZY1bJVbxANievl05knUBU3Wy2WCkr5by/view) · p971–976
+    - [Fungal Infections](https://drive.google.com/file/d/1taYQQRyyVyGjF22Ru8lTzD3vizFOrRKM/view) · p976–978
+    - [Bacterial Infections](https://drive.google.com/file/d/1ibeO8W9aOxM7kQqwB1vWFo8TXwEj4i-m/view) · p978–982
+    - [Infestations](https://drive.google.com/file/d/1JSvBfLbCwy5LeQuk6_pHv_zt6IOdGZuO/view) · p982–983
+    - [Common Neonatal Rashes](https://drive.google.com/file/d/15xdDBvsdldplnhkPbfsS_EHib62U9O__/view) · p983–986
+    - [Cutaneous Drug Reactions](https://drive.google.com/file/d/15lroSt_Hj-VTo97UL9sK99CXm-BOZDNu/view) · p986–987
+    - [Erythema Multiforme](https://drive.google.com/file/d/18bSVdWh_PYe043uvbpMr0p2GuWXCLk-N/view) · p987–987
+    - [Kawasaki’s Disease](https://drive.google.com/file/d/12c37xiQpvTcJVFdSaaik5F9di0EgzsfO/view) · p987–988
+    - [Henoch-Schönlein Purpura](https://drive.google.com/file/d/1I7bU9TCcuzxncgQWQxjSWMIiZSovpHs7/view) · p988–989
+- **[143 Sickle Cell Disease in Children](https://drive.google.com/file/d/1CEFZcnJO8CnST6lPp3Tpq8E8n7zs-RHY/view)** · p989–994
+    - [Sickle Cell Anemia Symptoms](https://drive.google.com/file/d/1a57B2oEoaQIivIBEF2hTzcsJedaQUURf/view) · p989–992
+    - [Treatment of Sickle Cell Anemia Symptoms](https://drive.google.com/file/d/1tlhrkFdmOknBXl5m3VOPEWOwQC3IiQtI/view) · p992–993
+    - [Other Procedures](https://drive.google.com/file/d/1Wsj60OkIy_fRkqr9b1-J8qd4e4ys8AAw/view) · p993–993
+    - [Common Outpatient Medications and Treatments](https://drive.google.com/file/d/1X3clWBcH17VRegu0gFHJViGHihSBl9E4/view) · p993–994
+- **[144 Hematologic Emergencies in Infants and Children](https://drive.google.com/file/d/11xpLGPBIM2C6eK0ZHAEXRGFK-Hno20hN/view)** · p994–1000
+    - [Hemophilia](https://drive.google.com/file/d/1Mi1c4XUoMRf6ZkP__fiyriNIW1nFv6-W/view) · p994–997
+    - [Vitamin K Deficiency Bleeding](https://drive.google.com/file/d/1wSUxhcpkS0w0ITDMS4jDb0rNhF5xYqMO/view) · p997–998
+    - [ED Treatment of Severe Anemia](https://drive.google.com/file/d/1Zpc7Y8NZuZUtO96c1JglD_Gp7HIxU06s/view) · p998–999
+    - [Classification of Anemia](https://drive.google.com/file/d/1KTa4457xD8WMlKG6PSV3kaSYiSK5TuxA/view) · p999–999
+    - [Iron Deficiency Anemia](https://drive.google.com/file/d/1DqPPgkxZxw4gJdd2q4cgZcN3krKHbtpv/view) · p999–999
+    - [Parvovirus B19 Infection](https://drive.google.com/file/d/12AgkToijtoxHB5olGJJ8R7J9rUhyelN9/view) · p999–999
+    - [Transient Erythroblastopenia of Childhood](https://drive.google.com/file/d/1tsy7Cgoe6v6CwDzFtxOK2xfB-LcinrDn/view) · p999–999
+    - [Autoimmune Hemolytic Anemia](https://drive.google.com/file/d/1WS4tv9YiWIW0vkm66MlswJfLDVWyh_Wo/view) · p999–999
+    - [Thrombocytopenia](https://drive.google.com/file/d/1rVfW_Fbfn76wlFqw96sSgyI_G65iPYOc/view) · p999–1000
+    - [Immune Thrombocytopenia](https://drive.google.com/file/d/1N9bv9l1b3FcpgqsqKNGO6nAn8xeG9ljS/view) · p1000–1000
+    - [Neutropenia](https://drive.google.com/file/d/1WT37KEW1BadVt7HjCyQYMu_Bj4pwwy9N/view) · p1000–1000
+- **[145 Oncologic Emergencies in Infants and Children](https://drive.google.com/file/d/1SvuEUS6uqqgfMwfjRglyXicdRb35ssOr/view)** · p1000–1010
+    - [Overview](https://drive.google.com/file/d/1ezNNrpl0RGE2CpQGPlBjMsHvaRkR8n2k/view) · p1000–1000
+    - [Leukemia](https://drive.google.com/file/d/1juC9mC0TJZFFE6lrbVfWXquMt9L4c_iA/view) · p1001–1002
+    - [Hodgkin’s Lymphoma](https://drive.google.com/file/d/1RPgrICoTh3-QcG03y6qAWjrqm-4dP4sp/view) · p1002–1003
+    - [Non-Hodgkin’s Lymphoma](https://drive.google.com/file/d/1-eFslveO0zrUPIoR2SJPVrrC5Z7dANOq/view) · p1003–1003
+    - [Central Nervous System Tumors](https://drive.google.com/file/d/1sfUMLS2Y4zqLFegHrm19khzhuAseiq6B/view) · p1003–1003
+    - [Neuroblastoma](https://drive.google.com/file/d/1cOM3Hxf06bIGTOPhUsofr8dCKC-wxuU6/view) · p1003–1004
+    - [Wilms’ Tumor (Nephroblastoma)](https://drive.google.com/file/d/10ZvLpq9b7QRv4tKP4Bc07RFYpJrZmlZ6/view) · p1004–1004
+    - [Retinoblastoma](https://drive.google.com/file/d/1P7oHObM234v01B3ZtQjHhnq6EmqT_Kz-/view) · p1004–1005
+    - [Germ Cell Tumors](https://drive.google.com/file/d/1s5-98qOpCU2nyNz4CFUAlgQmKGX74D44/view) · p1005–1005
+    - [Bone and Soft Tissue Sarcomas](https://drive.google.com/file/d/12ZJDj2p6fKpVXQVA3A10EXQCvIu4Svb0/view) · p1005–1006
+    - [Infection](https://drive.google.com/file/d/1N9RdxuWluNBjmF_ojDQSb8zZ1W1zqdD8/view) · p1006–1007
+    - [Metabolic Complications](https://drive.google.com/file/d/1THHv11lVJh6gdLL_xnqi4qCViuplKn9w/view) · p1007–1008
+    - [Superior Vena Cava and Superior Mediastinal Syndromes](https://drive.google.com/file/d/1a-mITihcsJWTNlMqpOJQM1pmtleHED1_/view) · p1008–1009
+    - [Neurologic Emergencies](https://drive.google.com/file/d/1KpifdZ3FQWvjAd3E-9rh6gFbkLQh7g7x/view) · p1009–1010
+    - [Catheter-Related Complications](https://drive.google.com/file/d/1sD-l48tRpUrS53bORDnTIsAjoNRfwp60/view) · p1010–1010
+    - [Other Complications of Malignancy](https://drive.google.com/file/d/1xEBHUErEh37M9NS-0zKiJGV2PgYoeCzS/view) · p1010–1010
+- **[146 Metabolic Emergencies in Infants and Children](https://drive.google.com/file/d/14NFOER2YOLGANM5CQRXJnXcqFytVFgf5/view)** · p1010–1016
+    - [Overview](https://drive.google.com/file/d/1dQWIkidoqFsd4Tf5A-qJg3vz0tG1HGVP/view) · p1010–1011
+    - [Hypoglycemia](https://drive.google.com/file/d/1mWiJSCFzXJUzE8jkiFRxEn2I-49txPfO/view) · p1011–1012
+    - [Inborn Errors of Metabolism](https://drive.google.com/file/d/1ZeZLI-3m33cHh7dY-LzqX7nPBZ93qMcs/view) · p1012–1015
+    - [Congenital Adrenal Hyperplasia (Adrenal Insufficiency)](https://drive.google.com/file/d/16XYpgSDmZ14x76TE1ZvpWql8PVk88M-e/view) · p1015–1016
+- **[147 Diabetes in Children](https://drive.google.com/file/d/1jtkTYU1QU0p6FeMigZaUlfP1K9zY21lj/view)** · p1016–1020
+    - [Overview](https://drive.google.com/file/d/1saSTTuGg9cocTWv44rqhxZ7S3151oJZc/view) · p1016–1017
+    - [Diabetic Ketoacidosis](https://drive.google.com/file/d/1KZMWptLxsCV9n5MGQ3HKuCIcKvyXMS_r/view) · p1017–1018
+    - [Treatment of Pediatric Diabetic Ketoacidosis](https://drive.google.com/file/d/13ljDBGnGUpUey1_a3hZbTjWhTBpr0d28/view) · p1018–1019
+    - [Cerebral Edema](https://drive.google.com/file/d/1_qxw1F8bMswsp2sEo25iH1IA89TMDpDX/view) · p1019–1020
+    - [Insulin Pump and Diabetic Ketoacidosis](https://drive.google.com/file/d/19W6063dBFK-_gsYh058-zLIKQb7Gx9jc/view) · p1020–1020
+    - [New-Onset Hyperglycemia](https://drive.google.com/file/d/1B3TPzEBxW6awrOfAQ932PZF3Jsc_Au-4/view) · p1020–1020
+    - [Hyperglycemia in Patients with Prediagnosed Diabetes](https://drive.google.com/file/d/1S0Rt9ORJmxy7vBUJKSLblWQtHIYcOAV4/view) · p1020–1020
+    - [Hyperglycemia in Patients Taking Insulin Glargine](https://drive.google.com/file/d/1KFjR849ayk-pt-oQR7LtBPK8NjWXmGjW/view) · p1020–1020
+- **[148 The Child With Special Healthcare Needs](https://drive.google.com/file/d/1PEMlL1W4wMCl3Vrm2-C5XC78QIV7FD2b/view)** · p1021–1027
+    - [Emergency Information Form](https://drive.google.com/file/d/1YKuhK3ytY4TzVlaM82xHylf_ITdUm5uc/view) · p1021–1024
+    - [Technology-Dependent Children](https://drive.google.com/file/d/19KNeEo4xiCW41iVk-odrNgZ95nZ6JIy6/view) · p1024–1026
+    - [Cerebral Palsy](https://drive.google.com/file/d/1kmNWiwV4lUEHCZKHfVk7fyKSS-Utmngs/view) · p1026–1027
+- **[149 Behavioral Disorders in Children](https://drive.google.com/file/d/1ZTQDYybB4H19nxa9_sayxALwPmQ7jHTY/view)** · p1027–1033
+    - [Overview](https://drive.google.com/file/d/1uCjS8BhdM_wls80aHC9vMQ_KJIdnLpix/view) · p1027–1028
+    - [General Goals](https://drive.google.com/file/d/1h3Xizpn-AU1zP0DM9x4bThd5guO-mcAw/view) · p1028–1030
+    - [Management of Psychiatric Presentations](https://drive.google.com/file/d/1it073jRQhjvB8MHfJraHST7msXAcrO3F/view) · p1030–1030
+    - [Suicidal Ideation and Attempts](https://drive.google.com/file/d/1JL9U4NJ9uwRKT0bQIqimxIGOhrnRW7zw/view) · p1030–1032
+    - [Nonsuicidal Self-Injury](https://drive.google.com/file/d/1Q9OO0jDU18tmryOpc__nRYfVYD1xrx-T/view) · p1032–1032
+    - [Aggression](https://drive.google.com/file/d/1d5GBwT8-DVDGeEYOBl7DROi1bttnZFFX/view) · p1032–1032
+    - [Anxiety and Depression](https://drive.google.com/file/d/1XVIwf0SyxucHu_ZpSaxmrkN9TLylstR2/view) · p1033–1033
+    - [Psychosis](https://drive.google.com/file/d/1eoLOpOdCQhN05GnWErrR-0hJWUY35iWF/view) · p1033–1033
+    - [Behavioral Disorders](https://drive.google.com/file/d/1gxSM9My5Xok3NmnZrn6Hyf-tQ_2tZMUO/view) · p1033–1033
+    - [Substance Misuse and Withdrawal](https://drive.google.com/file/d/1J-mSBLgD3OKRXNAl56Tijd4uwX0cT3PQ/view) · p1033–1033
+- **[150 Child Abuse and Neglect](https://drive.google.com/file/d/1c28bizga3SBty5fkiH8m7ywRp4Ozcm1l/view)** · p1033–1041
+    - [Overview](https://drive.google.com/file/d/1RvUugGrzryuwWIgC6tbZkBbgb6MEtIFv/view) · p1033–1034
+    - [Neglect](https://drive.google.com/file/d/13kY4XMCoP4cLMdufW9YRBVSidk9B3ed6/view) · p1034–1034
+    - [Physical Abuse](https://drive.google.com/file/d/1qfEWlK4-Lf_OyhkCM_yIASZ2Af6CsgEn/view) · p1035–1038
+    - [Child Sexual Abuse](https://drive.google.com/file/d/1FozTv4mFmZHLsh9zsnYYCvcBHaWxOalB/view) · p1038–1039
+    - [Caregiver-Fabricated Illness](https://drive.google.com/file/d/1_G9C6at_m5rDbULTzMQItsul-YP8bmIt/view) · p1039–1040
+    - [Reporting](https://drive.google.com/file/d/1WGxybISjBRd3ZSOY62IjDKpdIUQD-6pv/view) · p1040–1040
+
+## SECTION 13 Infectious Diseases
+
+- **[151 Sepsis](https://drive.google.com/file/d/1zM0X3nFtV2mjbyooBZkbWAtr6kk8P6zi/view)** · p1042–1049
+    - [Quick Sequential Organ Failure Assessment (QSOFA)](https://drive.google.com/file/d/15MvaoO2prlyJZTXx5sTCdJrrRiitDXGA/view) · p1042–1043
+    - [Systemic Inflammatory Response Syndrome (Sirs) Prognosis](https://drive.google.com/file/d/1UYG37OyCs1M63Iw_YoT1v5uXzTYzljgl/view) · p1043–1049
+- **[152 Soft Tissue Infections](https://drive.google.com/file/d/1oCv41mMnTTu8f3144TTkJtQAA5Q9l_Hm/view)** · p1050–1058
+    - [Cellulitis and Erysipelas](https://drive.google.com/file/d/1x3d2P0QMSCwO80Whdx6O7WlYwr2xAvbr/view) · p1050–1053
+    - [Cutaneous Abscesses, Furuncles, and Carbuncles](https://drive.google.com/file/d/1fpkkxtKyMyULaanYXSxQWFqTVueWyuRV/view) · p1053–1055
+    - [Necrotizing Soft Tissue Infections](https://drive.google.com/file/d/1n-cHOMtS1Xo_DSD-0v669RJS-TFPWWKe/view) · p1055–1057
+    - [Other Soft Tissue Infections](https://drive.google.com/file/d/1vVBgdi5A8roxYNJ9UvTbpWVY3kAHFDin/view) · p1057–1058
+- **[153 Sexually Transmitted Infections](https://drive.google.com/file/d/16OBuVwvxvMU4RIfOcBrtZ1x50ohKPGn3/view)** · p1058–1069
+    - [Overview](https://drive.google.com/file/d/1T9mhwts9_n-jNGrXnHj6PMh37oLtCLca/view) · p1058–1058
+    - [General Principles for Diagnosis and Screening](https://drive.google.com/file/d/1T1ifPxLX2MEMIVITWTKAkNd-XOqL8MtX/view) · p1059–1059
+    - [General Recommendations for Treatment and Follow-Up](https://drive.google.com/file/d/1g9Asep-LnL2h4b9IH-WNw_l_Imcjk1nk/view) · p1059–1059
+    - [Sexually Transmitted Infections Presenting with Urethritis, Cervicitis, And/Or Discharge](https://drive.google.com/file/d/1RQB6vGINlGuz80gTDmRj8XPJMR8Mneuv/view) · p1059–1063
+    - [Sexually Transmitted Infections Presenting with Genital Ulcers](https://drive.google.com/file/d/16K84FEKaexYTnG5h9Zuffl13H_YG3qFs/view) · p1063–1068
+    - [Viral Sexually Transmitted Infection Transmission](https://drive.google.com/file/d/1YFA0KwN8DG8VTpPIoXY4-dOP2jSQyQGI/view) · p1068–1069
+- **[154 Serious Viral Infections](https://drive.google.com/file/d/1Ry8oIVXoctafPB62FFJ--gSxCx3H_F29/view)** · p1069–1077
+    - [Influenza](https://drive.google.com/file/d/148vxO3-nXZ-ivP7kccJ6depoRyZVOF0i/view) · p1069–1070
+    - [Herpes Simplex Virus Infections](https://drive.google.com/file/d/1CKLqjS9keiqQLM2lH_0exlDzVeraP1JB/view) · p1070–1072
+    - [Varicella and Herpes Zoster](https://drive.google.com/file/d/110c3ukNT3cMeylRMeESZ4dGjfOvgvWBg/view) · p1072–1074
+    - [Epstein-Barr Virus Infection](https://drive.google.com/file/d/1CGplt2C2eWJXZkklrA93-dqF3wZ3Q7h6/view) · p1074–1075
+    - [Cytomegalovirus Infection](https://drive.google.com/file/d/1gR68LiDz-2ua1qKe1m_Wdejear-t-G2w/view) · p1075–1075
+    - [Measles](https://drive.google.com/file/d/1ytuS-E8j7ycyNwwk-PSQcrWF4mGSMqZ_/view) · p1075–1076
+    - [Arboviral Infections](https://drive.google.com/file/d/1fNQeC2HHfqVU_ydAXHw_Jt8yrh0lr8lM/view) · p1076–1077
+    - [Colorado Tick Fever, Heartland Virus, and Others](https://drive.google.com/file/d/1IzS0BV-iElBNhsH8qwzzOGmk7YV7jcaQ/view) · p1077–1077
+    - [Ebola Virus Disease and Other Hemorrhagic Fevers](https://drive.google.com/file/d/1qKxZpn66eT0BKkNlfmTScL7jjkAv_33N/view) · p1077–1077
+- **[155 Human Immunodeficiency Virus Infection](https://drive.google.com/file/d/13H6F5DJi4CdbwjcHjdRLn3NAsyCAlFON/view)** · p1077–1088
+    - [Overview](https://drive.google.com/file/d/1bkkAqyVqDMNGt3YuWBZlnxFufisbqzR8/view) · p1077–1078
+    - [Natural History and Clinical Stages of HIV Infection](https://drive.google.com/file/d/1EuRrN0InrhlDnbD0aTvHNn9ZQfr6eAd1/view) · p1078–1080
+    - [Neurologic Complications](https://drive.google.com/file/d/1BMyR9gavoqYW-AoBBoDzzEIlqrjDOo-M/view) · p1080–1082
+    - [Psychiatric Disorders](https://drive.google.com/file/d/14Y1bJ7c8rEWBxIpebwq84y1c6zdyKzkK/view) · p1082–1082
+    - [Ophthalmic Complications](https://drive.google.com/file/d/1qk-ZIXtR7N4UAWzv0Qm70uhxQgSrRwUi/view) · p1083–1083
+    - [Pulmonary Complications](https://drive.google.com/file/d/15XpGZcVN4JA44oGnQd_-JQPIhSyupld2/view) · p1083–1084
+    - [Cardiovascular Complications](https://drive.google.com/file/d/1ZYktp_PWllCT5oB1hj-VtVI6Aew8Ks-L/view) · p1084–1084
+    - [Renal Complications](https://drive.google.com/file/d/1-GW-1yAN1m3OAnd1xS179YURH3AeUrFj/view) · p1084–1084
+    - [GI Complications](https://drive.google.com/file/d/1rl2phRSeJkTDf1jFK4znH1Qd8dvIdjbL/view) · p1084–1085
+    - [Cutaneous Complications](https://drive.google.com/file/d/1XSADKKagZ6E8yo0riEi-wQnVpFn_eRZh/view) · p1085–1086
+    - [Sexually Transmitted Infections](https://drive.google.com/file/d/1sWByy8o-ajbRa9nr0IAThvGobIXPuX_c/view) · p1086–1086
+    - [Immunization of Hiv-Infected Patients](https://drive.google.com/file/d/1Lz042SKqPe8FCCmJasj-hC5KsxjSJULD/view) · p1086–1086
+    - [Antiretroviral Therapy](https://drive.google.com/file/d/1h51dzNpZE8vBvv0lI1NK-iKXTShtnoAA/view) · p1086–1086
+    - [Drug Interactions and Adverse Effects in Hiv-Infected Patients](https://drive.google.com/file/d/1yt7nBWIh6mvJNkOvvrOiiBQYH6P_Y2RL/view) · p1086–1088
+- **[156 Endocarditis](https://drive.google.com/file/d/1Qj8poJNSvGd0dGshQyYfchsPl1V1SI5k/view)** · p1088–1093
+    - [Overview](https://drive.google.com/file/d/1Fpa9LhhsgUNHc89TCoKduR0rHh-W8p9o/view) · p1088–1089
+    - [Microbiology](https://drive.google.com/file/d/1Kdn6JK52_KiJjPqcx7nTFkP9Sy0EKc3K/view) · p1089–1090
+    - [Fever](https://drive.google.com/file/d/1RQhvwPoKTCe4WzaMCBp3QSiQTPEVuV_i/view) · p1090–1090
+    - [Cardiac Manifestations](https://drive.google.com/file/d/1ybqh-EEbI0hoRTQvHkzjWcDkKhsGLfCd/view) · p1090–1090
+    - [Neurologic Manifestations](https://drive.google.com/file/d/1TnOI7nNMuUONiV4ovyQm6Cu04sBzC18m/view) · p1090–1090
+    - [Arterial Embolization](https://drive.google.com/file/d/1b0-xp4uGmo0TS2cnDaEpVPN2RgmFXMo3/view) · p1090–1090
+    - [Cutaneous Findings](https://drive.google.com/file/d/1E0FppQxdFyUyczF05ElhI71lcq2Cx_0l/view) · p1090–1090
+    - [Blood Cultures](https://drive.google.com/file/d/16qLYy-CicIEiDBPo1A5l1RjtuIJZzm6r/view) · p1090–1091
+    - [Other Diagnostic Tests](https://drive.google.com/file/d/1BQ7fRcIQgpHr2XmpPnIcrlr-Twpr9poc/view) · p1091–1091
+    - [Echocardiography](https://drive.google.com/file/d/19AoThnWpnWPVMKuncLFx5cDCNYJxPF_b/view) · p1091–1091
+    - [Initial Stabilization](https://drive.google.com/file/d/1nWGO_Y3JohvAm2E6FUW2h2GWMiR0EF-k/view) · p1091–1092
+    - [Empiric Treatment of Suspected Endocarditis of Native Valves](https://drive.google.com/file/d/1dq8POW0WboYRlnGXdcUiPf3_KcldRawT/view) · p1092–1092
+    - [Empiric Treatment of Suspected Prosthetic Valve Endocarditis](https://drive.google.com/file/d/1toiGSJyKAyPaxkyMCcX-Dq2iXp_2SYYp/view) · p1092–1092
+    - [Definitive Treatment of Endocarditis](https://drive.google.com/file/d/1XeUVgsGPTT5w9QgLW_fG8PxK7XgeNIfN/view) · p1092–1092
+    - [Endocarditis Prophylaxis](https://drive.google.com/file/d/1xvmVm-YyOvSMdO-pVR933istxIri3TJK/view) · p1092–1093
+    - [Risk of Endocarditis Recurrence](https://drive.google.com/file/d/1SeanPOLTreltaouMfISmROT8D0Bvp1QO/view) · p1093–1093
+- **[157 Tetanus](https://drive.google.com/file/d/1PwO8HaaoUsKEFna4XzNgOzQEiv7znNog/view)** · p1093–1096
+    - [Overview](https://drive.google.com/file/d/1SEbQsVQf3J_yhFwDq5N6LO8ReyA8sFEi/view) · p1093–1094
+    - [Tetanus Immunoglobulin](https://drive.google.com/file/d/1DBU0yebpmgSdkR05Ty8zp3JCNkVrvprU/view) · p1094–1095
+    - [Antibiotics](https://drive.google.com/file/d/1eNTOGhlIBIlf6OUxok7HUw1nMDuRv31t/view) · p1095–1095
+    - [Muscle Relaxants](https://drive.google.com/file/d/13FcAeHvHENfIrUqqEy6I2mZLpXifp-lc/view) · p1095–1095
+    - [Neuromuscular Blockade](https://drive.google.com/file/d/1RnFc_4wWwgE7Acf9QLJ9hDyxIi0Tu7gM/view) · p1095–1095
+    - [Treatment of Autonomic Dysfunction](https://drive.google.com/file/d/1LOawpwDB3Qw7bVbCApmGvyNXCcpRaygu/view) · p1095–1095
+    - [Tetanus Immunization](https://drive.google.com/file/d/1tcq1sGCU6N4e4n2zqnQN_Lz8A96hwXgr/view) · p1095–1096
+- **[158 Rabies](https://drive.google.com/file/d/1pqcTQRJ7D_iIW5TV9Lscq4jddakBZI7q/view)** · p1096–1102
+    - [Preexposure Prophylaxis](https://drive.google.com/file/d/1PtXjieqiAbGgT-NV6Us0u7rbUIsdkCHz/view) · p1096–1096
+    - [Postexposure Prophylaxis](https://drive.google.com/file/d/1RIY-Ha-hfblnzKJetFNBRSiukiKMoZFQ/view) · p1096–1100
+    - [World Health Organization Postexposure Prophylaxis Guidelines](https://drive.google.com/file/d/1N6lQY7nBG5SQEtEjMbfZiWW7NQQGtRm-/view) · p1100–1101
+    - [Clinical Rabies](https://drive.google.com/file/d/1PGrgNjHUVYU3Fguj3GlYJTvDQArJTBx9/view) · p1101–1102
+- **[159 Malaria](https://drive.google.com/file/d/1LFbD9gafRAScY_0vebH9_102WvzeZmeW/view)** · p1102–1108
+    - [Overview](https://drive.google.com/file/d/1HBMOE_tcr9M7mH_iIUnW1P2ZE2fYQOyY/view) · p1102–1103
+    - [Incubation Period](https://drive.google.com/file/d/1AcL0wGiZs224DsPrY54v39L5u6j151QK/view) · p1103–1104
+    - [Uncomplicated Malaria](https://drive.google.com/file/d/1ORx5-yEDUVLi1l43TdHF0m-hr8ndFP8Y/view) · p1104–1104
+    - [Severe (Complicated) Malaria](https://drive.google.com/file/d/1s7_jf9g9GO50YxXy2lpSK_EAl4oBuDVu/view) · p1104–1105
+    - [Thick Blood Film](https://drive.google.com/file/d/10W5LkEZ_qX8yN2vbns6OXxf8UMkDAX_m/view) · p1105–1105
+    - [Thin Blood Film](https://drive.google.com/file/d/1wOB3i6FF_cZXCUqa6-V_tnZQJVKYwbsG/view) · p1105–1105
+    - [Additional Diagnostic Techniques](https://drive.google.com/file/d/1UX0r7dW9JVN1HAAbADVaEnStZv96twh7/view) · p1105–1105
+    - [Additional Laboratory Studies](https://drive.google.com/file/d/1ywEJZApyWgNDY3R4m8SZE6PwJbpoYqCa/view) · p1105–1105
+    - [Uncomplicated (Nonsevere) Malaria Due to P. Falciparum](https://drive.google.com/file/d/1-_RW_5LhBYlld-VaSbNej4COMTFfIP-p/view) · p1105–1106
+    - [Uncomplicated Malaria Due to P. Vivax, P. Malariae, P. Ovale, or P. Knowlesi](https://drive.google.com/file/d/1882q1S63myehqjs2ygwx8mYFzSCDGg5e/view) · p1106–1107
+    - [Severe (Complicated) Malaria](https://drive.google.com/file/d/1_tFofu-Tt8wFgAgaxewgX5qSjq5Ks1jK/view) · p1107–1107
+    - [Rates of Parasite Clearance](https://drive.google.com/file/d/1mWH-p-i-0EHnuFanAqH9oWt2KyALZ1zM/view) · p1107–1107
+    - [Pregnancy](https://drive.google.com/file/d/16RoYYOfPDWfV6WrGoo-9jy__ZyGClFWW/view) · p1107–1108
+- **[160 Food and Waterborne Illnesses](https://drive.google.com/file/d/18lGuwIThU60W9_v5Ck1Yv43qLjOK79oF/view)** · p1108–1115
+    - [Foodborne Illnesses](https://drive.google.com/file/d/1rAjtrfw2SOxZ1i__HBl573efAZJtOqSt/view) · p1108–1112
+    - [Bacteria and Waterborne Illness](https://drive.google.com/file/d/1CXYVYpXz6IHyrrJIRB-FDxJyWiSvUiA4/view) · p1112–1113
+    - [Protozoa and Waterborne Illness](https://drive.google.com/file/d/13HNNla1yo9e4FW7COilRNsDy7TipSXXT/view) · p1113–1114
+    - [Enteric Viruses and Waterborne Infection](https://drive.google.com/file/d/1wMExtopMBOnFRE974DNoKUGfWpAzBkzr/view) · p1114–1114
+    - [Clinical Features of Waterborne Infections](https://drive.google.com/file/d/1RbUHB2CdbMIrI8agXNBwf5HQLnkNQEG0/view) · p1114–1115
+- **[161 Zoonotic Infections](https://drive.google.com/file/d/11oHa0p38gnnzH9jjo_WMiQvEEeh15s8H/view)** · p1115–1124
+    - [Tick-Borne Infections](https://drive.google.com/file/d/1AmfG8Mb8LflAGMLUs2XB2UgxUNnPqeSv/view) · p1115–1116
+    - [Tick Removal, Prophylactic Treatment, and Prevention of Tick Bites](https://drive.google.com/file/d/14DGi8kL2moX_kyHio-BJGQ_hJw2mpRgP/view) · p1116–1116
+    - [Rocky Mountain Spotted Fever](https://drive.google.com/file/d/1nLUY5qqECzhbK3TPZfxpcQzXaY8UeVpy/view) · p1116–1117
+    - [Tick Paralysis](https://drive.google.com/file/d/1xOlsDF6x20pZFM2_rmvftukEUp1RjdcJ/view) · p1117–1117
+    - [Lyme Disease](https://drive.google.com/file/d/1O_2llj8lz5gExHH83fmLIbkn_jVmXvDB/view) · p1117–1118
+    - [Ehrlichiosis and Anaplasmosis](https://drive.google.com/file/d/17lrMx9pR6MUhXq-FizRQnL1XdNitozZ5/view) · p1118–1119
+    - [Tick-Borne Relapsing Fever](https://drive.google.com/file/d/1UFfTIGeWXkTjg3zVvz_OuLmBK7YReDdZ/view) · p1119–1119
+    - [Colorado Tick Fever](https://drive.google.com/file/d/1asNH9OzhcUB8zI3_iLIktW7MyExwY1CP/view) · p1119–1119
+    - [Southern Tick-Associated Rash Illness (Star)](https://drive.google.com/file/d/1TVwhiBuq9P_wccVa9Kj76ChDoQ67JxLg/view) · p1119–1119
+    - [Tularemia](https://drive.google.com/file/d/1SeyiachuEylXUVcKhnOXhuqmDr1lQYz6/view) · p1119–1119
+    - [Babesiosis](https://drive.google.com/file/d/1gD84HkAhs-vGZ_ByKXxK3MMU7fwn_ENi/view) · p1119–1120
+    - [Zoonotic Encephalitis and Meningitis](https://drive.google.com/file/d/1BWtECF_uM6ZuiUEOF6jcyJtLl_8snyW_/view) · p1120–1120
+    - [Anthrax](https://drive.google.com/file/d/1lZ4NYAdNiPRreJhuxzmQfzmAA0WH-LLf/view) · p1121–1121
+    - [Brucellosis](https://drive.google.com/file/d/18hLC1s22yOeLbYv8lYUgl_lTw2HA6EeE/view) · p1121–1121
+    - [Psittacosis](https://drive.google.com/file/d/1f6DpaI5ovYmPmwp3B7or1HBCKDdcRCge/view) · p1121–1121
+    - [Q Fever](https://drive.google.com/file/d/1uZxgMxsW1lxeRIMMUgWkRlDf_B_B9QjA/view) · p1121–1121
+    - [Pasteurellosis](https://drive.google.com/file/d/1kDVAnP62gz_o1Y_x_w6N_ZlLxzzXTLpy/view) · p1121–1121
+    - [Pulmonic Plague](https://drive.google.com/file/d/1QJiToXZ9BkNg7zhAkgJloJfZzYeQQ_N1/view) · p1121–1123
+    - [Hantavirus](https://drive.google.com/file/d/1GYiAH_okYfsqpUMwdohNrajPLcu7-K2Y/view) · p1123–1123
+    - [Bacterial and Viral Zoonotic Skin Infections](https://drive.google.com/file/d/1jYLdKfvbFuOQCSy5KvDrNg6IrslIWO6u/view) · p1123–1123
+    - [Cutaneous Anthrax](https://drive.google.com/file/d/1q4U7ravqlXaFu-9tf6zD8ZnbcO6lkfIQ/view) · p1123–1123
+    - [Helminths (Worms)](https://drive.google.com/file/d/1Ge3NtnvUyg99S7jCqq8XPFhFE5IdpcHg/view) · p1123–1124
+    - [Protozoa](https://drive.google.com/file/d/1EVUw2MUW7Z2FIoUY0OLfMfKC3lG4UR1i/view) · p1124–1124
+    - [Immunocompromised Patients](https://drive.google.com/file/d/1flsbdTh4vn9re1OI7uWqVimIvHr_k_cn/view) · p1124–1124
+- **[162 Global Travelers](https://drive.google.com/file/d/1f5QqFUCvifaRnJC40GlPxZsKyzoNoFAP/view)** · p1124–1137
+    - [Overview](https://drive.google.com/file/d/1D6kDmv-OigtQz6fR4-kOY2ibpUSZ254B/view) · p1124–1125
+    - [Initial Evaluation of the Returning Traveler](https://drive.google.com/file/d/1RLs1J47f5Lsbmvmj9UOb_zpzbMRE-taw/view) · p1125–1126
+    - [Malaria](https://drive.google.com/file/d/1hFIbEvy8iBbTviwqZ-BbWB4LFZnAjiRD/view) · p1126–1126
+    - [Dengue Fever](https://drive.google.com/file/d/1YyGBeWO2UJVry0UmwlggZcNSEOrJnhp1/view) · p1126–1127
+    - [Typhoid Fever](https://drive.google.com/file/d/1xopAVHYSh2TzsKLlcHc-Vn_OXesQzc9N/view) · p1127–1129
+    - [Rickettsial Spotted Fevers](https://drive.google.com/file/d/1FjT3d3azaYF9CCmNz9XBo8iB5b_hMgnB/view) · p1129–1129
+    - [Leptospirosis (Weil’s Disease)](https://drive.google.com/file/d/1R5nvhWJVIczGjbx0rAApkVk2y1Km01qB/view) · p1129–1129
+    - [Zika Virus](https://drive.google.com/file/d/1HWzmCjzHz_ct_VGM6CBh9-3MuJ5FY45E/view) · p1129–1130
+    - [Chikungunya Fever](https://drive.google.com/file/d/1bMgFBOAbWbrpQt1OEHz0eNXyGL7xpvpV/view) · p1130–1130
+    - [Relapsing Fever](https://drive.google.com/file/d/1Z6DN50Atb4QL9xmu5mSf9lmTYqQT--qM/view) · p1130–1130
+    - [Yellow Fever](https://drive.google.com/file/d/1-I14n0VYeNbLOybgfXZUHxKZQ5C821ZM/view) · p1130–1130
+    - [Ebola and Marburg Viruses](https://drive.google.com/file/d/1WmeNDAZcA8tF7DreTR5HQQmSr8UFhZtw/view) · p1130–1130
+    - [Crimean-Congo Hemorrhagic Fever](https://drive.google.com/file/d/1wFfhtoyMY49AcOEIZiFaE0lGCvATvRdl/view) · p1130–1131
+    - [Lassa Fever](https://drive.google.com/file/d/1EA-nT7zYpU_4oNaHB9cfdxT5LbExXq5y/view) · p1131–1131
+    - [Japanese Encephalitis](https://drive.google.com/file/d/1zho8UPbRiNmVcdd3LMgPGHWCPCPvjmNi/view) · p1131–1131
+    - [Cysticercosis](https://drive.google.com/file/d/17wHqrxNjjtUEgPY2OTOVilbEns_z4n2J/view) · p1131–1131
+    - [Human African Trypanosomiasis (African Sleeping Sickness)](https://drive.google.com/file/d/1eRIaKdJT4w5oFR_ArjTXU5ztnnbQLTxi/view) · p1131–1132
+    - [American Trypanosomiasis (Chagas’ Disease)](https://drive.google.com/file/d/1rcbQTU-HFo7r3FJhyNJ0gy6ue-uA8hgK/view) · p1132–1132
+    - [Leishmaniasis (Visceral)](https://drive.google.com/file/d/1g9dS3iDMB7mGanX8wWCP5exRXsQlutkb/view) · p1132–1132
+    - [Schistosomiasis (Bilharzia or Snail Fever)](https://drive.google.com/file/d/1QnLhTvcXgUq541bugV15IaSc7t5K0rkP/view) · p1132–1132
+    - [Amebiasis](https://drive.google.com/file/d/1agvw_Nc0CT1hqY3zoZg7b5QZq6eGXtux/view) · p1133–1133
+    - [Giardiasis](https://drive.google.com/file/d/1yKG2emH62cSrL_t8yTFor5qD0CaTLCR5/view) · p1133–1133
+    - [Cholera](https://drive.google.com/file/d/15S0ovjqx5WY4BtVsHs-jNcrzTAPLd80z/view) · p1134–1134
+    - [Ascariasis (Roundworm)](https://drive.google.com/file/d/1sj-qmmpI0bVp44_6UVKZn1yxPz0k7eXq/view) · p1134–1135
+    - [Enterobiasis (Pinworm)](https://drive.google.com/file/d/1_D6lK8PY5j-Zuj6QHZIm5_cJQj3DsjjL/view) · p1135–1135
+    - [Trichuris (Whipworm Disease)](https://drive.google.com/file/d/1Jq8kU8fWsMYRUd6kLU_A8szREHQ76TEy/view) · p1135–1135
+    - [Hookworm](https://drive.google.com/file/d/1GSEETj7j_ju23KSQWtJAQ37qoeN7SA1_/view) · p1135–1135
+    - [Cestodes (Tapeworms)](https://drive.google.com/file/d/1bkJOezLkeSSezAXxrRcEoJSBZynwXmbz/view) · p1135–1135
+    - [Strongyloides](https://drive.google.com/file/d/1asRTTkDgX64jmYRJtHjnUa-Fb0mQdzOH/view) · p1135–1135
+    - [Diseases Commonly Associated with Eye or Skin Complaints](https://drive.google.com/file/d/14JJ3HhizlaBKYwX2drFnG_1heCM6wCL7/view) · p1135–1136
+    - [Filariasis: Onchocerciasis and Loa Loa](https://drive.google.com/file/d/1jIGs6vv0zw8hjSTpN22CjcWMBBmK83Uz/view) · p1136–1136
+    - [Creeping Eruption (Cutaneous Larva Migrans)](https://drive.google.com/file/d/1GsYm3aXMzhu4uVl2ROPjsoB9ffNIImc5/view) · p1136–1136
+    - [Cutaneous Leishmaniasis](https://drive.google.com/file/d/1WpDKJ2I41DbPupZWZzHRQGpdSrz0VumN/view) · p1136–1136
+    - [Lymphatic Filariasis](https://drive.google.com/file/d/1NrnK9MdGR5OoWDidbykiLIR85BAC3IEb/view) · p1136–1136
+    - [Diseases Commonly Associated with Pulmonary Complaints](https://drive.google.com/file/d/19Ahqfbz5maxKSMgKpa8oe4Sf9uQP-8Vs/view) · p1136–1137
+    - [Coronavirinae: Severe Acute Respiratory Syndrome and Middle East Respiratory Syndrome](https://drive.google.com/file/d/1IXWtKkuw4cn63Mevb-9aIJO1cWybCbr6/view) · p1137–1137
+    - [Tuberculosis](https://drive.google.com/file/d/1ajW_QpWyWAaK39fLzOWKFQAwjTudjQ_4/view) · p1137–1137
+    - [Paragonimiasis (Lung Fluke Disease)](https://drive.google.com/file/d/1IrewlggV_xQorw6bxYlZ4YxAi-RoNGah/view) · p1137–1137
+- **[163 Occupational Exposures, Infection Control, and Standard Precautions](https://drive.google.com/file/d/12667phI_nytMaY84Z7_Jx4ED7LeiJ-9h/view)** · p1137–1145
+    - [Overview](https://drive.google.com/file/d/1IEuuWqiww9Eo0WdIePwQGKyXP-RN8j-N/view) · p1137–1138
+    - [Portals for Exposure](https://drive.google.com/file/d/1o5L6CRpYUysPDPKwepdz4hucHAa8mlnc/view) · p1138–1138
+    - [Infection Control](https://drive.google.com/file/d/1v0tpX7iTx-DMO-0FPGY3pHUXy5L18r_G/view) · p1138–1138
+    - [Exposure to Hepatitis B, Hepatitis C, and Human Immunodeficiency Virus](https://drive.google.com/file/d/1IcThsMA1tZQP5LHJyWVbE5kNno5GMkUK/view) · p1138–1141
+    - [Other Common Occupational Exposures](https://drive.google.com/file/d/1BTRUpPSui4tSzmoU0wZnjUdeHW9P-kGi/view) · p1141–1141
+    - [Infection Precautions](https://drive.google.com/file/d/1vXYkm0GfMfnztTYK7VJSJld2rTVSTL-J/view) · p1141–1144
+    - [Latex Allergy](https://drive.google.com/file/d/1uuOKGohrRNQKvwZoectldXaCSpasG63X/view) · p1144–1144
+
+## SECTION 14 Neurology
+
+- **[164 Neurologic Examination](https://drive.google.com/file/d/1uhGYEF9_n6-Tk76rDl2EuLzS7wZlSdnN/view)** · p1146–1151
+    - [Organizational Framework](https://drive.google.com/file/d/1CL7_V_q3oaSqq5KGJyKzJUcWbIIsZS2l/view) · p1146–1146
+    - [Mental Status Testing](https://drive.google.com/file/d/13H6syqDoZvpfmiULuiD_jiMeoVcYPeaQ/view) · p1146–1146
+    - [Higher Cerebral Functions](https://drive.google.com/file/d/1w60rbNebH67kjOyiF-F0uL_AHLkqUV_7/view) · p1146–1147
+    - [Cranial Nerves](https://drive.google.com/file/d/14vv4B_exLNztCcwpvvr_TNv-y5WiOjX3/view) · p1147–1148
+    - [Sensory Examination](https://drive.google.com/file/d/14hwRSbs4BPwVv5nZOr8wfgQOPzoACCoA/view) · p1148–1148
+    - [Motor System](https://drive.google.com/file/d/1elFtNh1uoL_2Uz6VTqoMXgktRo8ER3Pg/view) · p1148–1150
+    - [Reflexes](https://drive.google.com/file/d/1u3zn1z80o_036BZnnuz-LCaYZoEPDabM/view) · p1150–1151
+    - [Cerebellar Testing](https://drive.google.com/file/d/1LjYow6Ddt1xtdRgpRX-AC7IEyPZvcrLG/view) · p1151–1151
+    - [Gait and Station](https://drive.google.com/file/d/1UGb8uI6cFIY8IKNAzuZD_uMgRvPLZKVS/view) · p1151–1151
+- **[165 Headache](https://drive.google.com/file/d/1y6eBkieo3lZzUqCl2Furd-JoqX1olMPC/view)** · p1152–1159
+    - [Overview](https://drive.google.com/file/d/1xwMLHjrbJLAhSWfNebtoAGVRX7J2n4EX/view) · p1152–1154
+    - [Lumbar Puncture](https://drive.google.com/file/d/1m-9WX_vNfmZcuBNdsp1bROTyH7eAfJnX/view) · p1154–1154
+    - [Specific Causes of Headache](https://drive.google.com/file/d/1Xao2ZwH7Bg-REMBM1_MnUwcXAkCTwFwV/view) · p1154–1154
+    - [Meningitis/Encephalitis](https://drive.google.com/file/d/1lDmdOmmNGsA6CfMHhy0vxE4S1XGJCR9w/view) · p1154–1155
+    - [Subarachnoid Hemorrhage](https://drive.google.com/file/d/1_qwgKJ04AiYXOHVK1qMSoQQ87rwm-pAA/view) · p1155–1155
+    - [Subdural Hematoma and Intracerebral Hemorrhage](https://drive.google.com/file/d/15_GtIlA993NUKhI-mCKKQTNYpJnsV_xo/view) · p1155–1155
+    - [Brain Tumor](https://drive.google.com/file/d/1Dyr8AAY4bEilpiOMVzvA58A29H0FO3k2/view) · p1155–1155
+    - [Cerebral Venous Thrombosis](https://drive.google.com/file/d/1D8hCrRFxuIjaDZxr_btbx22tSgptxB9b/view) · p1155–1155
+    - [Posterior Reversible Encephalopathy Syndrome](https://drive.google.com/file/d/1hUlSARlEeQwsTa42JhOYi4y42OpkbxXm/view) · p1155–1155
+    - [Reversible Cerebral Vasoconstriction Syndrome](https://drive.google.com/file/d/1V26sgyJeotHDpE01dmkTe5DWLtApmaU6/view) · p1155–1156
+    - [Temporal Arteritis](https://drive.google.com/file/d/1pofWk9YCaBSaewrKJ_BaxZa35vZJYUBI/view) · p1156–1156
+    - [Migraine](https://drive.google.com/file/d/1xGSI6Wr_vNRN9tADD6FqtbWjvKVZlWpu/view) · p1156–1156
+    - [Occipital Neuralgia](https://drive.google.com/file/d/1OrjxNt2Jbn7ozi-5ycmSq47Zu0bofAjM/view) · p1156–1156
+    - [Idiopathic Intracranial Hypertension (Pseudotumor Cerebri Syndrome)](https://drive.google.com/file/d/1EG9_4BHy7ycvIQ3KNKgFV6snhq1lHpFf/view) · p1156–1157
+    - [Intracranial Hypotension](https://drive.google.com/file/d/1Ni5TuBftGBPBuBjiV2XsNinlS9mrHdmN/view) · p1157–1157
+    - [Carcinomatous Meningitis](https://drive.google.com/file/d/1M0BWEG_3GhN23tOJXH0IDWtcPnGj07aQ/view) · p1158–1158
+    - [Cluster Headache](https://drive.google.com/file/d/1isO1ww5scblV2GKKJcWa-zG5AvtpPH7c/view) · p1158–1158
+    - [Hypertensive Headache](https://drive.google.com/file/d/1HoyCTh_66eG_sTX_FLISrlSYxtSGFgLJ/view) · p1158–1158
+    - [Metabolic Causes of Headache](https://drive.google.com/file/d/16NhJD6xlWQquqQQJYFtKe4_4jJK6o3rg/view) · p1158–1158
+    - [Carotid and Vertebral Artery Dissection](https://drive.google.com/file/d/1HsjHodT4CwucEtBeDjPzqz2k7iWn8Qsi/view) · p1158–1158
+    - [Carbon Monoxide Toxicity](https://drive.google.com/file/d/1wn2uRJdtF7PjcBcBOBt6MN9nTFvVDJQj/view) · p1158–1158
+    - [Pituitary Apoplexy](https://drive.google.com/file/d/1VNt9eRcf08-Tjnwu6oHZUA-JI_Lc2L7n/view) · p1158–1158
+    - [Third Ventricle Colloid Cysts](https://drive.google.com/file/d/1S1ez3cK_LsoZy-UxuPgNET4gxxRZyDDD/view) · p1158–1159
+    - [Acute Angle-Closure Glaucoma](https://drive.google.com/file/d/1P2Kias7fI4nF3EQ3nMrWth-qtakhZlN9/view) · p1159–1159
+    - [Preeclampsia](https://drive.google.com/file/d/1UPOi00NtbhTE5JyMHVieByqD9W9xmUo1/view) · p1159–1159
+    - [Other Causes](https://drive.google.com/file/d/1kYUW5sHSwn-aXzUEKn7TGf8HROEaCnJ4/view) · p1159–1159
+- **[166 Spontaneous Subarachnoid and Intracerebral Hemorrhage](https://drive.google.com/file/d/18EM1xEwLMnWeh9Xum7RvU9ysWJNnexiV/view)** · p1159–1163
+    - [Subarachnoid Hemorrhage](https://drive.google.com/file/d/1m8UNdCwUHsYYjqFf0jzhAH0HZb9PaaQs/view) · p1159–1162
+    - [Intracerebral Hemorrhage](https://drive.google.com/file/d/1dC5jO2MComZHx3pgDZo8alNGgTfX2m3C/view) · p1162–1163
+- **[167 Stroke Syndromes](https://drive.google.com/file/d/1RChzcIX5A9xe8h6vdBteSoGDDRbVrJbR/view)** · p1164–1181
+    - [Overview](https://drive.google.com/file/d/13IV9dmaBNvln0F7R0c3ELPeIYv6LSVo_/view) · p1164–1167
+    - [Anterior Cerebral Artery Infarction](https://drive.google.com/file/d/1C6LxDjyUSwNqXIgxieXSIIvaHQbRKrfR/view) · p1167–1167
+    - [Middle Cerebral Artery Infarction](https://drive.google.com/file/d/1VM3sZjUtsjv2GxKoe9zVt38ArNIhwxZj/view) · p1167–1169
+    - [Posterior Cerebral Artery Infarction (Distal Posterior Circulation)](https://drive.google.com/file/d/1KdSZ-PX-YzimLZX-jYCujZoFEEwjG68N/view) · p1169–1169
+    - [Basilar Artery Occlusion (Middle Posterior Circulation)](https://drive.google.com/file/d/1Hqn-wzNB65uSku1fFYBrblaXCsk6u_p8/view) · p1169–1170
+    - [Vertebrobasilar Infarction (Proximal Posterior Circulation)](https://drive.google.com/file/d/1FWcT3HhijuKS37gU78-s8NWKaTti68B2/view) · p1170–1170
+    - [Cerebellar Infarction](https://drive.google.com/file/d/1RdB6IEwd_Q1rgGfpCx-rVi8H8LBA4Plr/view) · p1170–1170
+    - [Lacunar Infarction](https://drive.google.com/file/d/18ndyUUBit5hkdQmKvuRgCjW3BKnVJ476/view) · p1170–1170
+    - [Carotid and Vertebral Artery Dissection](https://drive.google.com/file/d/15ybqBBpuHDsN0MYCt25kpHl1B721LdKL/view) · p1170–1171
+    - [Initial Diagnostic Evaluation](https://drive.google.com/file/d/19FSAX3CLYFe1M_zF216IE-BeYWxyVWY4/view) · p1171–1171
+    - [Brain Imaging](https://drive.google.com/file/d/19InMqaWfefZG9vns3kT_dlvODdcOTn9q/view) · p1171–1173
+    - [Standard Treatment](https://drive.google.com/file/d/1uPPq28H4Z6NFDSaF4WPXmwqPZ-67e_0K/view) · p1173–1173
+    - [Blood Pressure Control in Stroke](https://drive.google.com/file/d/1QhvFveNFrQ6JJQSbK9nuCSM1yTx9z81e/view) · p1173–1173
+    - [Hyperglycemia](https://drive.google.com/file/d/1vZVHrsmHG593EQzZbQMlZUk-aA-qcR9A/view) · p1173–1174
+    - [Antiplatelet Therapy](https://drive.google.com/file/d/1uMe_wxCCOSVGj61J5JVm0ETHbwpjKal7/view) · p1174–1174
+    - [NINDS Study](https://drive.google.com/file/d/112VZ2zVTRZ-fZ-Z80ALMFn7f0KzYd4z9/view) · p1174–1174
+    - [Subsequent Thrombolytic Trials](https://drive.google.com/file/d/1y5eCdJfD99dg2Q2d7xKM29hfrUGNIoB5/view) · p1174–1176
+    - [Thrombolysis: Indications, Exclusions, Dosage, Monitoring, and Complications](https://drive.google.com/file/d/15WwXbsEUebnNdbvjxsp1E5FoLIs7JPhx/view) · p1176–1177
+    - [Endovascular Therapy](https://drive.google.com/file/d/1J9qUKZEfKLdLd2kqGhseVODM4Tqe-v0V/view) · p1177–1179
+    - [TIA Diagnosis](https://drive.google.com/file/d/1Sq0ArQlZtXOrdQN2Qm9D2xXUigOgOXeP/view) · p1179–1180
+    - [TIA Treatment](https://drive.google.com/file/d/1q00vULDqRDLCBL5zoRg4fcWut-TXY_zO/view) · p1180–1180
+    - [TIA Risk Stratification and Disposition](https://drive.google.com/file/d/1jyA0TuwXyWRm2VeDlXoHN_ytGtXLLeHe/view) · p1180–1181
+    - [Stroke or TIA with Concurrent Acute Myocardial Infarction](https://drive.google.com/file/d/1CEmCvxJL2GL5NdfkNvWAhOQBY4foDXLl/view) · p1181–1181
+    - [Sickle Cell Disease](https://drive.google.com/file/d/1HTiqN160_eb-981-d_2ajrWKp2fHiPsR/view) · p1181–1181
+    - [Young Adults](https://drive.google.com/file/d/1rTG46IT_sK-EkzwCIZrw2IIf68efvA8w/view) · p1181–1181
+- **[168 Altered Mental Status and Coma](https://drive.google.com/file/d/1f2jadqzvgObFGg30wwJdwxCipj2pHYG3/view)** · p1182–1187
+    - [Delirium](https://drive.google.com/file/d/1mNRwK_vOUWGuhGlKF2SuPCl0Ty01UG0B/view) · p1182–1183
+    - [Dementia](https://drive.google.com/file/d/1UKf8yVdbid3xrR3f8LHJ7WOorskjFh9w/view) · p1183–1185
+    - [Coma](https://drive.google.com/file/d/1gyfWNvyi32hIx-WQvJ5FdUt3d_XsiLOV/view) · p1185–1187
+- **[169 Ataxia and Gait Disturbances](https://drive.google.com/file/d/1UE1PM9ryhGf7a3xrGEeLtIptk6ldPAQ1/view)** · p1187–1190
+    - [Overview](https://drive.google.com/file/d/1nmpaH79WPZGXAljIS9vCXZBIbbNCx9vV/view) · p1187–1188
+    - [Motor Ataxias](https://drive.google.com/file/d/1EcZG7nVq41YFX5M0ReHYAWLpYSgc15lA/view) · p1188–1188
+    - [Sensory Ataxias](https://drive.google.com/file/d/1SHocvuadhCswh_M7dmh06b0oV2YzkCpL/view) · p1188–1188
+    - [Gait Disorders](https://drive.google.com/file/d/1e6hYxgSWiMVPn2oQiQDrBT4TBGokOf68/view) · p1188–1189
+    - [The Geriatric Patient](https://drive.google.com/file/d/1UVqC_1cPgihyebBKJhhyPqRFJxEF0ZdN/view) · p1189–1190
+    - [The Alcoholic Patient](https://drive.google.com/file/d/1kfqgbY_vzboksP3uukh_atRjis-JmOew/view) · p1190–1190
+    - [Children](https://drive.google.com/file/d/1qv5LPgVl-G5Q3VUaJ0_YrT7Q9waVZ_OI/view) · p1190–1190
+- **[170 Vertigo](https://drive.google.com/file/d/1v2YoJge4en4JID5Q8Hz7paLQ9AUIslxB/view)** · p1190–1198
+    - [Overview](https://drive.google.com/file/d/1Cqpj0ZRNxmkQ7aKagZjlhQNmtdwOjBPK/view) · p1190–1192
+    - [Bedside Testing for BPPV](https://drive.google.com/file/d/1xbqJPq0kiIUkHMek0W9f6Yt4MBen5-Rn/view) · p1192–1194
+    - [Bedside Hint+ Testing to Distingiuish Vestibular Neuritis from Cerebellar/ Brainstem Stroke](https://drive.google.com/file/d/1TTrTRqcCUJI64NHSqKas62-3Gvj3_ujS/view) · p1194–1196
+    - [Other Specific Conditions](https://drive.google.com/file/d/19YpL7p7i9ZRBUMBUXhsTMCrQx5Tm28QW/view) · p1196–1198
+- **[171 Seizures and Status Epilepticus in Adults](https://drive.google.com/file/d/1Q-NaJYQeOyHw6Y9u3FwWu-8P9dg7sFLu/view)** · p1198–1204
+    - [Seizure Classification](https://drive.google.com/file/d/19R2ghYa3Ukb5rzXMhNLCWLnUl9F-Hx1d/view) · p1198–1200
+    - [Treatment of Uncomplicated Seizures](https://drive.google.com/file/d/1fWG4cuRSmWqLwLD_qRKfXldkokXMjSpi/view) · p1200–1202
+    - [Status Epilepticus](https://drive.google.com/file/d/1PfrVwcgJ-YA7ffh1jKGOfMzdVoww2kSf/view) · p1202–1202
+    - [Treatment of Status Epilepticus](https://drive.google.com/file/d/1mdQ-9o3D4a1Vnr1DulwGe1ofd7_XVkul/view) · p1202–1204
+- **[172 Acute Peripheral Neurologic Disorders](https://drive.google.com/file/d/1b_s90R3YlakdLA45E5HEO1v2PDSFvpFr/view)** · p1204–1209
+    - [Distinguishing Central and Peripheral Lesions](https://drive.google.com/file/d/129tJMukYWNDnIi3eFWDemgmFUa8HFmPu/view) · p1204–1204
+    - [Localizing Peripheral Nerve Lesions](https://drive.google.com/file/d/19gt7ZNGHvlYqNESW2atTVczyVFCofJJe/view) · p1204–1205
+    - [Acute Peripheral Neuropathies](https://drive.google.com/file/d/1sHnldXcKVSEUm3wfQ171pbkdZfMoAjJD/view) · p1205–1206
+    - [Focal Mononeuropathies](https://drive.google.com/file/d/1EwPsQw9OnFZ2twQY7kTEgYbfH6JiW8hn/view) · p1206–1207
+    - [Plexopathies](https://drive.google.com/file/d/1lU1bCugLCbZimHm9o_aGrt_DwKYRcbRQ/view) · p1207–1208
+    - [Neuromuscular Junction Disorders](https://drive.google.com/file/d/1z1DvG5ZsjfGXoEFq0v66NA_Rkoy8n3pm/view) · p1208–1209
+    - [Subacute and Acute-On-Chronic Peripheral Nerve Lesions](https://drive.google.com/file/d/178gpKXesY2eAC6-Iz-G0EuGkQ_zj_kqy/view) · p1209–1209
+- **[173 Chronic Neurologic Disorders](https://drive.google.com/file/d/1mUXHvBC1hHC0c3ZvXzn6ySizJ_iddUHU/view)** · p1210–1216
+    - [Amyotrophic Lateral Sclerosis](https://drive.google.com/file/d/11kYyz2rLJIB2ygfhBfpCTHzZzSp-Pg-E/view) · p1210–1210
+    - [Myasthenia Gravis](https://drive.google.com/file/d/1QFPNgqlCUQh5g2ekWUtQsUthJuedXrXf/view) · p1210–1213
+    - [Multiple Sclerosis](https://drive.google.com/file/d/1nzjXS-0KP7W9lbgYwTyVETrx1bFS8bOV/view) · p1213–1214
+    - [Lambert-Eaton Myasthenic Syndrome](https://drive.google.com/file/d/1lWl_z48ev--uZDT7U9mB-a1h3-BaUvhg/view) · p1214–1214
+    - [Parkinson’s Disease](https://drive.google.com/file/d/1PPl95NpUQr-0SB0WddVn9nU7A1e6vNCO/view) · p1214–1215
+    - [Poliomyelitis and Post-Polio Syndrome](https://drive.google.com/file/d/1c5NsAZTE5dS8beQYNVv5eEFhnhZyjBCc/view) · p1215–1216
+- **[174 Central Nervous System and Spinal Infections](https://drive.google.com/file/d/1bxNjVn-NhbaeyOzD5Q2Pcrd3k6Vl4KXH/view)** · p1217–1224
+    - [Central Nervous System Infections Bacterial Meningitis](https://drive.google.com/file/d/1yTU_F1n21IUx3eASvVD9I1tMIenu8l4H/view) · p1217–1220
+    - [Viral Encephalitis](https://drive.google.com/file/d/16Apni4v-D7HhS4bHD8IIh1Ttza-XIBOd/view) · p1220–1221
+    - [Brain Abscess](https://drive.google.com/file/d/16R9jVy2onn9bkd9ASob6oIigiauNqP7e/view) · p1221–1222
+    - [Spinal Infections Epidural Abscess](https://drive.google.com/file/d/1zR8noxJs-cHfy8vUatPixeMnRwbpEVlF/view) · p1222–1224
+- **[175 Central Nervous System Procedures and Devices](https://drive.google.com/file/d/1iJuklSuNfxdZ3p5zXj2HQ0xrHXOn872Y/view)** · p1224–1231
+    - [Lumbar Puncture](https://drive.google.com/file/d/1oYU6g7eGgtUgIcTGRC0XdUWV1dGHymLV/view) · p1224–1225
+    - [Cerebrospinal Fluid Shunts](https://drive.google.com/file/d/17WbGKhdxhnGZA0qUNETanQ27Nn2RTVeH/view) · p1225–1227
+    - [Treatment of Shunt Malfunction](https://drive.google.com/file/d/1yMcWSsrHbksq_DbBjMOs4SjhwasKvXvQ/view) · p1228–1228
+    - [Shunt Infection](https://drive.google.com/file/d/1iTe6EgND2dNYYzSHyuA8cTtfQYfDfQAf/view) · p1228–1228
+    - [Halo Devices](https://drive.google.com/file/d/1vmPse2kt-rpnpFhsofA1eTsXgLvc-j8a/view) · p1228–1229
+    - [Other Central Nervous System Devices](https://drive.google.com/file/d/1QtDVvl0nKJTdiL47iqPHYve-v91z2fCt/view) · p1229–1230
+
+## SECTION 15 Toxicology
+
+- **[176 General Management of Poisoned Patients](https://drive.google.com/file/d/1h52TP3Q9Z-yGzLL3URDpFHwgWLKDbi3l/view)** · p1232–1239
+    - [Resuscitation](https://drive.google.com/file/d/15OOHRyJjASJr22mN_nPZXcfVGW2m65gY/view) · p1232–1235
+    - [Decontamination](https://drive.google.com/file/d/1yASgeeOKe-QCWdf6R3NpfE4--5SjDnhL/view) · p1235–1237
+    - [Enhanced Elimination](https://drive.google.com/file/d/1Fkhn_LO2ZhpGW_V4fujM_CnlRqyNU-Il/view) · p1237–1239
+- **[177 Cyclic Antidepressants](https://drive.google.com/file/d/1o3XKDVpXo6lTmPLShObO6jDVBY4dqeuP/view)** · p1239–1244
+    - [Pharmacology](https://drive.google.com/file/d/1fafXPjW2SEcf5frx-J-wd3kZTdWrNrX8/view) · p1239–1240
+    - [Toxicity](https://drive.google.com/file/d/1rMUACuYX3uIbCoQLX1dH0XG_iK2CNP2l/view) · p1240–1244
+- **[178 Atypical and Serotonergic Antidepressants](https://drive.google.com/file/d/1fAJVV7UIXcYSMN-SDV9FLDEiYbQkLVYF/view)** · p1244–1249
+    - [Atypical Antidepressants](https://drive.google.com/file/d/19dD-7zKpLdnQOtwpTdHWTRoWa8NlXEba/view) · p1244–1246
+    - [Selective Serotonin Reuptake Inhibitors](https://drive.google.com/file/d/1FfN3gSsDpDWmiVcp9rEXfk6aXY6Z4ChC/view) · p1246–1247
+    - [Serotonin/Norepinephrine Reuptake Inhibitors](https://drive.google.com/file/d/1qhqPtFOeXEYR0WSNKnvHi9A2TalnqH0d/view) · p1247–1247
+    - [Serotonin Syndrome](https://drive.google.com/file/d/1NxAcVZHNIPVvXt8wFSgooZD8xIKiqIxr/view) · p1247–1249
+- **[179 Monoamine Oxidase Inhibitors](https://drive.google.com/file/d/11wys4KZLTcIqcsBcidi8Y4WcKHlnPwPi/view)** · p1249–1253
+- **[180 Antipsychotics](https://drive.google.com/file/d/1tbGhD9iYgT1Aoh7W-ZsTNu90-XVaZclz/view)** · p1253–1257
+    - [Antipsychotics](https://drive.google.com/file/d/1WMtd2psKKvdURxPDnLOA9wRO1mWp5V7Q/view) · p1253–1255
+    - [Pharmacokinetics](https://drive.google.com/file/d/1HeIy_2EMdkN6mFyP294LWgnMfLfyD01s/view) · p1255–1255
+    - [Cardiovascular](https://drive.google.com/file/d/1w8ibq0g91_mcUkAYtJnfp1ia84MG2d1D/view) · p1255–1255
+    - [Extrapyramidal Symptoms](https://drive.google.com/file/d/1wrZqcgstzhf8PzYVNAsfhjEI_Cxj7PY0/view) · p1255–1256
+    - [Other Adverse Effects](https://drive.google.com/file/d/147nrwiUeb0sRgxzFbyJBoLkcddSoSF-0/view) · p1256–1256
+    - [Neuroleptic Malignant Syndrome](https://drive.google.com/file/d/1FD5kfxvZ6ZeAAf3KY1XlNtstNL8mgrwD/view) · p1256–1257
+- **[181 Lithium](https://drive.google.com/file/d/1sO0btkM7s9eUVhzBzuVqS8o0e5GQK1SV/view)** · p1257–1259
+    - [Pharmacology](https://drive.google.com/file/d/1ADcbU2GZMOfck_e8q1offUsEHoGOIB1Q/view) · p1257–1257
+    - [Pharmacokinetics](https://drive.google.com/file/d/1OkRScH-4X1EZ8Q9fgMixuKMPfz6uIUZe/view) · p1257–1257
+    - [Toxic Effects](https://drive.google.com/file/d/1vH0JLwxPyLYPJPjsm-9oGsmJoW2PgNTT/view) · p1257–1258
+    - [Adverse Effects of Chronic Therapy](https://drive.google.com/file/d/1xeyf7wdANZ_rjvnSERBpYB-tEogzHAZi/view) · p1258–1259
+- **[182 Barbiturates](https://drive.google.com/file/d/1pElRtMGtKHyRSNqPr4UW-YcvD86itkuJ/view)** · p1259–1260
+- **[183 Benzodiazepines](https://drive.google.com/file/d/13g2nhJolxyoPfdrrL_0txBShF3FKX2_k/view)** · p1260–1263
+    - [Overview](https://drive.google.com/file/d/1dxvEKuzOd3iPDwER9dZTQ5caZAg1e-wI/view) · p1260–1261
+    - [Pharmacology](https://drive.google.com/file/d/1NQcUqslMStCtTefWhurkAzkD7bR2O969/view) · p1261–1263
+    - [Benzodiazepine Withdrawal](https://drive.google.com/file/d/1iBKp6gkBXvfbUGUrizFGsfnx7O305M10/view) · p1263–1263
+- **[184 Nonbenzodiazepine Sedatives](https://drive.google.com/file/d/1510zr2K51RhJIofSgIS34DARI6C-0Qss/view)** · p1264–1267
+    - [Buspirone](https://drive.google.com/file/d/1kDpLOlsq3odG2vhS_F8uofep_pbmQl-s/view) · p1264–1265
+    - [Chloral Hydrate](https://drive.google.com/file/d/1mg1Qar8sLM5XdAju7TG1Sjx1_-NrCvhn/view) · p1265–1265
+    - [γ-HYDROXYBUTYRATE (GHB)](https://drive.google.com/file/d/1KsPBUYvu3CQMszbZelz8INfU9Z6hSz_p/view) · p1265–1266
+    - [Melatonin](https://drive.google.com/file/d/1U1zokFK0X1kOd1_-78-ML5m57l-0wlIJ/view) · p1266–1266
+    - [Ramelteon](https://drive.google.com/file/d/1cO1h0ZH-tfq_gBjVAisL-4mqKAOAx5Gy/view) · p1266–1266
+    - [Tasimelteon](https://drive.google.com/file/d/1qRbVRxVjrEQJDLBDmP0ReMS_hW4kcXZ2/view) · p1266–1266
+    - [Zolpidem, Zaleplon, and Zopiclone](https://drive.google.com/file/d/1kgbZhxadBHCBgUSz43YAdSQUvkDVGhAf/view) · p1266–1266
+    - [Historical Sedatives](https://drive.google.com/file/d/1jYIqpNjXq44oSYOAoxKfIAGNPcjWHKoV/view) · p1266–1267
+- **[185 Alcohols](https://drive.google.com/file/d/1ju5dQK4tuTVCKY_q28kmkAuS9MNsCH0n/view)** · p1267–1277
+    - [Ethanol](https://drive.google.com/file/d/1y-wb_MvgtSx_cC0RFGMycv7g-JaALQns/view) · p1267–1269
+    - [Alcohol Withdrawal Syndromes](https://drive.google.com/file/d/1lF3XoMAJGxLn-KygApmxzQkcym4RVX2j/view) · p1269–1270
+    - [Isopropanol](https://drive.google.com/file/d/1zK5Fka768OpjM9co2LIMcFd9h_fC7Vtb/view) · p1270–1272
+    - [Methanol and Ethylene Glycol](https://drive.google.com/file/d/1saaZ5WHk8ouXKNytV2MZIklu2h9z_90E/view) · p1272–1274
+    - [Diagnosis of Methanol or Ethylene Glycol Poisoning](https://drive.google.com/file/d/1jcFBUIh-ono-7oX5r7VwAStzFP9YHQMd/view) · p1274–1277
+- **[186 Opioids](https://drive.google.com/file/d/10I3Zp5uaREaWV3e__hbHTKL4HQwxBx42/view)** · p1277–1283
+    - [Pharmacology](https://drive.google.com/file/d/1D0tq_K4zB6goXNeaAWDyQ5RauOWQ7jII/view) · p1277–1277
+    - [Pharmacokinetics](https://drive.google.com/file/d/1hU58-kwpYgO5BmKb5yRBxr2sE8O8Tz2l/view) · p1277–1278
+    - [Opioid Intoxication](https://drive.google.com/file/d/1OlVlk5tyisZhoDJxT1zzoxF4DTPZsgDk/view) · p1278–1282
+    - [Opioid Withdrawal](https://drive.google.com/file/d/1iQ8xZ6pC86u5MylL3EN51YNBoerPihZm/view) · p1282–1283
+- **[187 Cocaine and Amphetamines](https://drive.google.com/file/d/1o4OV8wOI-1qkPl4B3FX0riB_tiOvjhoS/view)** · p1283–1287
+- **[188 Hallucinogens](https://drive.google.com/file/d/1U2giLAJDSczn9uadXP8WNGzg9D0oy257/view)** · p1287–1293
+    - [Overview](https://drive.google.com/file/d/1py9y_yo55lTJl5EaJ6foVYNAMrvtA-2s/view) · p1287–1287
+    - [General Approach to Treatment](https://drive.google.com/file/d/1ifHnNqFOTGKi4g8ssdcTmFQYSrmRboSV/view) · p1288–1288
+    - [Common Hallucinogens](https://drive.google.com/file/d/1KmlkeKBUYvS8kRqMJRniekRQezlWtUit/view) · p1288–1292
+    - [Less Commonly Abused Hallucinogens](https://drive.google.com/file/d/1DMyNYr6WgUIZmWut13pGqN13nZhet0CL/view) · p1292–1293
+- **[189 Salicylates](https://drive.google.com/file/d/1najhT_gPvvL624swTQqMmSrPYMDrI93p/view)** · p1293–1297
+    - [Overview](https://drive.google.com/file/d/1LSX4ob8TYXDqgc4Z9TK5sN7JxfC5dO6N/view) · p1293–1294
+    - [Intoxication in Children](https://drive.google.com/file/d/1C2qo0PH5F16Hd54dymnKf83Fx7NIP6l0/view) · p1294–1295
+    - [Intoxication in Adults](https://drive.google.com/file/d/1uo7xUp5hu533PhNlOa6LsKbcox7X2Fb6/view) · p1295–1295
+    - [Toxicologic Testing](https://drive.google.com/file/d/1er50jUq3ZSaZhjCPGf7Pood0sHpC2d8C/view) · p1295–1295
+    - [Additional Ancillary Testing](https://drive.google.com/file/d/1aXm9qqQKqzviwqiSDV-d2deQKBR1bRlN/view) · p1295–1296
+    - [General Measures](https://drive.google.com/file/d/1nRt7nhVfKhSZlAKRoNFe1oW5Z3VpuaSU/view) · p1296–1296
+    - [Alkalinization](https://drive.google.com/file/d/1-V_nYHtVRnCvKOtnJYBE7g1_hzfWq-fY/view) · p1296–1296
+    - [Other Measures](https://drive.google.com/file/d/1yB09Nsxm2rn3ofXz038GXDSxwpBnx7gF/view) · p1296–1297
+    - [Hemodialysis](https://drive.google.com/file/d/16T5xQgOcxr96iIDCM17xYAA6IYOHM4MM/view) · p1297–1297
+- **[190 Acetaminophen](https://drive.google.com/file/d/17UY_LvObjFPl6leM8_TbcGDRvFvhuBiV/view)** · p1297–1303
+    - [Pharmacology](https://drive.google.com/file/d/1zox6pUKLBxAtYPu0XlkmboKoA70hcg4R/view) · p1297–1297
+    - [Oral Acetaminophen](https://drive.google.com/file/d/1yf9Jkr9C7ChYVQ34Ek8oJuYSMymyCcU4/view) · p1297–1298
+    - [IV Acetaminophen](https://drive.google.com/file/d/1HfgICocgmEapfD0aeJhDJDCF4-IMJBgy/view) · p1298–1298
+    - [Acetaminophen Metabolism](https://drive.google.com/file/d/171yiDE8_wl3QU3ZYXlxVF57oK79-Kxg3/view) · p1298–1299
+    - [Four Stages of Acetaminophen Toxicity](https://drive.google.com/file/d/1GhFyOBpOEzONm2hvmmIJ9wAkV7p_8Gb5/view) · p1299–1299
+    - [The Rumack-Matthew Nomogram](https://drive.google.com/file/d/1u766eZd6q_21JvG7ifNqxQvnatyG3-YM/view) · p1299–1300
+    - [GI Decontamination](https://drive.google.com/file/d/1ZgD3p8Z5ldfEgwIOrZeAHsuGaymasJOk/view) · p1300–1300
+    - [Acetylcysteine](https://drive.google.com/file/d/18a0F6_dRSB1ecM5YgRbgo6sRC2yKTzlZ/view) · p1300–1301
+    - [Extracorporeal Elimination](https://drive.google.com/file/d/1BEEDmFckiKrM6qTIKZGLkuwbPASYQ_CU/view) · p1302–1302
+    - [Treatment Guidelines Based on Time to ED Presentation](https://drive.google.com/file/d/1wHPrVbOGmSGJt6LideDCTow3IUxsanW3/view) · p1302–1303
+    - [Fulminant Hepatic Failure](https://drive.google.com/file/d/1TpoYqmrex0lpAGzHrrS3Ev9ZOLkq83S3/view) · p1303–1303
+    - [Multiple-Dose and Extended-Release Acetaminophen Ingestions](https://drive.google.com/file/d/1ZfnNeeQe4olTUjuCil-FPS-mWDMk03eh/view) · p1303–1303
+    - [Massive Acetaminophen Overdose](https://drive.google.com/file/d/1BC67UlZv0IzWhfgp77bnNJn54T2rNQmG/view) · p1303–1303
+    - [IV Acetaminophen Overdose](https://drive.google.com/file/d/13m8iaF1Zp-8h6lmnrJQ2y1PgePcdwUXZ/view) · p1303–1303
+- **[191 Nonsteroidal Anti-Inflammatory Drugs](https://drive.google.com/file/d/1tmkm5JYB4eb3E18Jx00KibriJLfMERCV/view)** · p1304–1307
+    - [Pharmacology](https://drive.google.com/file/d/1OPakKOLGjgKT01s2RVEN7xxANK9YuXxV/view) · p1304–1305
+    - [Toxicity at Therapeutic Doses](https://drive.google.com/file/d/1dDbJCdfpwBuNSrcWLHO_tw3SevXY8nf1/view) · p1305–1306
+    - [Toxicity with Acute Overdose](https://drive.google.com/file/d/1gaeAh8QeMO1KMPNwoLIUGLE367ZJ2hqj/view) · p1306–1307
+- **[192 Methylxanthines and Nicotine](https://drive.google.com/file/d/1P2mXwVmZTJXdcZ_maHS651yDeMhV4t9o/view)** · p1307–1311
+    - [Methylxanthines](https://drive.google.com/file/d/1Hz4ntcmHt6dk002JRtK_oD0ecC3m496j/view) · p1307–1310
+    - [Nicotine](https://drive.google.com/file/d/1UZj7C82OB-SxsNmg2tZxmvZmszVytzwY/view) · p1310–1311
+- **[193 Digitalis Glycosides](https://drive.google.com/file/d/1iG7TSGT6HxbJT2dVgRIsgsx8lcAOnsrX/view)** · p1312–1315
+    - [Acute Toxicity](https://drive.google.com/file/d/1bIY55XxBTa80gRdNDMld2TPcWNuwMOoo/view) · p1312–1312
+    - [Chronic Toxicity](https://drive.google.com/file/d/12IMLcxpZwJzlhFQ3_k5LPEhFRRUZBs55/view) · p1312–1313
+    - [ECG](https://drive.google.com/file/d/1mBWJaAL2SRAxRsDAIsB9MBMIQ4ZXr-lk/view) · p1313–1314
+    - [GI Decontamination and Enhanced Elimination](https://drive.google.com/file/d/1KKv1VzQbxwpwgHv9H6Ga5IMvxUv3BLkf/view) · p1314–1314
+    - [Digoxin-Specific Antibody Fragments (Digoxin-Fab)](https://drive.google.com/file/d/19FHoGaJvRp59b4uLRXs4ez53x9CkoAe9/view) · p1314–1315
+- **[194 Beta-Blockers](https://drive.google.com/file/d/1gg6XiGcIfkrSPcM-xq7ZCnyU2_si5Xqx/view)** · p1315–1320
+    - [Pharmacology](https://drive.google.com/file/d/1Y7QFiI0e38OFz5NC0-FN7muG4dtUJ6u2/view) · p1315–1317
+    - [GI Decontamination](https://drive.google.com/file/d/1w3c_JR__UNZLAHkzqiGaOlHsJ6Etqqyb/view) · p1318–1318
+    - [Pharmacologic Treatment](https://drive.google.com/file/d/1x5__FBM3WevUOLkjW8hLN7gQ78re_e6i/view) · p1318–1318
+    - [Glucagon](https://drive.google.com/file/d/1u2suKyOjbGVXMTbAm-Cwpi6VqU1IhtYH/view) · p1318–1318
+    - [Adrenergic Receptor Agonists](https://drive.google.com/file/d/1LDmMTfqD_Aoqo2Oj8s5Ip54v9VWSjzLk/view) · p1318–1318
+    - [High-Dose Insulin Therapy](https://drive.google.com/file/d/1gEK17lggLaSQuXFZ-csj1ySfxdRe9T2F/view) · p1318–1319
+    - [IV Lipid Emulsion Therapy](https://drive.google.com/file/d/1NOMxKouXikQzHdaeqGOp-uiFzBG_hdil/view) · p1319–1319
+    - [Atropine](https://drive.google.com/file/d/1HB5Y39ND-jqJgEx6UnyzrMq0U1Ba3NrX/view) · p1319–1319
+    - [Calcium](https://drive.google.com/file/d/1yjwtu0j4BN3TT2U2Y7_oFKft9EQIAkkL/view) · p1319–1319
+    - [Phosphodiesterase Inhibitors](https://drive.google.com/file/d/1h53Zj39rBPcGivD7sCd9hHBSlXHv7fiO/view) · p1320–1320
+    - [Sodium Bicarbonate](https://drive.google.com/file/d/1QGR0bvy3COn084OvIxYz2AI5S9IkRaSz/view) · p1320–1320
+    - [Cardiac Pacing](https://drive.google.com/file/d/1T-GJB01BK9c8duIgLwkc_RzIH_rtrBp8/view) · p1320–1320
+    - [Extracorporeal Elimination (Hemodialysis)](https://drive.google.com/file/d/1UhSqqiqtW9XtWC83eKeAnMmsrLMZ60Mz/view) · p1320–1320
+    - [Extracorporeal Circulation](https://drive.google.com/file/d/1SFGVt2u18OiTWQlEpV5qvirFifP8tuMb/view) · p1320–1320
+- **[195 Calcium Channel Blockers](https://drive.google.com/file/d/15EZzMerQU12MFmqAri0S9IjB59GQSd93/view)** · p1320–1324
+    - [Pharmacology](https://drive.google.com/file/d/17scc2cSq8DXr8NMRvHKuxU9TaUBDZMGS/view) · p1320–1321
+    - [Potential Toxicity](https://drive.google.com/file/d/10ao3Rfz7k6mBjqQ734I_1sRCHpGLXd2u/view) · p1321–1322
+    - [GI Decontamination](https://drive.google.com/file/d/1Zx8dTt8oTewR5twtJqrbjdrMpwoBa-d8/view) · p1322–1322
+    - [Calcium Salts](https://drive.google.com/file/d/1qY9sDxvnAI9ZflZz_IBlAfoo6V1FXFIH/view) · p1322–1323
+    - [Adrenergic Agents](https://drive.google.com/file/d/1RtNva05Wzs52jr9tLCq1eg_Ky_ORUCoy/view) · p1323–1323
+    - [High-Dose Insulin Therapy](https://drive.google.com/file/d/1znvZojx5zSbqI6DVXBuOg9mNFaqCV-x-/view) · p1323–1324
+    - [Glucagon](https://drive.google.com/file/d/1iSRIU4-nZ67RvRQKXvxW02vtTJmmlLut/view) · p1324–1324
+    - [IV Lipid Emulsion Therapy](https://drive.google.com/file/d/1uOLR19hFRTn7X9nnEhC0Y9_t2F98RTCN/view) · p1324–1324
+    - [Extracorporeal Circulatory Support](https://drive.google.com/file/d/1M6VVhchpGZmna3yC5GRffgluSytxo93B/view) · p1324–1324
+- **[196 Antihypertensives](https://drive.google.com/file/d/1tjzayV0j_nfvBl_Q3BDxwUlr6WWntmP8/view)** · p1324–1328
+    - [Diuretics](https://drive.google.com/file/d/1klbnglTR8hwYsXwq6SyEPJ2ZWbZeHvhT/view) · p1324–1326
+    - [Sympatholytic Agents](https://drive.google.com/file/d/1CDLSGGbZWLQj7pcWVgKhbcOpGZ1zBRAu/view) · p1326–1327
+    - [Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers](https://drive.google.com/file/d/1rRHD09Pup4SIcX8Qd1-f_wk_fWuiY25H/view) · p1327–1327
+    - [Vasodilators](https://drive.google.com/file/d/1NRanvslV5lYWBnWB9AbqQx0yhf3jX9US/view) · p1327–1328
+- **[197 Anticonvulsants](https://drive.google.com/file/d/110gAk_V9PKs_FKReCg66u4Qy2h-G0NJo/view)** · p1328–1334
+    - [Phenytoin and Fosphenytoin](https://drive.google.com/file/d/14AtJ92ZcP4EyEgySYn5bwUh9AFcAgtg0/view) · p1328–1330
+    - [Carbamazepine](https://drive.google.com/file/d/1FsVpwH6P65oCdjPahcHJer_uEsOS-16o/view) · p1330–1331
+    - [Valproic Acid](https://drive.google.com/file/d/1GVDBbB8ffdRLhB9afIGZTvu3bz89DjPf/view) · p1331–1332
+    - [Other First-Generation Anticonvulsants](https://drive.google.com/file/d/19KZX11bx4q5TQ7VCFom7H59YrwaVh2sI/view) · p1332–1332
+    - [Second- and Third-Generation Anticonvulsants](https://drive.google.com/file/d/1JXE6QLdzWkPp8bYUCUMUyFSPRDhdBtdP/view) · p1332–1334
+- **[198 Iron](https://drive.google.com/file/d/1nLyeC2T673M_6JWUastD4VzTM1V17-6V/view)** · p1334–1337
+    - [Pharmacology](https://drive.google.com/file/d/1_ANVbVmmqoITMnJxdGWwKl02hZpHdp9B/view) · p1334–1335
+    - [Toxicity](https://drive.google.com/file/d/1yNPtv1_xHQDCXSHn7S9fghdeQjvS8LW2/view) · p1335–1336
+    - [GI Decontamination](https://drive.google.com/file/d/1ajRUqqBjkbsSSSNBXVm4Hk3lj6PgcRPE/view) · p1336–1336
+    - [Deferoxamine](https://drive.google.com/file/d/1Ttj8PDrVfhGvisMJfDm5hmYAGcx_sqHq/view) · p1336–1337
+    - [Other Therapies](https://drive.google.com/file/d/1oRlPp2quUZbZshlxNZVa0prjJr6CWz4r/view) · p1337–1337
+- **[199 Hydrocarbons and Volatile Substances](https://drive.google.com/file/d/1pFjQZ1ZWAvmOQ791pVVdNp-aH7fF-S5z/view)** · p1337–1341
+    - [Overview](https://drive.google.com/file/d/1gvE9rp0q6sRghmPzDFFdc3CjhtyRpgOn/view) · p1337–1338
+    - [Pulmonary Toxicity](https://drive.google.com/file/d/1Vsu7kiW9UmuCmacwE4T13CMzKsZrCzl9/view) · p1338–1339
+    - [Cardiac Toxicity](https://drive.google.com/file/d/1HzCDHR8NI_gZE0_py7DaWQkfcwDRmGRb/view) · p1339–1339
+    - [CNS Toxicity](https://drive.google.com/file/d/1EhwLxPEqUFw9SMUnvWdzf77NjJNI05FK/view) · p1339–1340
+    - [Peripheral Nervous System Toxicity](https://drive.google.com/file/d/10rD1xJ4o6ymQzl7ubRCM2wbz038NXKbe/view) · p1340–1340
+    - [GI and Hepatic Toxicities](https://drive.google.com/file/d/1ggWCSxazLJJgc-1MtiUkQ_Bk3R9OkFdW/view) · p1340–1340
+    - [Renal and Metabolic Toxicities](https://drive.google.com/file/d/10dCJSyGM4w1s7kProcoKNEnfEEWy2CUp/view) · p1340–1340
+    - [Hematologic Toxicity](https://drive.google.com/file/d/12SRS6b7_NgVGaKesReUb4fVr7eu3qXcN/view) · p1340–1340
+    - [Dermal Toxicity](https://drive.google.com/file/d/1TWyxSP0OGWJrL8bYFYZRRL15mkRhgC7h/view) · p1340–1341
+- **[200 Caustic Ingestions](https://drive.google.com/file/d/1XD8bggnyev5Y0v3WCp55Wc2P587nGMzn/view)** · p1341–1345
+    - [Overview](https://drive.google.com/file/d/1AcXFxKy3v6qFdFnyXK7CGjfuwX78PiZQ/view) · p1341–1342
+    - [Alkali Injuries](https://drive.google.com/file/d/1bjYL_ec0GYhqYSddsdly695_2Kp-sTuZ/view) · p1342–1342
+    - [Acids](https://drive.google.com/file/d/1A24Tt4ij5JL-mjsnd_ocnlvXvo4U2nNA/view) · p1342–1343
+    - [Endoscopy](https://drive.google.com/file/d/1pZ_f2hMw7z2jDbqz6UFjIQ6bUcYg1eyT/view) · p1343–1344
+    - [Airway](https://drive.google.com/file/d/1oRVY8v9FnkbDZ9N3D9KWrSvhLUyQmHHH/view) · p1344–1344
+    - [Decontamination, Neutralization, and Dilution](https://drive.google.com/file/d/1junuBAV5aiCnM8D0mU8NsqDQaA2SRE74/view) · p1344–1344
+    - [Fluid Resuscitation](https://drive.google.com/file/d/1ixFPtI_fwp1zP_2gWqkpmzOxcLwDCIMM/view) · p1344–1344
+    - [Systemic Steroids and Prophylactic Antibiotics](https://drive.google.com/file/d/1zM-s9TLeFLbwmDvqEXRfeIOiCfAvTeJX/view) · p1344–1344
+    - [Surgery and Esophageal Stenting and Dilation](https://drive.google.com/file/d/1iFHMzw9zSMZTfuM1vubN8nx_9EO5zeuw/view) · p1344–1344
+    - [Treatment of Systemic Toxicity](https://drive.google.com/file/d/1tUYD5v-tgO0WbT6eZHYOF6xjfVkrtR7t/view) · p1345–1345
+    - [Nutritional Support](https://drive.google.com/file/d/1v9SOUmMT9xwfxXUisuYLNNFIEGOKuPCK/view) · p1345–1345
+    - [Experimental Therapies](https://drive.google.com/file/d/12io-XBcU6bEes_mYlzz51E_EP3LATKOq/view) · p1345–1345
+    - [Laundry Detergent Pod Ingestions](https://drive.google.com/file/d/1TNdOqgfrsRjyXRxJktzuqCXuBRAbT_Fn/view) · p1345–1345
+- **[201 Pesticides](https://drive.google.com/file/d/1NnGplsX4YYRR-MEP_g6jHUWTAB5mGE6R/view)** · p1345–1354
+    - [Insecticides](https://drive.google.com/file/d/1KGv0BkPfCOAIQV5hjHRYFFrkv6Eux1UI/view) · p1345–1350
+    - [Herbicides](https://drive.google.com/file/d/1fDVAousqGOxuS9XoUHc6CiUTuVThI06q/view) · p1350–1352
+    - [Rodenticides](https://drive.google.com/file/d/1ccSWnlkx9EQEzTMRigIRwSOTNkx4YQpM/view) · p1352–1354
+- **[202 Anticholinergics](https://drive.google.com/file/d/19M8kvPW1M7HkvYZvIO80U0VRu-yBFtu0/view)** · p1354–1357
+    - [Pharmacology](https://drive.google.com/file/d/1U6FrIq9B_tD1diMa9hP9yJ2ckZ20iSIJ/view) · p1354–1356
+    - [Drug Screening](https://drive.google.com/file/d/1uQpH_kSyD7GbPtSWlORn3nnjzUJjMrL8/view) · p1356–1357
+- **[203 Metals and Metalloids](https://drive.google.com/file/d/1appqeWa-yq8XOswTZHpph1OS4PschRCV/view)** · p1357–1363
+    - [Lead](https://drive.google.com/file/d/1NuNO8LVgVPrckX-7IyGdpK0D5ssL-AhP/view) · p1357–1359
+    - [Arsenic](https://drive.google.com/file/d/1WOyt6niV2OYuE4wZu_Y88ILwba2YV0Aq/view) · p1359–1361
+    - [Mercury](https://drive.google.com/file/d/1yOuNYyiKgQx0F_eynskV4llQzu2rwza6/view) · p1361–1363
+    - [Other Metals and Metal Salts](https://drive.google.com/file/d/1_Cih6l46qH3uR-jUzglu77dUObKAy7GL/view) · p1363–1363
+- **[204 Industrial Toxins](https://drive.google.com/file/d/17VKERDxsvyiZSyUxIzA-F0JMZlRwOhbh/view)** · p1363–1368
+    - [Introduction](https://drive.google.com/file/d/1hWhXGKgqQsOnB5Mxa2Nbu_PxfTPkPGCj/view) · p1363–1364
+    - [Phosgene](https://drive.google.com/file/d/1UwvJOkIWu9VA0QfDOsaSpzJs_Ww67Ksj/view) · p1364–1365
+    - [Chlorine](https://drive.google.com/file/d/176-WDu1iPHEEwHuzyq-DMRUPK2UdB9ES/view) · p1365–1365
+    - [Nitrogen Dioxide](https://drive.google.com/file/d/11DUiw1jv_ug7wUqWbVVWpR3hL33tUjW4/view) · p1365–1365
+    - [Ammonia](https://drive.google.com/file/d/16-POhYo1SIKsxxtxhy1sQdsQni6jkHRh/view) · p1365–1365
+    - [Cyanide](https://drive.google.com/file/d/1CH7uwp2O1vRpUhHpp8u8sHBfFXiGOOnC/view) · p1365–1367
+    - [Hydrogen Sulfide](https://drive.google.com/file/d/1wfnbM_Mqr-NqW3sb9aYgIHGrsQb07KuT/view) · p1367–1368
+- **[205 Vitamins and Herbals](https://drive.google.com/file/d/1aDMITINe1cqkjCT-86D_3CXF6cDBGc_I/view)** · p1368–1372
+    - [Vitamins](https://drive.google.com/file/d/1n7an31BVWkLBsZuqp2LjQh15FnuMm0rA/view) · p1368–1370
+    - [Herbal or Botanical Dietary Agents](https://drive.google.com/file/d/10yUFvqAI6dTvuf3gKUgipkLF8CK_j8JI/view) · p1370–1372
+- **[206 Antimicrobials](https://drive.google.com/file/d/1kyrnXYPqC63m6CVnrr_V1iiqGAB7FsHD/view)** · p1372–1374
+    - [Antibacterials](https://drive.google.com/file/d/10aMRiIpUm8bBVh6l47td3H_00dy_4qj1/view) · p1372–1373
+    - [Antifungals](https://drive.google.com/file/d/1kvuFghw2HCOPzSiRteZ0KhMuRli9_NcA/view) · p1373–1373
+    - [Antimalarials](https://drive.google.com/file/d/1G3jNFROgxlhfE_AinHUC0JetqPG_9hFH/view) · p1373–1374
+    - [Antiparasitics](https://drive.google.com/file/d/1kIKcH5t1bODVjKah-mBU1E9Am0bum4uO/view) · p1374–1374
+    - [Antituberculous Medications](https://drive.google.com/file/d/117I4eGFINh-CHKRrO3vntajojnAY_9gG/view) · p1374–1374
+    - [Antiviral/Retroviral Medications](https://drive.google.com/file/d/1HVC-h9y377Jvg-xZQMeomw3hQ_DR-giN/view) · p1374–1374
+- **[207 Dyshemoglobinemias](https://drive.google.com/file/d/1YEDyLgxNC09XYFu2VsQ551x2QduVgJvW/view)** · p1374–1377
+
+## SECTION 16 Environmental Injuries
+
+- **[208 Cold Injuries](https://drive.google.com/file/d/1vyRg3mKmCIvP0Vei42TuMhd65nH08fV0/view)** · p1378–1382
+    - [Nonfreezing Cold Injuries](https://drive.google.com/file/d/1jJZ3fk1xigVXc-udvv7doRieMS5z8O5H/view) · p1378–1378
+    - [Frostbite](https://drive.google.com/file/d/1uldicaJ7ALksSFRvrUX_ffnoM1OgncY5/view) · p1379–1382
+- **[209 Hypothermia](https://drive.google.com/file/d/1NxWtn8Z818zfaVYnd8ejGOjWo-PiTYGo/view)** · p1382–1390
+    - [Hypothermia Classification](https://drive.google.com/file/d/1y1qyT6c58FQ4twj4CiJEDxnkGocvErZY/view) · p1382–1382
+    - [Heat Loss](https://drive.google.com/file/d/1RHAupUqijNiNpK5bQD2RfUJ-L9JmNrLL/view) · p1382–1383
+    - [Heat Conservation and Production](https://drive.google.com/file/d/1zSDD46N9yHCt2zyUzbxecK07RN8L0Qwr/view) · p1383–1383
+    - [Continued Core Cooling](https://drive.google.com/file/d/1uwlxrUNxe9b5h4w3zjSd3oL__6g5dFK9/view) · p1383–1383
+    - [Secondary Hypothermia](https://drive.google.com/file/d/15ynUv7dIOoo5Qd87Q3fW20x8WiWf6lkv/view) · p1383–1383
+    - [Cold Physiology](https://drive.google.com/file/d/1Gu2B8w8Is2eYcoKlgeIK1kJUFGg9kEYt/view) · p1383–1384
+    - [Core Temperature Measurement](https://drive.google.com/file/d/1rZimpPLxxOanGhwyzqMfDnsPNs1KHT8j/view) · p1384–1386
+    - [Declaration of Death](https://drive.google.com/file/d/1Vz8xe4bCcJobdg1hD0Cx7QUB3fPRoZ9Z/view) · p1386–1386
+    - [Hypothermia Effects on Laboratory Values](https://drive.google.com/file/d/1Jcb9DYdMZ70V78W1xNzhoYUc0ecgWMeS/view) · p1386–1386
+    - [Mild Hypothermia (Stage I)](https://drive.google.com/file/d/1QWSXIEnmt5ea1Wc8rcflOAZShmQYuK2-/view) · p1386–1386
+    - [Moderate Hypothermia (Stage II)](https://drive.google.com/file/d/1FGCVwSvaxEZxJnjBeps-duS4MMtSo44q/view) · p1386–1387
+    - [Severe Hypothermia (Stage III)](https://drive.google.com/file/d/1cXaqCw52ygRt1XbtPKIWTlFmwaZpuT_Q/view) · p1387–1389
+    - [Hypothermic Cardiac Arrest (Stage IV)](https://drive.google.com/file/d/1CJ01F3AVSuX1CZw1RzgVGF-izKmJAypG/view) · p1389–1389
+    - [Disease Complications](https://drive.google.com/file/d/1XEFEe_Qzh1Se3Fp2dBAFS_YuqDMw_EmN/view) · p1389–1389
+    - [Children](https://drive.google.com/file/d/1GzIhQk6o1yTzwR--Brp-8lyCvLv-l0aB/view) · p1389–1389
+    - [Extracorporeal Life Support or Extracorporeal Membrane Oxygenation](https://drive.google.com/file/d/1XMoYAP2x2m-B1VUIELMVws475ESh7nA0/view) · p1389–1390
+    - [Drowning, Avalanche, and Trauma](https://drive.google.com/file/d/1oHqbaToy0s6qoXdQrAMdqRgFd5kCFIHM/view) · p1390–1390
+    - [Austere Environments](https://drive.google.com/file/d/1DwdMhX-zJPqzE3HBJg5MIX4IubzI09vV/view) · p1390–1390
+- **[210 Heat Emergencies](https://drive.google.com/file/d/11yV65XfpGPFKxczRxWYyWga1ayuBUXo7/view)** · p1390–1395
+    - [Overview](https://drive.google.com/file/d/18gzXA1ChSNSOa8NQb0U7thXe8-bHgfYL/view) · p1390–1391
+    - [Heat Edema](https://drive.google.com/file/d/1ELZfjc59o5YUf3szO3Q9hetaMBGxDJ3n/view) · p1391–1392
+    - [Prickly Heat](https://drive.google.com/file/d/1EfSMzBlPbkofCBXzzTGxqcUj26qV8_ul/view) · p1392–1392
+    - [Heat Cramps](https://drive.google.com/file/d/1GpYRloG34prV4B_xIfWznxlNrgfulFMv/view) · p1392–1392
+    - [Heat Stress](https://drive.google.com/file/d/1tCQMS66QyW8-X8iPFCuhIsIfInE3Y0tJ/view) · p1392–1393
+    - [Heat Stroke](https://drive.google.com/file/d/1N_bK7q2B7KWazeoADi3VzHg5TypSAiNM/view) · p1393–1395
+    - [Disposition and Follow-Up of Heat Emergencies](https://drive.google.com/file/d/1npQ5-da5cgj6MlfdjXiis60eLzhKJW6x/view) · p1395–1395
+- **[211 Bites and Stings](https://drive.google.com/file/d/1mbahixDiq4RJdeiFtMNvzE3Cm7txNhyS/view)** · p1395–1403
+    - [Bees and Wasps](https://drive.google.com/file/d/19PPfXlZOn9rMoz6YgnyRICujnFUKGu5B/view) · p1395–1396
+    - [Ants](https://drive.google.com/file/d/19Koj5cfm3HjTnKl10h1Jb72YEvEk2Gqj/view) · p1396–1396
+    - [Spiders (Araneae)](https://drive.google.com/file/d/17OjcFURfMHIngAc2mZeUX3CDupgrZG1T/view) · p1396–1397
+    - [Spiders Causing Necrotic Arachnidism ( Loxosceles )](https://drive.google.com/file/d/1x6iC_kGTTuNyQQKAjKhcM9rpPcWbSXM9/view) · p1397–1398
+    - [Hobo Spider ( Eratigena Agrestis; Formerly Tegenaria Agrestis )](https://drive.google.com/file/d/14TL82WkMki6ogEZ1BrEOwbgA5ZgkLSdc/view) · p1398–1398
+    - [Widow Spiders ( Latrodectus )](https://drive.google.com/file/d/1pxooMA_FIbAJbtoBms6Gf_RGCRhjgcv4/view) · p1398–1399
+    - [Armed Spiders ( Phoneutria )](https://drive.google.com/file/d/1IDykstna7hmVCJCGDZdBV8IdZfgq82m1/view) · p1399–1400
+    - [Funnel-Web Spiders ( Atrax/Hadronyche )](https://drive.google.com/file/d/1TIZ92Zm7BJ7fZIpKuGSAfKMX_xP48gVR/view) · p1400–1400
+    - [Tarantulas (Theraphosidae)](https://drive.google.com/file/d/1-cAEutQZqIYhDDwok9rXyxqSux0t-0nm/view) · p1400–1400
+    - [Other Spiders](https://drive.google.com/file/d/1dGvd5A6mUxLPcRhgc9BHwFehFRvvX3lR/view) · p1400–1400
+    - [Scorpions (Scorpionidae)](https://drive.google.com/file/d/1x643WvIKkkhfvYL-m6hRE3XGVSHS_JSH/view) · p1400–1401
+    - [Mosquitoes](https://drive.google.com/file/d/1Net1LL8Tvu1J1gOTechj10i2wkIQ31Xj/view) · p1401–1401
+    - [Flies (Diptera)](https://drive.google.com/file/d/1JiDwdmj4O9oEBIIUmI8izh-7UNENZ6HM/view) · p1402–1402
+    - [Fleas (Siphonaptera)](https://drive.google.com/file/d/10KPtG5oVpLG4LG-8fsn-V4XANOUPwmce/view) · p1402–1402
+    - [Kissing Bugs and Bed Bugs (Hemiptera)](https://drive.google.com/file/d/1xWsAJLswCwc-v7TDewhcOviNsAhXME59/view) · p1402–1402
+    - [Blister Beetles (Coleoptera)](https://drive.google.com/file/d/1Np6j_KTW5xurMy-xEwdloLlsXUvDv9k_/view) · p1402–1403
+- **[212 Snakebite](https://drive.google.com/file/d/10D-aCq2DCq-I29QrtbLWSnwVOcfKL38x/view)** · p1403–1407
+    - [Crotalinae (Pit Viper) Bites](https://drive.google.com/file/d/1kivx5gDrRXJSskHhReG6PTa4P47rU0bT/view) · p1403–1406
+    - [U.S. Coral Snakebites](https://drive.google.com/file/d/1kMkjJ9kiqR-lbosRtY6RpONzyZPTs3bE/view) · p1406–1406
+    - [Elapid Bites Worldwide](https://drive.google.com/file/d/1P6TStHyYgfeLl9XiMwOu6zG_xlgzw7yc/view) · p1406–1407
+- **[213 Marine Trauma and Envenomation](https://drive.google.com/file/d/1ROtutdWgieEhCBXseiYtXitrqOUG2DQv/view)** · p1407–1413
+    - [Marine Trauma](https://drive.google.com/file/d/1BH8BSfr4ojZbNmDU5_gSKENu64nfIlY0/view) · p1407–1408
+    - [Bacteriology of Marine Soft Tissue Infections](https://drive.google.com/file/d/1k04_-bOssqZ7jt7Z3pcHglo9KNbvgnqs/view) · p1408–1408
+    - [Major Marine Trauma](https://drive.google.com/file/d/1nCW3Fg8Q-JentyWfIdvA_TjeP8Ejxvcd/view) · p1408–1408
+    - [Minor Marine Trauma](https://drive.google.com/file/d/1hPZrnrdrmgvJK9e_zDFAtOkmT3xspiBs/view) · p1408–1409
+    - [Stingrays and Venomous Fish](https://drive.google.com/file/d/1gyO973D1w1XezxwmMHjYJW9grV10GC1V/view) · p1409–1409
+    - [Sea Snakes](https://drive.google.com/file/d/1YF2DTFeC8KQtnxMSnNxsxR1vRDW9-axF/view) · p1409–1410
+    - [Octopus Injuries](https://drive.google.com/file/d/19cqaaXx0pClQPz2EQ2CM_BQjqqw5U06q/view) · p1410–1410
+    - [Cone Snail Injuries](https://drive.google.com/file/d/17V-_eM9rbBJljrY3daGfbthk_efEIcmm/view) · p1410–1411
+    - [Sea Urchins and Starfish](https://drive.google.com/file/d/1BXPieDaI0Sq9SV72aIvq7SgEwhxmvuui/view) · p1411–1411
+    - [Fireworms or Bristleworms](https://drive.google.com/file/d/1Piwxqy2NP0pAJI_13wr5SJrxYgj5fY6q/view) · p1412–1412
+    - [Hydroids and Fire Coral](https://drive.google.com/file/d/17tJXkO3_mHa0l2laasKgItN_LxVMAYvF/view) · p1412–1412
+    - [Jellyfish](https://drive.google.com/file/d/1ayaLok94SOBSGPWOvu7r8o5ScbwwRYXH/view) · p1412–1413
+- **[214 Diving Disorders](https://drive.google.com/file/d/1w8sFyZsT1I3ZLkZz7kEkaVqhpH81ruCZ/view)** · p1413–1419
+    - [Overview](https://drive.google.com/file/d/1dkYwo7hmtKUpgXCklOClpmEZ7XTI1T8p/view) · p1413–1414
+    - [Barotrauma of Descent](https://drive.google.com/file/d/1CoKUtjnZjmJ9hvLyOGY4cAZq4Ch_I6O-/view) · p1414–1415
+    - [Barotrauma of Ascent](https://drive.google.com/file/d/1YdL7obBM-FDDJmgEf-TxVwmKKpkyBVn7/view) · p1415–1416
+    - [Decompression Sickness](https://drive.google.com/file/d/1zvWw8UtyjPtv5QbQDF3sZ_QvQlG9catn/view) · p1416–1419
+- **[215 Drowning](https://drive.google.com/file/d/1LBbFLPJSs6u5AlENjOVG8H_JvbsKVQcv/view)** · p1419–1421
+    - [Overview](https://drive.google.com/file/d/1Pqq4lMCYK7bTs9Klh5M9HN5vQksqHsY3/view) · p1419–1420
+    - [Primary ED Treatment](https://drive.google.com/file/d/1UCXegXQEwfbR7Nl7EY0bywAcn5mxj7YZ/view) · p1420–1420
+    - [Secondary Treatment](https://drive.google.com/file/d/1pP19KubtXn_uBv9ALbtcJ1PQsetMt-PN/view) · p1420–1421
+    - [Asymptomatic Drowning](https://drive.google.com/file/d/1PI9Se8KEm5XECj-8Hu0uJzGnvbjxOCuJ/view) · p1421–1421
+    - [Symptomatic Drowning](https://drive.google.com/file/d/1xkolapWeZ0JwlTd9XaMCy5dP2YDVV5Tj/view) · p1421–1421
+- **[216 High-Altitude Disorders](https://drive.google.com/file/d/1R1MzDHTocvAAW2CIPLeb8W1xbYtE5IeE/view)** · p1421–1428
+    - [Overview](https://drive.google.com/file/d/1elzhiOtZEfokX5bgqbRJ8FTwAzk1wHMn/view) · p1421–1422
+    - [Physiology and Pathophysiology of Altitude Acclimatization](https://drive.google.com/file/d/1j5QXDyN6OXmjMhWc5GGSJdJBaUF_gIb4/view) · p1422–1423
+    - [Acute Hypoxia](https://drive.google.com/file/d/1qbnNA5ZYs3weiWeHjWDhbZVucaqNwHfs/view) · p1423–1423
+    - [Acute Mountain Sickness](https://drive.google.com/file/d/1CjwAZ-2EvBMt81xdibUUHeHYaG7YGX19/view) · p1423–1426
+    - [High-Altitude Cerebral Edema](https://drive.google.com/file/d/1zTtHTmxjmj2_CiskXUvV4JThrlQqdwmX/view) · p1426–1426
+    - [High-Altitude Pulmonary Edema](https://drive.google.com/file/d/1vSmti95x2qUoylw_rpvUDkn21nkXDC4m/view) · p1426–1427
+    - [Other Altitude Syndromes](https://drive.google.com/file/d/1KgrzcJVlvTmruVqy9CcN1W9ji_bPqUoH/view) · p1427–1428
+- **[217 Thermal Burns](https://drive.google.com/file/d/1-Xh3x7D8EJZCC8jHDZuHYKxSAWs5IA5R/view)** · p1429–1436
+    - [Overview](https://drive.google.com/file/d/1SvExkoAAaSPrqFj3Lnj3PGOyQ0ACPaes/view) · p1429–1433
+    - [Burn Treatment](https://drive.google.com/file/d/1M4IiMNIhXZ1-J7Rcm4NAvZupa5T2gl-K/view) · p1433–1435
+    - [Care of Minor Burns](https://drive.google.com/file/d/1TdhZRu-C6RKNhuMQMMPYk3f-8qPlZyRB/view) · p1435–1436
+- **[218 Chemical Burns](https://drive.google.com/file/d/1VCP4lIZpyiroVqwnpev5vzk7i1F8-Gco/view)** · p1436–1441
+    - [General Approach to Chemical Burns](https://drive.google.com/file/d/1b30PimXsDZkJ7oIzOw2Fp0IRj9RDFysR/view) · p1436–1437
+    - [Acid Burns](https://drive.google.com/file/d/1cGHkcxCa-gcF_kJJSdx08bQGmd222XW_/view) · p1437–1439
+    - [Alkali Burns](https://drive.google.com/file/d/1_-O-NAQgL__xbM7AJptHEJCQdXuiYpqE/view) · p1439–1440
+    - [Metals](https://drive.google.com/file/d/1n0x4L2X4-3RRy7OKU1MrrxjbMCyMxWu1/view) · p1440–1440
+    - [Hydrocarbons](https://drive.google.com/file/d/1OqHfxS2FvXt8XjTB3Ozc0oqxnz6tHrYc/view) · p1440–1440
+    - [Vesicants (Dimethyl Sulfoxide, Cantharides, and Sulfur Mustard)](https://drive.google.com/file/d/1elU8cFRCv49XHwtfYwhdra2VijR2zBg8/view) · p1440–1440
+    - [Potassium Permanganate](https://drive.google.com/file/d/1-auwTapQyzNakKOGPiH0Biw8UnpDhs-H/view) · p1441–1441
+    - [Alkyl Mercury Compounds](https://drive.google.com/file/d/1_8ji3R2mRu4fbTJjmUdcU2Xs-RkWLvh5/view) · p1441–1441
+    - [Lacrimators or Tear Gas](https://drive.google.com/file/d/1ZHieVjX0oZYI6E79x__hk5oJsGq6nh9B/view) · p1441–1441
+    - [White Phosphorus](https://drive.google.com/file/d/19D8PhVRz8RJUZ75-5RcuzKKlaEB152BA/view) · p1441–1441
+    - [Air Bag Burns](https://drive.google.com/file/d/1gkyekmN5SzFvV9oNt9XggZmoGth9D9MG/view) · p1441–1441
+    - [Ocular Burns](https://drive.google.com/file/d/1yc79Zm8Cb2lG0n1xo-rdmIV-kFPH1rmv/view) · p1441–1441
+- **[219 Electrical and Lightning Injuries](https://drive.google.com/file/d/1jOHrz3l_32IQDISCVvcR_QEmGYUeuG9o/view)** · p1441–1449
+    - [Overview](https://drive.google.com/file/d/1k6W1GS17kfmQbuYYZxBJYu0LQC1LZBm6/view) · p1441–1442
+    - [Basics of Current Flow](https://drive.google.com/file/d/1XpzMKy5u3vqokclblMpv5B7Nqp_ex2__/view) · p1442–1442
+    - [Mechanisms of Electrical Injury](https://drive.google.com/file/d/13aCXLsLF7DndMn5Pzv3HIDaK_0D9AZuB/view) · p1442–1443
+    - [Clinical Features of Electrical Injury](https://drive.google.com/file/d/14hchmv_h6paFK7o0pwEPpmq48KRou385/view) · p1443–1444
+    - [GI Injury](https://drive.google.com/file/d/1F82EeYziAXPuTgJRcnQ0vXrUFUvIyw2b/view) · p1444–1444
+    - [Scene and Prehospital Care](https://drive.google.com/file/d/1GOMIv2szZ-R5q1BVu2hskWJLbNN7xgH9/view) · p1444–1446
+    - [Lightning Injuries](https://drive.google.com/file/d/1BiDxouJiDRuzWENtFk8VbUv39s3wX23N/view) · p1446–1447
+    - [Types of Lightning Strikes](https://drive.google.com/file/d/1Q_yIbQzkL0g1Nynn1MInY9oXQ5YrdkUm/view) · p1447–1447
+    - [Care at the Scene](https://drive.google.com/file/d/1xplZei66F5GpQ31ze07LMHhfEE8znf1C/view) · p1447–1448
+    - [Injury Due to Electronic Control Devices](https://drive.google.com/file/d/1vtEppHgzdSW8qKom4CH3UmaCROIqulk3/view) · p1448–1449
+- **[220 Mushroom Poisoning](https://drive.google.com/file/d/1abqYo7uM5srxtetvsvYCTdppaxzEi5mB/view)** · p1449–1454
+    - [Early-Onset GI Symptoms](https://drive.google.com/file/d/19rVbW_STGqOCKTJTojGrd_IZbCKuYyhb/view) · p1449–1451
+    - [Early-Onset Neurologic Symptoms](https://drive.google.com/file/d/1UXik5cWLaFBR4Ag-5dIMW4bEZNGl601L/view) · p1451–1452
+    - [Early-Onset Muscarinic Symptoms](https://drive.google.com/file/d/1arfJSRlUqpgtbhvSq-JF4lUBqZkVKE2t/view) · p1452–1452
+    - [Delayed-Onset GI Symptoms](https://drive.google.com/file/d/1-vFg_tkENNQyZQblP-AM2o0rTCgOTNFw/view) · p1452–1454
+    - [Delayed-Onset Renal Failure](https://drive.google.com/file/d/1dy4PgaJJXVOFWQVY5rymYIsfDmqyTqhI/view) · p1454–1454
+    - [Delayed-Onset Disulfiram Reaction](https://drive.google.com/file/d/18Jw2a82n7zrE_9S7E_m_DUxdu2fuVg3f/view) · p1454–1454
+    - [Shiitake Dermatitis](https://drive.google.com/file/d/1lMxh6Td3LjVAc-NG8a5AvCyuID_wFGGC/view) · p1454–1454
+- **[221 Poisonous Plants](https://drive.google.com/file/d/1jnBDCmBu7tduruIiOH9rRMfc6jqyavqa/view)** · p1455–1459
+    - [Highly Poisonous Plants and Common Toxic Plants](https://drive.google.com/file/d/1WOqnqZ1ikxJPB10Bqvp-6yV2RqQYTgdl/view) · p1455–1458
+    - [Cyanogenic Plants (Prunus Species)](https://drive.google.com/file/d/1ty_x1vNoGzerZ-yXcQrkZPtTtcC4_PzH/view) · p1458–1458
+    - [Capsaicin (Peppers)](https://drive.google.com/file/d/1FaH8EBSlTc70tlRo0d13D5r_-CkfqDvf/view) · p1458–1458
+    - [Miscellaneous GI Toxins](https://drive.google.com/file/d/1qhvy03DqzoDFUecQSZuQwjMOSs6MdmI1/view) · p1458–1458
+    - [Plant-Induced Dermatitis](https://drive.google.com/file/d/1qjIlubTWj-eiUgyMeOVdgRzBIyx2ja_h/view) · p1458–1459
+- **[222 Carbon Monoxide](https://drive.google.com/file/d/15X8xrKDYNQd-ly356Ab7-LLXpzT1-zQR/view)** · p1459–1463
+    - [Overview](https://drive.google.com/file/d/1v3tBWeV-7FJDfjEkxUE_ZD0N38kpSog0/view) · p1459–1460
+    - [Tissue Hypoxia](https://drive.google.com/file/d/1WmhkoTS8TohvFL0yf3fOzlJUimvncUfX/view) · p1460–1460
+    - [Mitochondrial Inhibition](https://drive.google.com/file/d/1XXhVVPqaTMM7-rYl2r_sNXcIaQvokuPB/view) · p1460–1460
+    - [Inflammatory and Platelet Effects](https://drive.google.com/file/d/1hukOP3-2MEL8Hir9Got02DkdwxCFp64t/view) · p1460–1460
+    - [Carboxyhemoglobin Measurement](https://drive.google.com/file/d/1AiT7rwhFIUr4DHk89p9X3Dk4hdbPkO_z/view) · p1460–1461
+    - [Interpreting Carboxyhemoglobin Levels](https://drive.google.com/file/d/1NfdgsnQxzX9bZzG3V1WiVfqyNFQJIM8p/view) · p1461–1461
+    - [Ancillary Tests](https://drive.google.com/file/d/1R5qL-HMbf7SLvqHvUIWgFJ-hQ9nxJCgp/view) · p1461–1461
+    - [ED Treatment of Carboxyhemoglobin with No High-Risk Features](https://drive.google.com/file/d/1q4rKY-QU4GoyIA7GCzeoSPUE5FQHtw38/view) · p1461–1462
+    - [Treatment of Carboxyhemoglobin with High-Risk Features](https://drive.google.com/file/d/1L_YfVaiF8ggblplIqwCmxpg07otM3z9B/view) · p1462–1462
+    - [Delayed Neurologic Sequelae (Or Encephalopathy)](https://drive.google.com/file/d/1PzIzduqT2B0DY5AqDejdQj5qO6e3nXlb/view) · p1462–1462
+    - [Infants, Pregnant Women, and the Elderly](https://drive.google.com/file/d/1ry0p84Qsj883Rrp_sibu4bcnRm5cYv3m/view) · p1462–1462
+
+## SECTION 17 Endocrine Disorders
+
+- **[223 Type 1 Diabetes Mellitus](https://drive.google.com/file/d/1CjqUP6K4uPOM9qXdLddWCtkOygblm4_S/view)** · p1464–1469
+    - [Insulin](https://drive.google.com/file/d/1bEwFDLgkwT-VvfSDtB_xrS6NepJcF_Fl/view) · p1464–1465
+    - [Glycemic Complications in Insulin- Dependent Patients](https://drive.google.com/file/d/1SIumwtM4QaEPUBGNf52AS-oeSbTe30pH/view) · p1465–1467
+    - [Insulin Pumps (Continuous Sc Insulin Infusion)](https://drive.google.com/file/d/1D6mnw8oS0yUCHOaIjVtlaU3CqfBJHWWc/view) · p1467–1469
+- **[224 Type 2 Diabetes Mellitus](https://drive.google.com/file/d/1kJUawEwyYkuCh3oWCpg62RaNf6cbVCzh/view)** · p1469–1478
+    - [Type 2 Diabetes Mellitus](https://drive.google.com/file/d/1ylP_WicpSvub_dOaxtIIhCA9AsZqWTQe/view) · p1469–1474
+    - [Metformin](https://drive.google.com/file/d/1RlqWCUu072runyX1ZiJezjrqtSkak9nK/view) · p1474–1474
+    - [Glitazones](https://drive.google.com/file/d/1ijPRQk9FHrVwu-_nhgZN7J94yaQQhviv/view) · p1474–1474
+    - [Sulfonylureas](https://drive.google.com/file/d/13V_Nw4z8fSa6L6pxk8gKWGJ8hwZgc6L-/view) · p1474–1474
+    - [Glinides](https://drive.google.com/file/d/1NB3GKLJf9JBbjwCu7waBUd_rixMuaF0z/view) · p1474–1475
+    - [Alpha-Glucosidase Inhibitors](https://drive.google.com/file/d/1OhcssT0sNVwq-eJo_9WILUoXhELx31Hn/view) · p1475–1475
+    - [Glucagon-Like Peptide 1 Receptor Agonists](https://drive.google.com/file/d/1uAw-1sBliQX_rD7nHjrQMQPyeuvsouns/view) · p1475–1475
+    - [Dipeptidyl Peptidase 4 Inhibitors](https://drive.google.com/file/d/11iHTWESA94lzz46M8CAm4QD4rGa9XCV-/view) · p1475–1475
+    - [Amylin Analogues](https://drive.google.com/file/d/1nJTwo8zBNEMUIpZHLW9JuZCR3LSB1gyk/view) · p1475–1475
+    - [Sodium-Glucose Cotransporter 2 Inhibitors](https://drive.google.com/file/d/1HnVNu8cN2zcLy0n96IW_4sBqrBZrtd-L/view) · p1475–1475
+    - [Insulin](https://drive.google.com/file/d/1uLOSBE19AwnRcY80EF8Ad0LuYIfiWxFa/view) · p1475–1475
+    - [Lower Extremity and Foot Complications](https://drive.google.com/file/d/1ysB8ZI0vxTdOsLPfu5_EpVlZUgPBuhGm/view) · p1475–1476
+    - [Hypoglycemia](https://drive.google.com/file/d/15nPuQHqlQ4aemEJA8WmDCREJ5Vvy4MVB/view) · p1476–1478
+- **[225 Diabetic Ketoacidosis](https://drive.google.com/file/d/1FXeHaGiCrE73zVDQhJ8Hie_TW0dydosU/view)** · p1478–1486
+    - [Overview](https://drive.google.com/file/d/1c0MeEMdu-w1e00TcEccww7_Hj4uNa3L9/view) · p1478–1479
+    - [Insulin](https://drive.google.com/file/d/1CX20SUWyqoTDDlA-RxZtyBfV03kMpAUp/view) · p1479–1479
+    - [Ketoacidosis](https://drive.google.com/file/d/1s2nxxu7hkgFrJmVzkaAV7Or7TXVXgj61/view) · p1479–1480
+    - [Causes of DKA](https://drive.google.com/file/d/17kPClzL2Hl3pxGym_sgiOr-3hMQfhftN/view) · p1480–1480
+    - [Euglycemic DKA](https://drive.google.com/file/d/102MbVvcNPhBlLCEZltin--pbO9Z7Ivr5/view) · p1480–1482
+    - [Volume Repletion](https://drive.google.com/file/d/1bgO4GM2K7UwOhC8pqBmx_NKc-Gq4hm0s/view) · p1482–1483
+    - [Potassium Replacement](https://drive.google.com/file/d/1-WNxI313MNwpal7In6z0FWTWnxwGAYY7/view) · p1483–1483
+    - [Insulin](https://drive.google.com/file/d/112e8o57Si9dADIlynNNzI_pbf_ITCUVQ/view) · p1483–1484
+    - [Hypophosphatemia](https://drive.google.com/file/d/1FZxNaj0v9sslBv2sPUReBY4LLqsSgvj-/view) · p1484–1484
+    - [Hypomagnesemia](https://drive.google.com/file/d/13ylhL09087ObE05oUGfFQf-zGrkNu2NO/view) · p1484–1484
+    - [Bicarbonate](https://drive.google.com/file/d/1otEaFYe9nmEGKC1vXwVDULfa6XQMuvHj/view) · p1484–1484
+    - [Disease Complications](https://drive.google.com/file/d/1tCQ-ddFcGLRU4CAj1PGkl4qfzZYGwLlB/view) · p1484–1484
+    - [Complications Related to Acute Disease](https://drive.google.com/file/d/1WO-ZxL9WRtNtZ6kEnwYUFD0N-ro0v6Rs/view) · p1484–1484
+    - [Complications Related to Therapy](https://drive.google.com/file/d/1i3RKqwpcbDrKl1n7-Q4XIKRpnJ3AAZa0/view) · p1484–1485
+    - [Later Complications](https://drive.google.com/file/d/1n1p9Pik7SN1jfPp6STzH8x7Ng8Sql4zx/view) · p1485–1485
+    - [Recurrent DKA Patients](https://drive.google.com/file/d/1-zdXJ-QYwmPYlTQ37l1-eYedxH2ONBRw/view) · p1485–1486
+    - [Patients with Insulin Pumps](https://drive.google.com/file/d/1YHPMlLEUTAQBTr8asfoxJ9gHCkBtdxgw/view) · p1486–1486
+    - [DKA in Pregnancy](https://drive.google.com/file/d/1lbboCs8W18T-13OtESWHZ5oDziT518s0/view) · p1486–1486
+- **[226 Ketoacidotic Syndromes](https://drive.google.com/file/d/1FmflSqVnt2qXaxuNBDNwqPghYriuVaaf/view)** · p1486–1488
+    - [Common Ketoacidotic Syndromes](https://drive.google.com/file/d/1hEh1O5KokZDUH1pyXOT4T7csAPrvldaw/view) · p1486–1486
+    - [Alcoholic Ketoacidosis](https://drive.google.com/file/d/1FMx44dp2OMU19H5kzvLJds0iCgDwUByR/view) · p1486–1487
+    - [Starvation Ketosis](https://drive.google.com/file/d/1GXArjw0ygw2On26ofOlHXD_R87eGQnMO/view) · p1487–1487
+    - [Nutritional Ketosis](https://drive.google.com/file/d/1IzdzpA00RQqdB5N9QilQy1XlQfwaCjk7/view) · p1487–1488
+    - [Ketogenic Diet](https://drive.google.com/file/d/1R_FV4FIX_R2yCvYooJ2e1Jrrpxzdk5ec/view) · p1488–1488
+    - [Toxic Ingestions](https://drive.google.com/file/d/1zZWnuLyhfFj3gWXOmzah5NxRk55wR7W1/view) · p1488–1488
+    - [Inborn Errors of Metabolism](https://drive.google.com/file/d/1-xTcvmhG8eE6gYk0FdkqIxyP16016mHi/view) · p1488–1488
+- **[227 Hyperosmolar Hyperglycemic State](https://drive.google.com/file/d/1_AukpGY-HsPAbLarUHoGvu9opS-DNe8a/view)** · p1488–1492
+    - [Overview](https://drive.google.com/file/d/1w0MNuFD5IJFaV0NsBDulcu5gQg11v-wG/view) · p1488–1489
+    - [History and Comorbidities](https://drive.google.com/file/d/1aOYPKoIRtLN0gekBSazVFabRZvXFlE4S/view) · p1489–1491
+    - [Fluid Resuscitation](https://drive.google.com/file/d/1lkegYwYTAadtIfq6tlpXSi9ww8dxq0dp/view) · p1491–1491
+    - [Electrolytes](https://drive.google.com/file/d/1Eu0zIV2iDVlqHIEg6aXFxakHgiHSY4-E/view) · p1491–1492
+    - [Insulin](https://drive.google.com/file/d/1JE4yOZaL6oaJJU1aBycfGDFiu1yzffSj/view) · p1492–1492
+    - [Disease Complications](https://drive.google.com/file/d/1Uz2ujDLkhHZW_Jc7x_loi6wrZFL0oW4F/view) · p1492–1492
+- **[228 Hypothyroidism and Myxedema Crisis](https://drive.google.com/file/d/1DAFkFqHkrDRTsv113ps1Yq8fXeSUZdrR/view)** · p1492–1495
+    - [Clinical Features of Hypothyroidism](https://drive.google.com/file/d/1nONTKMMj1BmlbIs7qkYQTxo6nD3s7LUO/view) · p1492–1492
+    - [Clinical Features of Myxedema Crisis](https://drive.google.com/file/d/1CVG60eDZQ2KR0qrI2JF8gPBkrHcE6KvO/view) · p1492–1494
+    - [Treatment of Symptomatic Hypothyroidism](https://drive.google.com/file/d/1D8nicJmnGd59k4ND8uYmIw8Sg0N8pzDp/view) · p1494–1494
+    - [Treatment of Myxedema Crisis](https://drive.google.com/file/d/1uR7FilwgGb15_8QdWyvOSgJY5pMRhcJE/view) · p1494–1495
+- **[229 Hyperthyroidism and Thyroid Storm](https://drive.google.com/file/d/1c4OLSru-jEBtiiHdVZdx5L4fhoH8VujX/view)** · p1495–1502
+    - [Hyperthyroidism](https://drive.google.com/file/d/1Ets___acmyS3fOIArroxwQbzwAz60ihw/view) · p1495–1497
+    - [Thyroid Storm](https://drive.google.com/file/d/17_LSMaAkH567JMRzG0aLtKqe6fP6YBtE/view) · p1497–1498
+    - [Treatment of Thyroid Storm](https://drive.google.com/file/d/124-q1R0tksKHgwHjZwPFGJgmOmRil4cB/view) · p1498–1501
+    - [Rapid Preparation of Thyrotoxic Patients for Emergency Surgery](https://drive.google.com/file/d/1d7PLbz8__ArcopQW5XjL53ewWLMKvbLY/view) · p1501–1502
+- **[230 Adrenal Insufficiency](https://drive.google.com/file/d/1-D9koyTbTnpvAs3ETDVvhycItYSlGx4u/view)** · p1502–1505
+    - [Primary Adrenal Insufficiency](https://drive.google.com/file/d/1LaIEPHqWgVlwurB2oe01LypSkWcoWM0i/view) · p1502–1502
+    - [Secondary Adrenal Insufficiency](https://drive.google.com/file/d/1IlF9oBuEsidLVnlbmKF3EffG7iG1clWF/view) · p1502–1503
+    - [Adrenal Crisis](https://drive.google.com/file/d/1wl2_wuEPurpit8XKcHPKoPmT-GDY01Kg/view) · p1503–1504
+    - [Adrenal Insufficiency](https://drive.google.com/file/d/1oRgCC48WwoVZUbF60SBGaDtK50H6JQ2L/view) · p1504–1504
+    - [Adrenal Crisis](https://drive.google.com/file/d/1GUYBTnhHv4PVN_49XL-HQpaVFPLlLw_D/view) · p1504–1504
+    - [Patients on Chronic Corticosteroids](https://drive.google.com/file/d/15ZnSbzaebwKBXz7XHtHFXzYNjprgNs7K/view) · p1504–1504
+    - [Patients with Chronic Adrenal Insufficiency with Acute Illness or Injury](https://drive.google.com/file/d/1ndmL3uYcB-cgef4peD3XFaCwdmjXf3ag/view) · p1504–1504
+    - [Pregnancy with Adrenal Insufficiency](https://drive.google.com/file/d/1EgiTIz-Hm0ehdj3s0RLv3cSMa1Jf4qUY/view) · p1505–1505
+    - [Sepsis](https://drive.google.com/file/d/17PUvfGuRx3sgwW713LrU4cObnQWOhbAJ/view) · p1505–1505
+
+## SECTION 18 Hematologic and Oncologic Disorders
+
+- **[231 Anemia and Polycythemia](https://drive.google.com/file/d/1gqY29R_3wdJdDhqGn_5De5AAxBKLTZcB/view)** · p1506–1509
+    - [Anemia](https://drive.google.com/file/d/1sXMfC-NKrRuK4A02_vhaaiY6kvW7oLAy/view) · p1506–1508
+    - [Polycythemia](https://drive.google.com/file/d/1nUY8FLfkNKQjtwVFnvrJ2_mWNF-Ybnso/view) · p1508–1509
+- **[232 Hemostasis](https://drive.google.com/file/d/1cE4EkgFwPUOgcwqV6HsiFF0z24DJqNqW/view)** · p1509–1514
+    - [The Bleeding Patient](https://drive.google.com/file/d/1v26pBLhp3vUSFBqsgLYHyY19DQ0N0A1z/view) · p1509–1510
+    - [The Patient with a Thrombus](https://drive.google.com/file/d/1Ez2X_TrI7cYQ3Vc07-zPOydtIzzr5-2W/view) · p1510–1510
+    - [Normal Coagulation](https://drive.google.com/file/d/1Nl8bGBeSmuSnlZYcnnkhAYmSxFRwySsV/view) · p1510–1510
+    - [The Fibrinolytic System](https://drive.google.com/file/d/1MbpyvPxcf7YsJW-STXP8ydvLsYILslrB/view) · p1510–1512
+    - [Tests of Hemostasis](https://drive.google.com/file/d/1q2nO2lkvMmb6KHqLFmwZUObvm48CdAFU/view) · p1512–1513
+- **[233 Acquired Bleeding Disorders](https://drive.google.com/file/d/1NgbBLLWcvLLqZFKMAlySVKYRiVHU3A41/view)** · p1514–1519
+    - [Acquired Platelet Defects](https://drive.google.com/file/d/1D_6Xhxnn4ZVLNFJGlXNUOdZtqrmNrlnc/view) · p1514–1516
+    - [Acquired Coagulation Disorders](https://drive.google.com/file/d/1UbXEkPHLQuyY-_xxLLRPgrLGEFsM5_2w/view) · p1516–1519
+- **[234 Clotting Disorders](https://drive.google.com/file/d/1WoiOEC0xQpyuYx5K6Z8ZdEMO-4xCW8MJ/view)** · p1519–1522
+    - [Thrombophilia](https://drive.google.com/file/d/1VFNbkbs3732IPcRBaxFXgncPsR9FHNGC/view) · p1519–1520
+    - [Inherited Clotting Disorders](https://drive.google.com/file/d/1b3R_U17cuDaE47U8pXQ1PYl_7GJGX4HE/view) · p1520–1521
+    - [Acquired Clotting Disorders](https://drive.google.com/file/d/1uXJmK9HdcZVXbfSfzfoAHPm-9TWeF0NK/view) · p1521–1522
+- **[235 Hemophilias and von Willebrand's Disease](https://drive.google.com/file/d/1KGA6wMPkmIglrw9o0MI2wGHQ8YbZaAYl/view)** · p1523–1527
+    - [Hemophilia](https://drive.google.com/file/d/1flGA7KXch14OezQoApMKrYjKcAYd3MTH/view) · p1523–1526
+    - [Von Willebrand’s Disease](https://drive.google.com/file/d/18X2MndJrhZ0iCKAx7gi7W0FoYy7DWe_a/view) · p1526–1527
+- **[236 Sickle Cell Disease and Hereditary Hemolytic Anemias](https://drive.google.com/file/d/1Q90Bqx1eZtdT95K2koqbzLcNBXokOq6c/view)** · p1527–1534
+    - [Sickle Cell Disease](https://drive.google.com/file/d/1GqpwO45HjpL37eZ0bp9d3KVpmKcJsWx-/view) · p1527–1528
+    - [Sickle Cell Anemia (HbSS Disease)](https://drive.google.com/file/d/1qBTg3PShszA2NpHZ9WHd--OEtjOUIvYG/view) · p1528–1532
+    - [Sickle Cell Trait](https://drive.google.com/file/d/12lqOtHPSdk7Hy-W0T0QnrAY7OcmV4qDU/view) · p1532–1532
+    - [Other Variants of Sickle Cell Disease](https://drive.google.com/file/d/1aLtBcbMuqL-LDOldnAmJuEWMA5hHkNFb/view) · p1532–1532
+    - [Thalassemia](https://drive.google.com/file/d/1mBDE58CZSael1gDIi27RhsRuiUgW4qto/view) · p1532–1533
+    - [α-THALASSEMIA Carrier and Trait](https://drive.google.com/file/d/1deR8VEm4fh_PpKrlhoUqHf2D8l9F9Uf6/view) · p1533–1533
+    - [α-THALASSEMIA (Hemoglobin H Disease)](https://drive.google.com/file/d/1bRSrc3kK2rjmlw5Wwzx-CF2QEURX6FOK/view) · p1533–1533
+    - [β-THALASSEMIA Minor (β-THALASSEMIA Trait)](https://drive.google.com/file/d/1ESkMN9tmjwQw-g8eHPn2ssCdXYxcAhEx/view) · p1533–1533
+    - [β-THALASSEMIA Intermedia](https://drive.google.com/file/d/1urJnsgozJpmJ3j7sETjVSXL_iYQL0cgu/view) · p1533–1533
+    - [β-THALASSEMIA Major (Cooley’s Anemia)](https://drive.google.com/file/d/1sJSnyZyc4zffOUd5I8nvyNFvLs29TfYE/view) · p1533–1533
+    - [Sickle CELL–β-THALASSEMIA Disease](https://drive.google.com/file/d/1KvmgqstGj56R1OLwFXFeY7EYVgJcVzzq/view) · p1533–1533
+    - [Glucose-6-Phosphate Dehydrogenase Deficiency](https://drive.google.com/file/d/1TBktWlwzQDb3OKBMrC-jHI-3t3DWxCOX/view) · p1533–1534
+    - [Hereditary Spherocytosis](https://drive.google.com/file/d/1hbsX_H-Rd0grn-0wgCfR4cU5c6nxmOG3/view) · p1534–1534
+- **[237 Acquired Hemolytic Anemia](https://drive.google.com/file/d/1HzEHaBz83MnynMNMYuIfVcuJsLFgu12V/view)** · p1535–1539
+    - [Immune-Mediated Acquired Hemolytic Anemia](https://drive.google.com/file/d/1mYZekV15z4auTWRvPG_RuyLOmE56RaEh/view) · p1535–1537
+    - [Microangiopathic Syndromes](https://drive.google.com/file/d/1Mcl9t7EbcwxZfFhwCGrH9sR1Rl_USnw-/view) · p1537–1539
+    - [Macrovascular Hemolysis](https://drive.google.com/file/d/1xxFjz1NIQWvV6OVRiMAZEWUSHIfKvPuh/view) · p1539–1539
+    - [Additional Causes of Hemolysis](https://drive.google.com/file/d/1mTDATv_yvimGzKe1BBJcLr4_c-Zji1kt/view) · p1539–1539
+- **[238 Transfusion Therapy](https://drive.google.com/file/d/1ArlDLDBjixUK1Mtv1oVllv3_47r8NDUt/view)** · p1539–1545
+    - [Blood Transfusion](https://drive.google.com/file/d/1thzMlxTgbQpaMIJQMbU--GGwBhNB8L-r/view) · p1539–1542
+    - [Coagulation Factor Transfusion](https://drive.google.com/file/d/1jEpy68tENaKb6URd9Ap-_jpqfBMFmZoJ/view) · p1542–1543
+    - [Complications of Blood Transfusions](https://drive.google.com/file/d/1y6ovoQ-xyyYjK2H7ijk_hgi4HPP72-_Q/view) · p1543–1545
+- **[239 Thrombotics and Antithrombotics](https://drive.google.com/file/d/11OxRCugvMdCzjECp6ctiXBwCwn7r0m7E/view)** · p1545–1558
+    - [Overview](https://drive.google.com/file/d/1zxXDKkuEBizR6uEskkEGqQNOQc4CyMSg/view) · p1545–1548
+    - [Warfarin](https://drive.google.com/file/d/1wJ55ePY3MONljR3AZt9wrdZDII3XpUXB/view) · p1548–1550
+    - [Direct Thrombin Inhibitors](https://drive.google.com/file/d/1GdjHxnWrciYSQOhmlSo22Os5UveNYGMr/view) · p1550–1550
+    - [Factor Xa Inhibitors](https://drive.google.com/file/d/1ryoiFKQm-XSL2nk6qCkAvC5eaSg6p8N2/view) · p1551–1551
+    - [Unfractionated Heparin](https://drive.google.com/file/d/1jC8OkZr1-nJTY46PhOP8r93w3i5WN0Tr/view) · p1551–1552
+    - [Low-Molecular-Weight Heparin](https://drive.google.com/file/d/1k-yxjiTA9bs6o_1611_pPtkI82UooWz4/view) · p1552–1552
+    - [Heparin Complications](https://drive.google.com/file/d/14A8m1lycbDLSXR9Ib3jmDwl7rVyUhua0/view) · p1552–1553
+    - [Fondaparinux](https://drive.google.com/file/d/1Lik_JJW2VBc-DgjBEEz5X7C6t2G4u-QZ/view) · p1553–1553
+    - [Hirudins](https://drive.google.com/file/d/1iUdTq52FAoR1Zb1uDis_PYOqyYQTcPQW/view) · p1553–1553
+    - [Aspirin](https://drive.google.com/file/d/1uGXhcZrWaC-ZQ2bZBWCuxYOfUPTHM9rB/view) · p1553–1554
+    - [Adenosine Diphosphate Receptor Agents (Clopidogrel, Prasugrel, Ticagrelor, Ticlopidine)](https://drive.google.com/file/d/1R5NCcAU9YPZx_9eGcHX4qfOlnuAJPBI5/view) · p1554–1555
+    - [Phosphodiesterase Inhibitors (Dipyridamole)](https://drive.google.com/file/d/1fzz68RkvwSO-5p2-6QV8EztJv4PHSwxn/view) · p1555–1555
+    - [Glycoprotein Iib/Iiia Antagonists (Abciximab, Eptifibatide, Tirofiban)](https://drive.google.com/file/d/1NKzjtiVJdYqtOU2eiJe7U2HpHfpzEMfK/view) · p1555–1555
+    - [Fibrinolytics](https://drive.google.com/file/d/179vx2fB-NbjkIMb7gptqUK48ajDfYRr7/view) · p1555–1555
+    - [Streptokinase and Anistreplase (First Generation)](https://drive.google.com/file/d/1ZDp0sHKFVJrCyvzsRdHHSl4ukVwodD5o/view) · p1556–1556
+    - [Alteplase, or Tissue Plasminogen Activator (Second Generation)](https://drive.google.com/file/d/1D3-VRDKlhrEIsWQY1bqEcAVCUbUITntO/view) · p1556–1556
+    - [Reteplase and Tenecteplase (Third Generation)](https://drive.google.com/file/d/1c-b6RZ_kPfHO0O3ETTdespJRWSxAUzRt/view) · p1556–1556
+    - [Contraindications to Fibrinolytic Therapy](https://drive.google.com/file/d/1ZpVyY_oUjsP4jd36MZKaH2sMCoIeWPlz/view) · p1556–1556
+    - [Complications of Fibrinolytic Therapy](https://drive.google.com/file/d/1U4phRuL-th3KTORgTLw3TYWWBUS3EnFL/view) · p1556–1557
+    - [Indications](https://drive.google.com/file/d/1xAU1HiBTt7WEDp_gjLfenyCsafoLaNYb/view) · p1557–1558
+    - [Complications of Antifibrinolytic Agents](https://drive.google.com/file/d/1PSxgPzghT5Z5iQEO9n6Yup6bpUlk0LZH/view) · p1558–1558
+- **[240 Emergency Complications of Malignancy](https://drive.google.com/file/d/1S0lIb7KIr6dmWftPwoIeWGanELDn-HiJ/view)** · p1558–1567
+    - [Malignant Airway Obstruction](https://drive.google.com/file/d/1p6l6KMg8QJR474x-Kbyj-5rEabmj9kFo/view) · p1558–1558
+    - [Bone Metastases and Pathologic Fractures](https://drive.google.com/file/d/1hmRVYaRcP8JrblcL6A1YeqtRuHk2UxoT/view) · p1559–1559
+    - [Malignant Spinal Cord Compression](https://drive.google.com/file/d/1U5Qr6C3XkJ0XkJa_5VqaWUYNYb1XJKun/view) · p1559–1559
+    - [Malignant Pericardial Effusion with Tamponade](https://drive.google.com/file/d/1E0c2RnNiBBVT4iEgdOemlRNk3KdjK9i8/view) · p1559–1560
+    - [Superior Vena Cava Syndrome](https://drive.google.com/file/d/1KdBikGDVap2Ldtp4rfcDd4mjzVWBNG4g/view) · p1560–1560
+    - [Hypercalcemia](https://drive.google.com/file/d/156aC1kZHXzd4SqsyUrT0lJIGCCsj8WXP/view) · p1560–1561
+    - [Hyponatremia Due to Inappropriate Antidiuretic Hormone Secretion](https://drive.google.com/file/d/1nmOJXTGWtwQ_i3i7KzLFtls4oE79Kik9/view) · p1561–1561
+    - [Adrenal Insufficiency](https://drive.google.com/file/d/1VYOIErdKqNC5wbs8vJwpRWSgCvbOB27P/view) · p1561–1562
+    - [Tumor Lysis Syndrome](https://drive.google.com/file/d/1Xs1U-cbvKbZslXPMsXp57UW3ay3wlp4B/view) · p1562–1562
+    - [Febrile Neutropenia and Infection](https://drive.google.com/file/d/1ir6WRNfdXWfYZOdzlSqW-iyz7HLS5Lyq/view) · p1562–1563
+    - [Hyperviscosity Syndrome](https://drive.google.com/file/d/164Dfcw9Sojk6e-1JRNjbzbUkU3yQB9JK/view) · p1563–1563
+    - [Venous Thromboembolism](https://drive.google.com/file/d/1XLxEUEV1XM-QrV4lsrF9iY5v6LTUQ9l8/view) · p1563–1563
+    - [Chemotherapy-Induced Nausea and Vomiting](https://drive.google.com/file/d/1s3lqrEZfolQpTqerByWgffbA-KDQ1zJ8/view) · p1563–1564
+    - [Extravasation of Chemotherapeutic Agents](https://drive.google.com/file/d/1iP_fmEyJ7U8tNI1--8w4FkK-72n5EbmZ/view) · p1564–1564
+    - [Emergency Complications Due to Biologic Therapy](https://drive.google.com/file/d/1077MaWwFMlDDXbPsHmkebE6qMI-PijyG/view) · p1564–1566
+
+## SECTION 19 Eye, Ear, Nose, Throat, and Oral Disorders
+
+- **[241 Eye Emergencies](https://drive.google.com/file/d/126RMeKVEUaPx-Fi7j0tzlXKpL_8-C9jh/view)** · p1568–1605
+    - [Eye Anatomy](https://drive.google.com/file/d/1nhUCueMrH8YWHojo9VoRHQV2x7tH1SNm/view) · p1568–1568
+    - [Eye Examination](https://drive.google.com/file/d/1tQs5z-u8Yft1x1qKJh2pPUGHVoKvNg2p/view) · p1568–1576
+    - [Common Ophthalmic Medications Used in the ED](https://drive.google.com/file/d/1YdAQ8Kec-g2lfiHZvSBxt63IjfagCNF_/view) · p1576–1576
+    - [The Red Eye](https://drive.google.com/file/d/1fq4_yQHFoQ5YSH5HtMz1W3GYLsEGcrOZ/view) · p1576–1578
+    - [Preseptal (Periorbital) and Postseptal (Orbital) Cellulitis](https://drive.google.com/file/d/11EzI3kZoOjGN6hiddlbaukRwel2nQ-IS/view) · p1578–1584
+    - [Lids](https://drive.google.com/file/d/1wT_vOnCxPJr-3Eo4DRVYyhNUo9bc1IbC/view) · p1584–1587
+    - [Cornea](https://drive.google.com/file/d/1BuwjVms_l5x0d7v3h21C-o7B7FPTmqVG/view) · p1587–1589
+    - [Uveal Tract](https://drive.google.com/file/d/1Jc4Ia7nXxOMTcSheyXH35dCgiIX0pwOn/view) · p1589–1589
+    - [Vitreous Humor](https://drive.google.com/file/d/1hY7HSNnfjp6__h-jHdr68DCCx_pWYrbu/view) · p1589–1589
+    - [Conjunctival Abrasion, Laceration, and Foreign Body](https://drive.google.com/file/d/1aql7WKhsPgFb_LpEEOz2NChuj0tcDWKb/view) · p1589–1590
+    - [Corneal Abrasion, Laceration, and Foreign Body](https://drive.google.com/file/d/17Sklju1YvzIUzZbVb55P3sJxBj5OvlqY/view) · p1590–1592
+    - [Lid Lacerations](https://drive.google.com/file/d/1TBOYRoyHDw7QO1wfDlM0EHHeDQXtdegv/view) · p1592–1592
+    - [Blunt Eye Trauma](https://drive.google.com/file/d/1ng4hBvV1UohWrQ-_uu_q7wRyjO44v4nW/view) · p1592–1597
+    - [Chemical Ocular Injury](https://drive.google.com/file/d/19-5qGm1erQaBY7PrHhSdk7rWu-Jw5q7Z/view) · p1597–1598
+    - [Acute Visual Reduction or Loss](https://drive.google.com/file/d/1O8-oEJLRFFEo4Tr_UFPd3pNRp-2nB-MQ/view) · p1598–1598
+    - [Acute and Painful Vision Reduction or Loss](https://drive.google.com/file/d/1swNtbZ6o-pnj0_rtp-HuZj6mp6NERn-8/view) · p1599–1600
+    - [Acute Visual Loss with or Without Pain](https://drive.google.com/file/d/1zGPih2NfTr0hcNyI85QGwYAt9IkxbYMc/view) · p1600–1600
+    - [Acute Visual Loss Without Pain](https://drive.google.com/file/d/1GMmgZb4sifqkLIvUu04mnaqimHlULbXe/view) · p1600–1601
+    - [Cranial Nerve Palsies](https://drive.google.com/file/d/1cWfgMOPvvPVWKSmqRWRwD2cak2ZP5Ikr/view) · p1601–1602
+    - [Ocular Ultrasonography](https://drive.google.com/file/d/1jL8ddVTSfFBFm5hYsUYkXbb8OVassdTD/view) · p1602–1605
+- **[242 Ear Disorders](https://drive.google.com/file/d/1oJC-qisD-IP42q3QXJF9EfqcTDbDM1uU/view)** · p1605–1611
+    - [Overview](https://drive.google.com/file/d/1mATd6aLycRS5UKWEfctmGMpMMBcARN77/view) · p1605–1606
+    - [Otalgia](https://drive.google.com/file/d/1iPyrHPvraJaZ13YH4WGDWDI6EtVL07qU/view) · p1606–1606
+    - [Tinnitus](https://drive.google.com/file/d/13-ocelpyHjFyWEmLvBbN66LKxiMlLGkI/view) · p1606–1606
+    - [Sudden Hearing Loss](https://drive.google.com/file/d/1h5JM8kHy0m2sU_IsPQyab8y-klbomUaV/view) · p1606–1607
+    - [Acute Diffuse Otitis Externa](https://drive.google.com/file/d/1VjhmSoCYnSO0umeFP6a03_fs8DElt-fZ/view) · p1607–1608
+    - [Malignant Otitis Externa](https://drive.google.com/file/d/1AMJ-RjKArdXJgTHwlFT446vKzilri8fd/view) · p1608–1608
+    - [Otitis Media](https://drive.google.com/file/d/1CS71CADi4T3vaaYG_vP2z_xrnJNyk_SM/view) · p1608–1609
+    - [Bullous Myringitis](https://drive.google.com/file/d/1or9anoqfZonw5maYbD-c_tJpr3lotNAF/view) · p1609–1609
+    - [Ear Hematoma](https://drive.google.com/file/d/1u366ZL9mhUcNoMTvf9mJ52NMu2zAoatq/view) · p1609–1609
+    - [Ear Foreign Bodies](https://drive.google.com/file/d/17h7u4ipMlxPdE1dfiLfWpCHafo0WJWZg/view) · p1609–1609
+    - [Cerumen Impaction](https://drive.google.com/file/d/1Zjv_5Gedq_gJy22T6AMAiyeMrqx4r8RL/view) · p1609–1610
+    - [Tympanic Membrane Perforation](https://drive.google.com/file/d/1qDnq3lc1U1GXuMVXjT80G2MEZB0tUFHG/view) · p1610–1611
+    - [Complications of Cochlear Implantation](https://drive.google.com/file/d/1UfNMiSmKa2eziD1-yz5qaZoTE0k56GEi/view) · p1611–1611
+- **[243 Face and Jaw Emergencies](https://drive.google.com/file/d/1tJuSb0Y1PPgwxiyyhONYu6DEr1rLGBeL/view)** · p1611–1617
+    - [Facial Cellulitis, Erysipelas, and Impetigo](https://drive.google.com/file/d/1UhypBlUvelFCziH6_PbwXmRUqYYsvQIq/view) · p1611–1612
+    - [Salivary Gland Infections](https://drive.google.com/file/d/1kR3EeQIi55tQm5Owxh4crKbZ207TN_9a/view) · p1612–1615
+    - [Masticator Space Infection](https://drive.google.com/file/d/1ojw55ttU-rRHdpZzYDq-I8pNQ1rw-jul/view) · p1615–1615
+    - [Temporomandibular Joint Disorders](https://drive.google.com/file/d/1vneNcJUD_EBJo1ubcJVHb-pzRymmaJzk/view) · p1615–1616
+    - [Mandible Dislocation](https://drive.google.com/file/d/1Gjl1lLeEv6_67RLkH20P9Ezv5BADKBYo/view) · p1616–1617
+- **[244 Nose and Sinuses](https://drive.google.com/file/d/1pdiUjes4GoRwDkt0dlRpF-X0bmaOD5IN/view)** · p1617–1624
+    - [Epistaxis](https://drive.google.com/file/d/1aYDDOhpSZlnfvkYaHrJWxV16tZe_JR15/view) · p1617–1620
+    - [Nasal Fractures and Septal Hematoma](https://drive.google.com/file/d/1-wahNxVpW3kkqW5sMnGLryPLNu4fvW-f/view) · p1620–1622
+    - [Nasal Septal Hematoma](https://drive.google.com/file/d/1aupUTw84XBgZFXqs58_12jmS-5MaXm4z/view) · p1622–1623
+    - [Sinusitis and Rhinosinusitis](https://drive.google.com/file/d/11PL_4_zHvpmHPUmGbdXQaT_tKgZJh_hv/view) · p1623–1624
+- **[245 Oral and Dental Emergencies](https://drive.google.com/file/d/14AXx25oBekhNB4dDSC-J9GflmvtmtqMM/view)** · p1624–1639
+    - [Oral and Dental Anatomy](https://drive.google.com/file/d/1gpwEY-W6-HmZ8-SwWSdtM5jFJU10Ff3a/view) · p1624–1625
+    - [Pain of Odontogenic Origin](https://drive.google.com/file/d/1Xb3o3zGDaaHUy6Ff-_QZuFJgKz2Mis74/view) · p1625–1628
+    - [Periodontal Pathology](https://drive.google.com/file/d/1VoVe6XgF6j4CgKQ_RVPGaGQkHzuZG8R-/view) · p1628–1629
+    - [Special Considerations: Neurogenic and Neurophysiologic Syndromes](https://drive.google.com/file/d/1q4_uUG69vsZiW6oaRHabFZTI-KDz-fkU/view) · p1629–1629
+    - [Recurrent Aphthous Stomatitis](https://drive.google.com/file/d/1lKwQSAFBE-_U_4EPolqnbSSd7REo1I5Q/view) · p1629–1629
+    - [Herpes Zoster and Other Infections](https://drive.google.com/file/d/1QCEArbakHQ7L154xLde3EhFKYKRZQ1EP/view) · p1629–1629
+    - [Traumatic Ulcers](https://drive.google.com/file/d/10XAxhTi-ty5Ucx0CjQWCkdqPJkDT_6QM/view) · p1629–1629
+    - [Medication-Related Soft Tissue Abnormalities](https://drive.google.com/file/d/1Joqy_FcF-nJ5KM7KOlVOZQI7XLdKtXf-/view) · p1629–1630
+    - [Lesions of the Tongue](https://drive.google.com/file/d/1-qjEVxyBlHRRBDruEWyKCVgBjbTOwslP/view) · p1630–1630
+    - [Leukoplakia and Erythroplakia](https://drive.google.com/file/d/1XwvQ869K1Q5qOXreWj0lFPJEOKniWesG/view) · p1630–1630
+    - [Oral Cancer](https://drive.google.com/file/d/1MbL8Jqo4fMRttgwfBhXNshqbIOuLVfyG/view) · p1630–1630
+    - [Dental Fractures](https://drive.google.com/file/d/154HRbNqJjuRYmLittztx1p080Wzt6EBR/view) · p1631–1632
+    - [Luxation Injuries](https://drive.google.com/file/d/1a1wXE24ZqIVY9N9w6L7t_T1x1rZ4sBoF/view) · p1632–1634
+    - [Special Considerations with Luxation Injuries](https://drive.google.com/file/d/1--bmKqg9Vr-2l8TLQljj0zKa3aGlBuZk/view) · p1634–1634
+    - [Soft Tissue Trauma](https://drive.google.com/file/d/1mHM5MCiYzYD7jECUyVKoD1Nxtxd1O3AY/view) · p1634–1634
+    - [Dental Local Anesthesia Techniques](https://drive.google.com/file/d/1GVlyJbsQADJVKD9q0O6YzMEY5_Ug2If0/view) · p1634–1639
+- **[246 Neck and Upper Airway](https://drive.google.com/file/d/1bTdsuOEqr9aPVIsjDIvUoLBPVzITbxOi/view)** · p1639–1645
+    - [Pharyngitis/Tonsillitis](https://drive.google.com/file/d/10Yb8cPfN7zeAf5eYj0VEdQKS2gy9Ot7j/view) · p1639–1641
+    - [Peritonsillar Abscess](https://drive.google.com/file/d/1ogbLK35ItGEz7wY0FOUQLdHoY0M8klTe/view) · p1641–1641
+    - [Adult Epiglottitis (Supraglottitis)](https://drive.google.com/file/d/1auI43aW9jp4mjriKWWogLArYb-g8sFCa/view) · p1641–1642
+    - [Retropharyngeal Abscess](https://drive.google.com/file/d/1eRz0YNg1KWF40c9HkupdM4aiWOV7C910/view) · p1642–1643
+    - [Odontogenic Abscess](https://drive.google.com/file/d/1453HhRSHf-8j1yYiJT-oFWZZ_4aTaLwS/view) · p1643–1643
+    - [Neck and Upper Airway Masses](https://drive.google.com/file/d/1MX5i7fm-F8NYmVi5y_GKMoRkUe7Q08q3/view) · p1643–1644
+    - [Posttonsillectomy Bleeding](https://drive.google.com/file/d/1M3XEvhI_U2mSgTzcPBLxJkXxzRifAlz0/view) · p1644–1645
+- **[247 Complications of Airway Devices](https://drive.google.com/file/d/1_OMEzQrqZKiLTc-gDH3-NSz0Ip_TlUbW/view)** · p1645–1651
+    - [Tracheostomy Tubes and Cannulas](https://drive.google.com/file/d/1n5vvuZY3pLW2Oq5jChz3mIsz2JbgfyPc/view) · p1645–1648
+    - [Laryngectomy Patients](https://drive.google.com/file/d/13xPldox-UmbZnQyKWEi2qiNQsqw48WqR/view) · p1648–1650
+
+## SECTION 20 Dermatology
+
+- **[248 Initial Evaluation and Management of Skin Disorders](https://drive.google.com/file/d/1-xHJ3hG3lULsHUixPQZlti-ShyqDNNnw/view)** · p1652–1668
+    - [Overview](https://drive.google.com/file/d/1fSLuW9YT8oSlYldJjeexp1L5fIFhVqI1/view) · p1652–1659
+    - [Diagnostic Techniques](https://drive.google.com/file/d/1ts6bqp-i_E0MxB-vJaU95sRvWOzqgtla/view) · p1659–1664
+    - [Systemic Corticosteroids](https://drive.google.com/file/d/1RBTiPoTKLxOj7hsvU4BDqPXyqGc515fb/view) · p1664–1665
+    - [Topical Corticosteroids](https://drive.google.com/file/d/1-0WiE9PNoVFhfOAnMEDiKCkzOfHOk08F/view) · p1665–1667
+    - [Antihistamines](https://drive.google.com/file/d/1Tg4uELw4BiW6RKA7SXKjU7WO4Z9pvKGj/view) · p1667–1667
+    - [Antimicrobial Agents](https://drive.google.com/file/d/1g4KEW6_RsQVPmP6UfEEItsFQD3t8xzQH/view) · p1667–1667
+    - [Nonantimicrobial Topical Agents](https://drive.google.com/file/d/1oAZrJvN1rwHaK9ZeqtO3zk0taJD8ovKS/view) · p1667–1668
+- **[249 Generalized Skin Disorders](https://drive.google.com/file/d/16Ivy2clr_aM5KHEjIQNxn_7qs0IEJyy9/view)** · p1668–1674
+    - [Erythema Multiforme](https://drive.google.com/file/d/1Nu7sgHAjQnulZpYxeHb9wsKEBB-4zn-F/view) · p1668–1671
+    - [Toxic Epidermal Necrolysis](https://drive.google.com/file/d/1wbbnfkfN4TJeNcNi9wRmFX2OE8qs3hrB/view) · p1671–1672
+    - [Pemphigus Vulgaris](https://drive.google.com/file/d/1OHcWfGghzSmI2Mx_TlqarYAeRnqNhDU0/view) · p1672–1672
+    - [Exfoliative Dermatitis](https://drive.google.com/file/d/1v9nP4ivg0AmizpoQGJWj1OhpaZxw-yTP/view) · p1672–1672
+    - [DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) Syndrome](https://drive.google.com/file/d/1xYHY21qu56O08LY-mQaVJ_zAEnP1q9Eo/view) · p1672–1673
+    - [Purpuric Disorders](https://drive.google.com/file/d/1XFYqJ7h9SP9tSIvipM8OPRpMoEWF70QO/view) · p1673–1674
+- **[250 Skin Disorders: Face and Scalp](https://drive.google.com/file/d/1IcN36kGEqXhER-IkZg0cYfWXGVwb62rc/view)** · p1674–1680
+    - [Seborrheic Dermatitis](https://drive.google.com/file/d/1Y_sWjdLCaG1y3DMszGPP3daVwSxzENkZ/view) · p1674–1674
+    - [Tinea Barbae and Sycosis Barbae](https://drive.google.com/file/d/1EVsh0HpHp7NrES2g3k4EqqEvNhNZ0bWc/view) · p1674–1674
+    - [Herpes Zoster Infection](https://drive.google.com/file/d/1fu1VyycdzsKMBO0Kb3Of9N0x1gruerTc/view) · p1674–1675
+    - [Herpes Simplex Virus Infections](https://drive.google.com/file/d/19NHWa8KGDvl-RaLw8foKUd4d-A4kEc5W/view) · p1675–1676
+    - [Dissecting Cellulitis of the Scalp](https://drive.google.com/file/d/1tGDNq36_F-P2V8pBD6xupNxiwQ6yefiZ/view) · p1676–1677
+    - [Tinea Capitis](https://drive.google.com/file/d/1kt0X4zyEdiVb_Xss_fRlDDhfzjUxR8Zn/view) · p1677–1678
+    - [Head Lice (Pediculosis Capitis)](https://drive.google.com/file/d/1AVDKD0Jw5vZ0nAiEk4zMTHn5Wur-OJvr/view) · p1678–1678
+    - [Poison Ivy and Poison Oak/Sumac](https://drive.google.com/file/d/1FwLTZGa4ZUbv7cIOOc_yp7bL-jr5AW1V/view) · p1678–1678
+    - [Other Allergic Contact Dermatitis](https://drive.google.com/file/d/1o5IWfkg9JbCSCfyhZdfpyXpEHtTqCNEi/view) · p1678–1679
+    - [Photosensitivity](https://drive.google.com/file/d/1bPzhuEzz_xQXVfAVHcgExnDh_yOi-axX/view) · p1679–1680
+- **[251 Skin Disorders: Trunk](https://drive.google.com/file/d/1IYwEHMaTliUQGr1J7qaRe2c_8_5kohDh/view)** · p1680–1696
+    - [Psoriasis](https://drive.google.com/file/d/1xSjy6AE_I-dhHvBF1zL63tHGJCwBLKBl/view) · p1680–1680
+    - [Seborrheic Dermatitis](https://drive.google.com/file/d/1HP-SB7Wzb0kWyCm_McRlMp-iWBSIFEpi/view) · p1680–1682
+    - [Pityriasis Rosea](https://drive.google.com/file/d/14zbQgBTh4HqxJKj12WCt-emGcK0JjhLw/view) · p1682–1683
+    - [Tinea Corporis](https://drive.google.com/file/d/13kUus3qlBfkTCkE3qdlhrtwoF8_KxwgO/view) · p1683–1684
+    - [“Tinea” Pityriasis Versicolor](https://drive.google.com/file/d/1bp5TTQ2nxgGQfH2t4IjjJ1Lc0FreuQkY/view) · p1684–1685
+    - [Eczema/Atopic Dermatitis/Contact Dermatitis](https://drive.google.com/file/d/1Wph0-5vdnn8rlFBrS6eO6iGakGVYiTz9/view) · p1685–1686
+    - [Lichen Planus](https://drive.google.com/file/d/1SPqxHUCAeQUTWTmcAU4daVZP7UEy-oGm/view) · p1686–1687
+    - [Secondary Syphilis](https://drive.google.com/file/d/1hBnVAzqfBahow6asEmV9yjsyPVvxqd2p/view) · p1687–1687
+    - [Scabies](https://drive.google.com/file/d/1d9TjPWnxLjHsqNOXYsZf2MyiO8NVs0QD/view) · p1687–1688
+    - [Morbilliform/Urticarial Eruptions](https://drive.google.com/file/d/1lj76SKFfHSg51-feByBadQyQ8vrlYIf8/view) · p1688–1688
+    - [Urticaria and Angioedema](https://drive.google.com/file/d/1XD8qbCMjbS8Hv0djkCe_2Hzop32P5XBa/view) · p1689–1690
+    - [Polymorphic Eruption of Pregnancy](https://drive.google.com/file/d/1RYbL10ilQHtLLsPFdt-70s_Bu1LSVTxp/view) · p1690–1690
+    - [Erythema Migrans](https://drive.google.com/file/d/1F92Md46dorvDx1EKoNTEOlYJTf_h9nQi/view) · p1690–1691
+    - [Drug Reactions](https://drive.google.com/file/d/1-Jzyvy2F76vH1IBLqAOVRs22HEOBG1ye/view) · p1691–1693
+    - [Herpes Zoster](https://drive.google.com/file/d/14R1GBieMrURPirnmo0kX9RuU6pNyRIvG/view) · p1693–1694
+    - [Bullous Pemphigoid](https://drive.google.com/file/d/1v17EClY_bB5sqA_qq3GyMxKh8oTUYgyQ/view) · p1694–1694
+    - [Insect Bites](https://drive.google.com/file/d/1ULJoh7j01ErBhJQQ5lSmhkELlg90eOAb/view) · p1694–1695
+    - [Molluscum Contagiosum](https://drive.google.com/file/d/12SXXoKX7I-L5twmHs4kbBUvQVTcjTyUM/view) · p1695–1695
+    - [Miliaria](https://drive.google.com/file/d/1PnCoNONDoLJ2DeuGik1mur1uhQXNyCpW/view) · p1695–1695
+    - [Folliculitis](https://drive.google.com/file/d/1L1uRdFaL2GDqT1DtEvm3xFpHX1FnFDXv/view) · p1695–1696
+    - [Kaposi’s Sarcoma](https://drive.google.com/file/d/1-ILRWrcmHRSQesx9pxwSukaaODW-goPv/view) · p1696–1696
+- **[252 Skin Disorders: Groin and Skinfolds](https://drive.google.com/file/d/10yqShRY_ySDWt5vE4i4H_T4WlDENX9Ob/view)** · p1696–1700
+    - [Overview](https://drive.google.com/file/d/14T71iva6HI8qNWYLhgbdC6CQxLMmIh5W/view) · p1696–1697
+    - [Tinea Cruris](https://drive.google.com/file/d/14ti8uIzLWQR2a96zXrWEy0wBsSfemi1L/view) · p1697–1697
+    - [Cutaneous Candidiasis](https://drive.google.com/file/d/1qxUJrbYpCQxKDcYAikZDITy-xUJxiy-8/view) · p1697–1698
+    - [Scabies](https://drive.google.com/file/d/1EHTSbiBA2IBZ5y_rPBYga30ce1Zxm-0Y/view) · p1698–1699
+    - [Pediculosis Pubis](https://drive.google.com/file/d/1NnTXZjwhf4iPY3mhp1DLaPdmT7GYNzVp/view) · p1699–1699
+    - [Seborrheic Dermatitis](https://drive.google.com/file/d/1wVX9wJ9iGKOav9ebLKsuu21rm0ZpacRO/view) · p1699–1699
+    - [Intertrigo](https://drive.google.com/file/d/1IoSdde-pax299XNcPulTlEHN4gOPSaVK/view) · p1699–1700
+    - [Hidradenitis Suppurativa](https://drive.google.com/file/d/1kN1UwdN1BlNIn2po0mpvwPKaiVjBxG6_/view) · p1700–1700
+- **[253 Skin Disorders: Extremities](https://drive.google.com/file/d/1J2yXRUNP-u1tOv16eEe3fnmJ2cgumXal/view)** · p1700–1713
+    - [Venous Stasis Dermatitis and Venous Leg Ulcers](https://drive.google.com/file/d/1wgae3HPXdQEg4wSYWcXElQhSKh8IuCCo/view) · p1700–1701
+    - [Pyoderma Gangrenosum](https://drive.google.com/file/d/19iu4trCRDUQSoiI-XA4iXjRzsAoBPFrX/view) · p1701–1701
+    - [Diabetic and Neuropathic Ulcers](https://drive.google.com/file/d/1n6cCTOavpDyAGYsB-E8nLgaky7dWGjLW/view) · p1701–1702
+    - [Buruli Ulcers](https://drive.google.com/file/d/1Jhl4SIyEUuokkvuuAYmfI3VU-Ox_UZV5/view) · p1702–1702
+    - [Cutaneous Leishmaniasis](https://drive.google.com/file/d/19zFEzsUX1mStMpY_FBxQ_lw1pJFJqwJc/view) · p1703–1703
+    - [Hand and Foot Dermatitis](https://drive.google.com/file/d/1r-xE1PL6H407c3KgTIKsnDPWZuz7Ln8S/view) · p1703–1705
+    - [Psoriasis](https://drive.google.com/file/d/1TiHJsaKVADuEYnf54BywxfN2wVM0Y7MH/view) · p1705–1705
+    - [Erythema Nodosum](https://drive.google.com/file/d/1G6FRM0KuTQzl3CgOicLAqtjRQ2gVhlhe/view) · p1705–1706
+    - [Herpetic Whitlow](https://drive.google.com/file/d/1WKyI0WMdavxFgoZwtIEXPoiuKtClIC5c/view) · p1706–1706
+    - [Malignant Melanoma](https://drive.google.com/file/d/1sM3-2ItONX91iPm1U-fYbnE76DaqZznK/view) · p1706–1707
+    - [Lichen Simplex Chronicus, Corns, and Calluses](https://drive.google.com/file/d/1G3mGf1YjjTwKsfl4t8gY4bQHzyU4RpA9/view) · p1707–1708
+    - [Dermatitis Herpetiformis](https://drive.google.com/file/d/15yo5KCAgiwhTyvP12zOxhazf31cMylyd/view) · p1708–1709
+    - [Cutaneous Larva Migrans](https://drive.google.com/file/d/1mZnb1CQZruy1jWurD5B7BPPL3Y_WdvfB/view) · p1709–1709
+    - [Plantar Warts](https://drive.google.com/file/d/1spc01HfE6ihHDVsq6g-WgVmk0MdFb1uu/view) · p1709–1709
+    - [Tinea Pedis and Tinea Manuum](https://drive.google.com/file/d/1lNt7jfyAKVYpRQWY1jGzXjSlvdfwY-lZ/view) · p1709–1710
+    - [Rocky Mountain Spotted Fever](https://drive.google.com/file/d/1i4k4yEcaRacqJVWC14P0oMM67A2AlUhv/view) · p1710–1711
+    - [Purpura](https://drive.google.com/file/d/1pE5l9yHMdDa-DGHh2BX2NHvcZ7ZP4qHf/view) · p1711–1711
+    - [Pyogenic Granuloma](https://drive.google.com/file/d/1YUuGAPQSJu3NcMSaAMFPL7__KqG1o54A/view) · p1711–1712
+
+## SECTION 21 Trauma
+
+- **[254 Trauma in Adults](https://drive.google.com/file/d/1ac7ZJ_bXYvHnWGHaEP5j5S_HlJviPq-N/view)** · p1714–1721
+    - [Airway Management with Cervical Spine Control](https://drive.google.com/file/d/1wzLwFAPEZr2Lf6QqTIKlZGsStU-7GJDP/view) · p1714–1716
+    - [Breathing](https://drive.google.com/file/d/1dA-bZp5AWaih9sNusdJHJlAlhzEPuN67/view) · p1716–1716
+    - [Circulation and Hemorrhage Control](https://drive.google.com/file/d/1srO_SbpCi1Tzr6-gbW2BFTTyO3PeDHYy/view) · p1716–1717
+    - [Indications](https://drive.google.com/file/d/17qf6t0Eioy9O2HTMMyIAQz54Ee2Abv6W/view) · p1717–1719
+    - [Disability](https://drive.google.com/file/d/19Ty7YPmZI4sNsqUG1kgFvXBJeWl8c-jN/view) · p1719–1719
+    - [Exposure](https://drive.google.com/file/d/116S5W0HSQmH7UZF_wg_lwBqXH8bbvWBs/view) · p1719–1719
+    - [Severe Head and Spinal Trauma](https://drive.google.com/file/d/1QP5B-HoeKtHn0kVu9kf6qMKngYuMhi8r/view) · p1720–1720
+    - [Tension Pneumothorax, Open Pneumothorax, and Massive Hemothorax](https://drive.google.com/file/d/1gfcQ6QqylPx2kMZw_B2urf1mZ52XdQB6/view) · p1720–1720
+    - [Penetrating Abdominal Trauma](https://drive.google.com/file/d/199OsCyQi6pMPszKZ0JT26PDfdjRLsNz0/view) · p1720–1720
+    - [Impaled Objects](https://drive.google.com/file/d/1bEg7yTcB_Mrv52E5V94FdHMFoqxD85xE/view) · p1720–1720
+    - [Traumatic Cardiac Arrest](https://drive.google.com/file/d/1TvBAcFmXVJBFheNVgPh935MKAgQIfGe2/view) · p1720–1720
+    - [Imaging and Laboratory Testing](https://drive.google.com/file/d/1sGXACJ00QtY9IpQU8gIWzbZuuzJj-M5T/view) · p1720–1721
+- **[255 Trauma in the Elderly](https://drive.google.com/file/d/1eJlXnIVZxOQiXpugiU8dps_B7vLGJMMZ/view)** · p1722–1725
+    - [Common Mechanisms of Injury](https://drive.google.com/file/d/1asmv8ghbtAuSqsKzcXsaQqyzsc2T5yxO/view) · p1722–1722
+    - [Primary Survey](https://drive.google.com/file/d/1hmdetBaAWG7dRZHzup2LpTWHx4WwG0R-/view) · p1723–1723
+    - [Secondary Survey](https://drive.google.com/file/d/1w05p7uD_zhQfdQDP34LBVTa4t6fOF3C1/view) · p1723–1723
+    - [Head Injury](https://drive.google.com/file/d/1MRTWyTkbdg_GI3d_SxVpxRA7nVNBMsgM/view) · p1723–1723
+    - [Cervical Spinal Injuries](https://drive.google.com/file/d/1viu5FqvfWnNcPpQUbuHo-48JJOykp390/view) · p1723–1723
+    - [Thoracolumbar Spinal Injuries](https://drive.google.com/file/d/1xYv0YzG5bfz1KRqLYW2luly6ZostRVxz/view) · p1723–1723
+    - [Chest Trauma](https://drive.google.com/file/d/12iHOKpEd63tLFQ6doeaTNZ-lnujuIbCY/view) · p1723–1723
+    - [Abdominal Trauma](https://drive.google.com/file/d/16-L6iasizauAX5nQwOBU8q1uUxRDNhpk/view) · p1723–1724
+    - [Orthopedic Injuries](https://drive.google.com/file/d/1JJ2xFuzeAoSrVNMoKwAckJOaf52WJuIK/view) · p1724–1724
+    - [Out-Of-Hospital Considerations](https://drive.google.com/file/d/13lhUPK3N95TMLD2t0s-umFBGwUm3gq1e/view) · p1724–1724
+    - [Bleeding and Head Injury](https://drive.google.com/file/d/1Te24ZniZ3g6asvBLygphGL0Oc7K5FqNc/view) · p1724–1725
+    - [Rib Fractures and Respiratory Failure](https://drive.google.com/file/d/1Ne2AKdGIE-TJ8z_mER0uTIni6hZqOdzC/view) · p1725–1725
+    - [Shock](https://drive.google.com/file/d/1aKtAuf8SPSZkqSCnuTpusVzxUX6WwXvO/view) · p1725–1725
+    - [Environmental and Iatrogenic Injury](https://drive.google.com/file/d/1gPCsRazdTgZ4mS2rbnluKCc6Tjz8ktoV/view) · p1725–1725
+- **[256 Trauma in Pregnancy](https://drive.google.com/file/d/1eEyxYLtgYlplnqquYu7hDi9zI-7A7NJQ/view)** · p1725–1728
+    - [Overview](https://drive.google.com/file/d/1IyrMUVIPUOSywbq55Js8Ga1kMXzvWohf/view) · p1725–1726
+    - [Anatomic and Physiologic Changes of Pregnancy](https://drive.google.com/file/d/1LVvuVet8seKzcLCaGYQABgBpQPYHDdhh/view) · p1726–1726
+    - [Principles of Resuscitation](https://drive.google.com/file/d/11fT5GAdEpJRAYWrXJ1SN-Sh3Xfh0r_RU/view) · p1726–1726
+    - [Maternal and Fetal Assessment and Treatment](https://drive.google.com/file/d/1TfQwPxAbCNCfqdLpTSSSUsE98lUDrj4_/view) · p1726–1728
+    - [Resuscitative Hysterotomy/Perimortem Cesarean Delivery](https://drive.google.com/file/d/1ucynaYxBlorTKCbnzcfvCZqEgtfcoYBC/view) · p1728–1728
+- **[257 Head Trauma](https://drive.google.com/file/d/1tuoA-X0-J_u8NK3dlwaUai0xPfav4RPZ/view)** · p1728–1740
+    - [Overview](https://drive.google.com/file/d/1B9dKgPR30enI3uQWuvE1YV8Afyrgovas/view) · p1728–1734
+    - [Advanced Treatment of Brain Injury](https://drive.google.com/file/d/1DrZz5sbAAPzEej65JK0t9gA6_8IXJxak/view) · p1734–1734
+    - [Scalp Lacerations](https://drive.google.com/file/d/1B606Tobkk1QQ9K74GpuV5vZ3JDfEEbdW/view) · p1734–1734
+    - [Skull Fractures](https://drive.google.com/file/d/1YiwGWrjSh1Y9Y7D9KxDelEF6FLVYzkk8/view) · p1734–1734
+    - [Basilar Skull Fracture and Cerebrospinal Fluid Leaks](https://drive.google.com/file/d/1atJI43gC81mdRExw0_sWmMyKrBKBNCdv/view) · p1734–1735
+    - [Cerebral Contusion and Intracerebral Hemorrhage](https://drive.google.com/file/d/1OQLrXVRXdnKLpXB0bbSKDI3vpX9H9aJ6/view) · p1735–1735
+    - [Subarachnoid Hemorrhage](https://drive.google.com/file/d/1_LxeP9MWmELDNNsKhNgD_lq1g6TtYEMm/view) · p1735–1735
+    - [Epidural Hematoma](https://drive.google.com/file/d/1ufI_67ahF6BjtXizXpYPaj-pfMMkLwMX/view) · p1735–1736
+    - [Subdural Hematoma](https://drive.google.com/file/d/1UWYAytHXft6dB2Cne88CCOIAKPn7uBMp/view) · p1736–1737
+    - [Diffuse Axonal Injury](https://drive.google.com/file/d/1QA6PIe2xQHm0eIEY6sSp87ybpuBE6qJi/view) · p1737–1737
+    - [Penetrating Injury](https://drive.google.com/file/d/1QZoI_Ir657-asqWdZwOunR5uBmsAuHY6/view) · p1737–1737
+    - [Mild Traumatic Brain Injury](https://drive.google.com/file/d/1L3EaUPFxA5znxooZYK10P1HkPLFYw6kn/view) · p1737–1740
+    - [Postconcussive Syndrome](https://drive.google.com/file/d/1PZSaY_oGDww4cX5I3j-PEuD-ZfiJA1rx/view) · p1740–1740
+    - [Recurrent Concussions](https://drive.google.com/file/d/1eBHEEhrU_Kwj5oZYIzW4hUvWrFaOdkIJ/view) · p1740–1740
+    - [Second Impact Syndrome](https://drive.google.com/file/d/1FGxjyuPEUuaHixuJzPVPdKLJ7WImE9MR/view) · p1740–1740
+    - [Anticoagulation](https://drive.google.com/file/d/1SXzphIIdgduiuyoaWBTxcjGHvqyjChyk/view) · p1740–1740
+- **[258 Spine Trauma](https://drive.google.com/file/d/1-w6MZ5qpQonjMZBjZmJqRKAU4oes3QLT/view)** · p1741–1759
+    - [Functional Anatomy](https://drive.google.com/file/d/1_AgnP8_s_1VSALEEUt6waIZ5POHBa_kp/view) · p1741–1753
+    - [Initial ED Stabilization](https://drive.google.com/file/d/1-fgGbjIbwyYz8IIrclG-reYxiIQ7BynM/view) · p1753–1758
+    - [Treatment and Disposition of Spinal Column Injuries](https://drive.google.com/file/d/1sMfYVI-Ml8ZK0wAYrg0-ZRWs4-Fq1LTU/view) · p1758–1759
+- **[259 Trauma to the Face](https://drive.google.com/file/d/1p0s7XomWciiJJElsrmKcoi35_fjSc1tF/view)** · p1759–1766
+    - [Overview](https://drive.google.com/file/d/1VB-xfbCxIGtyibLDNe93TgoCjYQ-NFFC/view) · p1759–1763
+    - [Frontal Bone Fractures](https://drive.google.com/file/d/1liCVXGGxvSoTt03AO9XwBYcOWICBOaaa/view) · p1763–1764
+    - [Orbital Fractures](https://drive.google.com/file/d/1sPB1lvubhvIYy0qClVwkc82gMStrw49x/view) · p1764–1765
+    - [Zygoma Fractures](https://drive.google.com/file/d/11Fass0s4sX81Z1dzxVOuymhbglgyKSeM/view) · p1765–1765
+    - [Midfacial Fractures](https://drive.google.com/file/d/1Yo_h1kpmEIrGszeni9PW81VieR4LOCHa/view) · p1765–1766
+    - [Mandible Fractures](https://drive.google.com/file/d/15tr01-1W89vQz5-z5F2cHYzxLsBMd6wn/view) · p1766–1766
+    - [Pediatric Considerations](https://drive.google.com/file/d/12r1jVEInSh5gZtF1wGjrRcxa9YFQayGK/view) · p1766–1766
+- **[260 Trauma to the Neck](https://drive.google.com/file/d/16nqMvMhcWOcbspASJVWnGQWxadQIkQd8/view)** · p1767–1774
+    - [Airway](https://drive.google.com/file/d/1Ex1k-y4DOPzfiBqEvwPWaC7A0WB8bWDj/view) · p1767–1768
+    - [Breathing](https://drive.google.com/file/d/1u1ZZf9iVPDVjoB3EC9NUkIEkRIJZaPQC/view) · p1768–1768
+    - [Circulation](https://drive.google.com/file/d/1qYkZ2rBJWFNeCC-ljEsS8TdxBqVnFkkQ/view) · p1768–1769
+    - [Disability](https://drive.google.com/file/d/1HFC3o95GrzLf_kX_YcDaa4-xBYqWOmTi/view) · p1769–1769
+    - [Initial Radiologic Evaluation](https://drive.google.com/file/d/1NOaUidyoolwz8OfmTcz322S673pBK80v/view) · p1769–1769
+    - [Penetrating Neck Injury](https://drive.google.com/file/d/1u56tx7W3xn7sq6GmWarvw0SgZR8Eh5Fy/view) · p1769–1770
+    - [General Treatment Options](https://drive.google.com/file/d/1c4uE2qbo2SwG-Rf3SrP3QSM0tqdFemoS/view) · p1770–1770
+    - [Penetrating Vascular Injuries](https://drive.google.com/file/d/19jjaA5FUKIT1dtuBhjxloWY_p-CVTHlc/view) · p1770–1770
+    - [Blunt Carotid and Vertebral Dissection](https://drive.google.com/file/d/1Tx8SCtUi4hFLqOnzhWg3V52aCMevjfoQ/view) · p1771–1772
+    - [Laryngotracheal Injuries](https://drive.google.com/file/d/1cieBOLO_L9mABWY7Qu7jAI9_oPzRW8Ox/view) · p1772–1773
+    - [Pharyngoesophageal Injuries](https://drive.google.com/file/d/1M9_x01Up02YIp1MjTILnFILg3VbnCD8e/view) · p1773–1773
+    - [Strangulation](https://drive.google.com/file/d/1vwLHuUikvjqjnpxz6QcSZyYD9CZ9vJZT/view) · p1773–1774
+    - [Children](https://drive.google.com/file/d/15VSLmCSeapT1a7I3I_TplHxaWok8skeE/view) · p1774–1774
+    - [Anticoagulated or Massively Bleeding Patients](https://drive.google.com/file/d/1rLVhIDdkZqLd0sR00Ro4XW0DbMAaJZVZ/view) · p1774–1774
+- **[261 Pulmonary Trauma](https://drive.google.com/file/d/1u1I0OdHCRACU8CWsrDO2QCuTXvMmyYxO/view)** · p1774–1787
+    - [Overview](https://drive.google.com/file/d/140qjyMpLx2DMQ-rDmEfMqvzUDoGPm-YY/view) · p1774–1776
+    - [Pulmonary Contusion](https://drive.google.com/file/d/1-azK0OgamcVi56nKxJIYPfSctlsyOM9K/view) · p1776–1777
+    - [Hemothorax](https://drive.google.com/file/d/1ikrOIT5gj1h6yxTaKeOavB6AQJcr6TI2/view) · p1777–1778
+    - [Massive Hemothorax](https://drive.google.com/file/d/1lejDb_FGCyRDLI4C6pAYjKUc50UA8mMj/view) · p1778–1778
+    - [Pneumothorax](https://drive.google.com/file/d/1lrSrck7wGSFUNiK4ximG6MmwEWAKT5sb/view) · p1778–1780
+    - [Tension Pneumothorax](https://drive.google.com/file/d/1wcxXz5F0rlYlESlA_MtjdqdFFrvDF7LH/view) · p1780–1780
+    - [Open Pneumothorax](https://drive.google.com/file/d/1pMBO1fHEvPQCOD94j5qe9VZKzUUVxZHz/view) · p1780–1780
+    - [Pneumomediastinum](https://drive.google.com/file/d/15MR2zJWYTa-q5MbCvLX1fw851FNPZwq_/view) · p1780–1780
+    - [Pulmonary Hematoma](https://drive.google.com/file/d/1t7vy2UxRoXlLelSUN8n7XzvM_FzYYipV/view) · p1780–1781
+    - [Pulmonary Laceration with Hemopneumothorax](https://drive.google.com/file/d/1WttiJ2rzhcwuqck5OKp6IZHNhjBm1ZEE/view) · p1781–1781
+    - [Aspiration](https://drive.google.com/file/d/1TfNmfBMbG0oDifY6Ztz9Pmc-sC-KohWp/view) · p1781–1781
+    - [Intrabronchial Bleeding](https://drive.google.com/file/d/1JqdfiqwjAAN6BejxdjmlZgtCouMqvazs/view) · p1781–1781
+    - [Lower (Intrathoracic) Trachea and Major Bronchi](https://drive.google.com/file/d/14nsRqR6f6GOuHr9pWbNvShf0y5aXUuI1/view) · p1781–1781
+    - [Cervical Tracheal Injuries](https://drive.google.com/file/d/1-bxJ0z7mNj09sNSd5e1_ZuE7DOE9Sq0p/view) · p1782–1782
+    - [Esophageal Injuries](https://drive.google.com/file/d/1Q4NHgGWmudQgK7W6RVcgoAX0_M4_XdaB/view) · p1782–1782
+    - [Thoracic Duct Injuries](https://drive.google.com/file/d/1Z3PdfeIavYkzkoxQPGpyOGH757Vom6OB/view) · p1782–1782
+    - [Bleeding and Tissue Loss](https://drive.google.com/file/d/1PwPST-iru0E-9gbGpBZEi7WijfDVDb0l/view) · p1783–1783
+    - [Subcutaneous Emphysema](https://drive.google.com/file/d/1uZkfcWLW6_ojOo-WQo1keKcmssaUqQ86/view) · p1783–1783
+    - [Rib Fractures](https://drive.google.com/file/d/16DXOaHkBt7VqFRIxu1BowEXqrzgaFKAP/view) · p1783–1783
+    - [Flail Chest](https://drive.google.com/file/d/1HaYn7akYYnp77qYSQyjApHxr1CB7QPpi/view) · p1783–1783
+    - [Sternum Fracture](https://drive.google.com/file/d/1jDm0pKcB7CP_j4HL-_ySeRcR5qron9v0/view) · p1783–1783
+    - [Systemic Air Embolism](https://drive.google.com/file/d/1eUCokhBRYM8-TCh9FR4I_IFNTHNq-AMJ/view) · p1783–1784
+    - [Blast Injuries](https://drive.google.com/file/d/1fa4UxbaqhbrrIwgsX2HP4jzbueEQL9OH/view) · p1784–1785
+    - [Initial Resuscitation](https://drive.google.com/file/d/1FJ2W9wgKxVX6leeYtDdVBtyabnaSxtMv/view) · p1785–1785
+    - [Ventilatory Support](https://drive.google.com/file/d/1qMWzyCkF75SDchhdYTM6dz0Lo_iLIjBt/view) · p1785–1786
+    - [Tube Thoracostomy](https://drive.google.com/file/d/18pMlcq5LFwd27yS6r0VjmRWv_axlalNl/view) · p1786–1787
+- **[262 Cardiac Trauma](https://drive.google.com/file/d/1_PxQnJDQ9VOXi8jmQdp3-3K-rpb7n2pW/view)** · p1787–1796
+    - [Blunt and Penetrating Cardiac Trauma and Great Vessel Injury](https://drive.google.com/file/d/1gdON4hnBF9orLmvJgK4LQX86_v8rdrUR/view) · p1787–1789
+    - [Penetrating Cardiac Trauma](https://drive.google.com/file/d/16Y8enEiLBIt_KyL86h3rn1g-HjY8oDz0/view) · p1789–1789
+    - [Treatment of Penetrating Cardiac Trauma](https://drive.google.com/file/d/15eQOQuZFvtzMDEcD3dG0zdFBKJcho4z4/view) · p1789–1791
+    - [Blunt Cardiac Trauma](https://drive.google.com/file/d/1t9cfrdv7bKRxr2OieX0SMbYjHq86CNBV/view) · p1791–1792
+    - [Treatment of Blunt Cardiac Injury](https://drive.google.com/file/d/1GgcWCABq6s-CXBIvTlkGLgoZNgreKonk/view) · p1792–1792
+    - [Blunt Injury](https://drive.google.com/file/d/11jr0-edoE2ZTMCnqJCMg0_lqjd4iDUzc/view) · p1792–1792
+    - [Penetrating Injury](https://drive.google.com/file/d/1FKmb3xIdu561MKhVMwgoSVz94EKP3_Sd/view) · p1793–1796
+    - [Treatment of Great Vessel Injury](https://drive.google.com/file/d/1AawqCP-V_Sr3ygOhX2MRgtLVVJBwZRX1/view) · p1796–1796
+- **[263 Abdominal Trauma](https://drive.google.com/file/d/1VCpbBVS9mepxUKBihXHGZOgehfs989cr/view)** · p1796–1800
+    - [Overview](https://drive.google.com/file/d/1Dda3hIFMYjh5p8aQmo2hLglEUGdC6BQJ/view) · p1796–1796
+    - [Blunt Abdominal Trauma](https://drive.google.com/file/d/1E3DI_9ZPbY65aCWMRXXMLSi7bz_cATnR/view) · p1797–1797
+    - [Penetrating Abdominal Trauma](https://drive.google.com/file/d/1LinlPZD3rDzGAmw-okSMSUDzlxPBLQH2/view) · p1797–1797
+    - [Abdominal Wall Injuries](https://drive.google.com/file/d/1WrK5Z4NnmDhY6ercSzdARESx7BoDz27Y/view) · p1797–1797
+    - [Solid Organ Injuries](https://drive.google.com/file/d/158b0fBCTR8Mnec0FeUyX2JzHQVXS_N9I/view) · p1797–1797
+    - [Hollow Viscus and Mesenteric Injuries](https://drive.google.com/file/d/1efRu-q2cSDaqmWWTGwlGGpIhjYy1JhEr/view) · p1797–1797
+    - [Retroperitoneal Injuries](https://drive.google.com/file/d/1sy8pjfR4ijwsvp2KHF0Rrka3d-Ib4vbZ/view) · p1797–1797
+    - [Diaphragmatic Injuries](https://drive.google.com/file/d/1o745EabTF1Q-xbZJR5_TbikaizRbL2-D/view) · p1797–1798
+    - [Ultrasonography](https://drive.google.com/file/d/1w4jnBj-LN-UVy0Rx1fwkThse_R9IiuzO/view) · p1798–1798
+    - [Computed Tomography](https://drive.google.com/file/d/1ZoRxLevriJbESB-NGSu7FyDAI_MLO9SJ/view) · p1798–1798
+    - [Diagnostic Peritoneal Lavage](https://drive.google.com/file/d/1iZwJqc1qG7_40WnJ9geDVjSP17fesOul/view) · p1798–1799
+    - [Diagnosis in Penetrating Trauma](https://drive.google.com/file/d/1kclGTpB1MuaT4TvEKCzkkSKtWRtUBah8/view) · p1799–1799
+    - [Laparotomy](https://drive.google.com/file/d/17wWQ_gyQYQPRwXUqgKGx8PK-PyHfzu3W/view) · p1799–1799
+    - [Nonoperative Management of Blunt Trauma](https://drive.google.com/file/d/1l42eq2MuUFbTov4sScP_7dTFqkHwdHiB/view) · p1799–1800
+- **[264 Trauma to the Flank and Buttocks](https://drive.google.com/file/d/13cgOckx7fP_a0zKOIuZCaA7K5KbDbYH3/view)** · p1800–1802
+- **[265 Genitourinary Trauma](https://drive.google.com/file/d/1mgzcF_c3QTjpsPXXc5l47t9z0HkXGpb1/view)** · p1802–1807
+    - [Overview](https://drive.google.com/file/d/1RDUSgIHleWIh0zNwFMHZnwxLQILCYFYt/view) · p1802–1803
+    - [Kidney Injuries](https://drive.google.com/file/d/1HNUx4meImDnTx1tJgk8dtjeGH1kopEWA/view) · p1803–1804
+    - [Ureteral Injuries](https://drive.google.com/file/d/183d2_ejj471svi6npLFpDW-od_1QP8Ig/view) · p1804–1804
+    - [Bladder Injuries](https://drive.google.com/file/d/1-rA3xqBxDnz5zcUf9Y4i6-_sTBtgbQDh/view) · p1804–1805
+    - [Urethral Injuries](https://drive.google.com/file/d/19gvcc-c0cfrMQFi1IGsGIFjWrawfQb3Z/view) · p1805–1806
+    - [Injuries to the External Genitalia](https://drive.google.com/file/d/1ruBlgqZm0nsH9OQwO-i0lzECGbLPnC_H/view) · p1806–1807
+- **[266 Trauma to the Extremities](https://drive.google.com/file/d/1sMtGEK0D4caQYjhNxmbrPfFJ7mwU5tbC/view)** · p1807–1811
+    - [Overview](https://drive.google.com/file/d/1r5gLUq1elbQqbo2VTqVkaDBOUMlTw8Mu/view) · p1807–1808
+    - [Ankle-Brachial Index](https://drive.google.com/file/d/1FjYRgokQyAumceqDCJFZqlQIV_D57x7I/view) · p1808–1809
+    - [Control of Bleeding](https://drive.google.com/file/d/1nJXs7vQUE8yzS7cAydMUWVdMBIiL4Gm0/view) · p1809–1809
+    - [Arterial Injury](https://drive.google.com/file/d/1X9xe4MebSydJ6qxAQkMWc4rTtbSnZSu5/view) · p1809–1809
+    - [Fractures and Joint Injuries](https://drive.google.com/file/d/1uKL2svbRdEYJBmob68FdtZ02JUdDQOKR/view) · p1809–1809
+    - [Wound Management](https://drive.google.com/file/d/1GGvSXXHIqhqN0XARrbU01FBuPv6uWO7R/view) · p1809–1809
+    - [Wound Closure](https://drive.google.com/file/d/1iDna41-_tWTR8WPep5E4qEzLIwfyia3v/view) · p1809–1810
+    - [Soft Tissue Foreign Bodies](https://drive.google.com/file/d/13bMOT0ShTKRSAVc9Nkv64WFWj9a22jiY/view) · p1810–1810
+    - [Disposition, Follow-Up, and Disease Complications](https://drive.google.com/file/d/1pSN8QGA8MMmudsmYj_--cqD_qQjh-f2C/view) · p1810–1811
+
+## SECTION 22 Orthopedics
+
+- **[267 Initial Evaluation and Management of Orthopedic Injuries](https://drive.google.com/file/d/19U4Ecw4NTdsAzasJesB-DyQ8FCL1tR9V/view)** · p1812–1827
+    - [Pathophysiology of Fractures](https://drive.google.com/file/d/1d49nEudZuCb7ENaU_aIHaUwhRqL_Q9D1/view) · p1812–1813
+    - [Orthopedic Emergencies](https://drive.google.com/file/d/1h2dI6U5XRioqmA5RnCblGMvniKXq_lgQ/view) · p1813–1819
+    - [Orthopedic Consultation in the ED](https://drive.google.com/file/d/1qw1I0f_IJ4PIo8r38ts-7zJbD7KbLcU6/view) · p1819–1820
+    - [Splinting Materials and Techniques](https://drive.google.com/file/d/1WCKB-E3Od-g5L_MVr_BUcAuoOqlf1Oan/view) · p1820–1825
+    - [Adjuncts to Ambulation](https://drive.google.com/file/d/18XwhXSMv3E6ukYgH9TG2F-yzSt9bOpsf/view) · p1825–1826
+    - [Discharge Instructions](https://drive.google.com/file/d/1-Oek_mgR61_z4GZSEyooqqUwgPqVcRhL/view) · p1826–1827
+- **[268 Injuries to the Hand and Digits](https://drive.google.com/file/d/1lzMJzlN3cWkwQwNANpqXjlo2oo3PUWVo/view)** · p1827–1839
+    - [Overview](https://drive.google.com/file/d/1B7lUhoeT3MM_hT1qg6uI9a1xCGA8Mpq6/view) · p1827–1833
+    - [Anesthesia and Direct Wound Examination](https://drive.google.com/file/d/1fDwwsxWHqtn-rO1ZNS4VSlJQ_8MPDrQ5/view) · p1833–1834
+    - [Flexor Tendon Injuries](https://drive.google.com/file/d/1MmMSD5JhmKUv1y5uWIEYeNplWG-3sFnc/view) · p1834–1835
+    - [Extensor Tendon Injuries](https://drive.google.com/file/d/1j4tyPXOLL3GOUudxkeomjEywsL5GxgjM/view) · p1835–1837
+    - [Ligamentous Injuries and Dislocations](https://drive.google.com/file/d/1lp2fh0ejcqDsclBIg2vBQlyJyuKpbYey/view) · p1837–1837
+    - [Fractures of the Phalanx and Metacarpals](https://drive.google.com/file/d/1gVkLb3Zj0-X3NB1HD26r_Vfbj9uIs27-/view) · p1838–1838
+    - [Compartment Syndrome of the Hand](https://drive.google.com/file/d/1eCKMje3SaPRfP_AXCxSePffOeY9qDJfZ/view) · p1838–1839
+    - [High-Pressure Injection Injury](https://drive.google.com/file/d/1ZZFvMm326fVVXZQDS16vMBAcMi-3rfqs/view) · p1839–1839
+    - [Burns](https://drive.google.com/file/d/1aJcqLoD37cnkr3HdHr3nIdhUVTuUqOes/view) · p1839–1839
+- **[269 Wrist Injuries](https://drive.google.com/file/d/19lZgw8dQ-Gqu4Dz9L5_lGQuaa1-K6j74/view)** · p1839–1854
+    - [Distal Radius and Ulna](https://drive.google.com/file/d/1usshKyZp-EHyCPdyqMYp1ysXQg1rV-5N/view) · p1839–1842
+    - [Ligamentous Injuries](https://drive.google.com/file/d/1A3glvz7-bHOTWlrJ39i0FKUAov_DY53t/view) · p1842–1846
+    - [Carpal Bone Fractures](https://drive.google.com/file/d/1N2_Oq7qrIu9KtW_cpZm-AGNfnbTIWuNG/view) · p1847–1850
+    - [Distal Radius and Ulna Fractures](https://drive.google.com/file/d/195aPi2Xjax7WkrjqGZ5hr8IARkDorIfW/view) · p1850–1854
+- **[270 Elbow and Forearm Injuries](https://drive.google.com/file/d/1Gdke0yhEHMyp9eymGYmBkk1zXhsRg8aX/view)** · p1854–1866
+    - [Overview](https://drive.google.com/file/d/1cCKQOdkhcgFhL-3-4rh6pqS37WC5Ff6J/view) · p1854–1858
+    - [Biceps Tendon Rupture](https://drive.google.com/file/d/1xuQkqU96dEiM7BPVYO3GZm2NcgDTkypJ/view) · p1858–1859
+    - [Triceps Tendon Rupture](https://drive.google.com/file/d/1rWrLMS3eXsRJb5SXnbgzDzfYuoHT9kW6/view) · p1860–1860
+    - [Lateral Epicondylitis](https://drive.google.com/file/d/1tK5h8U1D0dHA5ggNBQ924kcBN6GKNDv8/view) · p1860–1860
+    - [Medial Epicondylitis](https://drive.google.com/file/d/1b_7AJ_BdhLq-ojRAlISEoFyc1wz7l-WN/view) · p1860–1860
+    - [Elbow Dislocation](https://drive.google.com/file/d/1U3tslX5K4Pcj9ug3MPlgO0yzzKzmRSAM/view) · p1860–1861
+    - [Distal Humerus Fractures](https://drive.google.com/file/d/1r-iB2xu4VhpmbvBnoRjaSpCcz3jCTXCW/view) · p1861–1861
+    - [Supracondylar Fractures](https://drive.google.com/file/d/1iz0KEx12iwzZJuVblkC-XpJm-8GJtzTR/view) · p1861–1862
+    - [Intercondylar Fractures](https://drive.google.com/file/d/1Nby-Wu0y4ViQDgkz6nSqH0L43_pZB42z/view) · p1862–1863
+    - [Epicondyle Fractures](https://drive.google.com/file/d/1rqoNH8Q7pvPCcxPfRkBmQ2MCiNQyM-NF/view) · p1863–1863
+    - [Condyle Fractures](https://drive.google.com/file/d/1AVu-XGNKj7RW3qrCcjxK8eANBxevnYrm/view) · p1863–1864
+    - [Trochlea and Capitellum Fractures](https://drive.google.com/file/d/1yRaNXwAPdql3iAVako1ETixUPXQPpKuu/view) · p1864–1864
+    - [Coronoid Fractures](https://drive.google.com/file/d/1ynjnZeHnHj59a1hVoaBtOl9xy9_YnhWp/view) · p1864–1864
+    - [Olecranon Fractures](https://drive.google.com/file/d/16f-qCBOXvXz3SKB1LwBPdDtritVz6orO/view) · p1864–1864
+    - [Radial Head Fractures](https://drive.google.com/file/d/1HpV-WdCNOJ5hGYpwE4eAWYXRuLl9xKS0/view) · p1864–1865
+    - [Fractures of Both Radius and Ulna](https://drive.google.com/file/d/1-_st2DYgS0H2s70ktQ0-lRCfDuLzlmGI/view) · p1865–1865
+    - [Ulna Fractures](https://drive.google.com/file/d/173VUFlwFInleV4_Gwk2UdjsFZBxyMUzd/view) · p1865–1866
+    - [Radius Fractures](https://drive.google.com/file/d/128jZzsDtp6s1axz-tuWCEKX8ucau6ic9/view) · p1866–1866
+- **[271 Shoulder and Humerus Injuries](https://drive.google.com/file/d/18l2SBTclzzLpuK3ZaucPN19mY2V9iSx0/view)** · p1866–1881
+    - [Sternoclavicular Sprains and Dislocations](https://drive.google.com/file/d/15r6FItBfbdiqyr-Ur2Isr9WzkkgHXuQ3/view) · p1866–1867
+    - [Treatment of Anterior Sternoclavicular Dislocations](https://drive.google.com/file/d/1QBBHnv42Lg9088zr7SqTbM2V2gG45mXu/view) · p1867–1867
+    - [Treatment of Posterior Sternoclavicular Dislocations](https://drive.google.com/file/d/1RU3OODUU7Ns6AaxtuNY9spsXy6QGipS_/view) · p1867–1867
+    - [Treatment of Middle Third Clavicle Fractures](https://drive.google.com/file/d/1ifyC5O5nxlbaD4mF-KS3xsVgSgaZj02p/view) · p1867–1868
+    - [Treatment of Distal Clavicle Fractures](https://drive.google.com/file/d/1bM_tgmjQ3x8nDKelsMR1Oxa5zrsrmXdk/view) · p1868–1868
+    - [Scapula Fractures](https://drive.google.com/file/d/1ZoIu-oHIKKdfvIj_Do99H9OdF29Kmfgs/view) · p1868–1869
+    - [Treatment of Scapular Fractures](https://drive.google.com/file/d/1in2q-RnQmWpUUjehGU79yGKvldCAzInb/view) · p1869–1869
+    - [Treatment of Scapulothoracic Dissociation](https://drive.google.com/file/d/18RV_bXtT3YQkytIcFmPRIATp-kZlFtdb/view) · p1869–1869
+    - [Acromioclavicular Joint Injuries](https://drive.google.com/file/d/1ClzLGjY3UUex5qtcDlpD28jCOI0GW1HB/view) · p1869–1870
+    - [Treatment of Acromioclavicular Joint Injuries](https://drive.google.com/file/d/1RKWcfuZtnIX1O0RL_fmNgrihPaBNZiN4/view) · p1870–1870
+    - [Glenohumeral Joint Dislocation](https://drive.google.com/file/d/1SY5Lurv-NZ3ePmBdokJnJdp6mp-jNZEC/view) · p1870–1872
+    - [General Treatment of Anterior Glenohumeral Dislocations](https://drive.google.com/file/d/1YZ3Iq1ZKP43pMFzgrFp1BKS55mlm6SqO/view) · p1872–1873
+    - [Reduction Techniques](https://drive.google.com/file/d/1ehMUsXXMiH_FNP-Uw8OVLGhWjmORAnfp/view) · p1873–1874
+    - [Posterior Glenohumeral Dislocations](https://drive.google.com/file/d/16-yWymfTtqsYQdRVd4a9YiU-5ZfdetGY/view) · p1874–1875
+    - [Proximal Humerus Fractures](https://drive.google.com/file/d/1PFyFd1CDKVeUUvQiHXS2EsqXg2PlBP_e/view) · p1875–1878
+    - [Humeral Shaft Fractures](https://drive.google.com/file/d/19XJ55q5JmUul-QDe3s8Ji0i7FU911v6G/view) · p1878–1879
+    - [Brachial Plexus Injuries](https://drive.google.com/file/d/1yfg_hcX1NlHqMqSIcIXgi62KVMfOECeE/view) · p1879–1879
+    - [Complications of Total Shoulder Arthroplasty](https://drive.google.com/file/d/1QzHDLqlA7vWD-fcQ2mvX7rfXiQ6iBLwG/view) · p1880–1881
+- **[272 Pelvis Injuries](https://drive.google.com/file/d/1akOnct-mp6fP69Yg1dr1VffV2_qUqmfg/view)** · p1881–1887
+    - [Anatomy and Biomechanics](https://drive.google.com/file/d/18rtU8_fc2FDLj9f33MKhL584ATdThxQs/view) · p1881–1882
+    - [Pelvic Fracture Patterns](https://drive.google.com/file/d/19D4OjSPDLkqhsqTy27LgYk6GTFnubMBW/view) · p1883–1883
+    - [Avulsion and Single-Bone Pelvic Fractures](https://drive.google.com/file/d/1ayLEeYIpYXPTtITBWCbDJNLOBK8BzDZP/view) · p1883–1884
+    - [Acetabular Fractures](https://drive.google.com/file/d/1n1MTEc7n9GQPAX2jNIoV7VlF0gI5mXdd/view) · p1884–1886
+    - [Complications of Pelvic Fractures](https://drive.google.com/file/d/1LhuzOtSUyA471qUQwKVVYeDtbfEjaQnY/view) · p1886–1887
+- **[273 Hip and Femur Injuries](https://drive.google.com/file/d/1Ykbu3wScwExHMHh3Pz9B41XfeBsYofUa/view)** · p1887–1895
+    - [Overview](https://drive.google.com/file/d/1mq07qB9UL4APiRljR_0Se6Pg9VZgH0ng/view) · p1887–1889
+    - [Hip Fractures](https://drive.google.com/file/d/1u_-aFrj3XSwynLfX87eYU1wXzuoJo4ZF/view) · p1889–1890
+    - [Femoral Shaft Fractures](https://drive.google.com/file/d/1LsIdXi_eGUZN9AhKYdfppR6D6oyYHsED/view) · p1890–1891
+    - [Hip Dislocation](https://drive.google.com/file/d/1pKSK7suELEJ6t7DnUhqiNbH78Z7JuPeR/view) · p1891–1895
+- **[274 Knee Injuries](https://drive.google.com/file/d/1cBo5mS2jI7LXxU3k5y1TeooIXjgYUA8k/view)** · p1895–1903
+    - [Overview](https://drive.google.com/file/d/185Kv7c8tbIRZu08zFZ2-375rBHfVoNtP/view) · p1895–1897
+    - [Patella Fractures](https://drive.google.com/file/d/1-OIGk_tw2t4BKRHhjaSl5FNAjpZBgGBv/view) · p1897–1897
+    - [Femoral Condyle Fractures](https://drive.google.com/file/d/1auOT8_4KcOCV7YPKWXt9cqz1DXi2QxnI/view) · p1897–1897
+    - [Tibial Spine and Tuberosity Fractures](https://drive.google.com/file/d/1I_hkHzidNK2CYZJz3VacPr-JFQ_0BIdT/view) · p1897–1898
+    - [Tibial Plateau Fractures](https://drive.google.com/file/d/1EorFX2QOmd6JmpkHIL0OmsHPi-uH6WCH/view) · p1898–1898
+    - [Ligamentous and Meniscal Injuries](https://drive.google.com/file/d/1Z-VhzNV5lHq1u8XdCZAepVAjyAoCtDXv/view) · p1898–1900
+    - [Hemarthrosis or Effusion](https://drive.google.com/file/d/1UPGEOod_wfyw9VTCnhyNy-F_iA9kxJ8E/view) · p1900–1900
+    - [Ligamentous Injuries](https://drive.google.com/file/d/1l_EauqDVQQRjkPwd49ilKtN3hs76m2fB/view) · p1900–1901
+    - [Meniscal Injuries](https://drive.google.com/file/d/1GAKYDE_yqCGqsUEOjbh9afI_GpF2p7ql/view) · p1901–1901
+    - [Locked Knee](https://drive.google.com/file/d/1y-MBJI1Qg6Gz8WdFsnj3g-uUqymOV-j7/view) · p1901–1901
+    - [Knee Dislocation](https://drive.google.com/file/d/1hDFB7FV3xwFIWJ1CcSgs7wCzpuukRbsC/view) · p1901–1902
+    - [Patellar Dislocation](https://drive.google.com/file/d/1czw5IzVJza85rBHQXOuqhemSAFJO0pZz/view) · p1902–1902
+    - [Quadriceps or Patellar Tendon Rupture](https://drive.google.com/file/d/1ballHITZkgDay_xRVItpJVMaFetCEm7w/view) · p1902–1902
+    - [Patellar Tendinitis](https://drive.google.com/file/d/1qY4DsKZVA16WXEZ6_5temIQnLHbdJx2x/view) · p1902–1903
+    - [Postarthroscopy Problems](https://drive.google.com/file/d/1edT1iee7H14P4RYOb2iiAWYi1IdmXVBp/view) · p1903–1903
+    - [Postarthroplasty Problems](https://drive.google.com/file/d/15HK5I2O10mwWoy1WuzJJJ4G_z1YI6vth/view) · p1903–1903
+    - [Penetrating Knee Injury and Joint Foreign Bodies](https://drive.google.com/file/d/1W5Vh51OrNhiruowE5hC6cZ2gbIPbucVG/view) · p1903–1903
+- **[275 Leg Injuries](https://drive.google.com/file/d/1AbmRRwMRC4SfV6x6f10P8e9L0dELxdU3/view)** · p1904–1907
+    - [Tibial Shaft Fractures](https://drive.google.com/file/d/12gDlEpc-oP8vxYvIoOfAFOB7jMdOkRGB/view) · p1904–1905
+    - [Reduction of Closed Tibial Shaft Fractures](https://drive.google.com/file/d/1iEhrZ8QSfhZ2FAHe2r_NTKLAp_HbEvD5/view) · p1905–1905
+    - [Pilon Fractures](https://drive.google.com/file/d/1Bqxy2N6MVgIJG0TMTFrg7E8HUCnU2fDk/view) · p1905–1906
+    - [Proximal Fibula Fracture (Maisonneuve Fracture)](https://drive.google.com/file/d/1BY9EteM1ekym5DGfKH96lP6VLBH2SSCH/view) · p1906–1906
+    - [Midshaft Fibula Fractures](https://drive.google.com/file/d/13qAGlCiN6fthWPr0mReB2fiA83u-ILUP/view) · p1906–1906
+    - [Stress Fracture](https://drive.google.com/file/d/1CA_JNblp4bC_WbqWB7fF6sMLG-OvrbOx/view) · p1906–1906
+    - [Achilles Tendon Rupture](https://drive.google.com/file/d/1THuQ9Yl0ICgK-PXaHUz-z7aeUGv89eFq/view) · p1906–1907
+    - [Medial Gastrocnemius Muscle Strain](https://drive.google.com/file/d/1zrEz4sPDv_Ju9MU-kbhZz2mQbyHhZoCL/view) · p1907–1907
+    - [Shin Splints (Exertional Compartment Syndrome)](https://drive.google.com/file/d/1G4JIwrRZa6pLREP9m84EwU4mBX93r1Ea/view) · p1907–1907
+- **[276 Ankle Injuries](https://drive.google.com/file/d/1jdExsjunsUegzat58BhyXD4gOjn1_N_6/view)** · p1907–1915
+    - [Overview](https://drive.google.com/file/d/1jGE_gzRehrm2uHZOHY7iANxDxn5qnk-Z/view) · p1907–1909
+    - [Tendon Injuries](https://drive.google.com/file/d/1iu6yyvgilcOo1zN9AgmAXCArLXayaFnI/view) · p1909–1911
+    - [Ligament Injuries](https://drive.google.com/file/d/1EdBmXt4FuexOj4cKxl4JeIlctGzllW7J/view) · p1911–1912
+    - [Dislocations](https://drive.google.com/file/d/1pXbj3ebpkG-hemLvJVNhsby6q5vLK-5Y/view) · p1912–1912
+    - [Muscular Injuries](https://drive.google.com/file/d/1EQHdYBTGj9LpIjqfsW0k77PCTeNt-aC0/view) · p1913–1913
+    - [Fractures](https://drive.google.com/file/d/1z4eOsQk92YkMFdTWU1XFsbzIP2o7oe5k/view) · p1913–1915
+    - [Open Fractures](https://drive.google.com/file/d/1MHTeIPvEEFXdhfea7CFLIO_fUZ8nJXWo/view) · p1915–1915
+- **[277 Foot Injuries](https://drive.google.com/file/d/1S59DI7Agh5EYHaiOkZiDD2yXKMW5FSE-/view)** · p1915–1921
+    - [Calcaneus Injuries](https://drive.google.com/file/d/1AnTfaSw-OUZ9BYY_DRiKHtkOpmt_5C5-/view) · p1915–1917
+    - [Talus Injuries](https://drive.google.com/file/d/1LCwks9siImlpS3exzXmj7Z7zdgfwKeto/view) · p1917–1917
+    - [Lisfranc Injuries](https://drive.google.com/file/d/1ZtHgKmJ2LvDXwNp8JETImeDSFpM9_FD2/view) · p1917–1918
+    - [Navicular Injuries](https://drive.google.com/file/d/1dxhQQD40IqPsEyEdZPNzfiMbabnKdV1A/view) · p1918–1919
+    - [Cuboid Injuries](https://drive.google.com/file/d/1YltvayYS0qXJ3V4UBgwdfvrlvxWNR1yD/view) · p1919–1919
+    - [Cuneiform Injuries](https://drive.google.com/file/d/1IAjC2g5lzPz_E50umbUnACslVq224WrR/view) · p1919–1919
+    - [Fifth Metatarsal Injuries](https://drive.google.com/file/d/1PArZMxLR6QH-j4rYz8h36uoo15KPR8uX/view) · p1919–1919
+    - [Metatarsal Injuries](https://drive.google.com/file/d/1VaFnWg3GdthMttGYUfyoy_yryUuGTiS2/view) · p1919–1920
+    - [Stress Injuries](https://drive.google.com/file/d/1YkSzDjjfLlcqC_QuR0EA4R0d2aMmljW1/view) · p1920–1920
+    - [Metatarsophalangeal Injuries](https://drive.google.com/file/d/1ODBDeskLMyGaXEAIR5l-BnE1AtzZuk11/view) · p1920–1920
+    - [Phalange Injuries](https://drive.google.com/file/d/1-Y44YScLbWnxz0MAl6pgvp0skl2bELCC/view) · p1920–1920
+    - [Tendon Injuries](https://drive.google.com/file/d/1DlraOp4Br369aaCPcN0YNSPIBFH2e0ya/view) · p1920–1921
+- **[278 Compartment Syndrome](https://drive.google.com/file/d/1HbGMAhUB9uiJnOVlfqmw7f7haVcBQDgR/view)** · p1921–1925
+    - [Overview](https://drive.google.com/file/d/1r12S3RXnj7Zku4RGyC98BOUiN0rCdswR/view) · p1921–1923
+    - [Compartment Pressure Measurement](https://drive.google.com/file/d/1Inc7GSFHKv1Wu5siRPNPMwWounNZTopr/view) · p1923–1924
+    - [Disease Complications](https://drive.google.com/file/d/1J-_Vay-PsN0pY-oWVTBV9yemaM9BTlWA/view) · p1924–1924
+
+## SECTION 23 Musculoskeletal Disorders
+
+- **[279 Neck and Back Pain](https://drive.google.com/file/d/1Z8gflgSedMxENMOfLEv6kUf7ywUkqLV4/view)** · p1926–1933
+    - [Clinical Features of Neck Pain](https://drive.google.com/file/d/1qIEOo7ozrCLGrXDfyWKmYUFSvgUk43_D/view) · p1926–1927
+    - [Diagnosis of Neck Pain](https://drive.google.com/file/d/1d_uyOm8beo9BdYSKtlzWhMyEVLwgvQ3P/view) · p1927–1928
+    - [Treatment and Disposition of Patients with Neck Pain](https://drive.google.com/file/d/1YNAl2c6TlYpAQTUC9gt8T5xLcIZdPZTP/view) · p1928–1929
+    - [Clinical Features of Thoracic and Lumbar Pain Syndromes](https://drive.google.com/file/d/1ZowyOd9kgQKB0DVPw5Z7B1Ujuf4DyzrZ/view) · p1929–1930
+    - [Diagnosis of Back Pain Syndromes](https://drive.google.com/file/d/1-ZOrbPF3P5q7KlCuqlBYgAEANjXDWPF7/view) · p1930–1930
+    - [Differential Diagnosis and Management of Back Pain Syndromes](https://drive.google.com/file/d/1fKc8LHDxbfhEGT3QyWQHpqCiPNN2kypq/view) · p1930–1933
+- **[280 Shoulder Pain](https://drive.google.com/file/d/1bTSq3ZzVccntKGnv9uBlPRxmFNG-UOVV/view)** · p1933–1939
+    - [Overview](https://drive.google.com/file/d/1DUtkVeVap3f1MSgzzKBkjkVnWOXs3ZbI/view) · p1933–1934
+    - [Subacromial Impingement Syndrome](https://drive.google.com/file/d/1CaPciW4vsyeUCBILh1oDIne7UiNXitIL/view) · p1934–1936
+    - [Calcific Tendinitis](https://drive.google.com/file/d/17Sa1P5peCmLFPnLPH9lfq9t5DBXFdrgl/view) · p1936–1937
+    - [Disorders of the Biceps Tendon](https://drive.google.com/file/d/1ME0OSB-eNwmFDzDELVhtgpfIHmYRKjsJ/view) · p1937–1938
+    - [Other Causes of Shoulder Pain](https://drive.google.com/file/d/1I8BOz1hovhYyeTDcmAHx_OEVMM8lvnZJ/view) · p1938–1939
+- **[281 Hip and Knee Pain](https://drive.google.com/file/d/1FKSQ6BeLjGtr3hKa2qq2v9A7ZSpHEbM2/view)** · p1939–1950
+    - [Overview](https://drive.google.com/file/d/1higb3GNDcnOPUTnAjF4bcO_1SCSy73RR/view) · p1939–1940
+    - [Diagnosis of Knee and Hip Diseases and Syndromes](https://drive.google.com/file/d/1DVt7pIXqBFOONDvMxE-JFG4ML_ce1pI3/view) · p1940–1941
+    - [Specific Syndromes and Diseases by Location](https://drive.google.com/file/d/18gafJzwqZ8ZH68etnk3fAxEpb-X7ubFR/view) · p1941–1950
+    - [Core Treatment](https://drive.google.com/file/d/1TGC3Rai6iGD286xMMzncVjez7GlFywF1/view) · p1950–1950
+- **[282 Systemic Rheumatic Diseases](https://drive.google.com/file/d/1ttG72I3WAyi8-yB0YtbEDjySMRprPo0d/view)** · p1950–1959
+    - [Overview](https://drive.google.com/file/d/1NgzlGBxDatcTjXG7mfM8kS9YMnw5NHOi/view) · p1950–1951
+    - [Airway Emergencies](https://drive.google.com/file/d/17or1qnjV1cbt4z3CHBFIgtlkXfAOTFZx/view) · p1951–1953
+    - [Pulmonary Emergencies](https://drive.google.com/file/d/1qdHEMl1P0qdYTpN0dLm06IBFD0kCETot/view) · p1953–1953
+    - [Cardiovascular Emergencies](https://drive.google.com/file/d/1uiUCld_CIxzhGw3qeiCYMMZ-YlgYE8VB/view) · p1953–1955
+    - [Neurologic Emergencies](https://drive.google.com/file/d/1lK6li-x-47WpYlFumeeE9GUKoyzYFeWK/view) · p1955–1955
+    - [Ocular Emergencies](https://drive.google.com/file/d/19iNimkoi_wzGa5ckNLSZtCAfR4QoACpp/view) · p1955–1955
+    - [Renal Emergencies](https://drive.google.com/file/d/1ku_M9fGqriG764KZfaPKWISUDyw3XUua/view) · p1955–1956
+    - [GI Emergencies](https://drive.google.com/file/d/1d10Cq1c16_Zj2JBNzbetD7m7RGNZRRdo/view) · p1956–1957
+    - [Infectious Emergencies](https://drive.google.com/file/d/13OLH65IcRc65zQHVv9tRj1m-rlvge9rM/view) · p1957–1957
+    - [Other Emergencies](https://drive.google.com/file/d/1vcRoLBRNB-f2KuFM-bZiMk3w7rbSQxeA/view) · p1957–1957
+    - [Adverse Drug Reactions](https://drive.google.com/file/d/19l5snQTEo6DZlmSRBKNvYYJYlmXC6AEu/view) · p1957–1957
+    - [Immunosuppression](https://drive.google.com/file/d/1O5UDL1VCDlZ1j7WQbA9jAJaIJUZQQl53/view) · p1957–1959
+    - [Critical Actions for Systemic Rheumatic Disease Patients](https://drive.google.com/file/d/1ERzm9xloao2bXxkGCDs1PZ9YlZC_GAbA/view) · p1959–1959
+- **[283 Nontraumatic Disorders of the Hand](https://drive.google.com/file/d/1D6BIbQK_jJX5quzDqecfOoO4GQ7fTEGH/view)** · p1959–1964
+    - [Cellulitis](https://drive.google.com/file/d/1MxjFp-uOlIPlU8C_Az4-vZV_2ScVyLIC/view) · p1959–1960
+    - [Flexor Tenosynovitis](https://drive.google.com/file/d/1-vQNIFpGOxIB5P8pcSJ72VR80kAYtAei/view) · p1960–1961
+    - [Deep Space Infections](https://drive.google.com/file/d/1i705EoKdptR8RpIVCVb-ipJy4duAmIGa/view) · p1961–1961
+    - [Infections from Closed Fist Injuries](https://drive.google.com/file/d/1F-KzDKp8AaE5JQt_5-uQsan_ODPwT70t/view) · p1961–1961
+    - [Paronychia](https://drive.google.com/file/d/1Y5pyzj8ngUpqq4x81l7p2uL6KPcr6Ow_/view) · p1961–1962
+    - [Felon](https://drive.google.com/file/d/1qp0fspDf9MwhDcAZ9bI-8DerpeCarHIW/view) · p1962–1963
+    - [Herpetic Whitlow](https://drive.google.com/file/d/1wwHcUH6rBUNIGICCxdWurqRVEYGiy0P3/view) · p1963–1963
+    - [Tendinitis and Tenosynovitis](https://drive.google.com/file/d/1FTe1EvDp5O9CalYdOMNixGgLzt9aJ8kM/view) · p1963–1964
+    - [Carpal Tunnel Syndrome](https://drive.google.com/file/d/1b0u_pbnPy_YPuQgQ_aKe_TJL8iHRVoQg/view) · p1964–1964
+    - [Dupuytren’s Contracture](https://drive.google.com/file/d/1QY4rN4dbfz6vI1zWdn8k3fzzN1Q2oa9j/view) · p1964–1964
+    - [Ganglion Cysts](https://drive.google.com/file/d/176Bt7G9-pHtZHPksTEZHS9C-apPs5QwS/view) · p1964–1964
+- **[284 Joints and Bursae](https://drive.google.com/file/d/13C9uLGiC1elnF6de_XdVAjEUqpldTXPh/view)** · p1965–1973
+    - [Clinical Approach to Acute Joint Pain](https://drive.google.com/file/d/12_xJVdv8HE6VWP4WHY1aryA-3-6SokyQ/view) · p1965–1966
+    - [Arthrocentesis](https://drive.google.com/file/d/1_m72tqvJsmcqu0FRy8OrxkJU4upiyq32/view) · p1966–1970
+    - [Septic Arthritis](https://drive.google.com/file/d/1qc5MjN9DZSafIo3AQeMg_26weK7lEK41/view) · p1970–1971
+    - [Crystal-Induced Synovitis (Gout and Pseudogout)](https://drive.google.com/file/d/1FT3Y7dUWPE49NVvMhesDvVazrEXALLsc/view) · p1971–1971
+    - [Viral Arthritis](https://drive.google.com/file/d/1qSKmJnmWIOIAl2TBcqdZYhUv94T_52ZO/view) · p1971–1971
+    - [Lyme Disease](https://drive.google.com/file/d/1VlpUePbj-aaCzl1yN0ju8O9VnHwtPUIi/view) · p1972–1972
+    - [Hemarthrosis](https://drive.google.com/file/d/1WONw8Cjlf5HcGLuOUU-KVU8jdH-RK7G0/view) · p1972–1972
+    - [Rheumatoid Arthritis](https://drive.google.com/file/d/1-U-19TGrra8Fh_UrFEFUL5nsRRYKg7fP/view) · p1972–1972
+    - [Osteoarthritis](https://drive.google.com/file/d/11VGxumt-GnHOnfDlWuNS0QD1_0YkPpa_/view) · p1972–1972
+    - [Reactive Arthritis](https://drive.google.com/file/d/1N5bXQCqL4JivAyrxVjUdMB0OoBee5IXF/view) · p1972–1972
+    - [Bursitis](https://drive.google.com/file/d/1UwjvN5e7VcdndslMHDSHm2Z0ZqbwNu0p/view) · p1972–1973
+- **[285 Soft Tissue Problems of the Foot](https://drive.google.com/file/d/1UkWgYDCS88i2xMN37JuuiYd_8X5jROvb/view)** · p1974–1977
+    - [Ingrown Toenail](https://drive.google.com/file/d/11ydQCBF1WPlSBMuJKKoJtRrtm72OTLUv/view) · p1974–1974
+    - [Other Nail Lesions](https://drive.google.com/file/d/1py5llPTBewe3ZbddaetnmGD5VIoT4P_c/view) · p1974–1974
+    - [Bursitis Involving Feet](https://drive.google.com/file/d/1BhLcebeBQ0MzmqSQzsNMHuAUipccc5M5/view) · p1974–1975
+    - [Plantar Fasciitis](https://drive.google.com/file/d/1QxSTgt2eGW8AQ0WnDT0AHCp0frK-3uSm/view) · p1975–1975
+    - [Nerve Entrapment Syndromes](https://drive.google.com/file/d/1RgtGsxOUOl5YKIYmRHfnH2r3VMwcWCUd/view) · p1975–1975
+    - [Ganglions of the Foot](https://drive.google.com/file/d/1MKM2hOI0q4XweKNMw6w42nlYJc8-nxt5/view) · p1975–1975
+    - [Tendon Lesions of the Foot](https://drive.google.com/file/d/1QSKzhpM9s4E5OeYwKHv9hIpKF6E93xOj/view) · p1975–1976
+    - [Plantar Interdigital Neuroma (Morton’s Neuroma)](https://drive.google.com/file/d/1sMdmotTtmoLCOBBPjilyNv9sk4hQTXSq/view) · p1976–1976
+    - [Compartment Syndromes of the Foot](https://drive.google.com/file/d/140FiSTfq7R3rsL6hRZhyxh_8R8nqPwrq/view) · p1976–1976
+
+## SECTION 24 Psychosocial Disorders
+
+- **[286 Mental Health Disorders: ED Evaluation and Disposition](https://drive.google.com/file/d/1Uq-4LaxDCAANrWcePv6fD-Nf_P0hTen5/view)** · p1978–1982
+- **[287 Acute Agitation](https://drive.google.com/file/d/15NoVDqJlT3pPgG_2Jj7AOkM4HLRE-Gqz/view)** · p1982–1985
+    - [Overview](https://drive.google.com/file/d/1IHsAjiMGDGbPXlajdqg2jZRMZnO32D2F/view) · p1982–1983
+    - [General Therapeutic Approach](https://drive.google.com/file/d/1tKtkm6FlzYjYwAsAvkcH1qexZZ0n7C0O/view) · p1983–1983
+    - [Pharmacology](https://drive.google.com/file/d/1Fd6vZ2oWKvEsgWwYA3x0T6GTJaCWGin2/view) · p1983–1985
+    - [Other Treatments](https://drive.google.com/file/d/1r-iWzdfIfdUM4bO_Bh1-IH2bkT1vNcRs/view) · p1985–1985
+- **[288 Mental Health Disorders of the Elderly](https://drive.google.com/file/d/1XWpQ2AIkb7CxB0uHhrK9QFJYPwEU24Mj/view)** · p1985–1991
+    - [Overview](https://drive.google.com/file/d/1_-AUWas1riw55qOnrbqrJ3aiFcH2A8PB/view) · p1985–1986
+    - [Delirium](https://drive.google.com/file/d/1sSOkmZwHr8EnQaH3NxBHwQB3BJCY14Ix/view) · p1986–1988
+    - [Dementia (Major Neurocognitive Disorder)](https://drive.google.com/file/d/1SOxihBDnpOeM4hvOObvl6H5sQDfH8ixU/view) · p1988–1989
+    - [Mental Health Disorders](https://drive.google.com/file/d/1Lts_Vd45pSJLovV4Ov77VIA-Gdchr4T9/view) · p1990–1991
+- **[289 Mood and Anxiety Disorders](https://drive.google.com/file/d/1HsIQlIPXRBme6J0ScqUvv7L_ju3Oaasm/view)** · p1991–1997
+    - [Depressive Disorders](https://drive.google.com/file/d/17XeHeRx9bRJL_EgnQy9BmKbxsbpVlur2/view) · p1991–1992
+    - [Clinical Features of Depression](https://drive.google.com/file/d/1yMOUkZFrYOJtf7XQ03dPlNqd3hd1f4J0/view) · p1992–1992
+    - [Determination of Suicide Risk](https://drive.google.com/file/d/1SaCJZ4Hbbl6-6kQzBnWsjAiaxtmOduHr/view) · p1992–1992
+    - [Treatment of Depressive Disorders](https://drive.google.com/file/d/1Z0_k3CkJr8k0OHZGIrfSxsyXPBPNucuL/view) · p1992–1994
+    - [Treatment of Bipolar Disorder](https://drive.google.com/file/d/1dbTDzMC6dzDR7mQk0rmyxh0fqBfc8CMx/view) · p1994–1996
+    - [Anxiety Disorders](https://drive.google.com/file/d/1FsXg2zDrwFdDqGw52-H5vibKAgJTQ__h/view) · p1996–1997
+    - [Treatment of Anxiety Disorders](https://drive.google.com/file/d/1StXfCYWdB8_ZaEiJM2-D2I477Eqp86_b/view) · p1997–1997
+- **[290 Psychoses](https://drive.google.com/file/d/1dPcEh1DeXfDExZhnURJgNjYLsxte1MJe/view)** · p1997–2001
+    - [Overview](https://drive.google.com/file/d/1zqgzMKAo_RJSC8enbU0m37qagJZFQekz/view) · p1997–1999
+    - [Pharmacotherapy](https://drive.google.com/file/d/1zfJUThxZNtQCeytq01w9e1395YXAxUio/view) · p1999–2000
+    - [Schizophrenia Spectrum of Disorders](https://drive.google.com/file/d/1h-mrZ9rDfWdh9Kgy8rBWiQncyfWLhlk1/view) · p2000–2001
+- **[291 Eating Disorders](https://drive.google.com/file/d/1tvKRXIcl8P68lY0ucLfklcG2cxfrAB5d/view)** · p2001–2004
+    - [Pregnant Women](https://drive.google.com/file/d/1T7Z-lLjke6fGFcw27iG5-kOt44fka-fF/view) · p2004–2004
+    - [Men](https://drive.google.com/file/d/1DS0KRDLOLZhZPA3iHSYuvRGCAHcWCgqV/view) · p2004–2004
+- **[292 Substance Use Disorders](https://drive.google.com/file/d/1FWOdNONG3wTdelrkgViaxJEIHwgxEwqZ/view)** · p2004–2011
+    - [Unhealthy Alcohol Use](https://drive.google.com/file/d/1pIqESk9Md_aPHBC0_OVnRUBU3Hs-A9c6/view) · p2004–2005
+    - [Substance Use Disorders](https://drive.google.com/file/d/1w5B_w3ybdmTki4v-kApL5lum0BetDGNt/view) · p2005–2005
+    - [Screening, Brief Intervention, and Referral to Treatment](https://drive.google.com/file/d/1c5WkL7fzgDlt6ztUiwW-n-kSSpJd7Hhn/view) · p2005–2007
+    - [Pharmacologic Management for Alcohol, Opioid, and Sedative Use Disorders](https://drive.google.com/file/d/1haktf1THzfIbVUZ9zWeLaRbMnYceTuEQ/view) · p2007–2009
+    - [Reduction of Harm from Opioid Use Disorder](https://drive.google.com/file/d/1S1vlPWZnGIdNcCflboZN7TQ1sttNRJEV/view) · p2009–2011
+    - [Safe Prescribing of Opioid Pain Relievers](https://drive.google.com/file/d/1TRAl5Ia7ffZygmuh5BmCDOl2Yg70Z-28/view) · p2011–2011
+
+## SECTION 25 Abuse and Assault
+
+- **[293 Female and Male Sexual Assault](https://drive.google.com/file/d/1Zs0XoHMcsvKc2j7fXsh6cUg-YP0po3yt/view)** · p2012–2016
+- **[294 Intimate Partner Violence and Abuse](https://drive.google.com/file/d/1oLT7ZzjbkuW46wrZhcK7qGPKxeGtLmiF/view)** · p2016–2019
+    - [Overview](https://drive.google.com/file/d/109IGaakgRUHafCUBKL9ac7HYdXXIQA6c/view) · p2016–2017
+    - [Screening and Assessment](https://drive.google.com/file/d/1nF8BLOai06aZ59K6yv8qAGwv6sPjYQBZ/view) · p2017–2018
+    - [ED Record Documentation](https://drive.google.com/file/d/17Z9E65FOn6_u75ZsWBCf6tfCOWrp6yeh/view) · p2018–2019
+    - [Legal Considerations](https://drive.google.com/file/d/1PFWgzs93KnlysK8nKQ8yPBvLgEBmRNb8/view) · p2019–2019
+    - [Pregnancy](https://drive.google.com/file/d/1p-RujI4ArLqUuKvbt3KrzrE4Gxt0CUwD/view) · p2019–2019
+    - [Immigrant Populations](https://drive.google.com/file/d/1i-92Tue54szcBgyrt3xZGTeM85ec2Dkw/view) · p2019–2019
+    - [Lgbtq Persons](https://drive.google.com/file/d/1igJ26_tKAlLN5T8JpuFHiWlff2y6LAdR/view) · p2019–2019
+- **[295 Abuse of the Elderly and Impaired](https://drive.google.com/file/d/1Io5uZ7MQN1ZjgBz5VIzkbGlca3GmCdRA/view)** · p2019–2023
+    - [Physical Abuse](https://drive.google.com/file/d/1nwqoK-haApy5ZiJrGGesf-kWQJKvFke4/view) · p2019–2019
+    - [Caregiver Neglect](https://drive.google.com/file/d/175OJqvmLZYIZ4VZDnu6yI702Ys2CQft8/view) · p2019–2020
+    - [Sexual Abuse](https://drive.google.com/file/d/1it5hZa0O--eFKfAWurDZ44cVZ88yQ4Ut/view) · p2020–2020
+    - [Financial or Material Exploitation](https://drive.google.com/file/d/15-4mCJV0jt0f2X54va3TdrTxSfzPQh8C/view) · p2020–2020
+    - [Emotional or Psychological Abuse](https://drive.google.com/file/d/13cMc9Fgrh3htRvVplsdpl_c3ZgK8GW9i/view) · p2020–2020
+    - [Abandonment](https://drive.google.com/file/d/1ZNbWObRtr2NACR6Qag3S-B56l8eY2Moa/view) · p2020–2020
+    - [Self-Neglect](https://drive.google.com/file/d/1K2GNt2XbFi6_9Ats3_27ZlC6h0M7NUTr/view) · p2020–2023
+    - [Barriers to the Detection of Elder Abuse](https://drive.google.com/file/d/1V0uqEWTXAf_x0NHZIn0lK_wnd2u99HwV/view) · p2023–2023
+    - [Abuse in Long-Term Care Facilities](https://drive.google.com/file/d/1EkqGkNR8OhkOKyDVWCi9USUgnVGsdNEh/view) · p2023–2023
+    - [Legal Considerations](https://drive.google.com/file/d/1fri1-IQB3TTWIGho2DozPYEUDxKZxZSJ/view) · p2023–2023
+
+## SECTION 26 Special Situations
+
+- **[296 Injection Drug Users](https://drive.google.com/file/d/1FjsgAB1hqT3kv_OazQuSSM75pF0a8BmH/view)** · p2024–2029
+    - [Overview](https://drive.google.com/file/d/1JqpAXm_RkB6nZhUryf-3YZCNEwRRd4Jt/view) · p2024–2026
+    - [Human Immunodeficiency Virus Infection](https://drive.google.com/file/d/16rFUWMNJXPIkN6iLS-F88ReLjLLNTSPp/view) · p2026–2026
+    - [Infective Endocarditis](https://drive.google.com/file/d/1oe3AIK1K5H1VWpR4eoAHsuYTl0bsMGE1/view) · p2026–2027
+    - [Pulmonary Infections](https://drive.google.com/file/d/1BJiwMYxJdny5oo2ThUyCV1w_DHImwlE4/view) · p2027–2027
+    - [Skin and Soft Tissue Infections](https://drive.google.com/file/d/1UU6j_cDEq2JfMkMJ4cE99JyShrJWaKVN/view) · p2027–2028
+    - [Vascular Infections](https://drive.google.com/file/d/1b2Fvfph7CKLuHpveqsVM1F8KBojQ8Y4T/view) · p2028–2028
+    - [Bone and Joint Infections](https://drive.google.com/file/d/1BA_bhutUpbeai2tgaE-SvcWteIeZCa4S/view) · p2028–2028
+    - [Hepatic Disease](https://drive.google.com/file/d/1CFzyoE22zSNvzS49Ul2jeE5eFSmCoezF/view) · p2028–2029
+    - [Ophthalmologic Infections](https://drive.google.com/file/d/1TvdN411NajL76Ph-zAR6GlDu5dBa8YPU/view) · p2029–2029
+- **[297 The Transplant Patient](https://drive.google.com/file/d/10etd2j6Z1YEVG4-dLoY1gfwacmnu_x6Y/view)** · p2029–2039
+    - [History and Comorbidities](https://drive.google.com/file/d/1-d-o2Ib3pI3l7YlbFwKa-NVR69Zj79kv/view) · p2029–2030
+    - [Posttransplant Infections](https://drive.google.com/file/d/1yYxm62Te5DrWQOAk5tMC0zRaNGq3ihlr/view) · p2030–2031
+    - [Graft-Versus-Host Disease](https://drive.google.com/file/d/1gThI2yHeLvkZOBV7m2mDgr16RhyWlaq9/view) · p2031–2032
+    - [Acute Graft-Versus-Host Disease](https://drive.google.com/file/d/1oT2jzcho1gJZBunlTpjAGdziRTp79whS/view) · p2032–2033
+    - [Transfusion-Associated Graft-Versus- Host Disease](https://drive.google.com/file/d/1JL8HMHyVM5wOrhNYzjgm5M0beEjWHbom/view) · p2033–2033
+    - [Posttransplantation Lymphoproliferative Disorder](https://drive.google.com/file/d/1qzedaP7mwaZYYwgiTF5T2fdQD-2lcbNe/view) · p2033–2033
+    - [Transplantation Medication Effects](https://drive.google.com/file/d/1wSlHK0NQ7yEXBcYHcr2zqoiDaJoB-Rxh/view) · p2033–2033
+    - [Transplantation Rejection](https://drive.google.com/file/d/1xmQTEV62TGdbKZ29nS62RYzTGlmI92Rc/view) · p2033–2034
+    - [Renal Transplantation](https://drive.google.com/file/d/1YFSd7yXlK0R9NYo-gYCnNlfDQ5x5GRKo/view) · p2034–2036
+    - [Liver Transplantation](https://drive.google.com/file/d/1DXZYvlWVorFdYiq-3qLRD0ER3PadvQrB/view) · p2036–2036
+    - [Lung Transplantation](https://drive.google.com/file/d/1qYjowh3T_pp1QjcboL4S7m-WMjuSzqsP/view) · p2036–2038
+    - [Cardiac Transplantation](https://drive.google.com/file/d/1RcuVM97PNAA4OdAQC1njqVhRhRp8De5_/view) · p2038–2038
+    - [Corneal Transplantation](https://drive.google.com/file/d/1M_m-9F5UsERC9o9yr7FC5POxxB6iqP09/view) · p2038–2039
+- **[298 The Patient with Morbid Obesity](https://drive.google.com/file/d/1zDfAsC4VaNvT9EsV3FpqGKDg_pZKf9TE/view)** · p2039–2042
+    - [Overview](https://drive.google.com/file/d/1lUYJLFA8UTvIdE3BOV7M-QG3vDt2kEdj/view) · p2039–2040
+    - [Estimating Patient Weight](https://drive.google.com/file/d/1dGjvpYbjqgHKQOxEFUpnAycJ02oBnJ7I/view) · p2040–2040
+    - [Sphygmomanometry](https://drive.google.com/file/d/1kuQW84PGOIq64mMClo7f8q21i31Khtmg/view) · p2040–2040
+    - [Medication Dosing](https://drive.google.com/file/d/1msCOST18BGOWz6glOvna8zlb5JZClgmJ/view) · p2040–2040
+    - [Vascular Access](https://drive.google.com/file/d/1RS0crI5wQkUxmlS-_9TghJO2SxGWtyKc/view) · p2040–2041
+    - [Procedural Sedation](https://drive.google.com/file/d/13yVdzEwrZ74NmRWEPeH4O-WUBLAQALVP/view) · p2041–2041
+    - [Airway Management](https://drive.google.com/file/d/13anNUKpPwVB8u6UEgDr45_dC5cexDHy3/view) · p2041–2042
+    - [Trauma](https://drive.google.com/file/d/1CC_jwQqrN02YRyxf_q2ikx6vUEaD0FCh/view) · p2042–2042
+- **[299 The Transgender Patient](https://drive.google.com/file/d/17aDlCPZJ-WzKdJpZCqjnMB7JZGd8siDi/view)** · p2042–2045
+    - [Clinical Environment](https://drive.google.com/file/d/1HFLy8Gp9rXp1AFh9WA6r627tpyFS1OIF/view) · p2042–2043
+    - [Hormones](https://drive.google.com/file/d/1dGfih0oqKYMgKkkkJG3Jcl8m2ZGwBIQz/view) · p2043–2044
+    - [Gender-Affirming Surgeries and Their Complications](https://drive.google.com/file/d/1c38WMteAlJyOL5o6fWTvZuneLKokSDyH/view) · p2044–2045
+    - [Mental Health](https://drive.google.com/file/d/1o7UUrz4tNsmgd4wSbROF0mGEDf_SY9lp/view) · p2045–2045
+- **[300 Palliative Care](https://drive.google.com/file/d/1PHnkIKzG7VeYLS7lSDkdxK99wmw-WhDa/view)** · p2045–2049
+    - [Overview](https://drive.google.com/file/d/16OmCxOj0MNZfEtxUybuzBMWt_zpzZyQ3/view) · p2045–2046
+    - [Identifying Patients for Palliative Care](https://drive.google.com/file/d/1sQrwEbKZ3B1O3BNSM4k8I-214w_iZl8l/view) · p2046–2047
+    - [Discussing Prognosis and Setting the Plan of Care](https://drive.google.com/file/d/1Rtjz60KUiqV3nLZQ6DFP-ao96vuc-suu/view) · p2047–2048
+    - [Treatment and Symptom Management](https://drive.google.com/file/d/1Zgo2gUVWZp8qony8f95PKr1gTgkcNQs-/view) · p2048–2048
+    - [Disposition and Coordination of Care](https://drive.google.com/file/d/124HfAlps3rnog9PCiM1LWhhwxmsHBArS/view) · p2048–2048
+    - [Special Topics](https://drive.google.com/file/d/1BkXAJzwSdJlEnrHGv5ljeRW7-kI0ZUSq/view) · p2048–2049
+- **[301 Death Notification and Advance Directives](https://drive.google.com/file/d/1lQDr0BgoRlSk1G9mEGVVtf1v7YjIWdC-/view)** · p2049–2052
+    - [Effects on Survivors](https://drive.google.com/file/d/1TwBNOnWbh60J38a0ImIne3VA85QG3LBI/view) · p2049–2049
+    - [Effects on Physicians](https://drive.google.com/file/d/1_noQAOt5X8txDNpCWIZ5Arj0l998l2VQ/view) · p2049–2049
+    - [Griev_ing © : a Method for Delivery of Death Notification](https://drive.google.com/file/d/1-qhenUsX7n9q_c51A3GeSu2tgeOT7Gxc/view) · p2049–2050
+    - [G (Gather)](https://drive.google.com/file/d/17g6nZV0AbRA2OAYe-cE7bsY0ft05kENP/view) · p2050–2050
+    - [R (Resources)](https://drive.google.com/file/d/1uGuLq4wT-1t4iDrMWYqOk1-nqSENWbbw/view) · p2050–2050
+    - [I (Identify)](https://drive.google.com/file/d/1GPKs5tm0JoKK70y_YwgqjVILWcVtz87J/view) · p2050–2050
+    - [E (Educate)](https://drive.google.com/file/d/1jiC0dxiJ_2COAf71M-TOdSnY9q54W0P7/view) · p2050–2050
+    - [V (Verify)](https://drive.google.com/file/d/1p6H4zPSIDqjUnjeUG1xlt7SB6U4HSKBj/view) · p2050–2050
+    - [_(Space)](https://drive.google.com/file/d/1kFYx9Bs9EFPbqMPZvFvN4DDy2wzyJbfM/view) · p2050–2050
+    - [I (Inquire)](https://drive.google.com/file/d/1WnnkaLnh0YFTMLPLm9P8Xd1zDE1hmg-8/view) · p2050–2050
+    - [N (Nuts and Bolts)](https://drive.google.com/file/d/108VxR3xwO23vxJj1mIIQTIeBG21W0PzJ/view) · p2050–2051
+    - [G (Give)](https://drive.google.com/file/d/1hYNvgu24Jhocd8ipoR5aSPmiKBziQkkt/view) · p2051–2051
+    - [Long-Distance Notification](https://drive.google.com/file/d/1poXmX6MndHKkXWsmHWppE2gY0s9OQL9I/view) · p2051–2051
+    - [Autopsy and Medical Examiner Cases](https://drive.google.com/file/d/1oVr7KEbx0-eN65m1PTt48h2YgRPJmeDo/view) · p2051–2051
+    - [Organ Donation](https://drive.google.com/file/d/1O4ax4OtDfXZSklMjiuC61KWe9cGPs_Wx/view) · p2051–2051
+    - [Witnessed Resuscitation](https://drive.google.com/file/d/1rXkGB5UCxfQqORvc9UvkBQ8DMuvwCuAc/view) · p2051–2051
+    - [Pediatric Death](https://drive.google.com/file/d/11jaHoEZ6yfLTeWgL-mAdgFxUdjWdDJGc/view) · p2051–2051
+    - [Advance Healthcare Directives, Physician Orders for Life- Sustaining Treatment, and Withdrawal of Life-Sustaining Treatment](https://drive.google.com/file/d/1CP_83eRDGr5ZAN5-YWN_CZis8Nnibri8/view) · p2051–2052
+    - [Withdrawal of Life-Sustaining Treatment](https://drive.google.com/file/d/1ViWBFFSQuM3yAqMcmzVbwVsTqpSmQzui/view) · p2052–2052
+- **[302 Military Medicine](https://drive.google.com/file/d/1az61jRq-gNxf-cjezNfIZy2Gr0lQNZiC/view)** · p2052–2059
+    - [Equipment](https://drive.google.com/file/d/1IgYWqicoVrLf8K55YW7ODfCOdodHzQHy/view) · p2052–2052
+    - [Phase 1: Care Under Fire](https://drive.google.com/file/d/1mePuYng5alMIQXKvN9fKyage_i2uvE5G/view) · p2052–2054
+    - [Phase 2: Tactical Field Care—the Primary Survey](https://drive.google.com/file/d/1CiQmmop-lHlPH4HwESy-4QbHqWY6f0YV/view) · p2054–2056
+    - [Secondary Survey](https://drive.google.com/file/d/1BJ70_P7eJgQ58kxWXOyoRh2EwJh9TiN_/view) · p2056–2057
+    - [Specific Injuries](https://drive.google.com/file/d/1D_m9onKscEepeuSKCm5cZmV3D1Lu_s9j/view) · p2057–2058
+    - [Mass Casualty Triage](https://drive.google.com/file/d/1GspVllYani4egsgBsuBdeOU2TSdLTfmp/view) · p2058–2058
+- **[303 Legal Issues in Emergency Medicine](https://drive.google.com/file/d/1cvEOTxXAoKiyL-MzRdS-w1dwvFtBodrn/view)** · p2059–2069
+    - [Informed Consent](https://drive.google.com/file/d/1sGlR7_HN5YtHCmpkMBFnslOTL95p8cOv/view) · p2059–2061
+    - [ED Departure Against Medical Advice and ED Elopement](https://drive.google.com/file/d/1OEuFoKjPYEODlin7MtiBbMsuoQ5qotCC/view) · p2061–2061
+    - [Issues in the ED Care of Minors](https://drive.google.com/file/d/1W92dUBMp4bJJXTqoEjeG087y5Si1G9EZ/view) · p2061–2062
+    - [Privacy, Confidentiality, and Reporting](https://drive.google.com/file/d/1gGJONGW8CWXHgGuE4DlCR1KzOvcsTTyJ/view) · p2062–2064
+    - [Emergency Medical Treatment and Active Labor Act](https://drive.google.com/file/d/1yeelegv57bMmrPCQvfwvQvG0FboJgs0d/view) · p2064–2068
+    - [Newborns Left at the ED](https://drive.google.com/file/d/1PoDkaL-THQNFbly2juKu4mDdKjlJC3ar/view) · p2068–2068
+    - [Duty to Third Parties](https://drive.google.com/file/d/1EEQZzhgea_PeaFFL0YOz-ZJAbEiss3ak/view) · p2068–2068
+    - [Telephone Advice](https://drive.google.com/file/d/1sbqH0UtRYnu6S5ggx2D90phi8JA044gR/view) · p2068–2068
+    - [Extension of Care Outside of the ED Encounter](https://drive.google.com/file/d/1op5flvZ5Qc9Hw9_2afS4l6LwQ8mW2ON8/view) · p2068–2068
+    - [Negligence Standards](https://drive.google.com/file/d/1uxA-Ztmd32vemBXB84eWeiS5JY5PW5xb/view) · p2068–2069
+    - [Other Legal Issues of Concern](https://drive.google.com/file/d/1-Xi1a-2FzkQgYxiV8T6-ieNJY814zuN2/view) · p2069–2069
+    - [Disclaimer](https://drive.google.com/file/d/1lGD5tdyFNHMJZ4KQD3GOS_y_Rxf0CU2i/view) · p2069–2069

@@ -1,5 +1,7 @@
 # Cardiac Tamponade
 
+> 📖 **Tintinalli**：[Ch55 › Nontraumatic Cardiac Tamponade](https://drive.google.com/file/d/1fbLS8ROC-s7ycXosS0zDb4sGTqtxe3jy/view)｜[Ch34 Pericardiocentesis](https://drive.google.com/file/d/11kFW7j8Ujad_b1zf_QZvV3Wn2AnqYy0T/view)
+
 > Source: 合併自 Notion「Cardiac Tamponade」（醫學筆記）＋「Cardiac Tamponade 心包填塞」（醫學小筆記，POCUS）＋「pulsus paradoxus」；Heptabase「Cardiac Temponade」
 
 ## Key Points

@@ -1,5 +1,7 @@
 # Syncope
 
+> 📖 **Tintinalli**：[Ch52 Syncope](https://drive.google.com/file/d/1TcI6pcpSpp4iYzqhfUBKx-U_fgDf7pI7/view)
+
 > Source: Notion「Syncope」；Heptabase「Syncope」「Collapse的鑑別診斷」
 
 ## Key Points

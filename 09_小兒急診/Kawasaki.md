@@ -1,5 +1,7 @@
 # Kawasaki Disease
 
+> 📖 **Tintinalli**：[Ch129 › Kawasaki’s Disease](https://drive.google.com/file/d/1ngaZH4oNslJQSzEbltms04TT6MGy5O2j/view)｜[Ch142 › Kawasaki’s Disease](https://drive.google.com/file/d/12c37xiQpvTcJVFdSaaik5F9di0EgzsfO/view)
+
 > Source: Heptabase「Kawasaki Disease」（參考：[馬偕衛教網站](https://www.mmh.org.tw/child/know_health_view.php?docid=73)）
 > Related: [Fever](../04_休克與感染/發燒Fever.md)
 

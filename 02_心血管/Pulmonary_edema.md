@@ -1,5 +1,7 @@
 # Cardiogenic Pulmonary Edema
 
+> 📖 **Tintinalli**：[Ch53 › Hypertensive Acute Heart Failure](https://drive.google.com/file/d/10wclRxK9TBq1ztJAJXTrxFPEyz_9lDFU/view)
+
 > Source: Notion「Pulmonary edema(肺水腫)」
 
 ## Key Points

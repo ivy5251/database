@@ -1,5 +1,7 @@
 # Pediatric Vomiting & AGE
 
+> 📖 **Tintinalli**：[Ch131 Vomiting, Diarrhea, and Dehydration in Infants and Children](https://drive.google.com/file/d/1fi-azQhnYWnLUJZLQzpVLw7eorkxIL9J/view)
+
 > Source: 合併自 Notion「小孩噁心嘔吐怎麼辦？」＋「AGE」
 > 參考：UpToDate — Approach to the infant or child with nausea and vomiting
 

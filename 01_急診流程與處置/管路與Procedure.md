@@ -1,5 +1,7 @@
 # Lines & Procedures
 
+> 📖 **Tintinalli**：[Ch31 Vascular Access](https://drive.google.com/file/d/1RYNeC8xRdgMjyXq5R9iXqKwWxb6G4L7T/view)｜[Ch175 › Lumbar Puncture](https://drive.google.com/file/d/1oYU6g7eGgtUgIcTGRC0XdUWV1dGHymLV/view)｜[Ch261 › Tube Thoracostomy](https://drive.google.com/file/d/18pMlcq5LFwd27yS6r0VjmRWv_axlalNl/view)｜[Ch86 › Nasogastric Aspiration](https://drive.google.com/file/d/186vaz-qnAlPM26xomJPZqlWcXdvhzpm2/view)｜[Ch95 Complications of Urologic Procedures and Devices](https://drive.google.com/file/d/1YHgmWHIbEfHfT-181naYWusA9FEsIiJO/view)
+
 > Source: 合併自 Notion「Echo-guided CVC」「靜脈導管」「IV+B/C」＋「臨床問題特輯」CVC 位置題；Lumbar puncture 來自 Notion「醫學筆記(其他)」／Lumbar puncture；Heptabase「Chest tube」「放NG」「確認位置」「放入foley」「備物」「消毒」「無菌面x4」「固定：」「Lumbar puncture」＋ CNS infection 2024 highlight。
 
 ## Key Points

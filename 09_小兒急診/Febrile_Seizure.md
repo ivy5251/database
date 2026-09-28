@@ -1,5 +1,7 @@
 # Febrile Seizure
 
+> 📖 **Tintinalli**：[Ch138 › Febrile Seizures](https://drive.google.com/file/d/1rw3PkjGiXVYoX1-j17klu-e7vAgpHNX8/view)
+
 > Source: Notion「Febrile Seizure(熱痙攣)」。急診學習目標有列「熱痙攣」。Seizure 定義見 [Seizure與Status_epilepticus](../06_神經/Seizure與Status_epilepticus.md)。
 
 ## Key Points

@@ -1,5 +1,7 @@
 # Infantile Hypertrophic Pyloric Stenosis (IHPS)
 
+> 📖 **Tintinalli**：[Ch116 › Symptom-Based Neonatal Problems](https://drive.google.com/file/d/1KI68qpazXitTq4jUADlMJu99FvvJ790w/view)｜[Ch133 › Neonates and Young Infants (0 to 3 Months)](https://drive.google.com/file/d/1tzdL5Vn0bdLQUD-yKYgjZERw0wnrFpfR/view)｜[Ch131 › Vomiting](https://drive.google.com/file/d/1uepxIwxpmcpfS7HBjlpfzE0FR9PVqG5c/view)
+
 > Source: Notion「Infantile Hypertrophic Pyloric Stenosis (IHPS)」（小兒外科）
 
 ## Key Points

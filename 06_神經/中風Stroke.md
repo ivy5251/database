@@ -1,5 +1,7 @@
 # Stroke
 
+> 📖 **Tintinalli**：[Ch167 Stroke Syndromes](https://drive.google.com/file/d/1RChzcIX5A9xe8h6vdBteSoGDDRbVrJbR/view)｜[Ch167 › Thrombolysis: Indications, Exclusions, Dosage, Monitoring, and Complications](https://drive.google.com/file/d/15WwXbsEUebnNdbvjxsp1E5FoLIs7JPhx/view)｜[Ch166 Spontaneous Subarachnoid and Intracerebral Hemorrhage](https://drive.google.com/file/d/18EM1xEwLMnWeh9Xum7RvU9ysWJNnexiV/view)
+
 > Source: Heptabase「🔎Stroke-approach」白板（懷疑中風馬上做！、NIHSS score、怎麼判斷Stroke嚴重程度？、Cortical sign、Early Ischemic stroke sign、Brain MRI、ASPECTS、Posterior stroke 的5D、TIA、用症狀分辨ischemic stroke機轉、不同機轉有不同的治療方式、其他很像Stroke的鑑別診斷、Risk factor）；「Brain影像」「Brain CT」「ICH」「Sponteneous ICH」「HTN ICH」「Unusual Location ICH」「Aneurysmal SAH」「Vasospasm」「Cerebral amyloid angiopathy (CAA)」「什麼時候用DAPT?」「2025-12-11（ARIA）」「2025-12-12（5D stroke 截圖）」
 > Related: [Atrial Fibrillation](../02_心血管/Atrial_Fibrillation.md)（NOAC 選擇、1-3-6-12 法則）、[頭暈](頭暈.md)、[意識改變](意識改變_AMS.md)、[Seizure](Seizure與Status_epilepticus.md)（post-stroke seizure）、[IICP](IICP.md)
 

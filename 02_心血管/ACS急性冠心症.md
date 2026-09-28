@@ -1,5 +1,7 @@
 # Acute Coronary Syndrome (ACS)
 
+> 📖 **Tintinalli**：[Ch49 Acute Coronary Syndromes](https://drive.google.com/file/d/1ez2KlnukcroahyngGtQyv2os8ghmjIHP/view)｜[Ch49 › Electrocardiography](https://drive.google.com/file/d/1EFhbf1eh1TjSFw78NiQdi2_1YczthjYU/view)｜[Ch48 Chest Pain](https://drive.google.com/file/d/1uXHAWfGnHVxVqiK-AIN7so5yijk_njIy/view)
+
 > Source: Notion「急性冠心症(ACS)」；Heptabase「有哪些症狀是noncardiac pain」「Symptoms commonly associated with myocardial ischemia」「Mechanical」「Arrhythmic」「啟動STEMI⇒做cath」「Takotsubo cardiomyopathy」「章魚壺心肌症」「什麼時候懷疑Takotsubo cardiomyopathy?」
 > Related: [EKG判讀](EKG判讀.md)、[胸痛](../10_症狀導向/胸痛.md)
 

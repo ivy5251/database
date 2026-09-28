@@ -1,5 +1,7 @@
 # Tachycardia & QT Prolongation / Torsades de Pointes
 
+> 📖 **Tintinalli**：[Ch18 › General Approach to Tachydysrhythmias](https://drive.google.com/file/d/12-aRm3PnXUulndeFWqrTgdN2Hxlqc5h9/view)｜[Ch18 › Undifferentiated Wide-Complex Tachycardia](https://drive.google.com/file/d/1cqdMXUESFKrN6bZkDSYU1jWxeLw_Ihi8/view)｜[Ch18 › Long QT Syndrome](https://drive.google.com/file/d/1hlmDQMTqB1tNBvYpF8u2_hbFsERrgzWX/view)
+
 > Source: Notion「Tachycardia」；Heptabase「Tachycardia」。AF 另見 [Atrial_Fibrillation](Atrial_Fibrillation.md)；ACLS algorithm 見 [ACLS](../01_急診流程與處置/ACLS.md)。
 
 ## Key Points

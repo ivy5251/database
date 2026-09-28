@@ -1,5 +1,7 @@
 # Primary Survey (ABCDE)
 
+> 📖 **Tintinalli**：[Ch254 Trauma in Adults](https://drive.google.com/file/d/1ac7ZJ_bXYvHnWGHaEP5j5S_HlJviPq-N/view)
+
 > Source: Heptabase「ABCDE」「AMPLE History」
 > Related: [POCUS](POCUS.md)、[GCS](GCS.md)、[Intubation & Airway](插管與氣道.md)
 

@@ -1,5 +1,7 @@
 # Altered Mental Status
 
+> 📖 **Tintinalli**：[Ch168 Altered Mental Status and Coma](https://drive.google.com/file/d/1f2jadqzvgObFGg30wwJdwxCipj2pHYG3/view)
+
 > Source: 合併自 Notion POMD「Altered mental status (Conscious Change)」＋「Coma」（空白頁）＋「Delirium」（空白頁）；Heptabase「Conscious Change —AEIOU TIPS」「Delirium譫妄」「如何在病人意識不清時快速NE」「3 Key brain stem sign」「Focal sign」「Level of arousal」「喚醒度／覺察力」「Metabolic Encephalopathy」。GCS 見 [GCS](../01_急診流程與處置/GCS.md)。
 
 ## Key Points

@@ -1,5 +1,7 @@
 # Abdominal X-Ray: Free Air
 
+> 📖 **Tintinalli**：[Ch78 › Perforation](https://drive.google.com/file/d/1cnL8ZgMXkB8kZpQysS8yn_KjEM61fEF_/view)
+
 > Source: Notion「醫學筆記(其他)」／腹部X光。CXR 看 free air under diaphragm 見 [Chest_X-Ray判讀](../03_呼吸與酸鹼/Chest_X-Ray判讀.md)。
 
 ## Key Points

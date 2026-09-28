@@ -1,5 +1,7 @@
 # EKG Interpretation
 
+> 📖 **Tintinalli**：[Ch18 Cardiac Rhythm Disturbances](https://drive.google.com/file/d/1094D-fHkcVYpN7jThVAQpZagskfivxk1/view)｜[Ch49 › Electrocardiography](https://drive.google.com/file/d/1EFhbf1eh1TjSFw78NiQdi2_1YczthjYU/view)
+
 > Source: 合併自 Notion「心電圖判讀(EKG)」＋「EKG技能」（OSCE）；Heptabase「🔎 EKG」白板（STEMI的EKG、ACS進展(EKG)、最重要被當作OMI的四劍客、Sgarbossa criteria、HATW、De Winter、Wellens syndrome、aVR STE、Pericarditis: Spodick sign、Brugada syndrome、EKG family、EKG Lead）。ECG 學習項目見 R1 Checklist。
 > Related: [ACS急性冠心症](ACS急性冠心症.md)
 

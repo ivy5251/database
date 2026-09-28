@@ -1,5 +1,7 @@
 # Fever
 
+> 📖 **Tintinalli**：[Ch87 › Fever](https://drive.google.com/file/d/1jt9GVFuOf7LCEXoBt0EAvvPC1slit1ZI/view)
+
 > Source: Heptabase「Fever🔑」（內容與 for PGY 的臨床筆記 highlight 相同）「術後發燒5W」「Fever of Unknown Origin (FUO)」「FUO要抽的血」
 > Related: [感染總論與流感](感染總論與流感.md)、[Antibiotics](抗生素.md)、[Meningitis](Meningitis.md)、[Febrile Neutropenia](Febrile_Neutropenia.md)
 

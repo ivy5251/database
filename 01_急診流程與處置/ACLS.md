@@ -1,5 +1,7 @@
 # ACLS
 
+> 📖 **Tintinalli**：[Ch24 Cardiac Resuscitation](https://drive.google.com/file/d/1OYNaPgIrVUR-KRsiwNz_d8NyZ8Ijrxlz/view)｜[Ch18 › Initial Approach to the Unstable Patient](https://drive.google.com/file/d/1f6orrNwrLLQvJZ321woDqzbjKTBgzhKY/view)｜[Ch26 Post–Cardiac Arrest Syndrome](https://drive.google.com/file/d/1d1iwnsC429d5gk4YOYP7bUZ0L8rvrHKj/view)
+
 > Source: Notion「ACLS」（原頁只有一張 Tachycardia algorithm 圖）；Heptabase「5H5T-cardiac arrest口訣」「Post-cardiac arrest的處理」。
 
 ## Key Points

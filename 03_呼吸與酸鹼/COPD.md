@@ -1,5 +1,7 @@
 # COPD
 
+> 📖 **Tintinalli**：[Ch70 Chronic Obstructive Pulmonary Disease](https://drive.google.com/file/d/18MRtmwv48ahLrgIevjpxtytcScPgsp4p/view)
+
 > Source: Notion「COPD」＋「臨床問題特輯」＋「GOLD 2023 Presentation」（未展開）；Heptabase「🔎 COPD」
 
 ## Key Points

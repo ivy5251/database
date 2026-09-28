@@ -1,5 +1,7 @@
 # Asthma
 
+> 📖 **Tintinalli**：[Ch69 Acute Asthma and Status Asthmaticus](https://drive.google.com/file/d/1h79ysac55tl4BF3b7pwCm4EtOqcWPEtC/view)
+
 > Source: Notion「Asthma(氣喘)」。資源：**GINA guideline**
 
 ## Key Points

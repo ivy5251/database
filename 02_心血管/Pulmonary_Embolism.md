@@ -1,5 +1,7 @@
 # Pulmonary Embolism
 
+> 📖 **Tintinalli**：[Ch56 Venous Thromboembolism Including Pulmonary Embolism](https://drive.google.com/file/d/1Ja1kl8i5ngp1ltqYAJd5qK_9W_L2GGeA/view)｜[Ch56 › Clinical Features of Pulmonary Embolism](https://drive.google.com/file/d/1feACWQcuoPXJ44yTOvgDuAPN5b4u-4il/view)｜[Ch56 › Fibrinolysis for Pulmonary Embolism](https://drive.google.com/file/d/1q2hdtbTkpaSZKKyYNwjoge_4OEP4XwNf/view)
+
 > Source: Notion「Pulmonary Embolism」（醫學小筆記）；Heptabase「Pulmonary Embolism (PE)」「Virchow's triad」「Pleuritic pain」。抗凝藥物見 [DVT與抗凝血藥物](DVT與抗凝血藥物.md)。
 
 ## Key Points

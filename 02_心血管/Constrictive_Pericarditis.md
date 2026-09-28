@@ -1,5 +1,7 @@
 # Constrictive Pericarditis
 
+> 📖 **Tintinalli**：[Ch55 › Constrictive Pericarditis](https://drive.google.com/file/d/1OMfqVXOry0SUDdYBMFzoRN_WGpNtRXlB/view)
+
 > Source: Notion「Constrictive Pericarditis」（Heptabase 同名卡內容相同，未重複列出）
 
 ## Key Points

@@ -1,5 +1,7 @@
 # Hyponatremia & SIADH
 
+> 📖 **Tintinalli**：[Ch17 › Hyponatremia](https://drive.google.com/file/d/1gm1zRX-4-fXAWu8rOZpN1aP3OtwOneAv/view)
+
 > Source: 合併自 Notion：「低血鈉(Hyponatremia)」（醫學筆記）＋「低血鈉(Hyponatremia)」（醫學小筆記）＋「SIADH」（兩處內容相同）；Heptabase「🔎低血鈉(hyponatremia)」白板（與 Notion 大致相同，以下只補 Notion 沒有的：低血鈉症狀、Cerebral salt wasting、UNa 流程圖、低血鈉治療矯正速度）
 > Related: [高血鈉](高血鈉.md)、[脫水](脫水.md)
 

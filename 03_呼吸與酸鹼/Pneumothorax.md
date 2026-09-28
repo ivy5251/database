@@ -1,5 +1,7 @@
 # Pneumothorax
 
+> 📖 **Tintinalli**：[Ch68 Pneumothorax](https://drive.google.com/file/d/1l87kmUKVRJW6mQSzqAE7Dojr9Px8qURU/view)
+
 > Source: Notion「Pneumothorax」＋ 急診上班紀錄（POCUS）＋ Chest X-Ray 頁；Heptabase「Pneumothorax」＋ 自發性氣胸卡片（Heptabase 治療流程圖與 Notion 相同）
 
 ## Key Points

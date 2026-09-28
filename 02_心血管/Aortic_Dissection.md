@@ -1,5 +1,7 @@
 # Aortic Dissection
 
+> 📖 **Tintinalli**：[Ch59 Aortic Dissection and Related Aortic Syndromes](https://drive.google.com/file/d/1t6A-MmsP7U-jDnDw8emcWe8hqZrFSSZv/view)
+
 > Source: Notion「Aortic Dissection」（原在 Trauma 底下）；Heptabase「胸痛」「Aorta」
 
 ## Key Points

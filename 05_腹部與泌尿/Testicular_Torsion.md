@@ -1,5 +1,7 @@
 # Testicular Torsion
 
+> 📖 **Tintinalli**：[Ch93 › Testicular Torsion](https://drive.google.com/file/d/1gAlaBIJ0bC_uMkWCFWQvYzZzhMe44wSf/view)
+
 > Source: Notion「Testicular Torsion」（小兒外科）
 
 ## Key Points

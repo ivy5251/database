@@ -1,5 +1,7 @@
 # Complete AV block
 
+> 📖 **Tintinalli**：[Ch18 › Third-Degree Atrioventricular Block (Complete Heart Block)](https://drive.google.com/file/d/1xBu4lyWYYwagfMeJIdhCzSPhV8H_ALp-/view)｜[Ch33 › Transcutaneous Pacing](https://drive.google.com/file/d/1QTv9b-LA1CbqN6pdfVQvyqFUxLqc7NBV/view)
+
 > Source: Notion「Complete AV block」。原頁只寫到病因。
 
 ## Key Points

@@ -1,6 +1,8 @@
 # DVT & Anticoagulants
 
-> Source: 合併自 Notion「Deep vein Thrombosis (DVT)」＋「抗血栓藥(Anti-Thrombotic agent)」
+> 📖 **Tintinalli**：[Ch56 › Clinical Features of Deep Vein Thrombosis](https://drive.google.com/file/d/1KUlrzem2vL4Nu-l4LyUrrXbC6oZ0oQWr/view)｜[Ch56 › Treatment of Pulmonary Embolism and Deep and Superficial Extremity Thromboses](https://drive.google.com/file/d/1kRhCx5UHr_-H7dpxHIHGoPcHjR8nj7Ig/view)｜[Ch239 Thrombotics and Antithrombotics](https://drive.google.com/file/d/11OxRCugvMdCzjECp6ctiXBwCwn7r0m7E/view)
+
+>Source: 合併自 Notion「Deep vein Thrombosis (DVT)」＋「抗血栓藥(Anti-Thrombotic agent)」
 
 ## Key Points
 ### 抗血栓藥分類
@@ -33,12 +35,12 @@
 - <50 kg：5 mg SC QD；50–100 kg：7.5 mg SC QD；>100 kg：10 mg SC QD
 
 #### DOAC（不需監測）
-| 藥物 | 劑量 | 備註 |
-|---|---|---|
-| **Apixaban** | 10 mg PO BID × 7 天 → 5 mg PO BID ≥3 個月 | 不需 parenteral overlap |
-| **Rivaroxaban** | 15 mg PO BID × 21 天 → 20 mg PO QD ≥3 個月 | 不需 parenteral overlap |
-| **Edoxaban** | ≤60 kg：30 mg QD；>60 kg：60 mg QD，≥3 個月 | 先 parenteral 抗凝 5 天 |
-| **Dabigatran**（direct thrombin inhibitor） | 150 mg PO BID ≥3 個月 | 先 parenteral 抗凝 5 天 |
+| 藥物                                        | 劑量                                      | 備註                    |
+| ----------------------------------------- | --------------------------------------- | --------------------- |
+| **Apixaban**                              | 10 mg PO BID × 7 天 → 5 mg PO BID ≥3 個月  | 不需 parenteral overlap |
+| **Rivaroxaban**                           | 15 mg PO BID × 21 天 → 20 mg PO QD ≥3 個月 | 不需 parenteral overlap |
+| **Edoxaban**                              | ≤60 kg：30 mg QD；>60 kg：60 mg QD，≥3 個月   | 先 parenteral 抗凝 5 天   |
+| **Dabigatran**（direct thrombin inhibitor） | 150 mg PO BID ≥3 個月                     | 先 parenteral 抗凝 5 天   |
 
 #### Vitamin K antagonist — Warfarin
 - 需常規監測凝血

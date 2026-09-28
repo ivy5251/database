@@ -1,5 +1,7 @@
 # Febrile Neutropenia
 
+> 📖 **Tintinalli**：[Ch240 › Febrile Neutropenia and Infection](https://drive.google.com/file/d/1ir6WRNfdXWfYZOdzlSqW-iyz7HLS5Lyq/view)
+
 > Source: Heptabase「Febrile Neutropenia」「G-CSF (granulocyte colony-stimulating factor)」
 > Related: [化療與免疫療法血液副作用](../11_其他/化療與免疫療法血液副作用.md)、[Antibiotics](抗生素.md)（Neutropenic fever 經驗性抗生素）、[Fever](發燒Fever.md)
 

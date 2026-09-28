@@ -1,5 +1,7 @@
 # Glasgow Coma Scale (GCS)
 
+> 📖 **Tintinalli**：[Ch257 Head Trauma](https://drive.google.com/file/d/1tuoA-X0-J_u8NK3dlwaUai0xPfav4RPZ/view)｜[Ch168 › Coma](https://drive.google.com/file/d/1gyfWNvyi32hIx-WQvJ5FdUt3d_XsiLOV/view)
+
 > Source: Notion「GCS score」
 
 ## Key Points

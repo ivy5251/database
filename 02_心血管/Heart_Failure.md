@@ -1,5 +1,7 @@
 # Heart Failure
 
+> 📖 **Tintinalli**：[Ch53 Acute Heart Failure](https://drive.google.com/file/d/1ecafWC36Yg6reSU2h32b1Px_38-dsdx8/view)
+
 > Source: Notion「Heart Failure(心衰竭)」＋ CV 總頁 DCM；Heptabase「Heart Failure(心衰竭)」「CHF的PE」
 
 ## Key Points

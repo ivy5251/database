@@ -1,5 +1,7 @@
 # Trauma-Induced Coagulopathy (TIC)
 
+> 📖 **Tintinalli**：[Ch13 Approach to Traumatic Shock](https://drive.google.com/file/d/1RAkgz-tjGkgKGHaH4pBb_qasFdmZeM16/view)｜[Ch13 › Massive Transfusion Protocols](https://drive.google.com/file/d/1G2QM8RkUlLnmikNybDowYSUcBDu5Ofk-/view)
+
 > Source: Notion「TIC報告」（2025/2，原文為英文重點整理）
 
 ## Key Points

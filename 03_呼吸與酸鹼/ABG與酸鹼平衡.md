@@ -1,5 +1,7 @@
 # ABG & Acid-Base
 
+> 📖 **Tintinalli**：[Ch15 Acid-Base Disorders](https://drive.google.com/file/d/1F7rdMVn_KNEIF2LD3WESATTyCvQHJkNU/view)｜[Ch16 › Arterial Blood Gas Analysis](https://drive.google.com/file/d/1HqKyGNBo2Xcgx5A5QuEEGIPNDlIHKOL2/view)
+
 > Source: 合併自 Notion「ABG」（OSCE）＋「酸鹼平衡」＋「Metabolic Alkalosis 代謝性鹼中毒」；Heptabase「2026-03-03」
 
 ## Key Points

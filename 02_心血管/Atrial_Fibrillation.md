@@ -1,5 +1,7 @@
 # Atrial Fibrillation
 
+> 📖 **Tintinalli**：[Ch18 › Atrial Fibrillation and Atrial Flutter](https://drive.google.com/file/d/1aI7Ey1Nc4KVft44OjXopS5ONrpDsFvXd/view)｜[Ch23 Defibrillation and Electrical Cardioversion](https://drive.google.com/file/d/1H_mHFlthD_NV9MGjN0wt1nBf3DjEnkWC/view)
+
 > Source: Notion「Atrial Fibrillation」；Heptabase「Atrial Fibrillation」「針對AF病人，要怎麼選擇適合的NOAC?」「因為AF導致中風的病人，什麼時候可以開始吃NOAC?」「2025-11-18（Why AF 要做 TTE?）」
 
 ## Key Points

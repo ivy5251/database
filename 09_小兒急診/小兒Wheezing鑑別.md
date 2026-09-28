@@ -1,5 +1,7 @@
 # Pediatric Wheezing & Stridor
 
+> 📖 **Tintinalli**：[Ch127 Wheezing in Infants and Children](https://drive.google.com/file/d/1i-_ZjCnmAizmDbuDaXDuX8r8wBKJAmry/view)｜[Ch127 › Bronchiolitis](https://drive.google.com/file/d/11UnW4LkxqHPDKlKNOjHzN-sjJe6TgjPi/view)｜[Ch126 › Croup](https://drive.google.com/file/d/1D1Qk-dmFq52NxqXooBIuEhx1FeUFdAkY/view)
+
 > Source: Notion「wheezing」（小兒科）；Heptabase「小兒科」白板圖片（Croup vs Epiglottitis）。聽聲音：[YouTube](https://www.youtube.com/watch?v=T4qNgi4Vrvo)
 > 成人／POMD 喘鳴見 [哮喘與Stridor](../10_症狀導向/Wheezing與Stridor.md)；Asthma 見 [Asthma](../03_呼吸與酸鹼/Asthma.md)
 

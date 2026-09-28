@@ -1,5 +1,7 @@
 # GI Bleeding
 
+> 📖 **Tintinalli**：[Ch75 Upper Gastrointestinal Bleeding](https://drive.google.com/file/d/10wZ9SUxV95WI4JM1I9bx-LRuzWlbOxMg/view)｜[Ch76 Lower Gastrointestinal Bleeding](https://drive.google.com/file/d/1dlLHaSUFNu0ZVZ18qMqb-EuRDluG0FM8/view)｜[Ch78 › Hemorrhage](https://drive.google.com/file/d/1Zq-ZMA-wOuH6r5PpkOzYf92omNnlifZk/view)
+
 > Source: 合併自 Notion：「GI bleeding」（醫學小筆記，2026/6）＋ POMD「腸胃道出血(GI bleeding)」＋「Forrest classification」；Heptabase「Upper GIB」「Lower GIB」mindmap、「GIB的BUN會高！」「Upper GIB不要用Tranxamin！！」「Peptic Ulcer Disease」「Portal vein HTN」
 > 學習項目（R1 Checklist）：Glasgow-Blatchford、massive transfusion 時機、PPI／octreotide／肝硬化抗生素、何時緊急內視鏡
 

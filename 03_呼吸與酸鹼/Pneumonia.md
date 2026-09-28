@@ -1,5 +1,7 @@
 # Pneumonia
 
+> 📖 **Tintinalli**：[Ch65 Community-Acquired Pneumonia, Aspiration Pneumonia, and Noninfectious Pulmonary Infiltrates](https://drive.google.com/file/d/1n1cNJx8cMO7leBHgEmQu-UC1JBHCYMaJ/view)
+
 > Source: Notion「Pneumonia(肺炎)」。參考：[台灣肺炎診治指引](https://pneumonia.idtaiwanguideline.org/)
 
 ## Key Points

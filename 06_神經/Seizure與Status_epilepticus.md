@@ -1,5 +1,7 @@
 # Seizure & Status Epilepticus
 
+> 📖 **Tintinalli**：[Ch171 Seizures and Status Epilepticus in Adults](https://drive.google.com/file/d/1Q-NaJYQeOyHw6Y9u3FwWu-8P9dg7sFLu/view)
+
 > Source: 合併自 Notion「Seizure」（小兒科）＋ POMD「Epilepsy (Seizure)」（空白頁）；Heptabase「Seizure：找原因」「Early onset post-stroke seizure」「late-onset Post-stroke seizure」「出血造成的seizure」「Seizure的預防(ASM)」。熱痙攣見 [Febrile_Seizure](../09_小兒急診/Febrile_Seizure.md)。
 
 ## Key Points

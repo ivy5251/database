@@ -1,5 +1,7 @@
 # Wheezing & Stridor
 
+> 📖 **Tintinalli**：[Ch62 Respiratory Distress](https://drive.google.com/file/d/151Auez-wUbJVfgBkNWDUHMrkZXP2eVCw/view)｜[Ch126 Stridor and Drooling in Infants and Children](https://drive.google.com/file/d/1DzMhv5F_a2rQhdC_rPw6a27J8AVbezF0/view)
+
 > Source: POMD「哮喘(Wheezing)& Stridor」（連結 COPD、Asthma）。小兒版本見 [小兒Wheezing鑑別](../09_小兒急診/小兒Wheezing鑑別.md)。
 
 ## Key Points

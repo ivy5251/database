@@ -1,5 +1,7 @@
 # Bowel Obstruction (Ileus & SBO)
 
+> 📖 **Tintinalli**：[Ch83 Bowel Obstruction](https://drive.google.com/file/d/1hGNM-BPa9hRz_XSNXQkp8N4bfb5rDa5V/view)
+
 > Source: 合併自 Notion「Ileus」＋「Small Bowel Obstruction (SBO)」；Heptabase「腸阻塞(Ileus)」「Ileus的CT」
 
 ## Key Points

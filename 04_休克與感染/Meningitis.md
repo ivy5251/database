@@ -1,5 +1,7 @@
 # Meningitis & CNS Infection
 
+> 📖 **Tintinalli**：[Ch174 › Central Nervous System Infections Bacterial Meningitis](https://drive.google.com/file/d/1yTU_F1n21IUx3eASvVD9I1tMIenu8l4H/view)｜[Ch174 › Viral Encephalitis](https://drive.google.com/file/d/16Apni4v-D7HhS4bHD8IIh1Ttza-XIBOd/view)｜[Ch175 › Lumbar Puncture](https://drive.google.com/file/d/1oYU6g7eGgtUgIcTGRC0XdUWV1dGHymLV/view)
+
 > Source: Notion「Meningitis」（原在小兒科底下）；Heptabase「CNS infection」「🔎 CNS infection treatment」「2025-12-12（CSF lactate）」＋ CNS infection 2024 highlights
 > Related: [Lines & Procedures](../01_急診流程與處置/管路與Procedure.md)（LP contraindication）、[頭痛](../06_神經/頭痛.md)
 
