@@ -1,0 +1,14 @@
+# 系統檔
+.DS_Store
+
+# Tintinalli 課本 PDF（檔案太大、有版權，只留在本機）
+Tintinalli text book/
+
+# 網站建置產物（Cloudflare 會自己建）
+public/
+.site/.build/
+
+# Obsidian 個人介面狀態（每台電腦不同，不需要同步）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
