@@ -1,0 +1,161 @@
+id	type	deck	front	back
+iicp-001	basic	IICP	神經科三大急症？	Coma、IICP、SE（status epilepticus）
+iicp-002	basic	IICP	Cushing triad 三項？代表什麼？	1. HTN<br>2. Bradycardia<br>3. 呼吸不規則<br>⇒ IICP 已影響<b>延腦</b>，即將 <b>herniation</b>
+iicp-003	cloze	IICP	ICP 升高使 CPP 降到低於 {{c1::15}} mmHg 時，93% 患者出現{{c2::血壓上升與心跳變慢}} ⇒ 代表即將發生 {{c3::herniation}}
+iicp-004	basic	IICP	為什麼 trauma 要評估 pupil size？	看有沒有 <b>uncal herniation</b>
+iicp-005	cloze	IICP	Monro-Kellie hypothesis：顱內容積{{c1::固定}}；mass 增加時先擠出{{c2::CSF 和靜脈血}}代償，代償用盡後 ICP 會{{c3::指數上升}}	[[img:Monro_Kellie.jpg]]
+iicp-006	basic	IICP	IICP general management：頭的擺位？	頭高 <b>30 度</b>、並且在<b>正中</b>
+iicp-007	cloze	IICP	IICP 要 avoid hypoxia：PaO2 &lt; {{c1::60}} 或 SaO2 &lt; {{c1::90%}}
+iicp-008	cloze	IICP	IICP 插管時機：GCS {{c1::&lt;8}}、protect airway、prevent pulmonary aspiration
+iicp-009	cloze	IICP	IICP 的 hyperventilation：維持 PaCO2 {{c1::30–35}} mmHg
+iicp-010	basic	IICP	頭部外傷降腦壓用什麼？steroid 可以當第一線嗎？	用 <b>mannitol</b>；steroid <b>不會</b>當第一線
+iicp-011	basic	IICP	IICP 的 specific treatment 有哪些？	Sedation、CSF drainage、Hyperventilation、降腦壓（mannitol）、Hypothermia、Decompressive craniectomy
+iicp-012	basic	IICP	IICP 病人沒有 ICP monitor／EVD 時，為什麼 sedation 要小心？	病人意識不清時，會沒辦法判斷是<b>藥物的影響</b>還是<b>本身變差</b>
+sz-001	basic	Seizure	Seizure vs Epilepsy 的定義差別？	<b>Seizure</b>：單一次癲癇臨床症狀（突發、不自主、短暫的行為／運動／意識／感覺改變，伴隨腦部不正常放電）<br><b>Epilepsy</b>：由 CNS disorder 造成的<b>反覆</b> seizure
+sz-002	cloze	Seizure	Status epilepticus 定義（任一）：持續發作 {{c1::&gt;30 分鐘}}，或反覆發作且{{c2::發作之間沒有恢復意識}}	筆記原文定義
+sz-003	cloze	Seizure	Early onset post-stroke seizure：中風 {{c1::7 天}}之內發生；重點是{{c2::可以不需要用 ASM}}
+sz-004	cloze	Seizure	Stroke 是 {{c1::35}} 歲以上成人癲癇<b>最</b>常見的原因，約佔 60 歲以上新診斷癲癇的 {{c2::45%}}
+sz-005	basic	Seizure	Early vs late-onset post-stroke seizure 的機轉？	<b>Early</b>：acute neuronal injury、glutamate-mediated excitotoxicity、BBB disruption、ion channel dysfunction<br><b>Late</b>：gliotic scarring、neurodegeneration、persistent inflammation、altered synaptic plasticity ⇒ hyperexcitability & hyper-synchronization
+sz-006	basic	Seizure	出血 or 缺血，哪一個較容易造成 seizure？	<b>出血</b>
+sz-007	basic	Seizure	腦部哪個位置的 abnormality 較容易有 seizure？	<b>Cortical（皮質）</b>
+sz-008	basic	Seizure	在病房遇到 seizure，第一件要確認的事？為什麼？	有沒有<b>「醒」</b> ⇒ 要排除 <b>status</b>
+sz-009	basic	Seizure	Seizure 病史第一個要排除的是？	<b>Head trauma</b>
+sz-010	cloze	Seizure	Seizure lab：電解質要驗 {{c1::Na、Ca、Mg}}（＋PO4）；{{c2::CK}} 可以確定剛剛的發作真的是 seizure；還要驗 {{c3::thyroid function（TSH、T3、T4）}}	其他：CBC、glucose、Cr、liver enzymes、prolactin
+sz-011	basic	Seizure	Seizure 後 WBC 偏高，一定是感染嗎？	不一定，seizure 發作後<b>本來 WBC 就會高</b>
+sz-012	basic	Seizure	Seizure 的影像：CT 要排除什麼？MRI 要排除什麼？	<b>CT</b>：ICH、trauma<br><b>MRI</b>：stroke（ddx early onset post-stroke seizure）、structural abnormality（如 CAA）
+sz-013	basic	Seizure	Status epilepticus 插管，適合的 induction 藥物？	<b>Propofol</b>
+sz-014	basic	Seizure	抗癲癇藥（ASM）的選藥重點？	藥之間<b>沒有效果差異</b> ⇒ 看「<b>交互作用</b>」＆「<b>副作用</b>」
+sz-015	cloze	Seizure	Post traumatic seizure（PTS）的 ASM：用 {{c1::一週（7 days）}}以後就可以開始 taper
+sz-016	basic	Seizure	Keppra 為什麼急診愛用？要注意什麼？	藥物<b>交互作用少</b>；要注意<b>腎功能</b>
+sz-017	basic	Seizure	吃 Depakine 的人要避免哪一類抗生素？	<b>Carbapenem</b>（副作用也有 seizure）
+sz-018	basic	Seizure	哪兩類抗生素的副作用有 seizure？	<b>Carbapenem</b>、<b>Quinolone</b>
+ams-001	cloze	意識改變	AMS 鑑別 AEIOU TIPS：<br>A：{{c1::Alcohol}}<br>E：{{c2::Electrolyte／Endocrine}}<br>I：{{c3::Insulin（高、低血糖）}}<br>O：{{c4::Overdose／Oxygen}}<br>U：{{c5::Uremia}}<br>T：{{c6::Trauma／Temperature／Tumor}}<br>I：{{c7::Infection（腦膜炎、腦炎、敗血症）}}<br>P：{{c8::Psychogenic}}<br>S：{{c9::Seizure／Stroke／Syncope／SAH}}
+ams-002	basic	意識改變	電解質異常：K 和 Na 哪個比較容易影響意識？	<b>Na</b> 比較影響意識；K 比較影響心臟
+ams-003	basic	意識改變	Conscious change 鑑別 NEED IVSHO 各代表？	<b>N</b>utrition、<b>E</b>lectrolyte、<b>E</b>ndocrine、<b>D</b>rugs、<b>I</b>nfection/inflammation、<b>V</b>ascular（MI、venous thrombosis）、<b>S</b>eizure（post-ictal）、<b>H</b>ead injury、<b>O</b>rganic（liver、kidney、lung、brain）
+ams-004	basic	意識改變	意識的兩個組成，各對應哪個解剖位置？	<b>喚醒度 Arousal</b>（原動力）⇒ <b>腦幹</b>（ARAS）<br><b>覺察力 Awareness</b>（內容）⇒ <b>大腦半球</b>
+ams-005	cloze	意識改變	Level of arousal（由輕到重）：Alert → {{c1::Confusion}} → {{c2::Drowsiness}} → {{c3::Stupor}} → {{c4::Coma}}
+ams-006	basic	意識改變	Drowsiness vs Stupor 的差別？	<b>Drowsiness</b>：輕微刺激就醒，容易又睡著，醒來時<b>認知正常</b><br><b>Stupor</b>：需要<b>很強的刺激</b>才醒，醒來<b>認知混亂</b>，對命令的反應不適當
+ams-007	basic	意識改變	Signs of lateralization（focal sign）代表什麼問題？舉例？	代表<b>結構性</b>問題<br>例：unequal pupils、眼睛偏一側、facial asymmetry、頭轉一側、單側張力異常、asymmetric DTR、單側 Babinski、focal seizure
+ams-008	cloze	意識改變	Metabolic encephalopathy：瞳孔縮小但{{c1::對光反應正常}}；motor 症狀通常{{c2::兩側對稱}}；意識狀態{{c3::起伏}}；沒有{{c4::結構性}}病灶的證據
+ams-009	basic	意識改變	Metabolic encephalopathy 會出現哪些不自主動作？	Asterixis、myoclonus、tremor、seizures
+ams-010	basic	意識改變	Delirium 與 dementia 最重要的鑑別？	Delirium 會<b>注意力不足</b>（⭐考古）
+ams-011	cloze	意識改變	{{c1::Hypoactive}} delirium 有 {{c2::25%}} 的死亡率，要特別小心
+ams-012	basic	意識改變	意識改變病人，立即要排除的三件事？	<b>血糖</b>、<b>CO2</b>、<b>CT</b>
+ams-013	cloze	意識改變	3 key brainstem signs：中腦 → {{c1::light reflex}}；橋腦 → {{c2::corneal reflex}}；延腦 → {{c3::gag reflex}}
+ams-014	basic	意識改變	插管病人怎麼測延腦反射？	看<b>抽痰有無反應</b>，抽痰管要插到 endo 以下
+ams-015	basic	意識改變	Babinski sign（+）的表現？代表？	大拇指 <b>dorsiflex</b> ⇒ <b>UMN</b> lesion
+ams-016	basic	意識改變	病人意識不清時，快速 NE 的四步驟？	1. GCS<br>2. 眼球是否偏一邊、doll eye reflex<br>3. 3 key brainstem signs<br>4. Babinski sign
+ams-017	basic	意識改變	Delirium 的 ER 三針？	E50W、Flumazenil（診斷用）、Naloxone（診斷用）
+ams-018	basic	意識改變	已確定原因的 agitated delirium 可以用哪些藥？各自 EPS？	<b>Quetiapine</b>（EPS 機率很低）、<b>Olanzapine</b>、<b>Haloperidol</b>（EPS 高，不推薦在精神科病房以外用）
+ams-019	cloze	意識改變	Delirium 值班處理：{{c1::Haldol 0.5# IM}}
+ams-020	cloze	意識改變	意識改變是休克{{c1::灌流不足}}最早的表現
+stroke-001	basic	Stroke	Stroke mimics 有哪些？	低血糖、Todd's paralysis、偏頭痛（有 aura）、腦瘤／轉移瘤、腦炎／腦膜炎、轉換障礙、seizure
+stroke-002	cloze	Stroke	Stroke 的 risk factor：有{{c1::兩成}}是 {{c2::AF／atrial flutter}}
+stroke-003	basic	Stroke	大腦中風，眼睛看向哪一邊？seizure 呢？	看向<b>中風處</b>（對側肢體無力）；seizure 則<b>相反</b><br>[[img:Stroke_gaze_PPRF.png]]
+stroke-004	basic	Stroke	小腦中風，協調問題在同側還是對側？	<b>同側</b>
+stroke-005	cloze	Stroke	Posterior stroke 的 5D：{{c1::Dizziness}}、{{c2::Diplopia}}、{{c3::Dysarthria}}、{{c4::Dysphagia}}、{{c5::Dystaxia}}
+stroke-006	basic	Stroke	怎麼判斷 stroke 嚴重程度？（GCS、肌力可以嗎？）	GCS、肌肉無力程度<b>不能</b>評估<br>1. 有無<b>腦幹中風</b>症狀：意識改變、無法呼吸、vital sign 不穩<br>2. 有無 <b>cortical sign</b>
+stroke-007	basic	Stroke	為什麼 cortical sign 可以代表大範圍中風？	小範圍中風通常只影響<b>髓質</b>；大範圍會同時影響<b>皮質與髓質</b>
+stroke-008	basic	Stroke	左大腦 vs 右大腦中風的 cortical sign？	<b>左</b>：失語、無法計算<br><b>右</b>：空間感差、attention 差 ⇒ <b>hemineglect</b>、apraxia
+stroke-009	basic	Stroke	Hemineglect 的 PE 方法？	劃線（只劃掉半邊）、線段平分（切點偏右）、畫時鐘（只畫一半）、<b>DSS</b>（double simultaneous stimulation，視／聽／觸覺）
+stroke-010	basic	Stroke	DSS 觸覺測試：右腦中風病人，同時摸左右兩邊會怎樣？	只覺得<b>右邊</b>被摸（左邊 neglect）
+stroke-011	cloze	Stroke	用症狀分辨 ischemic stroke 機轉：早上起床發作 ⇒ 比較像{{c1::大血管}}；白天活動到一半發作 ⇒ {{c2::cardioembolic}}
+stroke-012	basic	Stroke	TIA 用什麼評估是否要留院觀察？	<b>ABCD2 score</b>
+stroke-013	basic	Stroke	懷疑中風，為什麼要先做 non-contrast CT？	要<b>排除 ICH</b>：出血性與缺血性中風表現很像
+stroke-014	cloze	Stroke	Stroke 的 CT 三種：{{c1::Non-contrast CT}}（排除 ICH）、{{c2::CT perfusion}}、{{c3::CTA}}（arterial phase，最重要）
+stroke-015	basic	Stroke	Non-contrast CT 的 early ischemic stroke signs 有哪些？	Dense artery sign、Loss of insular ribbon、Lentiform blurring、Loss of 灰白質 differentiation、Sulcal effacement<br>[[img:Stroke_early_CT_sign.png]]
+stroke-016	cloze	Stroke	Dense artery sign：最常中風的血管是 {{c1::MCA}}，塞住時影像上比對側特別亮；是 MCA infarction 最早可見的特徵，約中風後 {{c2::90 分鐘}}可見
+stroke-017	basic	Stroke	Loss of insular ribbon sign 是什麼？	Insula 邊緣平常像絲帶一樣彎彎曲曲，中風時這個特徵消失、變平
+stroke-018	basic	Stroke	Lentiform blurring 的原理？	Lentiform nucleus 由 <b>MCA</b> 供血，MCA 塞住時會變黑、putamen 與 globus pallidus 邊界不清
+stroke-019	basic	Stroke	缺血性中風為什麼會 sulcal effacement？	缺血造成<b>腦細胞水腫</b>，相鄰腦迴擠在一起，sulcus 消失
+stroke-020	basic	Stroke	CT 上 hypodense 的範圍越多，代表？	Infarction 越<b>久</b>
+stroke-021	cloze	Stroke	Stroke MRI：{{c1::DWI 與 ADC}} 看中風後兩天內的急性期，DWI 缺血處{{c2::亮}}、ADC 缺血處{{c3::暗}}；{{c4::T2 FLAIR}} 看慢性期，缺血處亮
+stroke-022	cloze	Stroke	MRI 序列：T1 {{c1::lipid}} 較亮；T2 {{c2::水}}較亮；SWAN {{c3::出血}}處會暗（看鐵質沉積）
+stroke-023	basic	Stroke	Acute vs chronic SDH 的 CT density？	Acute → <b>hyperdense</b><br>Chronic → <b>hypodense</b>（比腦還黑）
+stroke-024	cloze	Stroke	HTN ICH 最常見位置：{{c1::putamen（basal ganglia／internal capsule）}}、{{c2::thalamus}}、{{c3::pons}}、{{c4::cerebellum}}	Risk factor：三高；相對在比較小條（~30–100 µm）的血管
+stroke-025	basic	Stroke	Lobar ICH（unusual location）的原因？	Primary／metastatic neoplasm、<b>CAA</b>、vascular malformation／aneurysm、hemorrhagic arterial or venous infarction
+stroke-026	basic	Stroke	老人 lobar ICH 要想到什麼？下一步？	<b>CAA</b>（將來易復發）⇒ 安排 <b>MRI</b>
+stroke-027	basic	Stroke	ICH 血管病因診斷的 gold standard？	<b>DSA</b>（digital subtraction angiography）
+stroke-028	cloze	Stroke	缺血性中風出血轉化發生在 {{c1::1–6%}}，好發於{{c2::大範圍半球梗塞}}
+stroke-029	cloze	Stroke	未破裂的 AVM 每年出血風險約 {{c1::2–3%}}
+stroke-030	basic	Stroke	易出血的 metastatic brain tumor 有哪些？	Lung、choriocarcinoma、melanoma、renal cell carcinoma、thyroid、atrial myxoma
+stroke-031	basic	Stroke	CAA 會造成哪兩個問題？	1. Dementia<br>2. Cerebral micro-hemorrhage（lobar ICH）⇒ 可以是 <b>seizure</b> 的 etiology
+stroke-032	basic	Stroke	SAH 最常見的原因？好發在哪裡？	<b>Aneurysm</b>，常在血管<b>分岔</b>處
+stroke-033	cloze	Stroke	Aneurysmal SAH complication：{{c1::Vasospasm}}、{{c2::水腦}}
+stroke-034	cloze	Stroke	Vasospasm：無法解釋的 new onset 神經學症狀，常見於 SAH 後 {{c1::4–14 days}}；可用 {{c2::transcranial echo}} 看流速（流速變快代表管徑變細）
+stroke-035	basic	Stroke	ARIA 是什麼？可以打 tPA 嗎？	新藥（如 aducanumab）造成 amyloid 斑塊破掉 ⇒ <b>出血或腦腫</b>，症狀像中風<br><b>絕對不可以打 tPA</b>
+stroke-036	basic	Stroke	懷疑中風，第一件事？	<b>驗血糖</b>（低血糖症狀很像中風）
+stroke-037	basic	Stroke	懷疑中風時影像怎麼選？	很明顯 focal sign ⇒ 直接 <b>CTA</b>（因為可以 IA）<br>沒有 ⇒ <b>Non-contrast CT</b>（排除 ICH）
+stroke-038	basic	Stroke	要打 tPA 前要抽什麼？	<b>PT／aPTT</b>
+stroke-039	cloze	Stroke	tPA：確認發作時間 &lt; {{c1::4.5}} hr
+stroke-040	cloze	Stroke	NIHSS：tPA {{c1::4–25}} 分；IA {{c2::6–30}} 分
+stroke-041	basic	Stroke	NIHSS 評估哪些項目？	意識程度、眼球運動、視野、面部肌力、四肢運動、感覺、運動失調、語言功能、構音困難、忽略
+stroke-042	cloze	Stroke	不同機轉不同治療：thrombosis → {{c1::anti-platelet}}；embolic → {{c2::anti-coagulation（NOAC）}}
+stroke-043	cloze	Stroke	Spontaneous ICH 血壓控制目標：SBP {{c1::&lt;140}}（若本身 SBP 150–220）
+stroke-044	basic	Stroke	Aneurysmal SAH 的 aneurysm 什麼時候處理？為什麼？	最好 <b>ASAP</b>，最慢 <b>3 days</b>：要在 <b>vasospasm</b> 之前處理好
+stroke-045	basic	Stroke	Vasospasm 的治療？	<b>Induced HTN</b>（Levophed，對腦血管收縮較少）＋ <b>euvolemia</b>（不要太低也不要太高）<br>還不行 ⇒ DSA 直接打 <b>nimodipine</b>
+stroke-046	basic	Stroke	CAA 造成的 seizure，治療目標？	<b>BP control</b>（跟 ICH 一樣）
+stroke-047	basic	Stroke	什麼時候用 DAPT？	1. Minor stroke（NIHSS &lt;4）或 high-risk TIA（ABCD2 ≥4）<br>2. 顱內血管狹窄 70–99%<br>3. UA／NSTEMI<br>4. 放頸動脈支架之前
+dz-001	basic	頭暈	頭暈新框架 TiTrATE／ATTEST 的核心觀念？	用「<b>時序＋誘發因子</b>」取代「症狀性質四分類」（vertigo／presyncope／disequilibrium／lightheadedness）<br>→ 分三大症候群 → 再篩中樞紅旗、心源性紅旗
+dz-002	basic	頭暈	「真眩暈一定是周邊性」對嗎？	✗ <b>後循環中風</b>也會天旋地轉
+dz-003	basic	頭暈	「有聽覺症狀一定是周邊性」對嗎？	✗ <b>AICA 梗塞</b>可同時造成內耳缺血與腦幹症狀；前庭性偏頭痛、梅尼爾也有聽覺症狀
+dz-004	basic	頭暈	「年輕人頭暈一定是前庭性偏頭痛」對嗎？	✗ <b>椎動脈剝離</b>、<b>心源性暈厥</b>在年輕人也會發生
+dz-005	cloze	頭暈	頭部 CT 對{{c1::後顱窩}}中風敏感度差；急性早期 MRI DWI 也可能偽陰性，懷疑度高時 {{c2::48–72}} 小時後重做
+dz-006	basic	頭暈	急性前庭症候群（AVS）的特徵？最重要的鑑別？	急性發作、<b>持續數天、不間斷</b>；頭動加重<br>鑑別：<b>前庭神經炎 vs 後循環中風</b>
+dz-007	basic	頭暈	HINTS 包含哪三項？適用於什麼病人？	<b>H</b>ead <b>I</b>mpulse、<b>N</b>ystagmus、<b>T</b>est of <b>S</b>kew<br>只適用：<b>急性、持續性、正在有眼震</b>
+dz-008	basic	頭暈	HINTS 中樞型或有中樞紅旗，下一步影像？	優先 <b>MRI</b>（CT 不足以排除）
+dz-009	basic	頭暈	誘發性陣發性前庭症候群（t-EVS）：不同誘發因子各想到什麼？	<b>頭部姿勢</b> → BPPV（Dix-Hallpike、supine roll test）<br><b>站立</b> → 姿勢性低血壓、自律神經、容積不足、藥物<br><b>用力咳嗽閉氣、大聲、氣壓</b> → 上半規管裂隙、外淋巴廔管
+dz-010	cloze	頭暈	自發性發作性前庭症候群（s-EVS）：<br>{{c1::20 分鐘–12 小時}}＋單側聽力下降、耳鳴、耳脹 → 梅尼爾氏症<br>{{c2::5 分鐘–72 小時}}＋偏頭痛特徵 → 前庭性偏頭痛<br>{{c3::數秒到數分鐘}}＋血管危險因子或腦幹症狀 → 後循環 TIA
+dz-011	basic	頭暈	頭暈合併哪些特徵要想到心律不整／心源性暈厥？	心悸、胸痛、喘、<b>仰臥時發作</b>、<b>運動中發作</b>、無前驅的暈厥、已知心臟病或家族猝死史 → EKG、必要時長時間監測
+dz-012	basic	頭暈	PPPD 的特徵？	&gt;3 個月；站立移動或<b>視覺擁擠場景</b>（賣場、人群、螢幕）加重；常合併焦慮／空間恐懼（需先排除危險原因）
+dz-013	basic	頭暈	慢性頭暈要想到哪些藥物？	長期抗癲癇藥、BZD、安眠藥、利尿劑、降壓藥
+dz-014	basic	頭暈	Peripheral vs central nystagmus：visual fixation 的影響？	<b>Peripheral</b>：可被 visual fixation 抑制<br><b>Central</b>：不會被抑制
+dz-015	basic	頭暈	哪種方向的 nystagmus 代表 central？	<b>Vertical</b>（peripheral 不會有垂直方向）
+dz-016	basic	頭暈	Vertigo 的 key CNS symptoms？	頭痛／脖子痛、dysarthria、diplopia、weakness／感覺異常、dysmetria、cranial nerve finding、Horner syndrome、central type nystagmus、severe vertigo 持續好幾天
+dz-017	cloze	頭暈	BPPV 發作通常 {{c1::&lt;1 min}}；Meniere disease 的 vertigo 持續{{c2::幾分鐘到幾小時}}
+dz-018	cloze	頭暈	Meniere disease 三症狀：{{c1::Vertigo}}、{{c2::Hearing loss}}、{{c3::Tinnitus}}
+dz-019	basic	頭暈	Caloric test 測的是哪個半規管？為什麼？	<b>LSCC</b>（lateral semicircular canal），因為離外耳道最近
+dz-020	basic	頭暈	Vertebrobasilar insufficiency（VBI）的診斷性檢查？	<b>TCD／CCD</b>（頸部血管及穿顱超音波）評估 atherosclerosis、<b>MRA</b>
+dz-021	cloze	頭暈	小腦 NE：DANISH<br>D：{{c1::Dysdiadochokinesia／dysmetria}}<br>A：{{c2::Ataxia}}<br>N：{{c3::Nystagmus}}<br>I：{{c4::Intention tremor}}<br>S：{{c5::Speech（slurred／scanning）}}<br>H：{{c6::Hypotonia}}	DANISH 裡沒有 Romberg test
+dz-022	basic	頭暈	Intention tremor 怎麼看？	Finger to nose：患者<b>接近</b>檢查者手指時，震顫加劇
+dz-023	basic	頭暈	Romberg test：小腦有問題時會怎樣？	<b>睜開眼睛就會抖</b><br>[[img:Romberg.png]]
+dz-024	basic	頭暈	Head impulse test 異常的表現？	頭被轉動時眼睛無法維持在 target，line of sight 隨頭移動 → 出現 <b>quick saccade</b> 回到 target<br>[[img:Head_impulse_test.jpg]]
+dz-025	basic	頭暈	Dysequilibrium：步態異常各想到什麼？	<b>Shuffling gait</b> → Parkinson disease<br><b>Wide-based gait</b> → cerebellar disease、NPH
+dz-026	basic	頭暈	Dysequilibrium：感覺異常各想到什麼？	<b>Loss of proprioception</b> → posterior column disease、B12 deficiency、tabes dorsalis、compressive spinal lesion<br><b>Stocking glove</b> → neuropathy（DM、B12）
+dz-027	basic	頭暈	Merislon（Betahistine）用在什麼疾病？機轉？	<b>Meniere disease</b>（內耳積水）<br>1. 改善內耳血行（增加內耳血流）<br>2. 消散內淋巴水腫
+dz-028	basic	頭暈	頭動完全不會加重頭暈，代表？	要<b>重新評估</b>是否真的是前庭性原因
+dz-029	basic	頭暈	頭暈病人，哪個病史要想到椎動脈剝離？	近期<b>頸部過度伸展／推拿／外傷</b>
+dz-030	basic	頭暈	頭暈的中樞紅旗有哪些？	複視、構音困難、吞嚥困難、聲音改變、共濟失調、感覺異常、<b>能不能獨立站立</b>、突發劇烈頭痛、近期頸部過度伸展／推拿／外傷
+ha-001	basic	頭痛	什麼樣的頭痛需要擔心？（腦膜炎情境）	跟體溫變化無關（燒退頭痛不退）、無法緩解、越來越痛、痛到早上起來吐、合併 meningeal sign（neck stiffness、Kernig's、Brudzinski）
+ha-002	cloze	頭痛	頭痛 red flags SNOOP4：<br>S：{{c1::Systemic symptoms／Secondary risk factor}}<br>N：{{c2::Neurological deficit}}<br>O：{{c3::Onset（thunderclap）}}<br>O：{{c4::Older age（&gt;50 新發或惡化）}}<br>P4：{{c5::Positional、Pattern change、Precipitated by Valsalva、Papilloedema}}	[[img:Headache_SNOOP4.png]]
+ha-003	basic	頭痛	SNOOP4 各 P 對應的 secondary headache？	<b>Positional</b> → intracranial hypo／hypertension<br><b>Pattern change</b> → mass lesion<br><b>Precipitated by Valsalva</b> → posterior fossa lesion<br><b>Papilloedema</b> → IIH
+ha-004	cloze	頭痛	Thunderclap headache 定義：疼痛在 {{c1::&lt;1 分鐘}}內達到 {{c2::7/10}} 的程度
+ha-005	basic	頭痛	Thunderclap headache 要想到哪些原因？	<b>SAH</b>、<b>頸動脈／椎基底動脈剝離</b>（SNOOP4 另列：pituitary apoplexy、CVT）
+ha-006	cloze	頭痛	高風險病因佔所有頭痛 {{c1::4%}}，但在 thunderclap headache 中佔 {{c2::10–14%}}
+ha-007	basic	頭痛	Thunderclap headache 治療後改善，可以當作良性嗎？	<b>不行</b>，治療後改善不能預測是良性原因
+ha-008	basic	頭痛	為什麼 &gt;50 歲新發頭痛屬高風險？	Migraine、cluster、TTH 發生率隨年齡下降 ⇒ 險惡病理的可能性提高
+ha-009	cloze	頭痛	一等親有動脈瘤家族史，發生動脈瘤機率是無家族史者的 {{c1::3–5}} 倍
+ha-010	basic	頭痛	沒有發燒可以排除 CNS 感染嗎？	不行，尤其<b>極端年齡</b>與<b>免疫不全</b>病人
+ha-011	basic	頭痛	腦實質有痛覺感受器嗎？腦壓高為什麼會頭痛？	<b>沒有</b>；顱內壓變化會牽引或壓迫腦膜中的壓力敏感結構
+ha-012	cloze	頭痛	細菌性腦膜炎典型三聯症：{{c1::發燒}}、{{c2::頸部僵硬}}、{{c3::精神狀態改變}}；近 95% 至少有四項（三聯症＋頭痛）中的 {{c4::2}} 項
+ha-013	basic	頭痛	Papilledema 的時間特性？還有什麼床邊工具？	出現通常有<b>延遲</b>，ICP 正常後可能<b>持續存在</b>；可用床邊超音波測<b>視神經鞘</b>
+ha-014	basic	頭痛	頭痛病人預測 CNS 病理最高價值的指標？	任何<b>神經學缺損</b>（包括精神狀態改變）
+ha-015	cloze	頭痛	SAH 的 30 天存活率僅 {{c1::50%}}；急性發作的劇烈頭痛在證實為其他原因前，應視為 {{c2::SAH}}
+ha-016	basic	頭痛	什麼頭痛特徵提示腦腫瘤？	異常神經學檢查、<b>Valsalva 加劇</b>、<b>從睡眠中痛醒</b>、癲癇、近期癌症診斷、精神狀態改變
+ha-017	basic	頭痛	Cerebral venous thrombosis（CVT）的好發族群？	平均 <b>39</b> 歲、<b>女性</b>（圍產期、近期手術）、高凝狀態（口服避孕藥、血液疾病）
+ha-018	basic	頭痛	PRES 的表現與好發族群？	嚴重頭痛、視覺變化、癲癇、腦病，發生在<b>血壓顯著升高</b>時；好發：免疫抑制／調節藥、化療、ESRD
+ha-019	basic	頭痛	RCVS 什麼時候才考慮？	一次或多次 thunderclap headache，且 <b>SAH 評估陰性</b>後
+ha-020	basic	頭痛	Giant cell arteritis 的表現？治療？	&gt;50 歲；頭痛（&gt;80%）、疲勞、發燒、近端肌無力、<b>下顎跛行</b>、TIA（尤其<b>短暫視覺喪失</b>）<br>治療：<b>prednisone 60 mg/day</b>（減少失明與中風）
+ha-021	basic	頭痛	IIH（假性腦瘤）好發族群與症狀？	<b>肥胖女性</b>；頭痛 84%、短暫視覺模糊 68%、背痛 53%、搏動性耳鳴 52%；未治療可能永久視力損害
+ha-022	basic	頭痛	顱內低壓頭痛的原因與特徵？	近期<b>硬腦膜穿刺</b>（LP、硬膜外麻醉、手術）；<b>直立加劇、平躺改善</b>
+ha-023	basic	頭痛	Cluster headache vs migraine 病人的行為差異？	<b>Cluster</b>：需要來回踱步<br><b>Migraine</b>：喜歡靜躺在安靜黑暗的房間
+ha-024	cloze	頭痛	頸動脈剝離佔所有中風 {{c1::2%}}，在年輕成人中風中佔高達{{c2::四分之一}}；神經症狀常{{c3::延遲數天}}發作
+ha-025	basic	頭痛	懷疑一氧化碳中毒，可以靠 pulse oximetry 嗎？	不行，要用 <b>co-oximetry</b>（線索：多位家人與寵物同時有症狀）
+ha-026	basic	頭痛	Pituitary apoplexy 是什麼？最早症狀？	已有腦下垂體腺瘤的自發性出血或梗塞；最早是<b>突發劇烈頭痛</b>
+ha-027	basic	頭痛	懷疑急性顱內出血，首選影像？	<b>Non-contrast head CT</b>
+ha-028	cloze	頭痛	SAH：頭痛發作 {{c1::6}} 小時內的第三代 CT 敏感度接近 99%；CT 陰性但懷疑度高或超過時限，下一步 {{c2::LP}}，找 CSF 中的血液或 {{c3::xanthochromia}}
+ha-029	basic	頭痛	疑似細菌性腦膜炎，什麼情況要先影像再 LP？抗生素呢？	有腦疝徵兆（意識下降、腦幹徵象、局部神經缺損、近期癲癇）⇒ 先影像<br>但<b>絕不能延遲抗生素</b>
+ha-030	basic	頭痛	Migraine 的急診初步治療？	IV <b>dopamine 拮抗劑</b>（droperidol、metoclopramide、prochlorperazine）＋ <b>NSAIDs</b>；不常規用鴉片類與巴比妥酸鹽
+ha-031	cloze	頭痛	Cluster headache acute Tx：{{c1::High flow O2}}（7–12 L/min，non-rebreathing mask）、{{c2::Sumatriptan}} nasal spray 20 mg
+ha-032	cloze	頭痛	Cluster headache 預防：transitional 用 {{c1::Prednisolone}}（1 mg/kg × 5d）；maintenance 首選 {{c2::Verapamil}}（240–480 mg/d）	[[img:Cluster_headache_tx.jpg]]
+ha-033	cloze	頭痛	Cluster headache 的 triptan：一個月不能超過 {{c1::八}} 顆
