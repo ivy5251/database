@@ -5,10 +5,13 @@
 > Related: [中風Stroke](../01_中風/中風Stroke.md)（Posterior stroke 5D）、[Syncope](../../02_CV/Syncope.md)
 > 止暈藥：Diphenidol、Benamine、Vena（見 [常用藥物](../../01_急診流程與處置/常用藥物.md)）
 
+
+
 ![頭暈 Red Flag](頭暈%20Red%20Flag.md)
 
+![](assets/頭暈病人初步分類流程圖.png)
 ## Key Points
-### 核心觀念：用「時序＋誘發因子」取代「症狀性質四分類」
+### 用「時序＋誘發因子」取代「症狀性質四分類」
 - 舊框架：vertigo、presyncope、disequilibrium、lightheadedness
 - 新框架：**TiTrATE／ATTEST** — 先問**時序**、是否反覆、**誘發因子** → 分成三大症候群 → 再用**中樞紅旗**與**心源性紅旗**篩出需要立即影像或心臟評估的人
 - 原因：病人的形容常混在一起，錨定在主觀字眼容易被帶到錯誤亞型
@@ -33,9 +36,9 @@
 [發作性前庭症候群——自發性（s-Episodic vestibular syndrom）](發作性前庭症候群——自發性（s-Episodic%20vestibular%20syndrom）.md)
 [陣發性前庭症候群——誘發性（t-Episodic vestibular syndrom）](陣發性前庭症候群——誘發性（t-Episodic%20vestibular%20syndrom）.md)
 
-** 慢性前庭症候群**
+**慢性前庭症候群**
 - 症狀數月，或幾乎天天
- >3 個月、站立移動或視覺擁擠場景（賣場、人群、車流、螢幕）加重，常合併焦慮或空間恐懼 → **PPPD**
+- 3 個月、站立移動或視覺擁擠場景（賣場、人群、車流、螢幕）加重，常合併焦慮或空間恐懼 → **PPPD**
 - 漸進性平衡失調、步態不穩 → 小腦退化、多重神經病變、多感覺系統退化
 - 長期用抗癲癇藥、BZD、安眠藥、利尿劑、降壓藥 → **藥物性頭暈**
 
@@ -75,17 +78,8 @@
 - **Head shaking test**（Heptabase 2025-12-09 圖片：head impulse，A 眼睛維持固定在 target；B line of sight 隨頭移動 → quick saccade back to target）
 
   ![Head impulse](assets/Head_impulse_test.jpg)
-- **Dysequilibrium**
-  - 🖼️ 圖片轉錄
-    - History：neurologic review of systems（headache, paresthesias, weakness, diplopia, etc）、medications、diabetes、history of CVD, PVD, CAD, or CVD risk factors
-    - [Neurologic exam](../00_神經學檢查/0_%20Neurologic%20Exam%20神經學檢查.md)：gait, sensation, Romberg, tremor, vision, cranial nerves
-    - Labs：check vitamin B12 levels, treponemal-specific enzyme immunoassay
-    - Normal exam → consider multiple sensory deficits
-    - Abnormal gait → shuffling gait: consider Parkinson disease；wide-based gait: consider cerebellar disease, normal-pressure hydrocephalus
-    - Abnormal sensory exam → loss of proprioception: consider posterior column disease, vitamin B12 deficiency, tabes dorsalis, compressive spinal lesion；stocking glove neuropathy: consider neuropathy → consider diabetes mellitus, vitamin B12 deficiency, check EMG, HbA1c, vitamin B12 level
-    - Cranial neuropathy, CVD or CVD risk factors → consider CVD, MS, or posterior fossa tumor → MRI
+- **Dysequilibrium**![](assets/Dysequilibrium.png)
 
-  ![Dysequilibrium](assets/Dysequilibrium.png)
 
 ## Management
 ### 問診清單
