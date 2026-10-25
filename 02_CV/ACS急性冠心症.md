@@ -85,7 +85,7 @@
 5. **CAG（gold standard）**：70% stenosis 是需要治療的標準
 
 ### ACS 併發症（Heptabase）
-- **Mechanical**：acute [heart failure](Heart%20Failure.md), cardiogenic [shock](../04_休克與感染/Shock.md), mitral valve dysfunction from papillary muscle rupture or dysfunction, left ventricular aneurysms, free wall rupture, ventricular septal defect, aneurysm, pseudoaneurysm
+- **Mechanical**：acute [heart failure](Heart%20Failure.md), cardiogenic [shock](../04_Infection/Shock.md), mitral valve dysfunction from papillary muscle rupture or dysfunction, left ventricular aneurysms, free wall rupture, ventricular septal defect, aneurysm, pseudoaneurysm
 - **Arrhythmic**：ventricular or atrial arrhythmias, sinus or atrioventricular node block
   - **嚴重心律不整（eg: VF）多在 acute MI 後的第一個小時**（up to 4.5%）and declines rapidly
 

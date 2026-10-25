@@ -4,7 +4,7 @@
 
 > Source: 合併自 Notion：「GI bleeding」（醫學小筆記，2026/6）＋ POMD「腸胃道出血(GI bleeding)」＋「Forrest classification」；Heptabase「Upper GIB」「Lower GIB」mindmap、「GIB的BUN會高！」「Upper GIB不要用Tranxamin！！」「Peptic Ulcer Disease」「Portal vein HTN」；林口長庚急診 OBN survival guide「[GI bleeding 處置流程](https://lnkemergency.xms.tw/p/GIbleeding)」（需登入）
 > Related: [肝硬化腹水](肝硬化腹水.md)、[輸血](../09_Hema%20&%20Oncology/輸血.md)
-> 學習項目（R1 Checklist）：[Glasgow-Blatchford](https://www.mdcalc.com/calc/518/glasgow-blatchford-bleeding-score-gbs)、massive [transfusion](../09_Hema%20&%20Oncology/輸血.md) 時機、PPI／octreotide／肝硬化[抗生素](../04_休克與感染/抗生素.md)、何時緊急內視鏡
+> 學習項目（R1 Checklist）：[Glasgow-Blatchford](https://www.mdcalc.com/calc/518/glasgow-blatchford-bleeding-score-gbs)、massive [transfusion](../09_Hema%20&%20Oncology/輸血.md) 時機、PPI／octreotide／肝硬化[抗生素](../04_Infection/抗生素.md)、何時緊急內視鏡
 
 ## Key Points
 - Bleeding 時 **BUN 會上升**（UGIB 血液在腸道被吸收）
@@ -96,7 +96,7 @@
 
 ## Medications
 - Upper GIB **不要用 Transamin**！！（Heptabase，原卡拼作 Tranxamin）
-- [輸液](../07_電解質與內分泌急症/輸液.md)：GIB 的最好用 D5S（因為 NPO 也要補糖）（Heptabase「常用輸液 點滴」）
+- [輸液](../07_Nephro/輸液.md)：GIB 的最好用 D5S（因為 NPO 也要補糖）（Heptabase「常用輸液 點滴」）
 
 ### APASL 2025 急性靜脈曲張出血藥物治療（OBN）
 - 參考：Cirrhosis with Esophageal Variceal Hemorrhage: Updated Principles of Prophylaxis and Treatment；Management of acute variceal bleeding: updated APASL guidelines

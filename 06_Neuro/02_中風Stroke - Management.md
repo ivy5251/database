@@ -1,0 +1,88 @@
+# Stroke Management
+
+> Related: [Stroke](01_中風Stroke.md)
+
+## Management
+
+### 懷疑中風馬上做！
+- **驗血糖**：低血糖的症狀會很像中風！！
+1. Image
+   1. 如果**很明顯的 focal sign** ⇒ 直接做 **CTA**！（因為可以 IA）
+      - tPA 要抽 PT/aPTT
+   2. 如果沒有 ⇒ **Non-contrast CT**：因為要排除 ICH！！
+3. **確認發作時間 <4.5 hr**
+4. **NIHSS score**
+### NIHSS score
+- tPA：**4–25 分**
+- IA：**6–30**
+- 項目：意識程度、眼球運動、視野、面部肌力、四肢運動、感覺、運動失調、語言功能、構音困難、忽略
+
+### 不同機轉有不同的治療方式
+- **Thrombosis** → 用 anti-platelet
+- **Embolic** → 用 anti-coagulation（NOAC）：因 AF 導致中風什麼時候開始吃 NOAC、NOAC 選擇 → 見 [Atrial Fibrillation](../../02_CV/Atrial_Fibrillation.md)
+
+### Spontaneous ICH
+- 血壓控制目標：**<140**（若本身的 SBP：150–220）
+
+### Aneurysmal SAH
+- Aneurysm 治療時間：最好 ASAP；最慢 **3 days**（因為要在 vasospasm 之前趕快把動脈瘤處理好）
+- Vasospasm 治療方式：**induced HTN、euvolemia**（不要變低也不要變高）
+  - Induced HTN：可以用 Levophed ⇒ 因為對腦部血管的收縮比較沒那麼多
+  - 真的還不行：放 DSA 直接打 nimodipine
+
+### CAA
+- 如果是 CAA 的 seizure 之治療目標：BP control！（跟 ICH 一樣）
+
+## Medications
+
+> [!clinical] 何時 load 抗血小板、何時用 DAPT？
+### 第一步：先決定能不能再灌流（Intravenous Thrombolysis / Endovascular Therapy）
+```text
+疑似 AIS → CT/CTA
+ ├─ 符合 IVT 或 EVT 條件 → 先做再灌流
+ │    └─ IVT 後：24 小時內不給抗血小板 → 24 小時追蹤影像排除出血後才開始
+ │
+ └─ 沒有做 IVT
+      ├─ 輕微中風（NIHSS ≤3）或高風險 TIA（ABCD² ≥4）→ DAPT 21 天
+      └─ 中重度中風 → 48 小時內給單一 aspirin
+```
+
+### 1. 單一抗血小板（SAPT）：aspirin
+
+| 情境             | 建議                         |
+| -------------- | -------------------------- |
+| 一般 AIS，沒有做 IVT | 48 小時內開始 aspirin（COR 1, A） |
+| 有做 IVT         | 等 24 小時、追蹤影像排除 ICH 後才開始    |
+
+- 劑量：起始 `160–325 mg`（文獻範圍 `50–325 mg`），之後每天 `75–100 mg`
+
+> [!clinical] 
+> Loading ASA 可以在醫囑寫「把膠囊撥開來吃」^[亞東ER學到的]
+
+
+### 2. DAPT（aspirin + clopidogrel）適用對象
+- 前提是沒有做 IVT、屬於非心因性中風
+
+| 族群                                    | 時間窗       | 建議                              |
+| ------------------------------------- | --------- | ------------------------------- |
+| **NIHSS ≤3** 或 **ABCD² ≥4** 的 TIA     | 發作 24 小時內 | COR 1, A，*DAPT 21 天後改 SAPT*     |
+| NIHSS 4–5，且有 **≥50% 顱內或顱外狹窄（動脈粥狀硬化）** | 24 小時內    |                                 |
+| NIHSS ≤5 或 ABCD² ≥4，推定為動脈粥狀硬化         | 24–72 小時  |                                 |
+| CYP2C19 LOF 帶因者                       | 24 小時內    | 改用 ticagrelor + aspirin 21–30 天 |
+
+- Unstable angina or NSTEMI
+- 要放頸動脈支架之前（before carotid artery stenting）：邏輯跟心導管支架有點像
+#### 為什麼是 21 天？
+- DAPT 的效益集中在前 1–3 週。INSPIRES 的分析顯示，第一週的缺血事件絕對減少約 1.4%，第 2–3 週還有效益，之後就消失。21 天以後，出血風險會大於效益。
+
+### 3. 輕微但非失能（minor nondisabling）中風：DAPT 取代 IVT
+- 例如 NIHSS ≤5、只有感覺症狀這類不會造成失能的缺損。指引不建議 IVT，改用 DAPT。
+- 要注意：失能性症狀（失語、偏盲、無法行走等）即使 NIHSS 低，仍然要考慮 IVT。
+
+#### 實務口訣
+1. 先問 IVT/EVT。有打 tPA 或 TNK，24 小時內不給抗血小板。
+2. NIHSS ≤3 或 ABCD² ≥4，在 24 小時內：`clopidogrel 300 mg` + `aspirin 160–325 mg` loading，DAPT 21 天。
+3. 24–72 小時、動脈粥狀硬化：仍然可以 DAPT
+4. 中重度中風、沒有 IVT：aspirin 48 小時內給。
+5. 心因性（AF）：SAPT，根據1234 rule之後轉抗凝血。也不要在抗凝血上常規再加抗血小板
+

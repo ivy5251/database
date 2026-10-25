@@ -42,4 +42,4 @@
 
 ## Lung
 - A line 代表正常的肺部狀態
-- B line：則顯示肺間質水腫，這對於診斷[肺水腫](../02_CV/Pulmonary_edema.md)、急性呼吸窘迫綜合症（ARDS）和[肺炎](../03_呼吸與酸鹼/Pneumonia.md)具有重要意義。
+- B line：則顯示肺間質水腫，這對於診斷[肺水腫](../02_CV/Pulmonary_edema.md)、急性呼吸窘迫綜合症（ARDS）和[肺炎](../03_Chest/Pneumonia.md)具有重要意義。

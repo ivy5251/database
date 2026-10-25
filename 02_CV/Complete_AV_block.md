@@ -11,7 +11,7 @@
 - Cardiomyopathy（如 amyloidosis、sarcoidosis）
 - Myocarditis（如 Lyme disease、COVID-19）
 - Endocarditis with abscess formation
-- **[Hyperkalemia](../07_電解質與內分泌急症/高血鉀.md)**
+- **[Hyperkalemia](../07_Nephro/高血鉀.md)**
 - Profound hypothyroidism（罕見 hyperthyroidism）
 - 其他：hypervagotonia、infiltrative malignancies、neuromuscular diseases
 

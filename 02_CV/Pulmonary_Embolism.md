@@ -15,7 +15,7 @@
 ### 常見表現（Heptabase）
 - Dyspnea、Pleuritic pain、Cough、**腳痛、swelling**
 - Tachypnea、Tachycardia
-- Pleuritic pain 的鑑別：PE、[pneumonia](../03_呼吸與酸鹼/Pneumonia.md)、[pleural effusion](../03_呼吸與酸鹼/胸水與膿胸.md)、[pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)
+- Pleuritic pain 的鑑別：PE、[pneumonia](../03_Chest/Pneumonia.md)、[pleural effusion](../03_Chest/胸水與膿胸.md)、[pneumothorax](../03_Chest/Pneumothorax.md)
 
 ### 診斷（Heptabase）
 - **⭐️⭐️ 原則：D-dimer + CT**

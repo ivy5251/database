@@ -21,7 +21,7 @@
    - Digoxin（較不會降血壓）
 2. **Rhythm control**：維持 sinus rhythm
    - 電擊也是較不會降血壓的方式（最多 3–5 次）
-3. **[Stroke](../06_神經/01_中風/中風Stroke.md) prevention（首）**：評估 **[CHA2DS2-VASc](https://www.mdcalc.com/calc/801/cha2ds2-vasc-score-atrial-fibrillation-stroke-risk)**
+3. **[Stroke](../06_Neuro/01_中風Stroke.md) prevention（首）**：評估 **[CHA2DS2-VASc](https://www.mdcalc.com/calc/801/cha2ds2-vasc-score-atrial-fibrillation-stroke-risk)**
    - **NOAC**
    - **Valvular AF** 用 **Warfarin**
      - Heptabase：使用 Warfarin 的人：moderate to severe **MS**、Rheumatic MS、**機械性瓣膜**

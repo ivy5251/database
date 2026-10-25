@@ -48,4 +48,4 @@
 （待補）
 
 ## Clinical Pearls
-- [CXR](../03_呼吸與酸鹼/Chest_X-Ray判讀.md) 縱膈腔變寬是 dissection 線索（見 R1 Checklist）
+- [CXR](../03_Chest/Chest_X-Ray判讀.md) 縱膈腔變寬是 dissection 線索（見 R1 Checklist）

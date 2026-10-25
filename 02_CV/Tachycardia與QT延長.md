@@ -13,11 +13,11 @@
 2. 電解質：**低鉀、低鈣、低鎂**
 3. 抗心律不整藥物：**Amiodarone** 等
    - Heptabase：class IA：quinidine、disopyramide、procainamide；class III：Amiodarone
-4. [抗生素](../04_休克與感染/抗生素.md)：Fluoroquinolone、Macrolide（Erythromycin、Azithromycin）
+4. [抗生素](../04_Infection/抗生素.md)：Fluoroquinolone、Macrolide（Erythromycin、Azithromycin）
 5. 抗精神用藥：Haloperidol、TCA
 6. 其他原因（Heptabase）：myocardial ischemia、**Bradycardia**
 
-- 考題（Heptabase）：心電圖中，下列何種原因或藥物「不會」導致 QT prolong？A. [Hypokalemia](../07_電解質與內分泌急症/低血鉀與鉀離子.md)　B. **Propafenone**（原卡標記的答案）　C. Bradycardia　D. Haloperidol　E. Amiodarone
+- 考題（Heptabase）：心電圖中，下列何種原因或藥物「不會」導致 QT prolong？A. [Hypokalemia](../07_Nephro/低血鉀與鉀離子.md)　B. **Propafenone**（原卡標記的答案）　C. Bradycardia　D. Haloperidol　E. Amiodarone
 
 ### Torsades de Pointes
 - 診斷：需要**同時**有 **PVC** 和 **QT prolongation**

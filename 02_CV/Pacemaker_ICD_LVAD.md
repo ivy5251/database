@@ -1,7 +1,7 @@
 # Pacemaker, ICD & LVAD
 
 > Source: 林口長庚急診 OBN survival guide「有裝 Pacemaker, ICD, LVAD 的病人怎麼處理 ?」（by 陳律蓁 2024.06，[原文](https://lnkemergency.xms.tw/media/1314)，需登入）
-> Related: [EKG判讀](EKG判讀.md)、[Tachycardia與QT延長](Tachycardia與QT延長.md)、[Shock](../04_休克與感染/Shock.md)、[GI bleeding](../05_GI%20&%20GU/GI_bleeding.md)
+> Related: [EKG判讀](EKG判讀.md)、[Tachycardia與QT延長](Tachycardia與QT延長.md)、[Shock](../04_Infection/Shock.md)、[GI bleeding](../05_GI%20&%20GU/GI_bleeding.md)
 
 ## Pacemaker
 ### 基本概念

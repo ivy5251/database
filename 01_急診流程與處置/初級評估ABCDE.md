@@ -15,7 +15,7 @@
 
 ### Breathing
 要排除的重症：
-- **Tension [Pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)**
+- **Tension [Pneumothorax](../03_Chest/Pneumothorax.md)**
 - Hemothorax
 - Flail chest
 

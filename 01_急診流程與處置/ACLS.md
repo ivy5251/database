@@ -12,7 +12,7 @@
   - 冰：Hypothermia
   - 酸：Hydrogen（Acidosis）
   - 容：Hypovolemic
-  - 鉀：Hyper/[Hypokalemia](../07_電解質與內分泌急症/低血鉀與鉀離子.md)
+  - 鉀：Hyper/[Hypokalemia](../07_Nephro/低血鉀與鉀離子.md)
   - 氧：Hypoxia
 - **5T**
   - 毒：Toxin
@@ -39,7 +39,7 @@
 **Continued management and additional emergent activities**
 - Consider emergent cardiac intervention if：
   - STEMI present
-  - Unstable cardiogenic [shock](../04_休克與感染/Shock.md)
+  - Unstable cardiogenic [shock](../04_Infection/Shock.md)
   - Mechanical circulatory support required
 - Follows commands?
   - No（Comatose）：TTM、obtain brain CT、EEG monitoring、other critical care management
@@ -51,7 +51,7 @@
   - Provide continuous or intermittent EEG monitoring
   - Provide lung-protective ventilation
 - Evaluate and treat rapidly reversible etiologies；involve expert consultation for continued management
-- H's and T's：hypovolemia、hypoxia、hydrogen ion（acidosis）、hypokalemia/[hyperkalemia](../07_電解質與內分泌急症/高血鉀.md)、hypothermia、tension [pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)、tamponade（cardiac）、toxins、thrombosis（pulmonary）、thrombosis（coronary）
+- H's and T's：hypovolemia、hypoxia、hydrogen ion（acidosis）、hypokalemia/[hyperkalemia](../07_Nephro/高血鉀.md)、hypothermia、tension [pneumothorax](../03_Chest/Pneumothorax.md)、tamponade（cardiac）、toxins、thrombosis（pulmonary）、thrombosis（coronary）
 
 ## Medications
 （待補）

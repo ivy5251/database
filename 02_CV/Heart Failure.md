@@ -21,7 +21,7 @@
 - **JVD、peripheral edema、肝腫大（liver congestion）**
 - 心音：S3 gallop（S2 後面緊接小聲）
 - 呼吸音：pulmonary edema → **crackles**！！
-- 參考：評估 fluid status（見 [脫水](../07_電解質與內分泌急症/脫水.md)）
+- 參考：評估 fluid status（見 [脫水](../07_Nephro/脫水.md)）
 
 ### 診斷性檢查
 1. Natriuretic peptides：**NT-proBNP >125 pg/mL** 或 **BNP >35 pg/mL** → 至少一項達成需做心臟超音波

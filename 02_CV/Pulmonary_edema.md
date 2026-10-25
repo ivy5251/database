@@ -14,7 +14,7 @@
 - 心臟肥大
 - 肺間質、肺門周圍血管充血
 - Kerley B lines
-- [Pleural effusion](../03_呼吸與酸鹼/胸水與膿胸.md)
+- [Pleural effusion](../03_Chest/胸水與膿胸.md)
 
 ## Management
 （待補）

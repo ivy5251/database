@@ -96,7 +96,7 @@
 1. STEMI 早期變化：會有 **reciprocal change**
 
    ![HATW STEMI 早期](assets/HATW_STEMI早期.png)
-2. [Hyperkalemia](../07_電解質與內分泌急症/高血鉀.md)：通常很多 lead 都會異常！
+2. [Hyperkalemia](../07_Nephro/高血鉀.md)：通常很多 lead 都會異常！
 
    ![HATW Hyperkalemia](assets/HATW_Hyperkalemia.png)
 
@@ -126,11 +126,11 @@
 - **Brugada syndrome** — 治療：不要做心導管、要放 ICD！！
 
   ![Brugada](assets/Brugada.jpeg)
-- [中風](../06_神經/01_中風/中風Stroke.md)時的心電圖特徵包括深且對稱的 T wave inversion，特別是在 V1 到 V4 的導聯中。
+- [中風](../06_Neuro/01_中風Stroke.md)時的心電圖特徵包括深且對稱的 T wave inversion，特別是在 V1 到 V4 的導聯中。
 
 ### 電解質異常
 ![鉀離子 EKG](assets/EKG_鉀離子.png)
-- **[Hypokalemia](../07_電解質與內分泌急症/低血鉀與鉀離子.md)**
+- **[Hypokalemia](../07_Nephro/低血鉀與鉀離子.md)**
   - P wave amplitude 增加
   - PR interval 延長
   - 廣泛 ST depression、T wave 變平或倒置

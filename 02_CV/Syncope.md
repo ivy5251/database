@@ -16,7 +16,7 @@
       - Yes → 先 LOC 再跌倒？
         - No → Head trauma
         - Yes → Transient？
-          - Yes → Syncope、[Seizure](../06_神經/02_意識與癲癇/癲癇%20Seizure.md)、[Stroke](../06_神經/01_中風/中風Stroke.md)（SAH）
+          - Yes → Syncope、[Seizure](../06_Neuro/04_癲癇%20Seizure.md)、[Stroke](../06_Neuro/01_中風Stroke.md)（SAH）
           - No → Metabolic、Status epilepticus、Stroke（SAH）
     - ✱ 大部分的 stroke 不會 LOC
 - 心臟停止 7 秒就會昏倒

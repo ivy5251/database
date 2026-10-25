@@ -1,7 +1,7 @@
 # Hemolytic Anemia & TTP
 
 > Source: 林口長庚急診 OBN survival guide「Hemolytic anemia 的鑑別診斷，與何時要想到 TTP」（[原文](https://lnkemergency.xms.tw/p/anemia)，需登入）
-> Related: [輸血](輸血.md)、[化療與免疫療法血液副作用](化療與免疫療法血液副作用.md)、[TIC外傷性凝血病變](../08_外傷與外科/TIC外傷性凝血病變.md)
+> Related: [輸血](輸血.md)、[化療與免疫療法血液副作用](化療與免疫療法血液副作用.md)、[TIC外傷性凝血病變](../10_外傷與外科/TIC外傷性凝血病變.md)
 
 ## 貧血 work-up 怎麼驗
 - **CBC/DC**

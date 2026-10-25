@@ -1,7 +1,7 @@
 # Tumor Lysis Syndrome (TLS)
 
 > Source: 林口長庚急診 OBN survival guide「Tumor lysis syndrome 診斷及治療」
-> Related: [高血鉀](../07_電解質與內分泌急症/高血鉀.md)、[化療與免疫療法血液副作用](化療與免疫療法血液副作用.md)、[Anemia與TTP](Anemia與TTP.md)
+> Related: [高血鉀](../07_Nephro/高血鉀.md)、[化療與免疫療法血液副作用](化療與免疫療法血液副作用.md)、[Anemia與TTP](Anemia與TTP.md)
 
 ## Key Points
 - **血癌最近做化療又突然 AKI** ⇒ 一定要想到 Tumor lysis syndrome！記得加驗 **LDH**！
