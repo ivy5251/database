@@ -5,7 +5,7 @@
   2. **CT perfusion**：intravenous contrast
   3. **CT angiography（CTA）**：arterial phase，最重要！
 ### Early ischemic stroke sign（Non-contrast CT）
-  - **Hypodense 的越多**表示 infarction 越久![](06_神經/01_中風/assets/Stroke_early_CT_sign.png)
+  - **Hypodense 的越多**表示 infarction 越久![](assets/Stroke_early_CT_sign.png)
   - **Dense artery sign**：最常中風的血管是 MCA，如果塞住了，在影像上可見它跟另一側比起來特別亮；是 MCA infarction 影像上最早可見的特徵，約在中風後 90 分鐘可見
   - **Loss of insular ribbon sign**：一般來說 insula 的邊緣會像絲帶（ribbon）一樣彎彎曲曲的，而在中風的病人，此特徵會不見而顯得比較平！
   - **Lentiform blurring**：lentiform nucleus（basal ganglion 的一部分）是由 MCA 供血，因此若 MCA 塞住，lentiform nucleus 在影像上會比較黑且邊界不清（指 putamen 與 globus pallidus 的邊界）

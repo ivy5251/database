@@ -53,7 +53,7 @@
 - **D**ystaxia（lack of bodily coordination）
 
 ### 怎麼判斷 stroke 嚴重程度？
-- 一般 [GCS](../../01_急診流程與處置/GCS.md)、肌肉無力程度無法來評估 stroke 的嚴重度！
+- 一般 GCS、肌肉無力程度無法來評估 stroke 的嚴重度！
 1. 看有無**腦幹中風**的症狀：意識改變、**無法呼吸**、**vital sign 不穩定**等
 2. 看有沒有 **cortical sign**！因為小範圍中風通常只影響髓質，而比較大範圍的中風會同時影響大腦皮質與髓質，因此可以藉由 cortical sign 的有無，來判斷中風的嚴重程度
 3. [NIHSS score](NIHSS%20score.md)

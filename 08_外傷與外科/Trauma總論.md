@@ -72,7 +72,7 @@
 ### 頭部外傷
 - **腦壓高**：頭抬高 30°、頭擺正（不然會壓到 vein）
 - **ICP monitoring indication**
-  1. 嚴重頭部外傷（[GCS](../01_急診流程與處置/GCS.md) 3–8）且 CT 異常（hematoma、contusion、edema、compressed basal cisterns）
+  1. 嚴重頭部外傷（GCS 3–8）且 CT 異常（hematoma、contusion、edema、compressed basal cisterns）
   2. 嚴重頭部外傷（GCS 3–8）CT 正常，但符合以下 ≥2 項：年齡 ≥40、單側或雙側 motor posturing（去大腦、去皮質、偏癱）、SBP ≤90
   3. 輕度（GCS 13–15）、中度（9–12）不建議常規監測
 - 腦出血何時開刀

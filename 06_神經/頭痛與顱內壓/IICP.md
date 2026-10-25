@@ -26,7 +26,7 @@
 - **CCP >60 mmHg**（升壓劑、灌水）⚠️ 原文如此，待查證（可能指 CPP）
 - Avoid hypoxia（PaO2 <60 or SaO2 <90%）
 - [插管](../../01_急診流程與處置/插管與氣道.md)
-  - **[GCS](../../01_急診流程與處置/GCS.md) <8**
+  - **GCS <8**
   - Protect airway
   - Prevent pulmonary aspiration
 

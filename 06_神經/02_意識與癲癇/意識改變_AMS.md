@@ -61,7 +61,7 @@
 - 神經科三大急症：Coma、[IICP](../頭痛與顱內壓/IICP.md)、SE
 
 ### 如何在病人意識不清時快速 NE（Heptabase）
-1. [GCS](../../01_急診流程與處置/GCS.md)
+1. GCS
 2. 看眼球是否偏一邊、做 doll eye reflex（講：fix）
 3. **3 Key brain stem sign**
    1. 中腦 → light reflex
