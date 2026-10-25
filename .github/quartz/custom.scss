@@ -124,3 +124,134 @@ article hr {
   background-color: var(--lightgray);
   opacity: 0.8;
 }
+
+
+
+/* ======================================
+   Oxford Blue & Ice — Homepage
+   ====================================== */
+
+/* 首頁不顯示日期與閱讀時間 */
+body[data-slug="index"] .content-meta {
+  display: none;
+}
+
+/* 首頁內容改成卡片格線 */
+body[data-slug="index"] article > .markdown-preview-view {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+body[data-slug="index"] article > .markdown-preview-view > * {
+  grid-column: 1 / -1;
+  margin-block: 0;
+}
+
+body[data-slug="index"] article > .markdown-preview-view > h2 {
+  margin-top: 1.4rem;
+}
+
+@media (max-width: 800px) {
+  body[data-slug="index"] article > .markdown-preview-view {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* 首頁卡片的共同樣式 */
+body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) {
+  --color: var(--dark);
+  --border: var(--lightgray);
+  --bg: var(--light);
+  margin: 0;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background-color: var(--light);
+  box-shadow: none;
+}
+
+body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) .callout-icon {
+  display: none;
+}
+
+body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) .callout-title {
+  padding: 0;
+  color: var(--dark);
+  font-weight: 650;
+}
+
+body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) .callout-content {
+  padding: 0;
+}
+
+/* 系統卡片 */
+body[data-slug="index"] .callout.section {
+  grid-column: auto;
+  border-top: 3px solid var(--secondary);
+  transition: border-color 0.2s ease;
+}
+
+body[data-slug="index"] .callout.section:hover {
+  border-color: var(--tertiary);
+}
+
+body[data-slug="index"] .callout.section ul {
+  margin: 0.45rem 0 0;
+  padding-left: 1.1rem;
+}
+
+body[data-slug="index"] .callout.section li {
+  margin: 0.15rem 0;
+}
+
+body[data-slug="index"] .callout.section a.internal {
+  padding: 0;
+  background: none;
+}
+
+body[data-slug="index"] .callout.section a.internal:hover {
+  background: var(--highlight);
+}
+
+/* 常用速查：膠囊按鈕 */
+body[data-slug="index"] .callout.quick {
+  background-color: var(--highlight);
+}
+
+body[data-slug="index"] .callout.quick ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+body[data-slug="index"] .callout.quick li {
+  margin: 0;
+}
+
+body[data-slug="index"] .callout.quick a.internal {
+  display: inline-block;
+  padding: 0.25rem 0.8rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: var(--light);
+}
+
+body[data-slug="index"] .callout.quick a.internal:hover {
+  border-color: var(--secondary);
+}
+
+/* 免責聲明：低調的灰色小字 */
+body[data-slug="index"] .callout.disclaimer {
+  border-left: 3px solid var(--gray);
+  border-radius: 0 8px 8px 0;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+body[data-slug="index"] .callout.disclaimer .callout-title {
+  color: var(--darkgray);
+}
