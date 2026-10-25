@@ -67,3 +67,60 @@ a.internal {
 article img {
   border-radius: 10px;
 }
+
+
+
+/* ======================================
+   Oxford Blue & Ice — Layout refinement
+   ====================================== */
+
+/* 更舒適的筆記閱讀 */
+article {
+  font-size: 1.02rem;
+  line-height: 1.8;
+  letter-spacing: 0.005em;
+}
+
+/* 標題的視覺層次 */
+article h1 {
+  color: var(--dark);
+  font-weight: 750;
+  letter-spacing: -0.035em;
+}
+
+article h2 {
+  color: var(--dark);
+  font-weight: 650;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.4rem;
+}
+
+/* 連結改成乾淨的冰藍色 */
+article a.internal {
+  color: var(--secondary);
+  background: var(--highlight);
+  border-radius: 5px;
+  padding: 0.05rem 0.25rem;
+}
+
+article a.internal:hover {
+  background: var(--lightgray);
+}
+
+/* 程式碼區塊 */
+article pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+}
+
+/* 行內程式碼 */
+article :not(pre) > code {
+  border-radius: 5px;
+  padding: 0.15rem 0.35rem;
+}
+
+/* 分隔線 */
+article hr {
+  background-color: var(--lightgray);
+  opacity: 0.8;
+}
