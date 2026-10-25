@@ -1,0 +1,69 @@
+
+@use "./variables.scss" as *;
+
+/* ======================================
+   Oxford Blue & Ice — Light Mode
+   ====================================== */
+
+:root:root {
+  --light: #F5F9FC !important;
+  --lightgray: #D5E4EF !important;
+  --gray: #91A9BC !important;
+  --darkgray: #33465E !important;
+  --dark: #142B49 !important;
+  --secondary: #287DA8 !important;
+  --tertiary: #539CBF !important;
+  --highlight: rgba(138, 200, 232, 0.18) !important;
+  --textHighlight: #FFF0A8 !important;
+}
+
+/* ======================================
+   Oxford Blue & Ice — Dark Mode
+   ====================================== */
+
+:root:root[saved-theme="dark"] {
+  --light: #101D30 !important;
+  --lightgray: #304661 !important;
+  --gray: #7690A9 !important;
+  --darkgray: #D1DEEA !important;
+  --dark: #EAF4FF !important;
+  --secondary: #8AC8E8 !important;
+  --tertiary: #AEDBEF !important;
+  --highlight: rgba(138, 200, 232, 0.16) !important;
+  --textHighlight: #425C72 !important;
+}
+
+/* ======================================
+   Custom styling
+   ====================================== */
+
+/* 網站標題 */
+.page-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* 二級標題的分隔線 */
+article h2 {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.35rem;
+}
+
+/* 引用區塊 */
+article blockquote {
+  border-left: 3px solid var(--secondary);
+  background-color: var(--highlight);
+  padding: 0.6rem 1rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* 內部連結 */
+a.internal {
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+/* 圖片 */
+article img {
+  border-radius: 10px;
+}
