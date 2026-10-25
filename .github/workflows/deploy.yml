@@ -53,7 +53,7 @@ jobs:
           sed -i '/source: "@quartz-themes\/core"/{n;s/enabled: true/enabled: false/;}' quartz.config.yaml
 
           # 網站名稱
-          sed -i 's/^  pageTitle: .*/  pageTitle: Emergency Medicine Notes/' quartz.config.yaml
+          sed -i "s/^  pageTitle: .*/  pageTitle: \"Ivy's Emergency Medicine Notes\"/" quartz.config.yaml
 
           # 安裝其他 Quartz plugins
           npx quartz plugin install --from-config
