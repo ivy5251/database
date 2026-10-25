@@ -107,4 +107,4 @@ title: Emergency Medicine Notes
 > - [[胎盤早期剝離]]
 
 ## 學習資源
-- [[Tintinalli_索引|Tintinalli 索引]]
+- [[01_急診流程與處置/Tintinalli_索引|Tintinalli 索引]]

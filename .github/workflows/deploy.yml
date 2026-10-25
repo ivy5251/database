@@ -68,6 +68,8 @@ jobs:
             --exclude='.obsidian/' \
             --exclude='.trash/' \
             --exclude='Private/' \
+            --exclude='00_個人專案/' \
+            --exclude='Obsidian 語法速查表.md' \
             ../vault/ content/
 
           npx quartz build
