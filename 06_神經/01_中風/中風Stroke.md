@@ -11,7 +11,7 @@
 - Risk factor：有兩成是 AF／atrial flutter
 
 ## 定位
-![[assets/Stroke_gaze_PPRF.png|493]]
+<img src="assets/Stroke_gaze_PPRF.png" width="493">
 - 大腦中風，對側運動出問題，眼睛**看向中風處**（seizure 則相反）
 	- 特別要注意：橋腦pons中風，看向健康的腦
 - 小腦中風，**同側**協調出問題
