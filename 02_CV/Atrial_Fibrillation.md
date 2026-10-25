@@ -43,7 +43,7 @@
 
 ## Medications
 - **Amiodarone for AF RVR**
-  - Loading：150 mg（1 pc）in 250 ml D5W run 15 min
+  - **Loading**：***150 mg（1 pc）in 250 ml D5W run 15 min***
   - Maintenance：900 mg in D5W 500 ml；前 6 hr 33 ml/hr（1 mg/min）、後 18 hr 17 ml/hr（0.5 mg/min）
 
 ## Disposition
