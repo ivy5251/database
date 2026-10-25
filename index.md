@@ -8,14 +8,11 @@ title: Emergency Medicine Notes
 > 此為個人學習筆記，內容可能有錯誤或已過時，不能取代臨床判斷、院內 routine 與最新指引。
 
 > [!quick] 常用速查
-> - [[初級評估ABCDE|ABCDE]]
 > - [[ACLS]]
-> - [[GCS]]
 > - [[常用藥物]]
-> - [[EKG判讀]]
+> - [抗生素](04_休克與感染/抗生素.md)
 > - [[ABG與酸鹼平衡|ABG]]
 > - [[NIHSS score|NIHSS]]
-> - [[小兒生理正常數值]]
 
 ## 症狀導向
 
