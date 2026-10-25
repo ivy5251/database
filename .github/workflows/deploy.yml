@@ -48,11 +48,16 @@ jobs:
             --strategy new \
             --baseUrl "$SITE_URL"
 
-          npx quartz plugin install --from-config
-          npm install --no-save @quartz-themes/default
+        
+          # 關閉 Quartz 5 的預設主題
+          sed -i '/source: "@quartz-themes\/core"/{n;s/enabled: true/enabled: false/;}' quartz.config.yaml
 
-          # 套用自訂 CSS
+          # 安裝其他 Quartz plugins
+          npx quartz plugin install --from-config
+
+          # 套用 Oxford Blue & Ice 自訂 CSS
           cp ../vault/.github/quartz/custom.scss quartz/styles/custom.scss
+
 
           rsync -a \
             --exclude='.git/' \
