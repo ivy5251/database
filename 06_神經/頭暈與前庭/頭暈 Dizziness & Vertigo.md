@@ -7,7 +7,7 @@
 
 
 
-![頭暈 Red Flag](頭暈%20Red%20Flag.md)
+![[頭暈 Red Flag]]
 ![](assets/Pasted%20image%2020261025172307.png)
 ## Key Points
 ### 用「時序＋誘發因子」取代「症狀性質四分類」

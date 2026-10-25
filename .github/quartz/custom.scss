@@ -709,3 +709,11 @@ body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) > .callout-co
     padding: 0.45em 0.65em;
   }
 }
+
+/* 手機版：縮小網站標題 */
+@media (max-width: 800px) {
+  .page-title {
+    font-size: 1.3rem;
+    line-height: 1.25;
+  }
+}
