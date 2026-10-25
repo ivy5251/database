@@ -15,11 +15,11 @@
 - 新框架：**TiTrATE／ATTEST** — 先問**時序**、是否反覆、**誘發因子** → 分成三大症候群 → 再用**中樞紅旗**與**心源性紅旗**篩出需要立即影像或心臟評估的人
 - 原因：病人的形容常混在一起，錨定在主觀字眼容易被帶到錯誤亞型
 
-| 前庭症候群                   | 常見良性（非致命性）病因                             | 重要危險（可能危及生命）的鑑別診斷                                            | 其他重要但較少見的病因                                                                                                                |
-| ----------------------- | ---------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| AVS（約 30%） 急性前庭症候群      | • 前庭神經炎（Vestibular neuritis）             | • 後循環缺血性中風（Posterior circulation ischemic stroke）            | • 後顱窩出血（Posterior fossa hemorrhage）<br>• Wernicke syndrome<br>• Labyrinthitis<br>• 多發性硬化症（Multiple sclerosis）<br>• 藥物或毒物中毒 |
-| s-EVS（約 40%） 自發性陣發前庭症候群 | • 前庭性偏頭痛（Vestibular migraine）            | • 後循環暫時性腦缺血發作（Posterior circulation TIA）                     | • 心律不整<br>• 肺栓塞（[Pulmonary embolism](../../02_CV/Pulmonary_Embolism.md)）<br>• 恐慌發作<br>• 梅尼爾氏症（Ménière disease）                                                  |
-| t-EVS（約 30%） 誘發性陣發前庭症候群 | • 良性陣發性姿勢性眩暈（BPPV）<br>• 非致命性疾病所引起的姿勢性低血壓 | • 潛在致命性疾病所引起的姿勢性低血壓<br>• 中樞結構性病灶引起的中樞性姿勢性眩暈（CPPV），例如後顱窩腫塊或中風 | • 椎動脈壓迫症候群引起的後循環 TIA<br>• 頸動脈竇症候群（Carotid sinus syndrome）<br>• 姿勢性直立心搏過速症候群（POTS）                                          |
+| 前庭症候群                   | 常見良性（非致命性）病因                  | 重要危險（可能危及生命）的鑑別診斷                                 | 其他重要但較少見的病因                                                                                                                |
+| ----------------------- | ----------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| AVS（約 30%） 急性前庭症候群      | • 前庭神經炎（Vestibular neuritis）  | • 後循環缺血性中風（Posterior circulation ischemic stroke） | • 後顱窩出血（Posterior fossa hemorrhage）<br>• Wernicke syndrome<br>• Labyrinthitis<br>• 多發性硬化症（Multiple sclerosis）<br>• 藥物或毒物中毒 |
+| s-EVS（約 40%） 自發性陣發前庭症候群 | • 前庭性偏頭痛（Vestibular migraine） | • 後循環暫時性腦缺血發作（Posterior circulation TIA）          | • 心律不整<br>• 肺栓塞（[Pulmonary embolism](../../02_CV/Pulmonary_Embolism.md)）<br>• 恐慌發作<br>• 梅尼爾氏症（Ménière disease）             |
+| t-EVS（約 30%） 誘發性陣發前庭症候群 | • BPPV<br>• 姿勢性低血壓            | • 中樞結構性病灶引起的中樞性姿勢性眩暈（CPPV），例如後顱窩腫塊或中風             | • 椎動脈壓迫症候群引起的後循環 TIA<br>• 頸動脈竇症候群（Carotid sinus syndrome）<br>• 姿勢性直立心搏過速症候群（POTS）                                          |
 
 ### 三個不可靠的直覺
 - 「真眩暈一定是周邊性」✗ — 後循環中風也會天旋地轉
@@ -46,22 +46,12 @@
   - History taking：**CNS signs or symptoms**（eg, dysarthria, headache, diplopia, ataxia, neck pain）；**聽力的症狀**（eg, hearing loss, tinnitus）；Duration
   - PE：cranial nerve exam、gait、finger to nose exam、Romberg's test
 - **分辨 peripheral 和 central vertigo**：Nystagmus from a peripheral lesion may be inhibited by visual fixation, whereas central nystagmus is not suppressed.
-- **Key CNS symptoms**
-  1. 頭痛／脖子痛
-  2. 構音困難（dysarthria）
-  3. **Diplopia**（double vision）
-  4. **Weakness／感覺異常**
-  5. Dysmetria（辨距不良）
-  6. Cranial nerve finding
-  7. Horner syndrome
-  8. Central type nystagmus
-  9. Severe vertigo 持續好幾天
+
 - Posterior circulation stroke！（5D 見 [中風Stroke](../01_中風/中風Stroke.md)）；diplopia、dysarthria、limb ataxia
 - **BPPV**：發作通常 **<1 min**
 - **Meniere disease**
   - 症狀：1. Vertigo（持續**幾分鐘到幾小時**）2. Hearing loss 3. Tinnitus
   - Caloric test：測試 LSCC → 因為離外耳道最近！
-  - Nystagmus 的原因：中樞把歪掉的眼睛調回來！
 - **Vertebrobasilar insufficiency（VBI）**：導致中樞性眩暈和老人眩暈之常見因素；診斷性檢查：TCD/CCD（頸部血管及穿顱超音波）評估 atherosclerosis 程度、MRA
 - **小腦 NE（Cerebellar sign）：DANISH**
   - **D**ysdiadochokinesia／dysmetria（dysmetria：finger nose、heel-to-shin test）
@@ -72,8 +62,7 @@
   - **H**ypotonia
   - 沒有 Romberg's test！！(Romberg是測試本體感覺)
 - **Romberg's test**：**小腦**有問題 → 睜開眼睛就會抖！！
-
-  ![Romberg](assets/Romberg.png)
+![Romberg](assets/Romberg.png)
 
   
 - **Dysequilibrium**![](assets/Dysequilibrium.png)
