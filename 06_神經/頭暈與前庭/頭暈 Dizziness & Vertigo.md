@@ -9,7 +9,7 @@
 
 ![頭暈 Red Flag](頭暈%20Red%20Flag.md)
 
-![](assets/頭暈病人初步分類流程圖.png)
+![375](assets/頭暈病人初步分類流程圖.png)
 ## Key Points
 ### 用「時序＋誘發因子」取代「症狀性質四分類」
 - 舊框架：vertigo、presyncope、disequilibrium、lightheadedness
@@ -71,7 +71,7 @@
   - **I**ntention tremor：finger nose 可以看出來，患者接近檢查者的手指時，震顫加劇
   - **S**peech — slurred or scanning
   - **H**ypotonia
-  - 沒有 Romberg's test！！
+  - 沒有 Romberg's test！！(Romberg是測試本體感覺)
 - **Romberg's test**：**小腦**有問題 → 睜開眼睛就會抖！！
 
   ![Romberg](assets/Romberg.png)
@@ -97,7 +97,7 @@
 11. **既往發作**：類似發作、過去診斷、影像、聽力檢查紀錄
 
 ## Medications
-- Meniere disease：**Merislon（Betahistine）**：內耳積水特效藥（Heptabase）
+- Meniere disease：**Merislon（Betahistine）**：內耳積水特效藥
   - **改善內耳血行障礙**：可弛緩內耳血管系之毛細管前括約肌，調整血管運動，增加內耳血流量約 50% 以上，可增加內頸動脈血流 50% 以上，與事前服用的抗組織胺劑無拮抗作用
   - **消散內淋巴水腫**：提高毛細管壁的透過性，促進細胞外液的逆吸收，使內淋巴水腫消散
 
