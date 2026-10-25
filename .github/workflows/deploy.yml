@@ -50,6 +50,10 @@ jobs:
 
           npx quartz plugin install --from-config
           npm install --no-save @quartz-themes/default
+
+          # 套用自訂 CSS
+          cp ../vault/.github/quartz/custom.scss quartz/styles/custom.scss
+
           rsync -a \
             --exclude='.git/' \
             --exclude='.github/' \
