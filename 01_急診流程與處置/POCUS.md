@@ -5,9 +5,8 @@
 > Source: Heptabase「E-FAST」「心臟超音波 Cardiac echo」（含 McConnell's Sign、D-shape sign、RV dilation、TAPSE、RV strain in PSAX）「A線／B線」
 > Related: [Primary Survey (ABCDE)](初級評估ABCDE.md)
 
-## Key Points
 
-### E-FAST（Extended Focused Assessment with Sonography in Trauma）
+# E-FAST
 - 參考網站：<https://www.mmheme.org/new-page-43>、<https://thetinynotes.com/topic/846/fast掃描>
 - **Indications**
   - Trauma（blunt and penetrating）
@@ -23,7 +22,7 @@
 
   ![E-FAST views](assets/POCUS_EFAST_views.png)
 
-### 心臟超音波：Basic views
+## 心臟超音波：Basic views
 - PLAX、PSAX（papillary muscle level）、Subxiphoid 4-chamber、Apical 4-chamber
 
   ![FoCUS basic views](assets/POCUS_FoCUS_basic_views.png)
@@ -41,17 +40,6 @@
   - 從每一個 view 都可以看得到！！
 - **TAPSE**（Tricuspid Annular Plane Systolic Excursion）：Apical 4-Chamber View
 
-### Lung
-- A 線代表正常的肺部狀態，而 B 線則顯示肺間質水腫，這對於診斷[肺水腫](../02_CV/Pulmonary_edema.md)、急性呼吸窘迫綜合症（ARDS）和[肺炎](../03_呼吸與酸鹼/Pneumonia.md)具有重要意義。
-
-## Management
-（待補）
-
-## Medications
-（待補）
-
-## Disposition
-（待補）
-
-## Clinical Pearls
-（待補）
+## Lung
+- A line 代表正常的肺部狀態
+- B line：則顯示肺間質水腫，這對於診斷[肺水腫](../02_CV/Pulmonary_edema.md)、急性呼吸窘迫綜合症（ARDS）和[肺炎](../03_呼吸與酸鹼/Pneumonia.md)具有重要意義。
