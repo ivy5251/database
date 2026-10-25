@@ -1,0 +1,78 @@
+
+name: Publish Obsidian with Quartz
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Obsidian notes
+        uses: actions/checkout@v6
+        with:
+          path: vault
+
+      - name: Checkout Quartz 5
+        uses: actions/checkout@v6
+        with:
+          repository: jackyzha0/quartz
+          ref: v5
+          path: quartz
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Build website
+        working-directory: quartz
+        env:
+          SITE_URL: ${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          npm ci
+
+          npx quartz create \
+            --template obsidian \
+            --strategy new \
+            --baseUrl "$SITE_URL"
+
+          npx quartz plugin install --from-config
+
+          rsync -a \
+            --exclude='.git/' \
+            --exclude='.github/' \
+            --exclude='.obsidian/' \
+            --exclude='.trash/' \
+            --exclude='Private/' \
+            ../vault/ content/
+
+          npx quartz build
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
