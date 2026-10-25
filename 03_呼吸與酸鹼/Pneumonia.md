@@ -23,7 +23,7 @@
 - >60 歲 ⇒ 肺炎鏈球菌
 - 中壯年 ⇒ KP
 - 年輕人 ⇒ Mycoplasma
-- 重度肺炎併嚴重呼吸衰竭 ⇒ 肺炎鏈球菌、KP、綠膿桿菌、金黃色葡萄球菌
+- 重度肺炎併嚴重[呼吸衰竭](呼吸衰竭.md) ⇒ 肺炎鏈球菌、KP、綠膿桿菌、金黃色葡萄球菌
 
 ### 臨床表現
 ![肺炎臨床表現](assets/Pneumonia_臨床表現.png)
@@ -31,14 +31,14 @@
 ### 診斷性檢查
 - **Sputum smear & culture ⇒ 開三套**
   - 好的痰液：neutrophil >25、epithelial cell <10
-- **CXR**
+- **[CXR](Chest_X-Ray判讀.md)**
   - Diffuse bilateral infiltration ⇒ 懷疑 **PJP** ⇒ 問 HIV 危險因子（MSM、drug injection），驗 HIV Ab＋CD4
-- **Chest echo**：目的是**抽胸水**（if pleural effusion），不抽可能變 empyema
+- **Chest echo**：目的是**抽胸水**（if [pleural effusion](胸水與膿胸.md)），不抽可能變 empyema
 - Bronchoscopy、Chest CT
 - Blood serology：Mycoplasma IgG/IgM、Chlamydia IgG/IgM（自費）、S. pneumoniae Ag（66316）
 - Urine antigen：S. pneumoniae Ag（66361）、**Legionella** Ag（65947）
   - Legionella 只能驗尿，血清驗不出來
-  - Legionella 會造成**低血鈉**
+  - Legionella 會造成**[低血鈉](../07_電解質與內分泌急症/低血鈉與SIADH.md)**
 - **PCR**：最準，越來越常用
 
 ## Management

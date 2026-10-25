@@ -12,7 +12,7 @@
   - 冰：Hypothermia
   - 酸：Hydrogen（Acidosis）
   - 容：Hypovolemic
-  - 鉀：Hyper/Hypokalemia
+  - 鉀：Hyper/[Hypokalemia](../07_電解質與內分泌急症/低血鉀與鉀離子.md)
   - 氧：Hypoxia
 - **5T**
   - 毒：Toxin
@@ -22,7 +22,7 @@
   - 肺：Thrombosis, pulmonary
 
 ## Management
-- Tachycardia algorithm
+- [Tachycardia](../02_CV/Tachycardia與QT延長.md) algorithm
 
   ![ACLS Tachycardia](assets/ACLS_tachycardia.png)
 
@@ -34,12 +34,12 @@
 - Manage airway：early placement of endotracheal tube；waveform capnography or capnometry to confirm and monitor ETT placement
 - Manage respiratory parameters：start 10 breaths/min；titrate FiO2 for SpO2 92–98%；PaCO2 35–45 mmHg
 - Manage hemodynamic parameters：crystalloid and/or vasopressor or inotrope for goal SBP >90 mmHg or MAP >65 mmHg
-- Obtain 12-lead ECG
+- Obtain 12-lead [ECG](../02_CV/EKG判讀.md)
 
 **Continued management and additional emergent activities**
 - Consider emergent cardiac intervention if：
   - STEMI present
-  - Unstable cardiogenic shock
+  - Unstable cardiogenic [shock](../04_休克與感染/Shock.md)
   - Mechanical circulatory support required
 - Follows commands?
   - No（Comatose）：TTM、obtain brain CT、EEG monitoring、other critical care management
@@ -51,7 +51,7 @@
   - Provide continuous or intermittent EEG monitoring
   - Provide lung-protective ventilation
 - Evaluate and treat rapidly reversible etiologies；involve expert consultation for continued management
-- H's and T's：hypovolemia、hypoxia、hydrogen ion（acidosis）、hypokalemia/hyperkalemia、hypothermia、tension pneumothorax、tamponade（cardiac）、toxins、thrombosis（pulmonary）、thrombosis（coronary）
+- H's and T's：hypovolemia、hypoxia、hydrogen ion（acidosis）、hypokalemia/[hyperkalemia](../07_電解質與內分泌急症/高血鉀.md)、hypothermia、tension [pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)、tamponade（cardiac）、toxins、thrombosis（pulmonary）、thrombosis（coronary）
 
 ## Medications
 （待補）

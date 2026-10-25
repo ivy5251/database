@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>神經學檢查實戰手冊</title>
+<style>
+:root{
+  --bg:#f5f4f0; --paper:#ffffff; --ink:#1c1f24; --ink2:#454b55; --muted:#7a808a;
+  --line:#e4e2dc; --line2:#d2cfc6; --soft:#faf9f6;
+  --accent:#1f5f5b; --accent-2:#2b7a74; --accent-l:#e5f0ee;
+  --warn:#b23a3a; --warn-l:#fbeceb;
+  --amber:#9a5b00; --amber-l:#fbf1de;
+  --violet:#5b4596; --violet-l:#efebf8;
+  --blue:#2a5a9e; --blue-l:#e8eff9;
+  --shadow:0 1px 2px rgba(20,20,20,.04),0 2px 10px rgba(20,20,20,.03);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16181b; --paper:#1e2125; --ink:#e8e6e1; --ink2:#c2c0ba; --muted:#8d9098;
+    --line:#2f3338; --line2:#3c4148; --soft:#23272c;
+    --accent:#6cc2b9; --accent-2:#8fd4cc; --accent-l:#1d3331;
+    --warn:#ef8a85; --warn-l:#3a2222;
+    --amber:#e6b35c; --amber-l:#352a17;
+    --violet:#b7a5ea; --violet-l:#2a2540;
+    --blue:#8db4ec; --blue-l:#1d2a3c;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16181b; --paper:#1e2125; --ink:#e8e6e1; --ink2:#c2c0ba; --muted:#8d9098;
+  --line:#2f3338; --line2:#3c4148; --soft:#23272c;
+  --accent:#6cc2b9; --accent-2:#8fd4cc; --accent-l:#1d3331;
+  --warn:#ef8a85; --warn-l:#3a2222;
+  --amber:#e6b35c; --amber-l:#352a17;
+  --violet:#b7a5ea; --violet-l:#2a2540;
+  --blue:#8db4ec; --blue-l:#1d2a3c;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth; scroll-padding-top:16px}
+body{margin:0; background:var(--bg); color:var(--ink);
+  font-family:"PingFang TC","Noto Sans TC","Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,sans-serif;
+  font-size:16px; line-height:1.8; -webkit-font-smoothing:antialiased}
+a{color:var(--accent)}
+.layout{display:grid; grid-template-columns:260px minmax(0,1fr); max-width:1320px; margin:0 auto}
+
+/* ---------- sidebar ---------- */
+nav.toc{position:sticky; top:0; height:100vh; overflow-y:auto; padding:28px 14px 60px 20px;
+  border-right:1px solid var(--line)}
+nav.toc .brand{font-weight:800; font-size:.95rem; letter-spacing:.02em; margin:0 0 4px 8px}
+nav.toc .brand small{display:block; font-weight:500; color:var(--muted); font-size:.75rem; letter-spacing:.04em}
+nav.toc ol{list-style:none; margin:18px 0 0; padding:0}
+nav.toc a{display:flex; gap:8px; align-items:baseline; padding:5px 8px; border-radius:7px; color:var(--ink2);
+  text-decoration:none; font-size:.86rem; line-height:1.45}
+nav.toc a .n{font-variant-numeric:tabular-nums; color:var(--muted); font-size:.75rem; min-width:20px}
+nav.toc a:hover{background:var(--accent-l); color:var(--accent)}
+nav.toc a.on{background:var(--accent-l); color:var(--accent); font-weight:700}
+nav.toc .grp{font-size:.7rem; letter-spacing:.14em; color:var(--muted); margin:16px 0 4px 8px; font-weight:700}
+.theme-btn{margin:22px 0 0 8px; font:inherit; font-size:.78rem; color:var(--ink2); background:var(--paper);
+  border:1px solid var(--line2); border-radius:20px; padding:4px 12px; cursor:pointer}
+
+/* ---------- main ---------- */
+main{padding:0 44px 120px; min-width:0}
+header.hero{padding:48px 0 26px; border-bottom:1px solid var(--line); margin-bottom:28px}
+.kicker{font-size:.76rem; letter-spacing:.2em; color:var(--accent); font-weight:700}
+header.hero h1{font-size:2.1rem; line-height:1.25; margin:8px 0 6px; font-weight:800; letter-spacing:.01em}
+header.hero .sub{color:var(--ink2); font-size:1.02rem; margin:0 0 18px}
+.meta{display:flex; flex-wrap:wrap; gap:8px 18px; font-size:.82rem; color:var(--muted)}
+.meta b{color:var(--ink2); font-weight:600}
+
+section.card{background:var(--paper); border:1px solid var(--line); border-radius:16px; padding:28px 32px 30px;
+  margin:0 0 24px; box-shadow:var(--shadow)}
+h2.sec{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin:0 0 18px; font-size:1.4rem; line-height:1.35; font-weight:800}
+h2.sec .no{font-size:.8rem; font-weight:800; color:#fff; background:var(--accent); border-radius:6px; padding:2px 9px;
+  font-variant-numeric:tabular-nums; position:relative; top:-2px}
+h2.sec .en{font-size:.85rem; color:var(--muted); font-weight:500}
+h3{font-size:1.08rem; margin:28px 0 10px; font-weight:800; display:flex; align-items:center; gap:8px}
+h3::before{content:""; width:4px; height:1.05em; background:var(--accent); border-radius:2px}
+h4{font-size:.96rem; margin:18px 0 6px; font-weight:700; color:var(--accent)}
+p{margin:0 0 12px}
+ul,ol{margin:0 0 12px; padding-left:1.4em}
+li{margin:0 0 5px}
+b,strong{font-weight:700}
+.en-t{font-family:-apple-system,"Helvetica Neue",Arial,sans-serif}
+.lead{font-size:1rem; color:var(--ink2)}
+
+/* callouts */
+.co{border-radius:12px; padding:14px 18px; margin:16px 0; border:1px solid; font-size:.94rem}
+.co .t{display:block; font-weight:800; font-size:.86rem; letter-spacing:.02em; margin-bottom:4px}
+.co p:last-child,.co ul:last-child{margin-bottom:0}
+.co.pearl{background:var(--accent-l); border-color:color-mix(in srgb,var(--accent) 25%,transparent)} .co.pearl .t{color:var(--accent)}
+.co.clin{background:var(--amber-l); border-color:color-mix(in srgb,var(--amber) 25%,transparent)} .co.clin .t{color:var(--amber)}
+.co.warn{background:var(--warn-l); border-color:color-mix(in srgb,var(--warn) 25%,transparent)} .co.warn .t{color:var(--warn)}
+.co.mem{background:var(--violet-l); border-color:color-mix(in srgb,var(--violet) 25%,transparent)} .co.mem .t{color:var(--violet)}
+
+/* tables */
+.tw{overflow-x:auto; margin:16px 0; border:1px solid var(--line); border-radius:12px; background:var(--paper)}
+.tw .cap{padding:10px 16px; font-weight:800; font-size:.88rem; background:var(--soft); border-bottom:1px solid var(--line)}
+table{border-collapse:collapse; width:100%; font-size:.875rem; line-height:1.65; min-width:520px}
+th,td{padding:9px 13px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top}
+thead th{font-size:.8rem; color:var(--muted); font-weight:700; letter-spacing:.03em; background:var(--soft); white-space:nowrap}
+tbody tr:last-child td,tbody tr:last-child th{border-bottom:0}
+tbody th{font-weight:700; white-space:nowrap}
+td.c,th.c{text-align:center}
+tr.grp td{background:var(--soft); font-weight:800; font-size:.8rem; letter-spacing:.06em; color:var(--accent)}
+td ul{margin:0; padding-left:1.1em} td li{margin:0 0 2px}
+.tw .foot{padding:9px 16px; font-size:.78rem; color:var(--muted); border-top:1px solid var(--line); background:var(--soft)}
+
+/* tags */
+.tag{display:inline-block; font-size:.72rem; font-weight:800; padding:1px 8px; border-radius:20px; white-space:nowrap; vertical-align:1px}
+.tag.ok{background:var(--accent-l); color:var(--accent)}
+.tag.bad{background:var(--warn-l); color:var(--warn)}
+.tag.mid{background:var(--amber-l); color:var(--amber)}
+.tag.info{background:var(--blue-l); color:var(--blue)}
+.up{color:var(--warn); font-weight:800} .down{color:var(--blue); font-weight:800}
+
+/* two-up compare */
+.vs{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:14px 0}
+.vs>div{border:1px solid var(--line); border-radius:12px; padding:14px 16px; background:var(--soft)}
+.vs .h{font-weight:800; font-size:.9rem; margin-bottom:6px}
+.vs ul{margin:0}
+
+/* grade ladder */
+.ladder{display:grid; grid-template-columns:repeat(6,1fr); gap:6px; margin:14px 0}
+.ladder.g5{grid-template-columns:repeat(5,1fr)}
+.ladder>div{border:1px solid var(--line); border-radius:10px; padding:10px 10px 12px; background:var(--soft)}
+.ladder .g{font-size:1.4rem; font-weight:800; line-height:1.1; color:var(--accent); font-variant-numeric:tabular-nums}
+.ladder .d{font-size:.78rem; line-height:1.5; color:var(--ink2); margin-top:4px}
+.ladder .bad .g{color:var(--warn)}
+
+/* ---------- 5-min screen ---------- */
+.btn{font:inherit; font-size:.82rem; font-weight:600; color:var(--ink2); background:var(--paper); border:1px solid var(--line2);
+  border-radius:8px; padding:5px 12px; cursor:pointer}
+.btn:hover{border-color:var(--accent); color:var(--accent)}
+.btn.primary{background:var(--accent); color:#fff; border-color:var(--accent)}
+.btn.primary:hover{color:#fff; filter:brightness(1.08)}
+.step{display:grid; grid-template-columns:30px 1fr; gap:4px 12px; padding:14px 4px 14px 0; border-top:1px solid var(--line)}
+.step:first-of-type{border-top:0}
+.step .num{width:24px; height:24px; border-radius:50%; background:var(--accent-l); color:var(--accent); font-weight:800; font-size:.8rem;
+  display:flex; align-items:center; justify-content:center; margin-top:2px; font-variant-numeric:tabular-nums}
+.step .st{font-weight:800; font-size:1rem}
+.step .st .k{font-size:.72rem; font-weight:700; color:var(--muted); margin-left:6px; letter-spacing:.04em}
+.step .bd{grid-column:2; font-size:.9rem; color:var(--ink2)}
+.step .bd ul{margin:4px 0 0}
+.step .ab{color:var(--warn); font-weight:700}
+.step .go{font-size:.78rem; margin-left:6px}
+
+/* aphasia tree */
+.tree{display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin:14px 0; font-size:.84rem}
+.tree .node{border:1px solid var(--line2); border-radius:10px; padding:9px 11px; background:var(--soft); line-height:1.5}
+.tree .node b{display:block; font-size:.9rem}
+.tree .q{grid-column:1/-1; text-align:center; font-weight:800; color:var(--accent); font-size:.86rem; padding:4px}
+.tree .col-h{font-weight:800; text-align:center; font-size:.82rem; color:var(--muted); padding:2px}
+.tree .flu{grid-column:span 2}
+
+/* chief complaints */
+.cc-tools{display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px}
+.legend{font-size:.8rem; color:var(--muted); display:flex; gap:12px; flex-wrap:wrap; align-items:center}
+.cc{border:1px solid var(--line); border-radius:12px; margin:8px 0; background:var(--soft)}
+.cc>summary{cursor:pointer; padding:11px 16px; font-weight:800; list-style:none; display:flex; gap:10px; align-items:baseline; flex-wrap:wrap}
+.cc>summary::-webkit-details-marker{display:none}
+.cc>summary .i{color:var(--muted); font-variant-numeric:tabular-nums; font-size:.8rem; min-width:20px}
+.cc>summary .hint{font-weight:500; color:var(--muted); font-size:.8rem}
+.cc>summary::after{content:"＋"; color:var(--accent); margin-left:auto}
+.cc[open]>summary::after{content:"－"}
+.cc .body{padding:0 16px 14px}
+.cc dl{display:grid; grid-template-columns:56px 1fr; gap:6px 12px; margin:0; font-size:.9rem}
+.cc dt{font-weight:800; color:var(--accent); font-size:.82rem; padding-top:2px}
+.cc dd{margin:0}
+.cc dd ul{margin:0; padding-left:1.1em}
+.cc .go{font-size:.78rem; margin-left:4px}
+.ext{border-left:3px solid var(--blue); background:var(--blue-l); border-radius:0 10px 10px 0; padding:10px 14px; margin:12px 0 0; font-size:.88rem}
+.ext ul{margin:4px 0 0; padding-left:1.1em}
+.ext .src{display:block; font-size:.76rem; color:var(--muted); margin-top:6px}
+.tag.ext-t{background:var(--blue); color:#fff}
+.tag.am-t{background:var(--accent); color:#fff}
+.ref-list{font-size:.86rem; padding-left:1.3em}
+.ref-list li{margin-bottom:8px}
+
+/* findings form */
+.form-grid{display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px 18px}
+.field{display:flex; flex-direction:column; gap:3px}
+.field.full{grid-column:1/-1}
+.field label{font-size:.78rem; font-weight:700; color:var(--muted); letter-spacing:.03em}
+.field input,.field textarea,.field select, table.rl input, table.rl select{font:inherit; font-size:.9rem; color:var(--ink); background:var(--paper);
+  border:1px solid var(--line2); border-radius:7px; padding:5px 8px; width:100%}
+.field textarea{min-height:60px; resize:vertical}
+table.rl{min-width:420px}
+table.rl td{padding:5px 8px; vertical-align:middle}
+table.rl input,table.rl select{padding:3px 6px; text-align:center}
+.form-actions{display:flex; gap:8px; flex-wrap:wrap; margin:6px 0 16px}
+
+footer{color:var(--muted); font-size:.8rem; text-align:center; padding:20px 10px 40px; line-height:1.9}
+.top{position:fixed; right:20px; bottom:20px; width:42px; height:42px; border-radius:50%; background:var(--accent); color:#fff;
+  display:flex; align-items:center; justify-content:center; text-decoration:none; font-size:1.1rem; box-shadow:0 4px 14px rgba(0,0,0,.18); z-index:20}
+
+/* mobile chip nav */
+.chips{display:none}
+@media (max-width:980px){
+  .layout{grid-template-columns:1fr}
+  nav.toc{display:none}
+  main{padding:0 16px 100px}
+  .chips{display:flex; gap:6px; overflow-x:auto; padding:10px 0; position:sticky; top:0; background:var(--bg); z-index:10;
+    border-bottom:1px solid var(--line); margin:0 -16px 18px; padding-left:16px; padding-right:16px}
+  .chips a{flex:0 0 auto; font-size:.8rem; text-decoration:none; color:var(--ink2); border:1px solid var(--line2);
+    border-radius:20px; padding:3px 11px; background:var(--paper)}
+  section.card{padding:20px 16px 22px; border-radius:12px}
+  header.hero{padding-top:28px}
+  header.hero h1{font-size:1.7rem}
+  .vs,.form-grid{grid-template-columns:1fr}
+  .ladder{grid-template-columns:repeat(3,1fr)}
+  .tree{grid-template-columns:repeat(2,1fr); grid-auto-flow:row dense}
+  .tree .flu{grid-column:span 1}
+  .tree .nf{grid-column:1} .tree .f{grid-column:2}
+  .cc dl{grid-template-columns:1fr; gap:2px}
+  .cc dd{margin-bottom:8px}
+}
+
+/* print */
+@media print{
+  :root{--bg:#fff; --paper:#fff; --soft:#f6f6f6}
+  body{font-size:11.5pt}
+  nav.toc,.chips,.top,.btn,.theme-btn{display:none !important}
+  .layout{display:block}
+  main{padding:0}
+  section.card{box-shadow:none; break-inside:auto; border:0; padding:0 0 12px}
+  .tw{break-inside:avoid}
+  body.print-form main>*:not(#form){display:none !important}
+  body.print-form #form h2 .en{display:none}
+}
+</style>
+</head>
+<body>
+<div class="layout">
+
+<nav class="toc" id="toc">
+  <div class="brand">神經學檢查實戰手冊<small>Neurological Examination</small></div>
+  <ol>
+    <li class="grp">急診先用</li>
+    <li><a href="#screen"><span class="n">⚡</span>急診 5 分鐘快篩</a></li>
+    <li><a href="#complaint"><span class="n">🩺</span>主訴導向</a></li>
+    <li class="grp">逐項檢查</li>
+    <li><a href="#mental"><span class="n">01</span>意識與語言</a></li>
+    <li><a href="#cn"><span class="n">02</span>腦神經 CN I–XII</a></li>
+    <li><a href="#motor"><span class="n">03</span>運動：外觀與肌力</a></li>
+    <li><a href="#reflex"><span class="n">04</span>反射</a></li>
+    <li><a href="#tone"><span class="n">05</span>張力與 clonus</a></li>
+    <li><a href="#sensory"><span class="n">06</span>感覺</a></li>
+    <li><a href="#coord"><span class="n">07</span>協調</a></li>
+    <li><a href="#gait"><span class="n">08</span>步態</a></li>
+    <li><a href="#mening"><span class="n">09</span>腦膜與神經根刺激</a></li>
+    <li><a href="#nystagmus"><span class="n">10</span>眼振 Nystagmus</a></li>
+    <li class="grp">收尾</li>
+    <li><a href="#localize"><span class="n">★</span>定位速查表</a></li>
+    <li><a href="#form"><span class="n">✎</span>檢查紀錄表</a></li>
+    <li><a href="#ref"><span class="n">·</span>來源</a></li>
+  </ol>
+  <button class="theme-btn" id="themeBtn" type="button">切換深淺色</button>
+</nav>
+
+<main>
+<div class="chips">
+  <a href="#screen">⚡快篩</a><a href="#complaint">🩺主訴</a><a href="#mental">意識語言</a><a href="#cn">腦神經</a><a href="#motor">肌力</a><a href="#reflex">反射</a>
+  <a href="#tone">張力</a><a href="#sensory">感覺</a><a href="#coord">協調</a><a href="#gait">步態</a><a href="#mening">腦膜</a>
+  <a href="#nystagmus">眼振</a><a href="#localize">定位</a><a href="#form">紀錄表</a>
+</div>
+
+<header class="hero">
+  <div class="kicker">急診實戰手冊 · NEURO</div>
+  <h1>神經學檢查實戰手冊</h1>
+  <p class="sub">從床邊 5 分鐘快篩，到每一項檢查怎麼做、看到什麼代表病灶在哪裡</p>
+  <div class="meta">
+    <span><b>來源</b> AMBOSS · Neurological examination（2026-02-02 版）＋ 主訴導向中標示「補充」的外部文獻</span>
+    <span><b>整理</b> 2026-10-15</span>
+    <span><b>用法</b> 值班先看 ⚡快篩；查細節翻章節；定位看 ★；紀錄用 ✎</span>
+  </div>
+</header>
+
+<!-- ===================== SCREEN ===================== -->
+<section class="card" id="screen">
+  <h2 class="sec"><span class="no">⚡</span>急診 5 分鐘快篩<span class="en">Bedside Neuro Screen</span></h2>
+  <p class="lead">依照「由上到下、左右對照、上下肢對照」的順序。</p>
+  <div class="co pearl"><span class="t">兩個永遠要做的比較</span>
+    <p>所有發現都要和<b>對側</b>比，<b>上肢</b>也要和<b>下肢</b>比，這是判斷病灶位置的基礎。</p></div>
+
+  <div id="steps">
+    <div class="step"><span class="num">1</span><div class="st">意識與定向<span class="k">GCS · orientation</span></div>
+      <div class="bd">急診的 mental status 以<b>意識程度（GCS）</b>與<b>定向感</b>為主。同時聽病人講話：流暢嗎？聽得懂指令嗎？能複誦嗎？
+        <span class="ab">→ 有 aphasia 代表 dominant hemisphere（多為左側）病灶</span><a class="go" href="#mental">詳見 01</a></div></div>
+
+    <div class="step"><span class="num">2</span><div class="st">瞳孔<span class="k">size · shape · light reflex</span></div>
+      <div class="bd">靜止時的大小與形狀 → 手電筒輪流照，看 direct 與 consensual 收縮。正常 isocoric、2–8 mm。
+        <span class="ab">→ anisocoria 或過大／過小要追</span><a class="go" href="#cn">詳見 02</a></div></div>
+
+    <div class="step"><span class="num">3</span><div class="st">眼球運動、視野、眼振<span class="k">CN II · III · IV · VI</span></div>
+      <div class="bd">手指 H 字形追視＋兩點間 saccade；confrontation 測四個象限；正中凝視時看有沒有 spontaneous nystagmus。
+        <span class="ab">→ 純垂直、純水平眼振多為中樞</span><a class="go" href="#nystagmus">詳見 10</a></div></div>
+
+    <div class="step"><span class="num">4</span><div class="st">臉、軟顎、舌頭<span class="k">CN V · VII · IX/X · XII</span></div>
+      <div class="bd">額頭／臉頰／下巴輕觸；皺額、緊閉眼、鼓頰、露齒；說「啊」看 uvula 是否偏；伸舌看是否偏。</div></div>
+
+    <div class="step"><span class="num">5</span><div class="st">Pronator drift ＋ Mingazzini<span class="k">subtle paresis</span></div>
+      <div class="bd">雙手平舉掌心朝上、閉眼 30 秒；平躺髖膝 90° 抬腿 30 秒。再做四肢對抗阻力的肌力（0–5）。
+        <span class="ab">→ 旋前＋往下飄＝UMN；旋前＋往上飄＝cerebellar</span><a class="go" href="#motor">詳見 03</a></div></div>
+
+    <div class="step"><span class="num">6</span><div class="st">DTR ＋ Babinski / Hoffmann<span class="k">UMN vs LMN</span></div>
+      <div class="bd">Biceps、triceps、knee、ankle 左右對照（0–4+）；腳底外側劃 Babinski；彈中指甲看 Hoffmann。
+        <span class="ab">→ 反射亢進＋Babinski 陽性＋張力上升＝UMN</span><a class="go" href="#reflex">詳見 04</a></div></div>
+
+    <div class="step"><span class="num">7</span><div class="st">感覺<span class="k">light touch · sharp/dull</span></div>
+      <div class="bd">雙側對稱位置比較輕觸與尖鈍；懷疑脊髓或周邊神經時再加震動覺、位置覺。<a class="go" href="#sensory">詳見 06</a></div></div>
+
+    <div class="step"><span class="num">8</span><div class="st">協調<span class="k">finger-to-nose · heel-knee-shin</span></div>
+      <div class="bd">睜眼、閉眼各做一次指鼻；腳跟沿對側脛骨滑下；快速翻轉手掌。
+        <span class="ab">→ dysmetria、intention tremor、dysdiadochokinesia＝小腦</span><a class="go" href="#coord">詳見 07</a></div></div>
+
+    <div class="step"><span class="num">9</span><div class="st">步態與 Romberg<span class="k">能站才做</span></div>
+      <div class="bd">走幾步、轉身、tandem gait；雙腳併攏閉眼看 Romberg。
+        <span class="ab">→ 閉眼才晃＝sensory ataxia；睜眼就晃＝cerebellar</span><a class="go" href="#gait">詳見 08</a></div></div>
+
+    <div class="step"><span class="num">10</span><div class="st">腦膜刺激徵象<span class="k">依情境 · 發燒／頭痛</span></div>
+      <div class="bd">Nuchal rigidity、Kernig、Brudzinski。<span class="ab">→ meningitis 或 SAH</span><a class="go" href="#mening">詳見 09</a></div></div>
+  </div>
+</section>
+
+<!-- ===================== COMPLAINT ===================== -->
+<section class="card" id="complaint">
+  <h2 class="sec"><span class="no">CC</span>主訴導向<span class="en">Chief Complaint → Suspect → Exam</span></h2>
+  <p class="lead">從病人的主訴出發：要懷疑什麼、要做哪些神經學檢查、哪些發現是關鍵。點標題展開。</p>
+  <div class="cc-tools">
+    <button class="btn" id="ccOpen" type="button">全部展開</button>
+    <button class="btn" id="ccClose" type="button">全部收合</button>
+    <span class="legend"><span><span class="tag am-t">AMBOSS</span> 本手冊主體</span><span><span class="tag ext-t">補充</span> 外部文獻，附出處</span></span>
+  </div>
+
+  <details class="cc"><summary><span class="i">01</span>突發劇烈頭痛<span class="hint">thunderclap · 懷疑 SAH</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>SAH（AMBOSS 列為 meningism 的非發炎性原因）</dd>
+      <dt>檢查</dt><dd>Nuchal rigidity（頸部前屈）、Kernig、Brudzinski、GCS <a class="go" href="#mening">→ 09</a></dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>Ottawa SAH rule</b>
+      <ul>
+        <li><b>適用</b>：意識清楚、≥15 歲、新發非外傷性劇烈頭痛、1 小時內達最痛</li>
+        <li><b>任一項成立 → 需進一步檢查</b>：年齡 ≥40、頸痛或頸僵硬、有人目擊意識喪失、用力時發作、thunderclap（瞬間達最痛）、<b>理學檢查頸部前屈受限</b></li>
+        <li><b>不適用</b>：新的神經學缺損、已知動脈瘤、過去 SAH、腦瘤、反覆類似頭痛</li>
+      </ul>
+      <span class="src">Perry JJ, et al. JAMA 2013;310:1248–55</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">02</span>頭痛＋發燒／頸部僵硬／畏光<span class="hint">懷疑 meningitis</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>Meningitis（細菌或病毒性）、SAH</dd>
+      <dt>檢查</dt><dd>Nuchal rigidity、Kernig、Brudzinski、GCS <a class="go" href="#mening">→ 09</a></dd>
+      <dt>關鍵</dt><dd>頸僵硬＋頭痛＋畏光＝meningism</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>陰性不能排除</b>
+      <ul>
+        <li>細菌性腦膜炎只有 <b>44%</b> 有典型三聯徵（發燒、頸僵硬、意識改變）；<b>95%</b> 至少有「頭痛、發燒、頸僵硬、意識改變」其中兩項</li>
+        <li>Kernig、Brudzinski 敏感度都只有 <b>5%</b>，nuchal rigidity <b>30%</b>：陰性不能排除腦膜炎</li>
+      </ul>
+      <span class="src">van de Beek D, et al. NEJM 2004;351:1849–59 ／ Thomas KE, et al. Clin Infect Dis 2002;35:46–52</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">03</span>意識改變／混亂／昏迷<span class="hint">AMS</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd><ul>
+        <li>有 asterixis：hepatic encephalopathy、uremic encephalopathy、hypercapnia</li>
+        <li>有 myoclonus：代謝異常（uremia）、缺氧後、CJD、癲癇症候群</li>
+        <li>合併眼振：Wernicke encephalopathy、Korsakoff</li>
+        <li>成人出現 primitive reflex：瀰漫性腦傷</li></ul></dd>
+      <dt>檢查</dt><dd>GCS、定向感 <a class="go" href="#mental">→ 01</a>；asterixis、myoclonus <a class="go" href="#motor">→ 03</a>；眼振 <a class="go" href="#nystagmus">→ 10</a>；昏迷時加瞳孔、corneal、gag <a class="go" href="#cn">→ 02</a>、caloric</dd>
+      <dt>關鍵</dt><dd>昏迷病人灌冰水完全沒有眼振 → 可能腦幹死亡</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">04</span>講話怪怪的／講不出來／聽不懂<span class="hint">aphasia · dysphonia</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>Dominant hemisphere（多為左側）病灶，依 aphasia 分型定位；聲音沙啞 → CN X（recurrent laryngeal nerve）</dd>
+      <dt>檢查</dt><dd>流暢、理解、複誦 <a class="go" href="#mental">→ 01</a>；軟顎與 uvula、發聲 <a class="go" href="#cn">→ 02</a></dd>
+      <dt>關鍵</dt><dd>三個問題分出八型。AMBOSS 只寫病灶位置，沒寫病因</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> 急性發生時當成中風處理：NIHSS＋血糖，見 <b>05</b></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">05</span>單側無力<span class="hint">懷疑中風</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>UMN 病灶：中風、腫瘤、MS</dd>
+      <dt>檢查</dt><dd>Pronator drift、Mingazzini、MRC 肌力 <a class="go" href="#motor">→ 03</a>；DTR、Babinski、Hoffmann <a class="go" href="#reflex">→ 04</a>；張力 <a class="go" href="#tone">→ 05</a>；步態 <a class="go" href="#gait">→ 08</a></dd>
+      <dt>關鍵</dt><dd>旋前＋往下飄＝UMN；hemiplegic gait（circumduction）</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>急性中風評估</b>
+      <ul>
+        <li>用 <b>NIHSS</b> 作為標準化評估：量化缺損、協助判斷 IVT／EVT 適應症、追蹤變化</li>
+        <li><b>低血糖可以模仿中風</b>：先測 point-of-care 血糖，&lt;60 mg/dL 要矯正</li>
+      </ul>
+      <span class="src">Prabhakaran S, et al. 2026 AHA/ASA Guideline for the Early Management of Acute Ischemic Stroke. Stroke 2026 §3.1、§4.5（取代 2018／2019 版）</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">06</span>雙下肢或四肢無力<span class="hint">UMN／LMN／肌肉 · GBS</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd><ul>
+        <li>UMN：MS、腫瘤、B12 缺乏、ALS</li>
+        <li>LMN：周邊神經病變、poliomyelitis、ALS</li>
+        <li>肌肉：muscular dystrophy、inflammatory myopathy</li>
+        <li>單獨 areflexia：Miller Fisher syndrome</li></ul></dd>
+      <dt>檢查</dt><dd>萎縮、fasciculation、張力、DTR、Babinski、分節肌力 <a class="go" href="#motor">→ 03</a>；abdominal（T6–12）、cremasteric（L1–2）、anal wink／bulbocavernosus（S3–5） <a class="go" href="#reflex">→ 04</a>；問膀胱功能；步態（waddling、Trendelenburg）</dd>
+      <dt>關鍵</dt><dd>UMN：張力↑、反射↑、Babinski 上翹；LMN：萎縮、fasciculation、張力↓、反射↓；兩者都有 → ALS</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>Guillain-Barré syndrome</b>
+      <ul>
+        <li><b>支持</b>：雙側無力、由下往上進展；反射減弱或消失；感覺症狀相對輕；常有雙側顏面神經麻痺、自律神經失調；通常 2 週內達最嚴重</li>
+        <li><b>懷疑不是 GBS</b>：清楚的 sensory level、發病時就有膀胱或排便功能障礙、反射亢進或 clonus、Babinski 陽性、明顯持續的左右不對稱、24 小時內就達最嚴重、發病時發燒</li>
+        <li><b>床邊呼吸評估</b>：一口氣數不到 15；single breath count ≤19 預測需插管；<b>20/30/40 rule</b>：VC &lt;20 mL/kg、MIP &lt;30 cmH₂O、MEP &lt;40 cmH₂O</li>
+      </ul>
+      <span class="src">Leonhard SE, et al. Diagnosis and management of Guillain–Barré syndrome in ten steps. Nat Rev Neurol 2019;15:671–83</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">07</span>手腳麻<span class="hint">sensory</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>周邊神經病變（如第二型糖尿病）、myelopathy、神經根或周邊神經病灶、dorsal column 疾病（B12 缺乏、tabes dorsalis）</dd>
+      <dt>檢查</dt><dd>尖鈍、輕觸（monofilament）、震動、位置覺、溫度；依 dermatome 或神經支配區逐一檢查 <a class="go" href="#sensory">→ 06</a>；Romberg <a class="go" href="#gait">→ 08</a></dd>
+      <dt>關鍵</dt><dd>Romberg 陽性、指鼻睜眼明顯比閉眼好 → sensory 問題</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">08</span>腰痛放射到腳<span class="hint">radiculopathy · cauda equina</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>神經根壓迫：degenerative disk disease、spinal tumor、spinal epidural hematoma</dd>
+      <dt>檢查</dt><dd>SLR、crossed SLR <a class="go" href="#mening">→ 09</a>；tibialis anterior（L4–5）、gastrocnemius（S1–2） <a class="go" href="#motor">→ 03</a>；knee、posterior tibial（L5）、ankle、anal wink（S3–5） <a class="go" href="#reflex">→ 04</a>；腳跟走、腳尖走 <a class="go" href="#gait">→ 08</a></dd>
+      <dt>關鍵</dt><dd>抬腿 &lt;45° 就痛，往同側腿放射</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>Cauda equina syndrome red flags</b>
+      <ul>
+        <li>背痛或坐骨神經痛，合併任一項就要懷疑：<b>膀胱或排便功能異常</b>、<b>鞍區或生殖器感覺異常</b>、<b>雙側腿痛</b></li>
+        <li><b>理學檢查正常也不能排除</b> → 緊急 MRI、會診脊椎外科</li>
+      </ul>
+      <span class="src">British Association of Spine Surgeons 立場（經 MDDUS 轉述）；GIRFT National Suspected Cauda Equina Syndrome Pathway 2023。⚠️ 二手來源，原始文件未能取得全文</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">09</span>頭暈／眩暈<span class="hint">peripheral vs central</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd><ul>
+        <li>周邊：vestibular neuritis、labyrinthitis、Ménière、migraine、BPPV</li>
+        <li>中樞：中風（Wallenberg、小腦）、MS、中毒（phenytoin、PCP、鎮靜劑、抗癲癇藥、酒精）</li></ul></dd>
+      <dt>檢查</dt><dd>正中凝視找 spontaneous nystagmus、gaze-evoked、注視抑制 <a class="go" href="#nystagmus">→ 10</a>；head impulse test、Weber／Rinne <a class="go" href="#cn">→ 02</a>；Romberg、Unterberger <a class="go" href="#gait">→ 08</a>；指鼻、跟膝脛 <a class="go" href="#coord">→ 07</a></dd>
+      <dt>關鍵</dt><dd>純垂直／純水平、不能被注視抑制 → 中樞；水平＋旋轉、可被抑制、伴嘔吐 → 周邊</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>HINTS 與 BPPV 誘發測試</b>
+      <ul>
+        <li><b>HINTS</b>：只用在 acute vestibular syndrome（持續眩暈、<b>當下有眼振</b>）。任一項 → 考慮中風：<b>head impulse 正常</b>、<b>方向會改變的眼振</b>、<b>skew deviation</b>。原始研究敏感度 100%、特異度 96%，但為單一中心、高風險族群，且很依賴檢查者經驗</li>
+        <li><b>Dix-Hallpike</b>：誘發旋轉＋上跳眼振 → posterior canal BPPV；出現水平眼振或無眼振 → 加做 <b>supine roll</b> 看 lateral canal</li>
+      </ul>
+      <span class="src">Kattah JC, et al. Stroke 2009;40:3504–10 ／ Bhattacharyya N, et al. AAO-HNS Clinical Practice Guideline: BPPV (Update). Otolaryngol Head Neck Surg 2017;156(3 Suppl):S1–S47</span></div>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">10</span>走路不穩／跌倒<span class="hint">ataxia · gait</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>小腦疾病、急性酒精中毒；sensory ataxia（B12、tabes dorsalis、周邊神經病變）；前庭病變；Parkinson；gait apraxia（雙側額葉、腦血管疾病）；myopathy；foot drop</dd>
+      <dt>檢查</dt><dd>一般行走、tandem、Romberg、Unterberger、腳跟／腳尖走、Trendelenburg <a class="go" href="#gait">→ 08</a>；指鼻、跟膝脛、快速交替 <a class="go" href="#coord">→ 07</a>；張力 <a class="go" href="#tone">→ 05</a>；長者加 Timed Up and Go、Tinetti</dd>
+      <dt>關鍵</dt><dd>睜眼就晃 → 小腦；閉眼才晃 → 感覺；腳黏在地上（magnetic gait） → 額葉</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">11</span>腳抬不起來／拖腳<span class="hint">foot drop</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>單側：peroneal nerve palsy、L5 radiculopathy；雙側：ALS、CMT、糖尿病神經病變</dd>
+      <dt>檢查</dt><dd>腳跟走 <a class="go" href="#gait">→ 08</a>；tibialis anterior 肌力 <a class="go" href="#motor">→ 03</a>；posterior tibial reflex <a class="go" href="#reflex">→ 04</a>；SLR；感覺</dd>
+      <dt>關鍵</dt><dd>Steppage gait（抬高腳避免拖地）</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">12</span>抖／不自主動作<span class="hint">movement disorder</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd><ul>
+        <li>Rest tremor：Parkinson、dopamine antagonist</li>
+        <li>Intention tremor：小腦；postural tremor：essential tremor</li>
+        <li>Chorea、athetosis：Huntington、Sydenham；hemiballismus：subthalamic nucleus</li>
+        <li>Dystonia：Wilson 等；tic：Tourette</li></ul></dd>
+      <dt>檢查</dt><dd>分別在休息、維持姿勢、動作中觀察 <a class="go" href="#motor">→ 03</a>；指鼻 <a class="go" href="#coord">→ 07</a>；張力（cogwheel、lead pipe） <a class="go" href="#tone">→ 05</a>；步態</dd>
+      <dt>關鍵</dt><dd>Rest tremor 一動就改善</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">13</span>用藥後坐立不安<span class="hint">akathisia</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>Akathisia：metoclopramide、抗精神病藥、SSRI</dd>
+      <dt>檢查</dt><dd>觀察，並回頭查用藥史 <a class="go" href="#motor">→ 03</a></dd>
+      <dt>關鍵</dt><dd>急診最常見於打完 metoclopramide 之後</dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">14</span>看東西會晃／視力模糊<span class="hint">oscillopsia</span></summary><div class="body">
+    <dl>
+      <dt>懷疑</dt><dd>眼振造成 oscillopsia（病因同 09）；INO、Parinaud；myasthenia gravis（fatigue nystagmus）</dd>
+      <dt>檢查</dt><dd>視力、視野、眼球運動（paresis、saccade、smooth pursuit）、瞳孔、ptosis、眼底 <a class="go" href="#cn">→ 02</a>；眼振 <a class="go" href="#nystagmus">→ 10</a></dd>
+    </dl>
+  </div></details>
+
+  <details class="cc"><summary><span class="i">15</span>臉歪／臉麻<span class="hint">CN V · VII</span></summary><div class="body">
+    <dl>
+      <dt>檢查</dt><dd>CN V 三區、corneal reflex、CN VII 表情肌（皺額、緊閉眼、鼓頰、露齒）、味覺 <a class="go" href="#cn">→ 02</a></dd>
+      <dt>備註</dt><dd>AMBOSS 本篇只寫檢查方法，病因在〈Cranial nerve palsies〉</dd>
+    </dl>
+    <div class="ext"><span class="tag ext-t">補充</span> <b>中樞 vs 周邊、Bell's palsy</b>
+      <ul>
+        <li><b>前額也無力 → 周邊型</b>（整側臉）；<b>前額保留 → 中樞型</b>（對側下半臉），要想到中風</li>
+        <li>Bell's palsy 是排除性診斷：≥16 歲在 <b>72 小時內</b>給口服類固醇；眼睛閉不緊要做眼睛保護；不需常規抽血或影像；可在類固醇之外加 antiviral，但不單用 antiviral</li>
+      </ul>
+      <span class="src">RCEM Learning: Acute Facial Palsy — Clinical Assessment ／ Baugh RF, et al. AAO-HNS Clinical Practice Guideline: Bell's Palsy. Otolaryngol Head Neck Surg 2013;149(3 Suppl):S1–S27</span></div>
+  </div></details>
+</section>
+
+<!-- ===================== 01 MENTAL ===================== -->
+<section class="card" id="mental">
+  <h2 class="sec"><span class="no">01</span>意識狀態與語言<span class="en">Mental Status &amp; Aphasia</span></h2>
+
+  <h3>Mental status 八個面向</h3>
+  <p>大多從問診與觀察中就能評估，不必另外安排時間：</p>
+  <div class="tw"><table>
+    <tbody>
+      <tr><td>外觀與行為 <span class="en-t">Appearance &amp; behavior</span></td><td>感知與認知 <span class="en-t">Sensorium &amp; cognition</span></td></tr>
+      <tr><td>情緒與情感 <span class="en-t">Mood &amp; affect</span></td><td>言語 <span class="en-t">Speech</span></td></tr>
+      <tr><td>思考歷程 <span class="en-t">Thought process</span></td><td>思考內容 <span class="en-t">Thought content</span></td></tr>
+      <tr><td>知覺障礙 <span class="en-t">Perceptual disturbances</span></td><td>病識感與判斷 <span class="en-t">Insight &amp; judgment</span></td></tr>
+    </tbody></table></div>
+  <div class="co clin"><span class="t">急診重點</span><p>急診只需要聚焦在<b>定向感</b>與<b>意識程度</b>，用標準化量表（例如 GCS）記錄，方便後續比較。</p></div>
+
+  <h3>Aphasia：三個問題分出八型</h3>
+  <p>Aphasia 是<b>形成或理解語言</b>的障礙，不是講話肌肉的問題；病灶在 dominant hemisphere（通常左側）。床邊依序問三件事：<b>講話流暢嗎？聽得懂嗎？能複誦嗎？</b></p>
+
+  <div class="tree">
+    <div class="q">① 流暢度 Fluency</div>
+    <div class="col-h flu nf">Nonfluent 不流暢</div><div class="col-h flu f">Fluent 流暢</div>
+    <div class="q">② 理解 Comprehension　③ 複誦 Repetition</div>
+    <div class="node nf"><b>Broca</b>理解 ✓　複誦 ✗</div>
+    <div class="node nf"><b>Transcortical motor</b>理解 ✓　複誦 ✓</div>
+    <div class="node f"><b>Conduction</b>理解 ✓　複誦 ✗</div>
+    <div class="node f"><b>Anomic</b>只有找字困難</div>
+    <div class="node nf"><b>Global</b>理解 ✗　近乎無語</div>
+    <div class="node nf"><b>Transcortical mixed</b>理解 ✗　複誦 ✓</div>
+    <div class="node f"><b>Wernicke</b>理解 ✗　複誦 ✗</div>
+    <div class="node f"><b>Transcortical sensory</b>理解 ✗　複誦 ✓</div>
+  </div>
+
+  <div class="tw"><div class="cap">各型 aphasia 的病灶與特徵</div><table>
+    <thead><tr><th>類型</th><th>病灶位置</th><th>流暢</th><th>臨床特徵</th></tr></thead>
+    <tbody>
+      <tr><th>Broca<br><small>motor / expressive</small></th><td>Broca area（inferior frontal gyrus）</td><td><span class="tag bad">Nonfluent</span></td>
+        <td><ul><li>電報式、文法錯誤的語句</li><li>理解大致保留（複雜句子可能吃力）</li><li>病人<b>知道</b>自己講不好，常感到挫折</li><li>複誦受損</li></ul></td></tr>
+      <tr><th>Wernicke<br><small>sensory / receptive</small></th><td>Wernicke area（superior temporal gyrus）</td><td><span class="tag ok">Fluent</span></td>
+        <td><ul><li>講得很流暢但沒有意義：paraphasia、neologism、word salad</li><li>理解受損，病人<b>不自覺</b></li><li>複誦受損；讀寫常嚴重受損</li></ul></td></tr>
+      <tr><th>Global</th><td>Broca＋Wernicke＋arcuate fasciculus</td><td><span class="tag bad">Nonfluent</span></td>
+        <td>表達與理解都嚴重受損，可能完全不說話或只發出聲音</td></tr>
+      <tr><th>Conduction<br><small>associative</small></th><td>Parietal lobe 的 arcuate fasciculus</td><td><span class="tag ok">Fluent</span></td>
+        <td>理解與表達大致正常；<b>複誦受損</b>，會替換或顛倒音節並自己嘗試修正</td></tr>
+      <tr><th>Anomic</th><td>通常無法精確定位</td><td><span class="tag ok">Fluent</span></td>
+        <td>單純找字困難，找不到詞時會繞著講（paraphrasing）</td></tr>
+      <tr class="grp"><td colspan="4">Transcortical 系列：共同點是<b>複誦保留</b></td></tr>
+      <tr><th>Transcortical motor</th><td>Frontal lobe 的 supplementary motor area，Broca area 本身完好（也可見於 Broca aphasia 恢復期）</td><td><span class="tag bad">Nonfluent</span></td>
+        <td>難以啟動說話、難以組織自己的句子；理解與複誦保留</td></tr>
+      <tr><th>Transcortical sensory</th><td>Temporal lobe 多處，Wernicke area 本身完好</td><td><span class="tag ok">Fluent</span></td>
+        <td>表達與理解都差、paraphrasing 出錯；複誦保留</td></tr>
+      <tr><th>Transcortical mixed</th><td>Broca、Wernicke、arcuate fasciculus 完好，周邊 watershed area 受損</td><td><span class="tag bad">Nonfluent</span></td>
+        <td>口語與書面理解都差</td></tr>
+    </tbody></table></div>
+  <div class="co mem"><span class="t">記憶法</span>
+    <ul><li><b>Br</b>oca 的區域 <b>br</b>oken 了</li><li><b>W</b>ernicke 講的是 <b>W</b>ord salad</li><li><b>C</b>onduction aphasia 壞的是 ar<b>C</b>uate fasciculus</li></ul></div>
+</section>
+
+<!-- ===================== 02 CN ===================== -->
+<section class="card" id="cn">
+  <h2 class="sec"><span class="no">02</span>腦神經檢查<span class="en">Cranial Nerves I–XII</span></h2>
+
+  <div class="tw"><div class="cap">CN I–XII：測什麼、怎麼測</div><table>
+    <thead><tr><th style="width:120px">神經</th><th style="width:150px">測什麼</th><th>怎麼做／正常反應</th></tr></thead>
+    <tbody>
+      <tr><th>I Olfactory</th><td>嗅覺</td><td>壓住一側鼻孔、閉眼、反覆嗅聞非刺激性氣味（香草、檸檬、咖啡）；兩側分開測，請病人說何時聞到、是什麼味道</td></tr>
+      <tr class="grp"><td colspan="3">II Optic</td></tr>
+      <tr><th></th><td>視力 <span class="en-t">Visual acuity</span></td><td>Snellen chart 單眼測，用眼鏡或 pinhole 矯正屈光</td></tr>
+      <tr><th></th><td>色覺</td><td>Ishihara plates（雙眼）</td></tr>
+      <tr><th></th><td>視野 <span class="en-t">Confrontation</span></td><td>面對病人相距 0.6–1 m，雙手放在兩人視野邊緣中點；請病人盯著你的臉，說出哪一側（或兩側）手指在動；上下象限、左右兩側都要測。精確檢查用 perimetry</td></tr>
+      <tr><th></th><td>眼底 <span class="en-t">Fundoscopy</span></td><td>Optic disc：顏色、大小、腫脹與隆起程度；retina：顏色、質地、血管（粗細、出血、滲出）</td></tr>
+      <tr><th></th><td>瞳孔光反射</td><td>光照一眼 → 兩眼都應迅速收縮（consensual）。正常 <b>isocoric、2–8 mm</b></td></tr>
+      <tr class="grp"><td colspan="3">III Oculomotor · IV Trochlear · VI Abducens</td></tr>
+      <tr><th></th><td>眼球運動</td><td><ul><li><b>Saccade</b>：在兩根相距較遠的手指間來回看</li><li><b>Smooth pursuit</b>：追著手指上下、左右、斜向移動</li><li>觀察：一眼或兩眼不動（paresis）、追視中斷成 saccade、<b>nystagmus</b>（方向、單眼或雙眼）</li></ul></td></tr>
+      <tr><th></th><td>調節 <span class="en-t">Accommodation</span></td><td>手指往病人眼前靠近 → 瞳孔收縮</td></tr>
+      <tr><th></th><td>眼瞼下垂 <span class="en-t">Ptosis</span></td><td>請病人睜眼閉眼（levator palpebrae superioris）</td></tr>
+      <tr class="grp"><td colspan="3">V Trigeminal</td></tr>
+      <tr><th></th><td>臉部感覺</td><td>輕觸額頭、臉頰、下巴三區（V1／V2／V3）；若有異常，再於同區測痛覺、溫度覺</td></tr>
+      <tr><th></th><td>咀嚼肌</td><td>張口閉口，同時看 masseter 是否不對稱、觸診是否壓痛</td></tr>
+      <tr class="grp"><td colspan="3">VII Facial</td></tr>
+      <tr><th></th><td>表情肌</td><td>皺額頭 → 緊閉眼 → 皺鼻 → 鼓頰 → 露齒笑</td></tr>
+      <tr><th></th><td>味覺</td><td>甜、鹹、酸</td></tr>
+      <tr class="grp"><td colspan="3">VIII Vestibulocochlear</td></tr>
+      <tr><th></th><td>聽力</td><td>在耳道口搓手指；Weber、Rinne 區分 sensorineural 與 conductive hearing loss</td></tr>
+      <tr><th></th><td>前庭眼反射 <span class="en-t">VOR</span></td><td>Head impulse test（亦可用 caloric 刺激，見 §10）</td></tr>
+      <tr><th></th><td>平衡</td><td>Romberg、heel-to-toe walking、Unterberger（見 §8）；Timed Up and Go；Tinetti test（坐、站、轉 360°、行走、轉身，多用於長者）</td></tr>
+      <tr class="grp"><td colspan="3">IX Glossopharyngeal · X Vagus</td></tr>
+      <tr><th></th><td>軟顎運動</td><td>張口說「啊」（可用壓舌板）→ 軟顎與 uvula 應對稱、不偏</td></tr>
+      <tr><th></th><td>IX：味覺</td><td>苦味</td></tr>
+      <tr><th></th><td>X：發聲</td><td>Recurrent laryngeal nerve 完好則無聲音沙啞、無 bovine cough</td></tr>
+      <tr><th>XI Accessory</th><td>Trapezius ＋ SCM</td><td>對抗阻力聳肩（trapezius）；對抗阻力轉頭（SCM）</td></tr>
+      <tr><th>XII Hypoglossal</th><td>舌肌</td><td>舌頭從內側頂臉頰，檢查者從外面推測力量；伸舌應對稱、不偏</td></tr>
+    </tbody></table></div>
+
+  <h3>腦神經反射</h3>
+  <div class="tw"><table>
+    <thead><tr><th>反射</th><th>Afferent</th><th>Efferent</th><th>做法</th><th>正常反應</th></tr></thead>
+    <tbody>
+      <tr><th>Pupillary</th><td>II</td><td>III</td><td>先看靜止大小形狀，再輪流照光看 direct／indirect</td><td>瞳孔收縮</td></tr>
+      <tr><th>Corneal</th><td>V1</td><td>VII</td><td>乾淨軟物（棉花、面紙）輕觸角膜</td><td>閉眼（orbicularis oculi）</td></tr>
+      <tr><th>Conjunctival</th><td>V1</td><td>VII</td><td>輕觸結膜</td><td>閉眼</td></tr>
+      <tr><th>Lacrimation</th><td>V1</td><td>VII</td><td>輕觸結膜</td><td>流淚</td></tr>
+      <tr><th>Jaw jerk</th><td>V3</td><td>V3</td><td>微張口，手指放下巴，以反射槌敲手指</td><td>下顎輕微上抬</td></tr>
+      <tr><th>Gag</th><td>IX</td><td>X</td><td>壓舌板碰咽後壁</td><td>軟顎上抬</td></tr>
+      <tr><th>Cough</th><td>X</td><td>X、phrenic、spinal nerves</td><td>不常規檢查</td><td>咳嗽</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 03 MOTOR ===================== -->
+<section class="card" id="motor">
+  <h2 class="sec"><span class="no">03</span>運動功能：外觀與肌力<span class="en">Motor — Appearance &amp; Power</span></h2>
+  <p>運動檢查四大項：<b>外觀、肌力、張力、反射</b>。目的是量化無力程度，並區分<b>中樞（UMN）</b>或<b>周邊（LMN）</b>病灶。</p>
+
+  <h3>UMN vs LMN</h3>
+  <div class="tw"><table>
+    <thead><tr><th></th><th>UMN lesion</th><th>LMN lesion</th></tr></thead>
+    <tbody>
+      <tr><th>病灶範圍</th><td>下行運動路徑（corticospinal／corticobulbar tract），位於 anterior horn cell 或腦神經運動核<b>以上</b>（如 motor cortex、brainstem）</td><td>從 anterior horn 到肌肉之間的任何一段神經纖維</td></tr>
+      <tr><th>肌肉外觀</th><td>無萎縮、無 fasciculation</td><td><b>萎縮、fasciculation</b></td></tr>
+      <tr><th>型態</th><td><b>Spastic paresis</b>：張力 <span class="up">↑</span>（clasp-knife）、spasticity、clonus；肌群無力；<b>反射亢進</b></td><td><b>Flaccid paresis</b>：張力 <span class="down">↓</span>；單一肌肉無力；<b>反射低下／消失</b></td></tr>
+      <tr><th>膀胱</th><td>Detrusor hyperreflexia、detrusor-sphincter dyssynergia</td><td>Overflow incontinence</td></tr>
+      <tr><th>Babinski</th><td><span class="tag bad">Upgoing</span> 大拇趾上翹、其餘腳趾扇形張開</td><td><span class="tag ok">Downgoing</span> 腳趾不動或往下</td></tr>
+      <tr><th>常見病因</th><td>MS、腫瘤、中風、B12 缺乏、ALS</td><td>周邊神經病變、poliomyelitis、ALS</td></tr>
+    </tbody></table>
+    <div class="foot">ALS 同時有 UMN 與 LMN 表現。</div></div>
+  <div class="co mem"><span class="t">記憶法</span><p><b>LOW</b>er motor neuron：肌肉量、張力、肌力、反射全部 <b>LOW</b>。<b>UP</b>per motor neuron：張力、反射、腳趾（Babinski）全部 <b>UP</b>。</p></div>
+
+  <h3>外觀：看什麼</h3>
+  <ul>
+    <li><b>Fasciculation</b>：單一 motor unit 內肌束不同步的自發收縮。多半良性，但也可能代表 LMN 病灶。</li>
+    <li><b>萎縮或肥大</b>：兩側測量比較。ALS 等 LMN 疾病常先影響手部 intrinsic muscles。</li>
+    <li><b>異常姿勢</b>，以及精神相關的動作異常：catatonia、catalepsy（僵直不動、對外界無反應）、grossly disorganized behavior、motor stereotypies（節律重複動作）。</li>
+  </ul>
+
+  <div class="tw"><div class="cap">不自主運動一覽</div><table>
+    <thead><tr><th>類型</th><th>描述</th><th>常見原因</th></tr></thead>
+    <tbody>
+      <tr><th>Myoclonus</th><td>肌肉突然、不自主的抽動（收縮或抑制造成）</td><td>代謝異常（uremia）、CJD、缺氧後、癲癇症候群（JME、Lennox-Gastaut）、生理性（打嗝、入睡抽動）</td></tr>
+      <tr><th>Asterixis</th><td>持續收縮時張力突然消失（negative myoclonus）。<b>做法</b>：雙手平舉、閉眼、手腕背屈、手指張開 → 無法維持，出現拍打樣動作</td><td>Hepatic encephalopathy、uremic encephalopathy、hypercapnia</td></tr>
+      <tr><th>Akathisia</th><td>主觀坐立不安、無法靜止</td><td>藥物：dopamine antagonist（抗精神病藥、metoclopramide）、SSRI</td></tr>
+      <tr><th>Athetosis</th><td>手指、手、腳緩慢扭動（較少見於手臂、腿、頸）</td><td rowspan="2">Striatum 病灶、Huntington disease、Sydenham chorea</td></tr>
+      <tr><th>Chorea</th><td>四肢與軀幹持續、不規則的動作</td></tr>
+      <tr><th>Dystonia</th><td>肌群持續收縮，造成異常姿勢、震顫或兩者皆有</td><td>原發（blepharospasm）、task-specific（writer's cramp）、遺傳（DYT1）、退化性（Huntington）、代謝（Wilson）、缺氧或結構性腦傷</td></tr>
+      <tr><th>Rest tremor</th><td>肌肉放鬆時出現，pill-rolling，<b>動作時改善</b></td><td>Parkinson disease、dopamine antagonist</td></tr>
+      <tr><th>Intention tremor</th><td>低頻，接近目標時才出現（如伸手拿杯子）</td><td>Cerebellar hemisphere 病灶</td></tr>
+      <tr><th>Postural tremor</th><td>對抗重力維持姿勢時出現（如雙手平舉）</td><td>Essential tremor</td></tr>
+      <tr><th>Ballismus</th><td>大幅度甩動或踢動，通常單側（hemiballismus）</td><td>Subthalamic nucleus 病灶</td></tr>
+      <tr><th>Tic</th><td>突然、非節律的動作或發聲；之前有強烈衝動，可暫時壓抑</td><td>Tourette syndrome、Sydenham chorea、Huntington disease</td></tr>
+    </tbody></table></div>
+
+  <h3>肌力分級 <span class="en-t" style="font-weight:500;color:var(--muted);font-size:.85rem">MRC scale</span></h3>
+  <p>請病人對抗阻力屈曲與伸展肢體，<b>一定兩側比較</b>。</p>
+  <div class="ladder">
+    <div class="bad"><div class="g">0</div><div class="d">完全不收縮</div></div>
+    <div class="bad"><div class="g">1</div><div class="d">只有微弱收縮跡象</div></div>
+    <div class="bad"><div class="g">2</div><div class="d">排除重力下能動</div></div>
+    <div><div class="g">3</div><div class="d">能對抗重力</div></div>
+    <div><div class="g">4</div><div class="d">能對抗重力＋中等阻力</div></div>
+    <div><div class="g">5</div><div class="d">正常，能對抗完整阻力</div></div>
+  </div>
+  <p><b>無力分佈</b>：quadriparesis（四肢）、hemiparesis（半側）、paraparesis（雙下肢）、monoparesis（單一肢體）。</p>
+
+  <h3>抓輕微無力的兩個測試</h3>
+  <div class="vs">
+    <div><div class="h">Pronator drift test</div>
+      <ul><li>雙手平舉到肩高、<b>掌心朝上</b>、閉眼 30 秒</li>
+        <li>陽性：兩側不對稱的旋前與飄移</li>
+        <li><b>旋前＋往下飄 → UMN</b></li>
+        <li><b>旋前＋往上飄 → cerebellar</b></li></ul></div>
+    <div><div class="h">Mingazzini test</div>
+      <ul><li>平躺、閉眼，雙腿抬起，<b>髖與膝各 90°</b>，維持 30 秒</li>
+        <li>陽性：一腳往下掉 → 輕微 paresis</li></ul></div>
+  </div>
+
+  <div class="tw"><div class="cap">分節肌力檢查（神經根／周邊神經）</div><table>
+    <thead><tr><th>肌肉</th><th>神經根（神經）</th><th>動作</th></tr></thead>
+    <tbody>
+      <tr class="grp"><td colspan="3">上肢</td></tr>
+      <tr><th>Deltoid</th><td>C5–C6（axillary）</td><td>上臂外展到水平</td></tr>
+      <tr><th>Biceps brachii</th><td>C5–C7（musculocutaneous）</td><td>屈肘</td></tr>
+      <tr><th>Triceps brachii</th><td>C6–C8（radial）</td><td>伸肘</td></tr>
+      <tr><th>Flexor carpi ulnaris</th><td>C8–T1（ulnar）</td><td>手腕掌屈</td></tr>
+      <tr><th>Extensor carpi radialis</th><td>C5–C8（radial）</td><td>手腕背屈</td></tr>
+      <tr><th>Abductor pollicis brevis</th><td>C8–T1（median）</td><td>拇指外展</td></tr>
+      <tr><th>Interossei</th><td>C8–T1（ulnar deep branch）</td><td>手指外展</td></tr>
+      <tr class="grp"><td colspan="3">下肢</td></tr>
+      <tr><th>Iliopsoas</th><td>L1–L3（femoral）</td><td>屈髖</td></tr>
+      <tr><th>Quadriceps femoris</th><td>L2–L4（femoral）</td><td>伸膝</td></tr>
+      <tr><th>Hamstrings</th><td>L5–S2（sciatic）</td><td>屈膝</td></tr>
+      <tr><th>Tibialis anterior</th><td>L4–L5（deep peroneal）</td><td>足背屈</td></tr>
+      <tr><th>Gastrocnemius</th><td>S1–S2（tibial）</td><td>足蹠屈</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 04 REFLEX ===================== -->
+<section class="card" id="reflex">
+  <h2 class="sec"><span class="no">04</span>反射<span class="en">Reflexes</span></h2>
+
+  <h3>Deep tendon reflex（DTR）</h3>
+  <p>Tendon reflex 是<b>單突觸</b>的牽張反射（一個感覺神經元＋一個運動神經元），用來確認這條感覺—運動迴路是否完整。檢查時病人要放鬆。</p>
+  <div class="vs">
+    <div><div class="h">反射 <span class="up">↑</span></div>UMN 問題</div>
+    <div><div class="h">反射 <span class="down">↓</span></div>LMN、neuromuscular junction 或肌肉問題</div>
+  </div>
+  <div class="co pearl"><span class="t">敲不出來時</span><p>用 reinforcement（如 <b>Jendrassik maneuver</b>）再試一次。長者下肢反射減弱或消失可能是正常老化。</p></div>
+
+  <div class="tw"><div class="cap">DTR 怎麼敲</div><table>
+    <thead><tr><th>神經根</th><th>反射</th><th>做法</th></tr></thead>
+    <tbody>
+      <tr class="grp"><td colspan="3">上肢</td></tr>
+      <tr><th>C5–C6</th><td>Biceps</td><td>拇指壓在 biceps tendon 上，敲自己的拇指，看前臂動作</td></tr>
+      <tr><th>C5–C6</th><td>Brachioradialis</td><td>敲橈骨遠端，前臂屈曲</td></tr>
+      <tr><th>C7–C8</th><td>Triceps</td><td>托住上臂讓前臂自然垂成 90°，敲 triceps tendon → 伸肘</td></tr>
+      <tr class="grp"><td colspan="3">下肢</td></tr>
+      <tr><th>L2–L4</th><td>Adductor</td><td>敲股骨 medial epicondyle 上的肌腱</td></tr>
+      <tr><th>L2–L4</th><td>Knee</td><td>膝微彎，敲髕骨下方肌腱 → 伸膝</td></tr>
+      <tr><th>L5</th><td>Posterior tibial</td><td>敲內踝上方或下方的 tibialis posterior → 足內翻</td></tr>
+      <tr><th>S1–S2</th><td>Ankle</td><td>敲 Achilles tendon → 足蹠屈；也可敲前腳掌底面</td></tr>
+    </tbody></table></div>
+
+  <h3>DTR 分級</h3>
+  <div class="ladder g5">
+    <div class="bad"><div class="g">0</div><div class="d">加強也敲不出（areflexia）。<b>異常</b></div></div>
+    <div><div class="g">1+</div><div class="d">有但弱，或要加強才出現</div></div>
+    <div><div class="g">2+</div><div class="d">Brisk，<b>正常</b></div></div>
+    <div><div class="g">3+</div><div class="d">Very brisk（hyperreflexia）</div></div>
+    <div class="bad"><div class="g">4+</div><div class="d">重複出現（clonus）。<b>異常</b></div></div>
+  </div>
+  <div class="tw"><table>
+    <thead><tr><th style="width:70px">分級</th><th>怎麼解讀</th></tr></thead>
+    <tbody>
+      <tr><th>0</th><td>合併無力與張力低下 → LMN／周邊神經病灶。單獨 areflexia 可見於 <b>Miller Fisher syndrome</b></td></tr>
+      <tr><th>1+ / 3+</th><td><b>可以是正常</b>，前提是沒有：① 兩側明顯不對稱 ② 上下肢差異 ③ 同區域其他 LMN（1+）或 UMN（3+）徵象</td></tr>
+      <tr><th>4+</th><td>合併無力、張力上升、病理反射 → UMN 病灶</td></tr>
+    </tbody></table></div>
+  <div class="co mem"><span class="t">記憶法：數到八</span>
+    <p><b>S1–S2</b> buckle my shoe（ankle）· <b>L2–L4</b> kick the door（knee）· <b>C5–C6</b> pick up sticks（biceps、brachioradialis）· <b>C7–C8</b> lay them straight（triceps）</p></div>
+
+  <h3>Superficial reflex</h3>
+  <p><b>多突觸</b>反射，由刺激皮膚引發。有收縮＝正常；減弱或消失＝LMN 或反射弧受損。</p>
+  <div class="tw"><table>
+    <thead><tr><th>神經根</th><th>反射</th><th>做法與正常反應</th></tr></thead>
+    <tbody>
+      <tr><th>T6–T12</th><td>Abdominal</td><td>平躺，由外往內輕劃腹壁三處：肋弓下、肚臍旁、腹股溝韌帶上 → 腹肌收縮；消失代表神經根受損</td></tr>
+      <tr><th>L1–L2</th><td>Cremasteric</td><td>輕劃大腿內側 → 同側睪丸上提</td></tr>
+      <tr><th>S3–S5</th><td>Anal wink</td><td>輕劃肛門周圍皮膚 → 肛門括約肌收縮</td></tr>
+      <tr><th>S3–S5</th><td>Bulbocavernosus</td><td>捏 glans penis 或 clitoris → 骨盆底肌收縮</td></tr>
+    </tbody></table></div>
+  <div class="co mem"><span class="t">記憶法</span><p><b>L1–L2</b> testicle move（cremasteric）· <b>S3–S5</b> winking by（anal wink）</p></div>
+
+  <h3>Corticospinal tract sign（病理反射）</h3>
+  <p>代表 pyramidal tract 受損。嬰兒有是正常的，<b>成人出現就是病理</b>。<b>Babinski sign 最常見、也最可靠。</b></p>
+  <div class="tw"><table>
+    <thead><tr><th>Sign</th><th>做法</th><th>陽性</th></tr></thead>
+    <tbody>
+      <tr class="grp"><td colspan="3">上肢</td></tr>
+      <tr><th>Trömner</th><td>托住病人手（與近端指節同高），從掌側敲放鬆的中指末節</td><td>被敲手指末節與拇指明顯屈曲，或兩手明顯不對稱</td></tr>
+      <tr><th>Hoffmann</th><td>鬆鬆握住病人手，把中指指甲往下彈，讓它反彈上來</td><td>同手拇指和／或食指快速屈曲內收</td></tr>
+      <tr class="grp"><td colspan="3">下肢</td></tr>
+      <tr><th>Babinski</th><td>用反射槌柄沿腳底<b>外側</b>劃</td><td rowspan="4">大拇趾背屈上翹、其餘腳趾扇形張開。<br><b>2 歲以下</b>上翹屬生理性；<b>只有大拇趾動</b>＝無法判定</td></tr>
+      <tr><th>Gordon</th><td>擠壓小腿肌肉</td></tr>
+      <tr><th>Oppenheim</th><td>沿脛骨前緣往下劃</td></tr>
+      <tr><th>Schaeffer</th><td>捏 Achilles tendon</td></tr>
+    </tbody></table></div>
+
+  <h3>Primitive reflex</h3>
+  <p>新生兒與嬰兒正常存在；成人出現時，可能代表因失去抑制而顯現的<b>瀰漫性腦傷</b>。</p>
+</section>
+
+<!-- ===================== 05 TONE ===================== -->
+<section class="card" id="tone">
+  <h2 class="sec"><span class="no">05</span>張力與 Clonus<span class="en">Tone</span></h2>
+  <p>張力＝肌肉對<b>被動牽拉</b>的阻力。做法是被動活動肢體：</p>
+  <ul>
+    <li><b>上肢</b>：肘關節完整屈伸 → 肘 90° 下前臂旋前旋後 → 手腕屈伸並左右扭轉</li>
+    <li><b>下肢</b>：平躺放鬆，把腿左右滾動</li>
+  </ul>
+
+  <div class="tw"><div class="cap">張力異常的四種型態</div><table>
+    <thead><tr><th>型態</th><th>特徵</th><th>代表</th></tr></thead>
+    <tbody>
+      <tr><th>Spasticity</th><td><b>速度依賴</b>：動得越快越緊。<b>Clasp-knife</b>：一開始阻力大，突然鬆掉</td><td>Pyramidal tract 病灶</td></tr>
+      <tr><th>Rigidity</th><td><b>不依賴速度</b>。<br><b>Lead pipe</b>：整個活動範圍阻力恆定<br><b>Cogwheel</b>：被動屈伸時一頓一頓，像齒輪</td><td>Extrapyramidal system 異常</td></tr>
+      <tr><th>Hypotonia</th><td>張力下降</td><td>周邊神經病變、LMN 病灶（如 SMA）、小腦病灶</td></tr>
+      <tr><th>Paratonia</th><td>病人不自主地對抗（<b>oppositional</b>，看起來張力↑）或幫忙（<b>facilitatory</b>，看起來張力↓），整段不均勻。越快、越用力、越叫他放鬆反而越明顯</td><td>Frontal lobe 功能異常（外傷、中風、腫瘤、FTD 等）</td></tr>
+    </tbody></table></div>
+
+  <h3>Clonus 怎麼誘發</h3>
+  <ul>
+    <li><b>Patellar</b>：拇指與食指夾住髕骨，快速往遠端推並維持</li>
+    <li><b>Foot（ankle）</b>：膝、踝都在 90°，用力讓足背屈並稍外翻，持續施壓、反覆幾次</li>
+    <li><b>Wrist</b>：讓手腕過度伸展</li>
+  </ul>
+  <div class="co warn"><span class="t">Clonus ≠ Myoclonus</span>
+    <p><b>Clonus</b>：有節律、同一肌群反覆收縮放鬆。<b>Myoclonus</b>：沒有節律、突然抽一下，多與代謝異常有關（如腎衰竭、肝衰竭）。</p></div>
+
+  <h3>Modified Ashworth Scale</h3>
+  <div class="tw"><table>
+    <thead><tr><th style="width:60px">分級</th><th>描述</th></tr></thead>
+    <tbody>
+      <tr><th>0</th><td>張力沒有增加</td></tr>
+      <tr><th>1</th><td>輕微增加，只在活動範圍末端有些許阻力</td></tr>
+      <tr><th>1+</th><td>輕微增加，出現 catch 後在剩下（不到一半）的範圍持續有阻力</td></tr>
+      <tr><th>2</th><td>大部分範圍張力明顯增加，但仍容易被動活動</td></tr>
+      <tr><th>3</th><td>張力顯著增加，被動活動困難</td></tr>
+      <tr><th>4</th><td>僵直在屈曲或伸展位</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 06 SENSORY ===================== -->
+<section class="card" id="sensory">
+  <h2 class="sec"><span class="no">06</span>感覺<span class="en">Sensory Function</span></h2>
+  <p>感覺是主觀的，結果高度依賴病人準確回報。懷疑神經根病灶時逐一檢查 dermatome；懷疑周邊神經時檢查該神經支配區。</p>
+
+  <div class="tw"><div class="cap">各種感覺的路徑與測法</div><table>
+    <thead><tr><th>感覺</th><th>路徑</th><th>怎麼測</th></tr></thead>
+    <tbody>
+      <tr><th>Dull（鈍）</th><td>Dorsal column</td><td>棉棒、壓舌板鈍端，碰觸懷疑病灶區（如糖尿病人的手腳）</td></tr>
+      <tr><th>Sharp／Pain（尖、痛）</th><td>Spinothalamic tract</td><td>無菌安全別針、折斷的壓舌板、牙籤</td></tr>
+      <tr><th>Light touch</th><td>Dorsal column</td><td>兩側對稱位置輪流碰觸比較；可用 <b>monofilament</b> 定量</td></tr>
+      <tr><th>Vibration（pallesthesia）</th><td>Dorsal column</td><td>音叉敲響後放在骨突（如內踝），請病人說何時停止震動</td></tr>
+      <tr><th>Proprioception（位置覺）</th><td>Dorsal column</td><td>捏住大拇趾或拇指末節<b>兩側</b>上下移動，閉眼說出方向</td></tr>
+      <tr><th>Temperature</th><td>Spinothalamic tract</td><td>冷水試管與溫水試管輪流放在前臂或小腿</td></tr>
+    </tbody>
+    </table><div class="foot">潛意識的本體感覺走 spinocerebellar tract。</div></div>
+
+  <div class="tw"><div class="cap">異常感覺用語</div><table>
+    <thead><tr><th>名詞</th><th>意思</th></tr></thead>
+    <tbody>
+      <tr><th>Paresthesia</th><td>自發的異常感覺（刺麻、針扎感）</td></tr>
+      <tr><th>Dysesthesia</th><td>中性刺激引起不舒服的異常感覺（癢、燒、痛、電擊感）</td></tr>
+      <tr><th>　Allodynia</th><td>Dysesthesia 的一種：本來不痛的刺激變成痛</td></tr>
+      <tr><th>　Hyperesthesia</th><td>Dysesthesia 的一種：感覺被放大</td></tr>
+      <tr><th>Hypesthesia</th><td>感覺減退（最嚴重＝anesthesia）</td></tr>
+      <tr><th>Hypoalgesia／Hyperalgesia</th><td>對痛刺激敏感度下降／上升</td></tr>
+      <tr><th>Pallhypesthesia</th><td>震動覺減退或消失（外傷、周邊神經病變、myelopathy）</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 07 COORD ===================== -->
+<section class="card" id="coord">
+  <h2 class="sec"><span class="no">07</span>協調<span class="en">Coordination</span></h2>
+  <p>協調需要<b>小腦、基底核、本體感覺輸入、足夠肌力</b>一起運作。主要找的是 <b>limb ataxia</b>，最常來自 cerebellar hemisphere 病灶。</p>
+
+  <div class="tw"><table>
+    <thead><tr><th>測試</th><th>做法</th><th>異常與意義</th></tr></thead>
+    <tbody>
+      <tr><th>Finger-to-nose</th><td>食指碰自己鼻尖。<b>睜眼、閉眼各做一次</b></td><td rowspan="2">
+        <ul><li><b>Dysmetria</b>：碰不準</li>
+        <li><b>睜眼明顯變好</b> → 視覺在代償 → 感覺（本體覺）問題</li>
+        <li><b>Intention tremor</b>：快到鼻子才開始抖</li>
+        <li><b>Kinetic tremor</b>：整段動作都在抖</li></ul></td></tr>
+      <tr><th>Finger-to-finger</th><td>盡快在自己鼻尖與檢查者手指間來回</td></tr>
+      <tr><th>Heel-knee-shin</th><td>腳跟碰對側膝蓋，再沿脛骨往下滑</td><td>腳跟左右偏離 → dysmetria、limb ataxia</td></tr>
+      <tr><th>Rapid alternating movement</th><td>雙手快速「轉大燈泡」</td><td><b>Dysdiadochokinesia</b>：慢、不協調</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 08 GAIT ===================== -->
+<section class="card" id="gait">
+  <h2 class="sec"><span class="no">08</span>步態<span class="en">Gait Assessment</span></h2>
+  <p>走路需要感覺、運動（含反射）、小腦、前庭一起運作。觀察：<b>姿勢</b>（基底寬窄、手臂擺動）、<b>步伐</b>（長度、速度、節律）、<b>穩定度</b>、<b>轉身</b>。</p>
+
+  <div class="tw"><div class="cap">床邊步態測試</div><table>
+    <thead><tr><th>測試</th><th>做法</th><th>解讀</th></tr></thead>
+    <tbody>
+      <tr><th>一般行走</th><td>往前、往後走幾步</td><td>正常：穩定、手臂自然擺動</td></tr>
+      <tr><th>Heel-to-toe（tandem）</th><td>一腳緊接另一腳前，像走鋼索</td><td>做不到 → gait ataxia（前庭、感覺或小腦）</td></tr>
+      <tr><th>腳跟走路</th><td>用腳跟走</td><td>做不到 → deep fibular nerve 病灶或周邊神經病變</td></tr>
+      <tr><th>腳尖走路</th><td>用腳尖走</td><td>做不到 → tibial nerve 病灶或周邊神經病變</td></tr>
+      <tr><th>Romberg</th><td>雙腳併攏、雙手抬起、<b>閉眼</b></td><td>
+        <ul><li><span class="tag bad">Positive</span> 閉眼後開始晃或晃更多 → <b>sensory ataxia</b></li>
+        <li>閉眼後傾向某一側倒 → 可能前庭問題；單側前庭病變<b>倒向病灶側</b></li>
+        <li><span class="tag mid">睜眼就晃</span> → <b>cerebellar ataxia</b>（Romberg 本身為陰性）</li></ul></td></tr>
+      <tr><th>Unterberger</th><td>閉眼、雙手前伸，原地踏步 50 步</td><td>轉超過 30° → 單側前庭功能受損</td></tr>
+      <tr><th>Trendelenburg</th><td>單腳站立</td><td>
+        <ul><li>正常：骨盆保持水平</li>
+        <li><span class="tag bad">Positive</span> 站立腳側 gluteus medius／minimus（superior gluteal nerve）無力 → 骨盆往<b>對側</b>（健側）下沉</li>
+        <li><b>Duchenne sign</b>：軀幹往對側傾斜代償；雙側時走路軀幹左右擺（Duchenne limp）</li></ul></td></tr>
+    </tbody></table></div>
+
+  <div class="tw"><div class="cap">異常步態</div><table>
+    <thead><tr><th>步態</th><th>看起來</th><th>相關疾病</th></tr></thead>
+    <tbody>
+      <tr><th>Hemiplegic</th><td>患側手臂不擺、屈曲內收內旋；腿伸直、足蹠屈，劃半圓拖行（circumduction）</td><td>中風</td></tr>
+      <tr><th>Myopathic</th><td>走路時健側骨盆下沉（Trendelenburg），雙側則呈 waddling</td><td>Muscular dystrophy、inflammatory myopathy</td></tr>
+      <tr><th>Neuropathic</th><td>Foot drop，抬高腳避免拖地（steppage）</td><td>單側：peroneal nerve palsy、L5 radiculopathy<br>雙側：ALS、周邊神經病變（CMT、糖尿病）</td></tr>
+      <tr><th>Cerebellar ataxic</th><td>寬基底、不穩、蹣跚；無法 tandem 或走直線</td><td>小腦疾病、急性酒精中毒</td></tr>
+      <tr><th>Sensory ataxic</th><td>彎腰、踏步重；看不到腳（暗處）時更糟；Romberg 陽性</td><td>Dorsal column 疾病（B12 缺乏、tabes dorsalis）、周邊神經病變</td></tr>
+      <tr><th>Parkinsonian</th><td>小碎步、拖行、有時越走越快；頭頸軀幹前傾、膝微彎；起步困難</td><td>Parkinson disease、parkinsonism（藥物、反覆頭部外傷）</td></tr>
+      <tr><th>Gait apraxia</th><td>腳像黏在地上（magnetic gait）、拖行；平衡與軀幹活動差；起步困難</td><td>雙側額葉病變、腦血管疾病</td></tr>
+      <tr><th>Choreiform</th><td>走路伴隨不規則、急促的不自主動作</td><td>Huntington disease、Sydenham chorea</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== 09 MENING ===================== -->
+<section class="card" id="mening">
+  <h2 class="sec"><span class="no">09</span>腦膜刺激與神經根刺激<span class="en">Meningism &amp; Root Irritation</span></h2>
+
+  <h3>Meningism</h3>
+  <p><b>三聯徵</b>：nuchal rigidity（脖子無法前屈）＋頭痛＋畏光。原因可以是發炎性（細菌／病毒性 meningitis），也可以是非發炎性（如 SAH）。</p>
+  <div class="vs">
+    <div><div class="h">Kernig sign</div>平躺，髖屈曲、膝 90° → 伸直膝蓋時引起疼痛</div>
+    <div><div class="h">Brudzinski sign</div>平躺，被動屈頸 → 雙腿不自主抬起</div>
+  </div>
+
+  <h3>神經根刺激</h3>
+  <p>代表脊神經出脊椎處有發炎或刺激，用來懷疑神經根受壓（椎間盤突出、腫瘤、spinal epidural hematoma）。</p>
+  <div class="vs">
+    <div><div class="h">Straight leg raise（L5–S1）</div>平躺，抬起伸直的腿（&lt; 45°）→ 腰痛往同側腿放射</div>
+    <div><div class="h">Crossed straight leg raise</div>抬起<b>病灶對側</b>的腿 → 痛放射到<b>病灶側</b>腿的該神經根分佈區</div>
+  </div>
+</section>
+
+<!-- ===================== 10 NYSTAGMUS ===================== -->
+<section class="card" id="nystagmus">
+  <h2 class="sec"><span class="no">10</span>眼振<span class="en">Nystagmus</span></h2>
+  <p>一眼或兩眼不自主、重複的跳動。最常見的是 <b>jerk nystagmus</b>：慢相往一邊漂，快相矯正回來；<b>以快相方向命名</b>（left-beating、right-beating、upbeat、downbeat）。</p>
+
+  <div class="tw"><div class="cap">型態</div><table>
+    <thead><tr><th>類型</th><th>特徵</th></tr></thead>
+    <tbody>
+      <tr><th>End-gaze</th><td>眼球轉到極端位置時的水平 jerk nystagmus，<b>生理性</b></td></tr>
+      <tr><th>Gaze-evoked</th><td>維持偏心（eccentric）眼位時出現</td></tr>
+      <tr><th>Horizontal</th><td>水平方向。平躺左右轉頭（supine roll）時：<br><b>Geotropic</b>：快相朝地面（下方耳）→ lateral canal BPPV<br><b>Apogeotropic</b>：快相朝天花板（上方耳）→ lateral canal BPPV；若合併 downbeat 成分則考慮小腦或腦幹病灶</td></tr>
+      <tr><th>Vertical</th><td>Upbeat 或 downbeat</td></tr>
+      <tr><th>Torsional</th><td>繞前後軸旋轉。<b>Ipsiversive</b>（眼球上極打向患側）：anterior／posterior canal BPPV、MLF 病灶</td></tr>
+      <tr><th>Mixed</th><td>多種 jerk 成分混合，通常<b>周邊</b>：vestibular neuritis（水平＋旋轉）、BPPV（垂直＋旋轉）</td></tr>
+      <tr><th>Pendular</th><td>正弦波來回擺動，無快慢相；<b>一定是病理</b>，常與 MS 有關</td></tr>
+    </tbody></table></div>
+
+  <h3>病理性眼振：周邊 vs 中樞</h3>
+  <div class="tw"><table>
+    <thead><tr><th></th><th>Peripheral（自發）</th><th>Central（自發）</th><th>Gaze-evoked</th></tr></thead>
+    <tbody>
+      <tr><th>型態</th><td>Jerk；典型為<b>水平＋旋轉混合</b></td><td>Jerk 或 pendular</td><td>Jerk；快相朝偏心凝視方向；最常見的眼振</td></tr>
+      <tr><th>眩暈／嘔吐</th><td><b>常有</b></td><td>少見</td><td>—</td></tr>
+      <tr><th>注視抑制</th><td><b>可部分抑制</b></td><td><b>不能抑制</b></td><td>—</td></tr>
+      <tr><th>病因</th><td>Vestibular neuritis、labyrinthitis、Ménière、migraine、BPPV</td><td>中風（Wallenberg、小腦）、Parinaud、INO、Wernicke encephalopathy、Korsakoff、MS、phenytoin／PCP 中毒、Friedreich ataxia</td><td>中風（midbrain → 純垂直；pontomedullary → 純水平）、鎮靜劑／抗癲癇藥／酒精、myasthenia gravis</td></tr>
+    </tbody></table></div>
+  <div class="co warn"><span class="t">Clinical pearl</span>
+    <ul><li><b>純 upbeat、純 downbeat、純水平</b>眼振幾乎都來自<b>中樞</b>；<b>水平＋旋轉混合</b>是典型<b>周邊</b>。</li>
+    <li>眼振快相永遠朝向<b>比較活躍的那側前庭</b>。</li></ul></div>
+  <p>症狀：常無症狀；可有視力模糊、oscillopsia、失衡感；周邊型多伴隨眩暈與嘔吐。</p>
+
+  <h3>Caloric testing</h3>
+  <p>耳道灌溫水（約 44°C）或冷水（約 30°C）誘發水平眼振：</p>
+  <div class="vs">
+    <div><div class="h">溫水 Warm</div>快相朝<b>同側</b>（被刺激側）</div>
+    <div><div class="h">冷水 Cold</div>快相朝<b>對側</b></div>
+  </div>
+  <div class="co mem"><span class="t">記憶法：COWS</span><p><b>C</b>old → <b>O</b>pposite，<b>W</b>arm → <b>S</b>ame。昏迷病人灌<b>冰水</b>完全沒有眼振，可能代表腦幹死亡。</p></div>
+</section>
+
+<!-- ===================== LOCALIZE ===================== -->
+<section class="card" id="localize">
+  <h2 class="sec"><span class="no">★</span>定位速查表<span class="en">Localization Cheat Sheet</span></h2>
+  <p class="lead">把前面散在各章的「看到 X → 想到 Y」集中在一起。</p>
+
+  <div class="tw"><table>
+    <thead><tr><th>看到</th><th>想到</th><th>章節</th></tr></thead>
+    <tbody>
+      <tr class="grp"><td colspan="3">中樞 vs 周邊</td></tr>
+      <tr><td>張力↑、反射↑、Babinski 上翹、clonus、沒有萎縮</td><td><b>UMN</b></td><td><a href="#motor">03</a></td></tr>
+      <tr><td>萎縮、fasciculation、張力↓、反射↓／消失</td><td><b>LMN</b></td><td><a href="#motor">03</a></td></tr>
+      <tr><td>UMN＋LMN 同時存在</td><td>ALS</td><td><a href="#motor">03</a></td></tr>
+      <tr><td>Pronator drift：旋前＋往下</td><td>UMN</td><td><a href="#motor">03</a></td></tr>
+      <tr><td>Pronator drift：旋前＋往上</td><td>Cerebellar</td><td><a href="#motor">03</a></td></tr>
+      <tr class="grp"><td colspan="3">張力</td></tr>
+      <tr><td>速度依賴、clasp-knife</td><td>Pyramidal（spasticity）</td><td><a href="#tone">05</a></td></tr>
+      <tr><td>不依賴速度、lead pipe／cogwheel</td><td>Extrapyramidal（rigidity）</td><td><a href="#tone">05</a></td></tr>
+      <tr><td>越叫放鬆越緊、不均勻</td><td>Frontal lobe（paratonia）</td><td><a href="#tone">05</a></td></tr>
+      <tr class="grp"><td colspan="3">協調、步態</td></tr>
+      <tr><td>Dysmetria、intention tremor、dysdiadochokinesia</td><td>Cerebellar hemisphere</td><td><a href="#coord">07</a></td></tr>
+      <tr><td>指鼻睜眼明顯比閉眼好；Romberg 陽性</td><td>Sensory（dorsal column／周邊神經）</td><td><a href="#coord">07</a> <a href="#gait">08</a></td></tr>
+      <tr><td>睜眼站著就晃、寬基底</td><td>Cerebellar</td><td><a href="#gait">08</a></td></tr>
+      <tr><td>Unterberger 轉 &gt; 30°；Romberg 倒向一側</td><td>單側前庭（倒向病灶側）</td><td><a href="#gait">08</a></td></tr>
+      <tr><td>Magnetic gait、起步困難</td><td>雙側額葉</td><td><a href="#gait">08</a></td></tr>
+      <tr class="grp"><td colspan="3">不自主運動</td></tr>
+      <tr><td>Hemiballismus</td><td>Subthalamic nucleus</td><td><a href="#motor">03</a></td></tr>
+      <tr><td>Chorea、athetosis</td><td>Striatum</td><td><a href="#motor">03</a></td></tr>
+      <tr><td>Asterixis</td><td>肝性／尿毒性腦病變、hypercapnia</td><td><a href="#motor">03</a></td></tr>
+      <tr class="grp"><td colspan="3">語言、眼睛</td></tr>
+      <tr><td>Aphasia</td><td>Dominant hemisphere（多為左側）；分型見 01</td><td><a href="#mental">01</a></td></tr>
+      <tr><td>純垂直／純水平眼振、不能被注視抑制</td><td>中樞</td><td><a href="#nystagmus">10</a></td></tr>
+      <tr><td>水平＋旋轉、可被注視抑制、伴眩暈嘔吐</td><td>周邊</td><td><a href="#nystagmus">10</a></td></tr>
+    </tbody></table></div>
+
+  <div class="tw"><div class="cap">反射對神經根</div><table>
+    <thead><tr><th>神經根</th><th>反射</th></tr></thead>
+    <tbody>
+      <tr><th>C5–C6</th><td>Biceps、brachioradialis</td></tr>
+      <tr><th>C7–C8</th><td>Triceps</td></tr>
+      <tr><th>T6–T12</th><td>Abdominal（superficial）</td></tr>
+      <tr><th>L1–L2</th><td>Cremasteric（superficial）</td></tr>
+      <tr><th>L2–L4</th><td>Knee、adductor</td></tr>
+      <tr><th>L5</th><td>Posterior tibial</td></tr>
+      <tr><th>S1–S2</th><td>Ankle</td></tr>
+      <tr><th>S3–S5</th><td>Anal wink、bulbocavernosus（superficial）</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- ===================== FORM ===================== -->
+<section class="card" id="form">
+  <h2 class="sec"><span class="no">✎</span>神經學檢查紀錄表<span class="en">Findings Sheet</span></h2>
+  <p class="lead">直接在這裡填，按「列印此表」只會印出這一頁。內容只存在這個分頁裡，重新整理就會清空。</p>
+  <div class="form-actions">
+    <button class="btn primary" id="printBtn" type="button">列印此表</button>
+    <button class="btn" id="clearForm" type="button">清空表格</button>
+  </div>
+
+  <div class="form-grid">
+    <div class="field"><label>病人／床號</label><input type="text"></div>
+    <div class="field"><label>時間</label><input type="text" placeholder="YYYY-MM-DD HH:MM"></div>
+    <div class="field"><label>GCS（E / V / M）</label><input type="text" placeholder="E_ V_ M_"></div>
+    <div class="field"><label>定向感</label><input type="text" placeholder="人 / 時 / 地"></div>
+    <div class="field full"><label>語言（流暢 / 理解 / 複誦 / 命名）</label><input type="text"></div>
+    <div class="field"><label>瞳孔（R / L，mm，光反射）</label><input type="text" placeholder="R _mm +/-　L _mm +/-"></div>
+    <div class="field"><label>眼球運動 ／ 眼振</label><input type="text"></div>
+    <div class="field full"><label>其他腦神經（視野、V、VII、IX/X、XI、XII）</label><input type="text"></div>
+  </div>
+
+  <h3>肌力（MRC 0–5）</h3>
+  <div class="tw"><table class="rl">
+    <thead><tr><th></th><th class="c">R</th><th class="c">L</th><th></th><th class="c">R</th><th class="c">L</th></tr></thead>
+    <tbody>
+      <tr><th>肩外展 C5</th><td><input></td><td><input></td><th>屈髖 L1–3</th><td><input></td><td><input></td></tr>
+      <tr><th>屈肘 C5–6</th><td><input></td><td><input></td><th>伸膝 L2–4</th><td><input></td><td><input></td></tr>
+      <tr><th>伸肘 C7</th><td><input></td><td><input></td><th>屈膝 L5–S2</th><td><input></td><td><input></td></tr>
+      <tr><th>腕背屈</th><td><input></td><td><input></td><th>足背屈 L4–5</th><td><input></td><td><input></td></tr>
+      <tr><th>手指外展 C8–T1</th><td><input></td><td><input></td><th>足蹠屈 S1–2</th><td><input></td><td><input></td></tr>
+    </tbody></table></div>
+  <div class="form-grid">
+    <div class="field"><label>Pronator drift</label><input type="text"></div>
+    <div class="field"><label>Mingazzini</label><input type="text"></div>
+  </div>
+
+  <h3>反射</h3>
+  <div class="tw"><table class="rl">
+    <thead><tr><th></th><th class="c">R</th><th class="c">L</th><th></th><th class="c">R</th><th class="c">L</th></tr></thead>
+    <tbody>
+      <tr><th>Biceps C5–6</th><td><input></td><td><input></td><th>Knee L2–4</th><td><input></td><td><input></td></tr>
+      <tr><th>Brachioradialis</th><td><input></td><td><input></td><th>Ankle S1–2</th><td><input></td><td><input></td></tr>
+      <tr><th>Triceps C7–8</th><td><input></td><td><input></td><th>Clonus</th><td><input></td><td><input></td></tr>
+      <tr><th>Hoffmann</th><td><input></td><td><input></td><th>Babinski</th><td><input></td><td><input></td></tr>
+    </tbody></table></div>
+
+  <div class="form-grid">
+    <div class="field"><label>張力</label><input type="text" placeholder="正常 / spasticity / rigidity / hypotonia"></div>
+    <div class="field"><label>不自主運動</label><input type="text"></div>
+    <div class="field full"><label>感覺（輕觸 / 尖鈍 / 溫度 / 震動 / 位置覺；sensory level）</label><input type="text"></div>
+    <div class="field"><label>協調（指鼻 / 跟膝脛 / 快速交替）</label><input type="text"></div>
+    <div class="field"><label>步態 / Romberg / tandem</label><input type="text"></div>
+    <div class="field"><label>腦膜刺激（頸僵硬 / Kernig / Brudzinski）</label><input type="text"></div>
+    <div class="field"><label>SLR / crossed SLR</label><input type="text"></div>
+    <div class="field full"><label>定位判斷 Impression</label><textarea></textarea></div>
+  </div>
+</section>
+
+<!-- ===================== REF ===================== -->
+<section class="card" id="ref">
+  <h2 class="sec"><span class="no">·</span>來源<span class="en">Source</span></h2>
+  <h3><span class="tag am-t">AMBOSS</span>手冊主體</h3>
+  <p>AMBOSS. <i>Neurological examination</i>. Last edited 2026-02-02（2026-10-15 讀取）。章節 01–10 依原文整理成中文；「急診 5 分鐘快篩」、「主訴導向」中未標示的部分、「定位速查表」，都是把原文各章內容依床邊使用情境重新排列。</p>
+
+  <h3><span class="tag ext-t">補充</span>外部文獻（只用在主訴導向中標示「補充」的段落）</h3>
+  <ol class="ref-list">
+    <li>Perry JJ, Stiell IG, Sivilotti MLA, et al. Clinical decision rules to rule out subarachnoid hemorrhage for acute headache. <i>JAMA</i> 2013;310(12):1248–55.（主訴 01）</li>
+    <li>van de Beek D, de Gans J, Spanjaard L, et al. Clinical features and prognostic factors in adults with bacterial meningitis. <i>N Engl J Med</i> 2004;351:1849–59.（主訴 02）</li>
+    <li>Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy of Kernig's sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis. <i>Clin Infect Dis</i> 2002;35(1):46–52.（主訴 02）</li>
+    <li>Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the AHA/ASA. <i>Stroke</i> 2026;57:e316–e436. doi:10.1161/STR.0000000000000513（§3.1 Stroke Scales、§4.5 Blood Glucose；主訴 04、05）</li>
+    <li>Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and management of Guillain–Barré syndrome in ten steps. <i>Nat Rev Neurol</i> 2019;15:671–83.（主訴 06）</li>
+    <li>British Association of Spine Surgeons 對 cauda equina syndrome 的立場，經 MDDUS〈Pitfalls in spotting cauda equina syndrome〉（Insight Primary, Q1 2022）轉述；GIRFT. National Suspected Cauda Equina Syndrome Pathway, February 2023。⚠️ 二手來源；NICE CKS 只開放英國境內讀取、GIRFT 原始文件未能取得全文（主訴 08）</li>
+    <li>Kattah JC, Talkad AV, Wang DZ, et al. HINTS to diagnose stroke in the acute vestibular syndrome. <i>Stroke</i> 2009;40:3504–10.（主訴 09）</li>
+    <li>Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). <i>Otolaryngol Head Neck Surg</i> 2017;156(3 Suppl):S1–S47.（主訴 09）</li>
+    <li>Royal College of Emergency Medicine. RCEM Learning — Acute Facial Palsy: Clinical Assessment.（主訴 15）</li>
+    <li>Baugh RF, Basura GJ, Ishii LE, et al. Clinical Practice Guideline: Bell's Palsy. <i>Otolaryngol Head Neck Surg</i> 2013;149(3 Suppl):S1–S27。2026-10 查詢時仍為現行版本。（主訴 15）</li>
+  </ol>
+</section>
+
+<footer>神經學檢查實戰手冊 · 個人學習整理，臨床決策請依院內規範與主治醫師指示</footer>
+</main>
+</div>
+<a class="top" href="#" title="回到頂端">↑</a>
+
+<script>
+(function(){
+  // print only the findings sheet
+  document.getElementById('printBtn').addEventListener('click',function(){
+    document.body.classList.add('print-form'); window.print();
+  });
+  window.addEventListener('afterprint',function(){ document.body.classList.remove('print-form'); });
+  document.getElementById('clearForm').addEventListener('click',function(){
+    document.querySelectorAll('#form input, #form textarea').forEach(function(el){ el.value=''; });
+  });
+
+  // chief complaint expand / collapse
+  var ccs=[].slice.call(document.querySelectorAll('details.cc'));
+  document.getElementById('ccOpen').addEventListener('click',function(){ ccs.forEach(function(d){ d.open=true; }); });
+  document.getElementById('ccClose').addEventListener('click',function(){ ccs.forEach(function(d){ d.open=false; }); });
+  window.addEventListener('beforeprint',function(){ if(!document.body.classList.contains('print-form')) ccs.forEach(function(d){ d.open=true; }); });
+
+  // theme toggle
+  var root=document.documentElement, TK='neuroExamTheme';
+  try{ var t=localStorage.getItem(TK); if(t) root.setAttribute('data-theme',t); }catch(e){}
+  document.getElementById('themeBtn').addEventListener('click',function(){
+    var cur=root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+    var next=cur==='dark'?'light':'dark';
+    root.setAttribute('data-theme',next);
+    try{ localStorage.setItem(TK,next); }catch(e){}
+  });
+
+  // highlight current section in TOC
+  var links=[].slice.call(document.querySelectorAll('nav.toc a'));
+  var map={}; links.forEach(function(a){ map[a.getAttribute('href').slice(1)]=a; });
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){
+      es.forEach(function(e){ if(e.isIntersecting){ links.forEach(function(a){a.classList.remove('on');}); var a=map[e.target.id]; if(a) a.classList.add('on'); } });
+    },{rootMargin:'-20% 0px -70% 0px'});
+    document.querySelectorAll('main section.card').forEach(function(s){ io.observe(s); });
+  }
+})();
+</script>
+</body>
+</html>

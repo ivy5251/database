@@ -30,7 +30,7 @@
 
 ## Management
 （待補）
-- 插管 induction 可考慮 ketamine（支氣管擴張，見 R1 Checklist）
+- [插管](../01_急診流程與處置/插管與氣道.md) induction 可考慮 ketamine（支氣管擴張，見 R1 Checklist）
 
 ## Medications
 （待補）

@@ -6,14 +6,14 @@
 > Related: [感染總論與流感](感染總論與流感.md)、[Antibiotics](抗生素.md)、[Meningitis](Meningitis.md)、[Febrile Neutropenia](Febrile_Neutropenia.md)
 
 ## Key Points
-- 先看 vital sign 和 conscious！有沒有 septic shock！！
-- **過敏**也會發燒：輸血、顯影劑、藥物
+- 先看 vital sign 和 conscious！有沒有 septic [shock](Shock.md)！！
+- **過敏**也會發燒：[輸血](../09_Hema%20&%20Oncology/輸血.md)、顯影劑、藥物
 
 ### 術後發燒 5W
 - **W**ind 通風 — **肺膨脹不全（atelectasis）術後最早開始發燒！！**
 - **W**ater 水路 — UTI
 - **W**ound 傷口 — 傷口感染
-- **W**alking 走動 — DVT（深靜脈血栓）／血栓性靜脈炎
+- **W**alking 走動 — [DVT](../02_CV/DVT與抗凝血藥物.md)（深靜脈血栓）／血栓性靜脈炎
 - **W**onder drugs 藥物 — **藥物／輸血**
 
 ### Fever of Unknown Origin（FUO）
@@ -27,7 +27,7 @@
 ## Management
 
 ### Fever survey
-- 常規抽血（CBC/DC、Cr、**ALT**、Na、K）、B/C 2 套（2 套為優）、U/A（urine routine）、U/C、CXR、sputum culture
+- 常規抽血（CBC/DC、Cr、**ALT**、Na、K）、B/C 2 套（2 套為優）、U/A（urine routine）、U/C、[CXR](../03_呼吸與酸鹼/Chest_X-Ray判讀.md)、sputum culture
 - Influenza A+B（選 antigen）跟 COVID（選 SRAS-Covid-Ag）視情況驗（有症狀再驗即可）
 - CRP（不一定要驗，我自己不太 routine 驗；小兒的話建議驗，因為 mycoplasma，WBC 可能還好但 CRP 會高，可以當追蹤指標）；lactate & procalcitonin（septic shock 或看起來很 toxic 的再驗即可）
 - 記得換抗生素
@@ -36,7 +36,7 @@
 - 如果病人 septic shock 或看起來很 toxic/unstable，可簡單點直接無腦上 Meropenem 或 Doripenem
 
 ### 管路感染
-- **CVC**
+- **[CVC](../01_急診流程與處置/管路與Procedure.md)**
   - 看一下放幾天，視情況拔掉（有懷疑就該拔）
   - 拔的時候要留 tip culture：用無菌手套把 CVC 拔出來，拿手術包內的無菌剪刀，把它剪下放到檢體的小罐子／盒子裡
   - 最好先 on 上新的再拔，不然 on 不上又要用 CVC 給藥會很尷尬

@@ -11,7 +11,7 @@
   ![Barrel chest](assets/COPD_barrel_chest.png)
 
   - 註：原筆記寫「漏斗胸」，barrel chest 應為桶狀胸，已更正
-- COPD 是一種 inflammation！**基本上一定會 progression**（Asthma 會一陣一陣，可能會好）（Heptabase）
+- COPD 是一種 inflammation！**基本上一定會 progression**（[Asthma](Asthma.md) 會一陣一陣，可能會好）（Heptabase）
 
 ### 診斷（Heptabase）
 - **FEV1/FVC <70**
@@ -32,7 +32,7 @@
 - AE：先找 AE 的原因
 - 短期藥物：SABA + SAMA
 - 症狀嚴重：打 steroid，建議不要超過五天
-- 抗生素
+- [抗生素](../04_休克與感染/抗生素.md)
 
 ### 其他
 - **SpO2 目標：88–92%**

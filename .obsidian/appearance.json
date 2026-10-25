@@ -1,1 +1,10 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "textFontFamily": "",
+  "accentColor": "#284976",
+  "enabledCssSnippets": [
+    "Clinical_Atlas_Obsidian",
+    "medical-clean"
+  ],
+  "theme": "moonstone"
+}

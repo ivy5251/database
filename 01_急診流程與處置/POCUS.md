@@ -42,7 +42,7 @@
 - **TAPSE**（Tricuspid Annular Plane Systolic Excursion）：Apical 4-Chamber View
 
 ### Lung
-- A 線代表正常的肺部狀態，而 B 線則顯示肺間質水腫，這對於診斷肺水腫、急性呼吸窘迫綜合症（ARDS）和肺炎具有重要意義。
+- A 線代表正常的肺部狀態，而 B 線則顯示肺間質水腫，這對於診斷[肺水腫](../02_CV/Pulmonary_edema.md)、急性呼吸窘迫綜合症（ARDS）和[肺炎](../03_呼吸與酸鹼/Pneumonia.md)具有重要意義。
 
 ## Management
 （待補）

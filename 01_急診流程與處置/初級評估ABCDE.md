@@ -15,12 +15,12 @@
 
 ### Breathing
 要排除的重症：
-- **Tension Pneumothorax**
+- **Tension [Pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)**
 - Hemothorax
 - Flail chest
 
 ### Circulation & shock
-- MTP（Massive transfusion protocol）
+- MTP（Massive [transfusion](../09_Hema%20&%20Oncology/輸血.md) protocol）
 - 重要！
   - HR⬆️ 但是 BP 維持：**class 2**
   - HR⬆️ ＋ BP⬇️：**class 3**

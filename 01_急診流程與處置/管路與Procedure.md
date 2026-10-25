@@ -7,10 +7,10 @@
 ## Key Points
 
 ### Echo-guided CVC
-- **Indication**：生理監測、休克病患給予大量輸液、高濃度藥物注射
+- **Indication**：生理監測、[休克](../04_休克與感染/Shock.md)病患給予大量輸液、高濃度藥物注射
 - **Contraindication**：沒有絕對禁忌症
 - **CVC 尖端位置**：**RA & SVC 交界上方 1–2 cm**
-  - CXR landmark：① 與 right main bronchus 平行處 ② 第 6 肋間
+  - [CXR](../03_呼吸與酸鹼/Chest_X-Ray判讀.md) landmark：① 與 right main bronchus 平行處 ② 第 6 肋間
 
 ### Lumbar puncture：Contraindication
 - 不確定的話，puncture 前先做 CT
@@ -27,7 +27,7 @@
 
 ### Lumbar puncture：用途
 - 診斷工具
-  - 腦膜炎（meningitis）
+  - 腦膜炎（[meningitis](../04_休克與感染/Meningitis.md)）
   - 蛛網膜下腔出血（subarachnoid hemorrhage）
   - 顱內低壓（intracranial hypotension）
   - 癌性腦膜炎（carcinomatous meningitis）
@@ -37,10 +37,10 @@
 - **Indication**
   1. 引流 pleural space 的東西
      1. 血 ⇒ Hemothorax
-     2. 水 ⇒ pleural effusion
+     2. 水 ⇒ [pleural effusion](../03_呼吸與酸鹼/胸水與膿胸.md)
      3. 乳糜 ⇒ chylothorax
      4. 膿 ⇒ empyema
-     5. 氣 ⇒ pneumothorax：
+     5. 氣 ⇒ [pneumothorax](../03_呼吸與酸鹼/Pneumothorax.md)：
         - large or progressive
         - 呼吸器（→ barotrauma）
         - broncho-pleural fistula

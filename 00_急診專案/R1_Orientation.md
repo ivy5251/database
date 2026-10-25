@@ -7,10 +7,10 @@
 ## 外科別輪訓
 - **眼科**：檢查室；手術：eye compartment syndrome 的 lateral canthotomy 可以了解一下；回科內上兩班
 - **ENT**：跟診、檢查室；學習處理鼻血、fiber 的使用、耳石復位；回科內上兩班
-- **神內**：學 NE 和 lumbar puncture
+- **神內**：學 NE 和 [lumbar puncture](../01_急診流程與處置/管路與Procedure.md)
 - **外科**：前一個月 10 號之前要填寫預不值班的班表；創傷跟整外為主；OPD 刀：30 房
 - **婦產**：可以跟一下生產（看看會不會排產房？）
-- **麻醉**：回科內上兩班；一次麻醉報告；procedure：看 awake intubation、**TEE**、**nerve block**、CVC、lumbar puncture
+- **麻醉**：回科內上兩班；一次麻醉報告；procedure：看 awake [intubation](../01_急診流程與處置/插管與氣道.md)、**TEE**、**nerve block**、CVC、lumbar puncture
 - **精神**：提前**半個月**申請門禁；回科內兩班（如果是夜班，明天白天不用上班）；下半月要獨立看會診；去過精神科後會比較了解他們在做什麼
 - **MICU**：請上個月的 R 先帶你認識一下環境；有訂飯表單
 - **SICU**：5H
@@ -19,7 +19,7 @@
 ## 課程與考試
 - 課程在急診醫學會網站上查
 - AILS：R2 再考就好，因為考專的時候要包含效期
-- APLS、ACLS……R2 再考
+- APLS、[ACLS](../01_急診流程與處置/ACLS.md)……R2 再考
 - Emyway：考專的時候會用到
 - 偏遠地區：新竹國泰 & 花蓮門諾
 - 急診住院醫師期中評量：**R3 的中間，有考筆試 OSCE**

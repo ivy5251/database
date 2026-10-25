@@ -7,10 +7,10 @@
 ## Key Points
 ### 診斷
 - 聽診：**一邊的 breath sounds 消失**
-- **CXR**
+- **[CXR](Chest_X-Ray判讀.md)**
   - **Pleural line 要完整出現**才算
   - 如果是 **skin fold** → 會有 **incomplete border sign**
-- **POCUS**
+- **[POCUS](../01_急診流程與處置/POCUS.md)**
   - Lung sliding 要看一個「顆粒在移動」的感覺（seashore sign）
   - 氣胸：lung sliding 消失、lung point；M-mode 變 barcode sign
   - 超音波參考文獻（Heptabase）：<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299161/>
@@ -32,4 +32,4 @@
 （待補）
 
 ## Clinical Pearls
-- Endo one-lung intubation 後，比較黑的那一側要小心 pneumothorax
+- Endo one-lung [intubation](../01_急診流程與處置/插管與氣道.md) 後，比較黑的那一側要小心 pneumothorax

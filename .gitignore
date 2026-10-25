@@ -1,12 +1,12 @@
 # 系統檔
 .DS_Store
 
-# Tintinalli 課本 PDF（檔案太大、有版權，只留在本機）
-Tintinalli text book/
+# Claude Code 暫存工作區（含筆記舊副本，不上傳）
+.claude/
 
-# 網站建置產物（Cloudflare 會自己建）
+# 舊的 Quartz 網站設定（已停用）
+.site/
 public/
-.site/.build/
 
 # Obsidian 個人介面狀態（每台電腦不同，不需要同步）
 .obsidian/workspace.json

@@ -1,0 +1,544 @@
+/* ==========================================================================
+   Medical Clean — Obsidian CSS snippet
+   清爽醫療風｜淺色模式｜中英混合醫學筆記
+   放到 <vault>/.obsidian/snippets/ 後，於「設定 → 外觀 → CSS 片段」啟用
+   由 Medical Clean 樣式編輯器產生
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   1. 色彩與字體變數（只作用於淺色模式）
+   -------------------------------------------------------------------------- */
+.theme-light {
+  /* 主色 */
+  --mc-teal:        #2E5181;
+  --mc-teal-mid:    #5D90B5;
+  --mc-teal-soft:   #E3EDF8;
+  --mc-teal-faint:  #F4F7FB;
+  --mc-navy:        #1E3A5F;
+  --mc-blue:        #415A77;
+  --mc-slate:       #517894;
+
+  /* 中性色 */
+  --mc-text:        #1F2C3D;
+  --mc-muted:       #64758A;
+  --mc-faint:       #94A3B3;
+  --mc-border:      #E2E9EF;
+  --mc-bg:          #F9FAFB;
+  --mc-bg-soft:     #F6F9FB;
+
+  /* 重點標記 */
+  --mc-bold:        #2E5181;   /* **粗體** = 關鍵字 */
+  --mc-italic:      #796B9E;   /* *斜體*  = 菌名／藥物分類／拉丁文 */
+  --mc-critical:    #BC4749;   /* ***粗斜體*** = 必考／危險 */
+  --mc-mark:        #F6E7B1;   /* ==螢光筆== = 考點 */
+
+  /* 套用到 Obsidian 內建變數 */
+  --accent-h: 215;
+  --accent-s: 47%;
+  --accent-l: 34%;
+
+  --background-primary:          var(--mc-bg);
+  --background-primary-alt:      var(--mc-bg-soft);
+  --background-secondary:        #F4F7F9;
+  --background-secondary-alt:    #EDF2F5;
+  --background-modifier-border:  var(--mc-border);
+  --background-modifier-hover:   rgba(46, 81, 129, 0.06);
+  --background-modifier-active-hover: rgba(46, 81, 129, 0.1);
+
+  --text-normal:    var(--mc-text);
+  --text-muted:     var(--mc-muted);
+  --text-faint:     var(--mc-faint);
+  --text-accent:    var(--mc-teal);
+  --text-accent-hover: var(--mc-teal-mid);
+  --text-selection: rgba(93, 144, 181, 0.18);
+  --interactive-accent: var(--mc-teal);
+  --interactive-accent-hover: var(--mc-teal-mid);
+
+  /* Windows 沒有 Inter／SF Pro：英文用 Segoe UI，中文用微軟正黑體 */
+  --font-text-theme: "Inter", "SF Pro Text", -apple-system, BlinkMacSystemFont, "Segoe UI",
+                     "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+  --font-interface-theme: "Inter", "SF Pro Text", -apple-system, BlinkMacSystemFont, "Segoe UI",
+                     "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+  --font-monospace-theme: "JetBrains Mono", "SF Mono", Menlo, Consolas, "Cascadia Mono", monospace;
+
+  /* ── 行距（想再調鬆／調緊，改這裡就好）── */
+  --mc-body-line-height:    1.95;   /* 內文行距 */
+  --mc-heading-line-height: 1.5;    /* 標題本身的行距（標題換行時） */
+  --mc-heading-gap-above:   1.9em;  /* 標題上方留白 */
+  --mc-heading-gap-below:   0.2em; /* 標題與下方內文的距離 */
+  --mc-paragraph-gap:       1.15em; /* 段落之間的距離 */
+
+  /* ── 清單行距（bullet / number list）── */
+  --mc-list-line-height:    1.7;    /* 同一個項目「裡面」文字換行時的行距 */
+  --mc-list-item-gap:       0.5em;  /* 兩個項目「之間」的距離 */
+  --mc-list-nested-gap:     0.25em; /* 子清單（縮排的項目）之間的距離 */
+
+  --line-height-normal: var(--mc-body-line-height);
+  --line-height-tight:  1.5;
+  --h1-line-height: var(--mc-heading-line-height);
+  --h2-line-height: var(--mc-heading-line-height);
+  --h3-line-height: var(--mc-heading-line-height);
+  --h4-line-height: var(--mc-heading-line-height);
+  --h5-line-height: var(--mc-heading-line-height);
+  --h6-line-height: var(--mc-heading-line-height);
+  --p-spacing: var(--mc-paragraph-gap);
+  --heading-spacing: var(--mc-heading-gap-above);
+  --file-line-width: 46rem;
+
+  --bold-color:   var(--mc-bold);
+  --bold-weight:  700;
+  --italic-color: var(--mc-italic);
+
+  --link-color:              var(--mc-teal);
+  --link-color-hover:        var(--mc-teal-mid);
+  --link-external-color:     var(--mc-blue);
+  --link-unresolved-color:   var(--mc-faint);
+  --link-unresolved-opacity: 1;
+
+  --list-marker-color:  var(--mc-teal-mid);
+  --list-bullet-size:   0.32em;
+  --checkbox-color:     var(--mc-teal);
+  --checkbox-border-color: #B7C6D2;
+
+  --blockquote-border-color: var(--mc-teal-mid);
+  --blockquote-border-thickness: 3px;
+  --blockquote-color: var(--mc-muted);
+
+  --code-background: #F1F5F8;
+  --code-normal:     #0E5F73;
+
+  --hr-color: var(--mc-border);
+
+  --tag-background: var(--mc-teal-soft);
+  --tag-background-hover: rgba(93, 144, 181, 0.22);
+  --tag-color: var(--mc-teal);
+  --tag-color-hover: var(--mc-teal);
+  --tag-radius: 999px;
+  --tag-padding-x: 0.6em;
+
+  /* 標題 */
+  --inline-title-color: var(--mc-navy);
+  --inline-title-weight: 800;
+  --h1-color: var(--mc-navy);
+  --h2-color: var(--mc-teal);
+  --h3-color: var(--mc-blue);
+  --h4-color: var(--mc-slate);
+  --h5-color: var(--mc-muted);
+  --h6-color: var(--mc-faint);
+  --h1-size: 1.85em;
+  --h2-size: 1.5em;
+  --h3-size: 1.25em;
+  --h4-size: 1.1em;
+  --h5-size: 1em;
+  --h6-size: 0.85em;
+  --h1-weight: 800;
+  --h2-weight: 700;
+  --h3-weight: 700;
+  --h4-weight: 650;
+  --h5-weight: 600;
+  --h6-weight: 600;
+
+  /* 表格 */
+  --table-border-color: var(--mc-border);
+  --table-header-background: var(--mc-teal-soft);
+  --table-header-background-hover: var(--mc-teal-soft);
+  --table-header-color: var(--mc-teal);
+  --table-header-weight: 700;
+  --table-row-alt-background: #F4F7FB;
+  --table-row-background-hover: var(--mc-teal-faint);
+
+  /* Callout */
+  --callout-radius: 10px;
+  --callout-padding: 12px 16px;
+  --callout-title-weight: 700;
+}
+
+
+/* --------------------------------------------------------------------------
+   2. 內文與文字選取
+   -------------------------------------------------------------------------- */
+.theme-light .markdown-rendered,
+.theme-light .markdown-source-view.mod-cm6 .cm-scroller {
+  letter-spacing: 0.01em;
+  font-feature-settings: "cv11", "ss01";   /* Inter：較易讀的數字與字形 */
+}
+
+.theme-light ::selection {
+  background: rgba(93, 144, 181, 0.2);
+}
+
+
+/* --------------------------------------------------------------------------
+   3. 標題層級（Reading view + Live Preview）
+   -------------------------------------------------------------------------- */
+
+/* 標題上下留白 */
+.theme-light .markdown-rendered h1,
+.theme-light .markdown-rendered h2,
+.theme-light .markdown-rendered h3,
+.theme-light .markdown-rendered h4,
+.theme-light .markdown-rendered h5,
+.theme-light .markdown-rendered h6 {
+  line-height: var(--mc-heading-line-height);
+  margin-top: var(--mc-heading-gap-above);
+  margin-bottom: var(--mc-heading-gap-below);
+}
+
+/* Live Preview 標題上下留白 */
+.theme-light .markdown-source-view.mod-cm6 .cm-line.HyperMD-header {
+  line-height: var(--mc-heading-line-height);
+  padding-top: calc(var(--mc-heading-gap-above) * 0.6);
+  padding-bottom: calc(var(--mc-heading-gap-below) * 0.6);
+}
+
+/* 清單：項目內行距 vs. 項目之間距離（Reading view） */
+.theme-light .markdown-rendered li {
+  line-height: var(--mc-list-line-height);
+}
+
+.theme-light .markdown-rendered li + li {
+  margin-top: var(--mc-list-item-gap);
+}
+
+.theme-light .markdown-rendered li > ul,
+.theme-light .markdown-rendered li > ol {
+  margin-top: var(--mc-list-nested-gap);
+}
+
+.theme-light .markdown-rendered li li + li {
+  margin-top: var(--mc-list-nested-gap);
+}
+
+/* 清單（Live Preview）：每個項目是一行 .cm-line */
+.theme-light .markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line {
+  line-height: var(--mc-list-line-height);
+}
+
+.theme-light .markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line + .cm-line.HyperMD-list-line {
+  padding-top: var(--mc-list-item-gap);
+}
+
+.theme-light .markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line + .cm-line.HyperMD-list-line:not(.HyperMD-list-line-1) {
+  padding-top: var(--mc-list-nested-gap);
+}
+
+/* 筆記標題 (inline title) 與 H1：漸層底線 */
+.theme-light .inline-title,
+.theme-light .markdown-rendered h1,
+.theme-light .markdown-source-view.mod-cm6 .HyperMD-header-1 {
+  letter-spacing: -0.01em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, var(--mc-teal-mid), rgba(93, 144, 181, 0.05)) 1;
+}
+
+/* H2：左邊條 */
+.theme-light .markdown-rendered h2,
+.theme-light .markdown-source-view.mod-cm6 .HyperMD-header-2 {
+  border-left: 4px solid var(--mc-teal-mid);
+  padding-left: 0.6em !important;
+}
+
+/* H4：底部細線 */
+.theme-light .markdown-rendered h4 {
+  padding-bottom: 0.15em;
+  border-bottom: 1px dashed #CBD6E0;
+  display: inline-block;
+}
+
+/* H6：小型大寫標籤感 */
+.theme-light .markdown-rendered h6,
+.theme-light .markdown-source-view.mod-cm6 .HyperMD-header-6 {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+
+/* --------------------------------------------------------------------------
+   4. 重點標記
+   ==螢光筆== 考點｜**粗體** 關鍵字｜*斜體* 分類名｜***粗斜體*** 必考/危險
+   -------------------------------------------------------------------------- */
+.theme-light .markdown-rendered mark,
+.theme-light .markdown-source-view.mod-cm6 .cm-highlight {
+  color: inherit;
+  background: linear-gradient(transparent 24%, var(--mc-mark) 24%, var(--mc-mark) 92%, transparent 92%);
+  padding: 0 0.12em;
+  border-radius: 2px;
+}
+
+.theme-light .markdown-rendered strong em,
+.theme-light .markdown-rendered em strong,
+.theme-light .markdown-source-view.mod-cm6 .cm-strong.cm-em {
+  color: var(--mc-critical);
+  font-style: normal;
+  font-weight: 800;
+}
+
+
+/* --------------------------------------------------------------------------
+   5. 表格
+   -------------------------------------------------------------------------- */
+.theme-light .markdown-rendered table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--mc-border);
+  border-radius: 1px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(30, 58, 95, 0.05);
+}
+
+.theme-light .markdown-rendered th,
+.theme-light .markdown-rendered td {
+  border: none;
+  border-bottom: 1px solid var(--mc-border);
+  padding: 0.55em 0.9em;
+}
+
+.theme-light .markdown-rendered th {
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid rgba(93, 144, 181, 0.3);
+}
+
+.theme-light .markdown-rendered tr:last-child td {
+  border-bottom: none;
+}
+
+/* 第一欄（通常是藥名／疾病名）加粗 */
+.theme-light .markdown-rendered td:first-child {
+  font-weight: 600;
+  color: var(--mc-navy);
+}
+
+.theme-light .markdown-rendered tbody tr:hover {
+  background: var(--table-row-background-hover);
+}
+
+/* Live Preview 表格 */
+.theme-light .markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper {
+  border-radius: 1px;
+}
+
+
+/* --------------------------------------------------------------------------
+   6. Callout 通用外觀
+   -------------------------------------------------------------------------- */
+.theme-light .callout {
+  background: rgba(var(--callout-color), 0.11);
+  border: 2px solid rgba(var(--callout-color), 0.1);   /* 四邊一樣粗 */
+  box-shadow: 0 1px 2px rgba(30, 58, 95, 0.04);
+}
+
+.theme-light .callout-title {
+  color: rgb(var(--callout-color));
+  letter-spacing: 0.01em;
+}
+
+.theme-light .callout-content {
+  color: var(--mc-text);
+}
+
+.theme-light .callout-content > :first-child { margin-top: 0.35em; }
+.theme-light .callout-content > :last-child  { margin-bottom: 0.1em; }
+
+
+/* --------------------------------------------------------------------------
+   7. 醫學專用 Callout（中英文名稱都可以用）
+   用法：> [!pearl] 標題   或   > [!珍珠] 標題
+   -------------------------------------------------------------------------- */
+
+/* 💎 臨床珍珠 */
+.callout[data-callout="pearl"],
+.callout[data-callout="臨床珍珠"],
+.callout[data-callout="珍珠"] {
+  --callout-color: 40, 125, 132;
+  --callout-icon: lucide-gem;
+}
+
+/* 🩺 臨床實戰 */
+.callout[data-callout="clinical"],
+.callout[data-callout="臨床實戰"],
+.callout[data-callout="實戰"] {
+  --callout-color: 169, 115, 33;
+  --callout-icon: lucide-stethoscope;
+}
+
+/* 🚨 警訊 Red flag */
+.callout[data-callout="redflag"],
+.callout[data-callout="red-flag"],
+.callout[data-callout="警訊"] {
+  --callout-color: 199, 90, 99;
+  --callout-icon: lucide-siren;
+}
+
+/* 📋 病例 */
+.callout[data-callout="case"],
+.callout[data-callout="病例"] {
+  --callout-color: 52, 121, 97;
+  --callout-icon: lucide-clipboard-list;
+}
+
+/* ❓ Q&A 問答（加上 - 變成可折疊：> [!qa]- 問題，點開才看到答案） */
+.callout[data-callout="q&a"],
+.callout[data-callout="qa"],
+.callout[data-callout="問答"] {
+  --callout-color: 121, 107, 158;
+  --callout-icon: lucide-help-circle;
+}
+
+/* --------------------------------------------------------------------------
+   8. 其他內文元素
+   -------------------------------------------------------------------------- */
+
+/* 引用 */
+.theme-light .markdown-rendered blockquote {
+  background: var(--mc-teal-faint);
+  border-radius: 0 8px 8px 0;
+  padding: 0.6em 1em;
+}
+
+/* 行內程式碼（可用於劑量、數值） */
+.theme-light .markdown-rendered :not(pre) > code,
+.theme-light .markdown-source-view.mod-cm6 .cm-inline-code:not(.cm-formatting) {
+  border-radius: 5px;
+  padding: 0.1em 0.38em;
+  font-size: 0.88em;
+}
+
+/* 分隔線：淡出的漸層 */
+.theme-light .markdown-rendered hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(93, 144, 181, 0.45), transparent);
+  margin: 2em 0;
+}
+
+/* 圖片 */
+.theme-light .markdown-rendered img {
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(30, 58, 95, 0.08);
+}
+
+/* 連結 */
+.theme-light .markdown-rendered a.internal-link,
+.theme-light .markdown-source-view.mod-cm6 .cm-hmd-internal-link {
+  text-decoration-color: rgba(93, 144, 181, 0.35);
+  text-underline-offset: 3px;
+}
+
+/* 標籤 */
+.theme-light a.tag,
+.theme-light .cm-hashtag {
+  font-weight: 500;
+  font-size: 0.85em;
+}
+
+/* 已完成的待辦 */
+.theme-light .markdown-rendered .task-list-item.is-checked,
+.theme-light .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] {
+  color: var(--mc-faint);
+}
+
+
+/* --------------------------------------------------------------------------
+   9. 介面：側邊欄與分頁
+   -------------------------------------------------------------------------- */
+.theme-light .nav-file-title.is-active,
+.theme-light .tree-item-self.is-active {
+  background: var(--mc-teal-soft);
+  color: var(--mc-teal);
+  font-weight: 600;
+}
+
+.theme-light .nav-folder-title,
+.theme-light .tree-item-self.nav-folder-title {
+  font-weight: 600;
+  color: var(--mc-slate);
+}
+
+.theme-light .workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  color: var(--mc-teal);
+  font-weight: 600;
+}
+
+
+/* --------------------------------------------------------------------------
+   10. 手機版覆寫（iPhone／平板，只在 Obsidian 行動版生效，電腦版不受影響）
+   -------------------------------------------------------------------------- */
+.theme-light.is-mobile {
+  /* 行距與留白收緊一點，一個畫面看得到更多內容 */
+  --mc-body-line-height:    1.7;
+  --mc-heading-gap-above:   1.3em;
+  --mc-heading-gap-below:   0.15em;
+  --mc-paragraph-gap:       0.8em;
+
+  --mc-list-line-height:    1.55;
+  --mc-list-item-gap:       0.3em;
+  --mc-list-nested-gap:     0.15em;
+
+  /* 標題字級略縮 */
+  --h1-size: 1.6em;
+  --h2-size: 1.35em;
+  --h3-size: 1.18em;
+  --h4-size: 1.05em;
+}
+
+/* 表格：欄位太多時可以左右滑動，而不是被切掉 */
+.theme-light.is-mobile .markdown-rendered table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  font-size: 0.9em;
+}
+
+.theme-light.is-mobile .markdown-rendered th,
+.theme-light.is-mobile .markdown-rendered td {
+  padding: 0.45em 0.65em;
+}
+
+/* 分隔線上下留白縮小 */
+.theme-light.is-mobile .markdown-rendered hr {
+  margin: 1.4em 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   11. 腳註：小小淡淡的字體（編輯模式 + 閱讀模式）
+   -------------------------------------------------------------------------- */
+
+/* 編輯模式：行內腳註 ^[...] 整段縮小變淡 */
+.markdown-source-view.mod-cm6 .cm-inline-footnote,
+.markdown-source-view.mod-cm6 .cm-inline-footnote-start,
+.markdown-source-view.mod-cm6 .cm-inline-footnote-end {
+  font-size: 0.8em;
+  color: var(--text-faint);
+}
+
+/* 編輯模式：一般腳註標記 [^1] 縮小變淡 */
+.markdown-source-view.mod-cm6 .cm-footref {
+  font-size: 0.8em;
+  color: var(--text-faint);
+}
+
+/* 閱讀模式：內文的腳註上標數字縮小變淡 */
+.markdown-rendered sup.footnote-ref a.footnote-link {
+  text-decoration: none;
+  font-size: 0.8em;
+  color: var(--text-faint);
+}
+
+.markdown-rendered sup.footnote-ref a.footnote-link:hover {
+  color: var(--text-accent);
+}
+
+/* 閱讀模式：筆記最下方的腳註區 */
+.markdown-rendered section.footnotes {
+  margin-top: 2.5em;
+  padding-top: 0.8em;
+  border-top: 1px solid var(--background-modifier-border);
+  font-size: 0.82em;
+  line-height: 1.6;
+  color: var(--text-faint);
+}

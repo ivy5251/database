@@ -30,7 +30,7 @@
 - 兩個**相同密度**且**直接接觸**的東西在 X 光下會失去界線
 
 ### 常見診斷
-**Pleural effusion**（重力 → 流到底部）
+**[Pleural effusion](胸水與膿胸.md)**（重力 → 流到底部）
 - Standing
   - **CP angle blunting ⇒ effusion >150 cc** ⇒ 加照 decubitus view
   - **Opacified hemithorax**
@@ -42,18 +42,18 @@
   2. 模糊處可見肺血管
   3. 沒有 air bronchogram
 
-**Pneumothorax**
+**[Pneumothorax](Pneumothorax.md)**
 - Pleural line 要完整出現才算；skin fold 會有 incomplete border sign
 
 **其他**
 - IPF：honeycombing
-- 心因性肺水腫：心臟大、肺門周圍充血、Kerley B lines、pleural effusion
+- 心因性[肺水腫](../02_CV/Pulmonary_edema.md)：心臟大、肺門周圍充血、Kerley B lines、pleural effusion
 - Diffuse bilateral infiltration ⇒ 想 PJP
 
 ### 管路位置
 - **Endo**：carina 上方 5 cm（landmark：aortic arch 上緣、兩側 clavicle 中間）
-- **CVC**：RA/SVC 交界上方 1–2 cm（landmark：與 right main bronchus 平行、第 6 肋間）
-- One-lung intubation：一側白、心臟被推向白的那側、黑的那側小心氣胸
+- **[CVC](../01_急診流程與處置/管路與Procedure.md)**：RA/SVC 交界上方 1–2 cm（landmark：與 right main bronchus 平行、第 6 肋間）
+- One-lung [intubation](../01_急診流程與處置/插管與氣道.md)：一側白、心臟被推向白的那側、黑的那側小心氣胸
 
 ### PA view 十項檢查清單
 ![十項檢查清單](assets/CXR_十項檢查清單.jpeg)

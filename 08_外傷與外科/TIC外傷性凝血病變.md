@@ -10,10 +10,10 @@
 - **早期出血**：thrombin 不足 → 纖維較粗、不穩定、易被 fibrinolysis 的 clot
 - **後期**：thrombin 過多 → 血栓併發症
 - thrombin 生成與抑制的平衡是止血關鍵
-- **影響因素**：輸液造成凝血因子稀釋、受傷後快速消耗、shock 引起的 acidosis 與 hypothermia、關鍵因子（V、VII、X、fibrinogen）缺乏；一般因子 >30% 通常足夠
+- **影響因素**：[輸液](../07_電解質與內分泌急症/輸液.md)造成凝血因子稀釋、受傷後快速消耗、[shock](../04_休克與感染/Shock.md) 引起的 acidosis 與 hypothermia、關鍵因子（V、VII、X、fibrinogen）缺乏；一般因子 >30% 通常足夠
 - 促凝血因子減少不等於 thrombin 生成受損：抗凝因子也同時被消耗
 - **PT、INR、aPTT 無法完整反映 thrombin 活性**；輕微延長不一定代表出血風險增加
-- 外傷病人到院時 thrombin 生成是常人 2.5 倍；**17% 嚴重外傷病人 thrombin 生成偏低** → massive transfusion 機會 4 倍、30 天死亡率 3 倍
+- 外傷病人到院時 thrombin 生成是常人 2.5 倍；**17% 嚴重外傷病人 thrombin 生成偏低** → massive [transfusion](../09_Hema%20&%20Oncology/輸血.md) 機會 4 倍、30 天死亡率 3 倍
 - 過多 thrombin 會導致延遲性高凝狀態；thrombin 參與凝血、抗凝、抗纖溶、發炎
 
 ### 2. Fibrinogen depletion
@@ -55,4 +55,4 @@
 ## Clinical Pearls
 - 大量出血時最先不夠的是 **fibrinogen**
 - 常規凝血檢查正常不代表凝血功能正常
-- 相關：CRASH-3（TXA in TBI）見 [Trauma總論](Trauma總論.md)
+- 相關：CRASH-3（TXA in [TBI](頭部外傷.md)）見 [Trauma總論](Trauma總論.md)
