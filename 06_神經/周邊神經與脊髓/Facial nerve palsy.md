@@ -1,6 +1,6 @@
 > 📖 **Tintinalli**：[Ch172 › Acute Peripheral Neuropathies](https://drive.google.com/file/d/1sHnldXcKVSEUm3wfQ171pbkdZfMoAjJD/view)｜[Ch172 › Distinguishing Central and Peripheral Lesions](https://drive.google.com/file/d/129tJMukYWNDnIi3eFWDemgmFUa8HFmPu/view)
 
-![250](../../assets/Pasted%20image%2020261007083133.png)
+![[Pasted image 20261007083133.png|250]]
 
 > 口令動作：**用力閉眼、眼睛往上看、露齒微笑**
 
