@@ -2,35 +2,35 @@
 @use "./variables.scss" as *;
 
 /* ======================================
-   Oxford Blue & Ice — Light Mode
+   Burgundy & Parchment — Light Mode
    ====================================== */
 
 :root:root {
-  --light: #F5F9FC !important;
-  --lightgray: #D5E4EF !important;
-  --gray: #91A9BC !important;
-  --darkgray: #33465E !important;
-  --dark: #142B49 !important;
-  --secondary: #287DA8 !important;
-  --tertiary: #539CBF !important;
-  --highlight: rgba(138, 200, 232, 0.18) !important;
-  --textHighlight: #FFF0A8 !important;
+  --light: #FAF7F2 !important;          /* Parchment：主背景 */
+  --lightgray: #D8C8BE !important;      /* Parchment Border：分隔線、邊框 */
+  --gray: #776963 !important;           /* Warm Slate：次要文字 */
+  --darkgray: #3B302D !important;       /* Cocoa Ink：主要正文 */
+  --dark: #4A2632 !important;           /* Wine Ink：最深標題 */
+  --secondary: #965568 !important;      /* Cranberry：超連結 */
+  --tertiary: #AD7180 !important;       /* Rosewood：次要強調 */
+  --highlight: #F3E7E8 !important;      /* Blush Mist：淺色標籤背景 */
+  --textHighlight: #F3DE97 !important;  /* Antique Honey：螢光筆 */
 }
 
 /* ======================================
-   Oxford Blue & Ice — Dark Mode
+   Midnight Burgundy — Dark Mode
    ====================================== */
 
 :root:root[saved-theme="dark"] {
-  --light: #101D30 !important;
-  --lightgray: #304661 !important;
-  --gray: #7690A9 !important;
-  --darkgray: #D1DEEA !important;
-  --dark: #EAF4FF !important;
-  --secondary: #8AC8E8 !important;
-  --tertiary: #AEDBEF !important;
-  --highlight: rgba(138, 200, 232, 0.16) !important;
-  --textHighlight: #425C72 !important;
+  --light: #201A1E !important;          /* Background：深色主背景 */
+  --lightgray: #49343D !important;      /* Border：邊框、分隔線 */
+  --gray: #A8979B !important;           /* 次要文字（由主色推算） */
+  --darkgray: #F4ECE8 !important;       /* Main Text：主要正文 */
+  --dark: #F4DDE2 !important;           /* 最深標題（由 Rose Accent 調亮） */
+  --secondary: #DDA4B0 !important;      /* Rose Accent：標題、連結 */
+  --tertiary: #E8BFC8 !important;       /* 次要強調（由 Rose Accent 調亮） */
+  --highlight: rgba(221, 164, 176, 0.14) !important;
+  --textHighlight: #80623F !important;  /* Deep Honey：螢光筆 */
 }
 
 /* ======================================
@@ -71,7 +71,7 @@ article img {
 
 
 /* ======================================
-   Oxford Blue & Ice — Layout refinement
+   Burgundy & Parchment — Layout refinement
    ====================================== */
 
 /* 更舒適的筆記閱讀 */
@@ -83,13 +83,13 @@ article {
 
 /* 標題的視覺層次 */
 article h1 {
-  color: var(--dark);
+  color: var(--mc-h1);
   font-weight: 750;
   letter-spacing: -0.035em;
 }
 
 article h2 {
-  color: var(--dark);
+  color: var(--mc-h2);
   font-weight: 650;
   border-bottom: 1px solid var(--lightgray);
   padding-bottom: 0.4rem;
@@ -128,7 +128,7 @@ article hr {
 
 
 /* ======================================
-   Oxford Blue & Ice — Homepage
+   Burgundy & Parchment — Homepage
    ====================================== */
 
 /* 首頁不顯示日期與閱讀時間 */
@@ -162,12 +162,12 @@ body[data-slug="index"] article > .markdown-preview-view > h2 {
 body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) {
   --color: var(--dark);
   --border: var(--lightgray);
-  --bg: var(--light);
+  --bg: var(--mc-surface);
   margin: 0;
   padding: 0.9rem 1.1rem;
   border: 1px solid var(--lightgray);
   border-radius: 10px;
-  background-color: var(--light);
+  background-color: var(--mc-surface);
   box-shadow: none;
 }
 
@@ -237,7 +237,7 @@ body[data-slug="index"] .callout.quick a.internal {
   padding: 0.25rem 0.8rem;
   border: 1px solid var(--lightgray);
   border-radius: 999px;
-  background: var(--light);
+  background: var(--mc-surface);
 }
 
 body[data-slug="index"] .callout.quick a.internal:hover {
@@ -261,40 +261,50 @@ body[data-slug="index"] .callout.disclaimer .callout-title {
 /* ======================================
    Medical Clean — 從 Obsidian snippet 移植
    （.obsidian/snippets/medical-clean.css）
-   顏色沿用 Oxford Blue & Ice，另補深色模式
+   顏色沿用 Burgundy & Parchment，另補深色模式
    ====================================== */
 
 /* 重點標記、標題、表格用的顏色 */
 :root {
-  --mc-bold: #2E5181;                       /* **粗體** = 關鍵字 */
-  --mc-italic: #796B9E;                     /* *斜體* = 菌名／藥物分類／拉丁文 */
-  --mc-critical: #BC4749;                   /* ***粗斜體*** = 必考／危險 */
-  --mc-mark: #F6E7B1;                       /* ==螢光筆== = 考點 */
-  --mc-h3: #415A77;
-  --mc-h4: #517894;
-  --mc-code: #0E5F73;
-  --mc-code-bg: #F1F5F8;
-  --mc-table-head: #E3EDF8;
-  --mc-table-hover: #F4F7FB;
-  --mc-shadow: rgba(30, 58, 95, 0.08);
+  --mc-bold: #7D3E50;                       /* **粗體** = 關鍵字（Classic Burgundy） */
+  --mc-italic: #756080;                     /* *斜體* = 菌名／藥物分類／拉丁文（Diagnostic Plum） */
+  --mc-critical: #B5484D;                   /* ***粗斜體*** = 必考／危險（Emergency Crimson） */
+  --mc-mark: #F3DE97;                       /* ==螢光筆== = 考點（Antique Honey） */
+  --mc-h1: #632F40;                         /* Deep Bordeaux */
+  --mc-h2: #7D3E50;                         /* Classic Burgundy */
+  --mc-h3: #965568;                         /* Cranberry */
+  --mc-h4: #AD7180;                         /* Rosewood */
+  --mc-code: #56768A;                       /* Evidence Blue */
+  --mc-code-bg: #F6F0E8;                    /* Warm Ivory */
+  --mc-surface: #FFFEFB;                    /* Porcelain：表格、卡片表面 */
+  --mc-table-head: #E8D9CF;                 /* Soft Linen */
+  --mc-table-hover: #F6F0E8;                /* Warm Ivory */
+  --mc-callout-bg: #F0E7E3;                 /* Blush Linen：提示框背景 */
+  --mc-soft-border: #DEC2C5;                /* Rose Fog：柔和邊框 */
+  --mc-shadow: rgba(74, 38, 50, 0.08);
 }
 
 :root[saved-theme="dark"] {
-  --mc-bold: #A9CFEF;
-  --mc-italic: #B9ADD9;
-  --mc-critical: #F08A8C;
-  --mc-mark: rgba(232, 200, 90, 0.32);
-  --mc-h3: #BBD3E8;
-  --mc-h4: #9DB9D0;
-  --mc-code: #9FD6E4;
-  --mc-code-bg: rgba(138, 200, 232, 0.1);
-  --mc-table-head: rgba(138, 200, 232, 0.12);
-  --mc-table-hover: rgba(138, 200, 232, 0.06);
-  --mc-shadow: rgba(0, 0, 0, 0.25);
+  --mc-bold: #E9B9C3;
+  --mc-italic: #C9B6D4;
+  --mc-critical: #F0898E;
+  --mc-mark: #80623F;                       /* Deep Honey */
+  --mc-h1: #F4DDE2;
+  --mc-h2: #DDA4B0;                         /* Rose Accent */
+  --mc-h3: #D394A2;
+  --mc-h4: #C2A9AE;
+  --mc-code: #A9C3D2;
+  --mc-code-bg: #2C2429;                    /* Surface */
+  --mc-surface: #2C2429;                    /* Surface：卡片、側邊欄 */
+  --mc-table-head: #3A2C33;
+  --mc-table-hover: rgba(221, 164, 176, 0.06);
+  --mc-callout-bg: rgba(221, 164, 176, 0.08);
+  --mc-soft-border: #5A4049;
+  --mc-shadow: rgba(0, 0, 0, 0.3);
 }
 
 ::selection {
-  background: rgba(93, 144, 181, 0.2);
+  background: rgba(150, 85, 104, 0.18);
 }
 
 /* 內文與行距 */
@@ -329,19 +339,18 @@ article :is(h1, h3, h4, h5, h6) {
   margin-bottom: 0.2em;
 }
 
-article h1 { font-size: 1.85em; font-weight: 800; color: var(--dark); }
+article h1 { font-size: 1.85em; font-weight: 800; color: var(--mc-h1); }
 article h3 { font-size: 1.25em; font-weight: 700; color: var(--mc-h3); }
 article h4 { font-size: 1.1em; font-weight: 650; color: var(--mc-h4); }
 article h5 { font-size: 1em; font-weight: 600; color: var(--gray); }
 article h6 { font-size: 0.85em; font-weight: 600; color: var(--gray); }
 
-/* 筆記標題與 H1：漸層底線 */
+/* 筆記標題與 H1：實線底線 */
 .article-title,
 article h1 {
   letter-spacing: -0.01em;
   padding-bottom: 0.3em;
-  border-bottom: 2px solid transparent;
-  border-image: linear-gradient(90deg, var(--tertiary), transparent) 1;
+  border-bottom: 2px solid var(--tertiary);
 }
 
 /* H4：虛線底線 */
@@ -386,6 +395,7 @@ article .table-container > table {
   border-collapse: separate;
   border-spacing: 0;
   border: 1px solid var(--lightgray);
+  background: var(--mc-surface);
   border-radius: 1px;
   overflow: hidden;
   box-shadow: 0 1px 3px var(--mc-shadow);
@@ -403,7 +413,7 @@ article .table-container th {
   font-weight: 700;
   font-size: 0.92em;
   letter-spacing: 0.02em;
-  border-bottom: 2px solid rgba(93, 144, 181, 0.3);
+  border-bottom: 2px solid var(--mc-soft-border);
 }
 
 article .table-container tr:last-child td {
@@ -461,78 +471,135 @@ article .callout.is-collapsed > .callout-content > * {
   margin-block: 0;
 }
 
+/* Quartz 內建 callout（note、tip、warning…）改用同一套配色 */
+article .callout[data-callout] {
+  --color: var(--secondary);
+  --border: var(--mc-soft-border);
+  --bg: var(--mc-callout-bg);
+}
+
+article .callout:is([data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"]) {
+  --color: #477464;
+  --border: #4774642E;
+  --bg: #E6EFE7;
+}
+
+article .callout:is([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="question"], [data-callout="help"], [data-callout="faq"]) {
+  --color: #A56F30;
+  --border: #A56F302E;
+  --bg: #F6EDD9;
+}
+
+article .callout:is([data-callout="danger"], [data-callout="error"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="bug"]) {
+  --color: #B5484D;
+  --border: #B5484D2E;
+  --bg: #F9E6E4;
+}
+
+article .callout:is([data-callout="info"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"], [data-callout="example"]) {
+  --color: #56768A;
+  --border: #56768A2E;
+  --bg: #EAF0F3;
+}
+
+:root[saved-theme="dark"] {
+  article .callout:is([data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"]) {
+    --color: #8EB4A5;
+    --bg: rgba(71, 116, 100, 0.22);
+    --border: rgba(142, 180, 165, 0.2);
+  }
+
+  article .callout:is([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="question"], [data-callout="help"], [data-callout="faq"]) {
+    --color: #E0B47A;
+    --bg: rgba(165, 111, 48, 0.18);
+    --border: rgba(224, 180, 122, 0.2);
+  }
+
+  article .callout:is([data-callout="danger"], [data-callout="error"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="bug"]) {
+    --color: #EE8F93;
+    --bg: rgba(181, 72, 77, 0.2);
+    --border: rgba(238, 143, 147, 0.2);
+  }
+
+  article .callout:is([data-callout="info"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"], [data-callout="example"]) {
+    --color: #A3BCCB;
+    --bg: rgba(86, 118, 138, 0.22);
+    --border: rgba(163, 188, 203, 0.2);
+  }
+}
+
 /* 醫學專用 Callout（Quartz 只認英文名稱：pearl／clinical／redflag／case／qa） */
 
 /* 臨床珍珠 */
 article .callout:is([data-callout="pearl"]) {
-  --color: rgb(40, 125, 132);
-  --border: rgba(40, 125, 132, 0.1);
-  --bg: rgba(40, 125, 132, 0.11);
+  --color: #A56F30;
+  --border: #A56F302E;
+  --bg: #F6EDD9;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22 %3E%3Cpath d=%22M6 3h12l4 6-10 13L2 9Z%22 /%3E%3Cpath d=%22M11 3 8 9l4 13 4-13-3-6%22 /%3E%3Cpath d=%22M2 9h20%22 /%3E%3C/svg%3E");
 }
 
 /* 臨床實戰 */
 article .callout:is([data-callout="clinical"]) {
-  --color: rgb(169, 115, 33);
-  --border: rgba(169, 115, 33, 0.1);
-  --bg: rgba(169, 115, 33, 0.11);
+  --color: #477464;
+  --border: #4774642E;
+  --bg: #E6EFE7;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22 %3E%3Cpath d=%22M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6a6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3%22 /%3E%3Cpath d=%22M8 15v1a6 6 0 0 0 6 6a6 6 0 0 0 6-6v-4%22 /%3E%3Ccircle cx=%2220%22 cy=%2210%22 r=%222%22 /%3E%3C/svg%3E");
 }
 
 /* 警訊 Red flag */
 article .callout:is([data-callout="redflag"], [data-callout="red-flag"]) {
-  --color: rgb(199, 90, 99);
-  --border: rgba(199, 90, 99, 0.1);
-  --bg: rgba(199, 90, 99, 0.11);
+  --color: #B5484D;
+  --border: #B5484D2E;
+  --bg: #F9E6E4;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22 %3E%3Cpath d=%22M7 18v-6a5 5 0 1 1 10 0v6%22 /%3E%3Cpath d=%22M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z%22 /%3E%3Cpath d=%22M21 12h1%22 /%3E%3Cpath d=%22M18.5 4.5 18 5%22 /%3E%3Cpath d=%22M2 12h1%22 /%3E%3Cpath d=%22M12 2v1%22 /%3E%3Cpath d=%22m4.929 4.929.707.707%22 /%3E%3Cpath d=%22M12 12v6%22 /%3E%3C/svg%3E");
 }
 
 /* 病例 */
 article .callout:is([data-callout="case"]) {
-  --color: rgb(52, 121, 97);
-  --border: rgba(52, 121, 97, 0.1);
-  --bg: rgba(52, 121, 97, 0.11);
+  --color: #56768A;
+  --border: #56768A2E;
+  --bg: #EAF0F3;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22 %3E%3Crect width=%228%22 height=%224%22 x=%228%22 y=%222%22 rx=%221%22 ry=%221%22 /%3E%3Cpath d=%22M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2%22 /%3E%3Cpath d=%22M12 11h4%22 /%3E%3Cpath d=%22M12 16h4%22 /%3E%3Cpath d=%22M8 11h.01%22 /%3E%3Cpath d=%22M8 16h.01%22 /%3E%3C/svg%3E");
 }
 
 /* Q&A 問答（> [!qa]- 問題，點開才看到答案） */
 article .callout:is([data-callout="q&a"], [data-callout="qa"]) {
-  --color: rgb(121, 107, 158);
-  --border: rgba(121, 107, 158, 0.1);
-  --bg: rgba(121, 107, 158, 0.11);
+  --color: #756080;
+  --border: #7560802E;
+  --bg: #EFE8F2;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22 %3E%3Ccircle cx=%2212%22 cy=%2212%22 r=%2210%22 /%3E%3Cpath d=%22M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3%22 /%3E%3Cpath d=%22M12 17h.01%22 /%3E%3C/svg%3E");
 }
 
 /* 深色模式：標題文字調亮，背景稍微加深 */
 :root[saved-theme="dark"] {
   article .callout:is([data-callout="pearl"]) {
-    --color: #6CC3C9;
-    --bg: rgba(40, 125, 132, 0.18);
-    --border: rgba(108, 195, 201, 0.15);
+    --color: #E0B47A;
+    --bg: rgba(165, 111, 48, 0.18);
+    --border: rgba(224, 180, 122, 0.2);
   }
 
   article .callout:is([data-callout="clinical"]) {
-    --color: #E0B062;
-    --bg: rgba(169, 115, 33, 0.18);
-    --border: rgba(224, 176, 98, 0.15);
+    --color: #8EB4A5;
+    --bg: rgba(71, 116, 100, 0.22);
+    --border: rgba(142, 180, 165, 0.2);
   }
 
   article .callout:is([data-callout="redflag"], [data-callout="red-flag"]) {
-    --color: #F08A93;
-    --bg: rgba(199, 90, 99, 0.18);
-    --border: rgba(240, 138, 147, 0.15);
+    --color: #EE8F93;
+    --bg: rgba(181, 72, 77, 0.2);
+    --border: rgba(238, 143, 147, 0.2);
   }
 
   article .callout:is([data-callout="case"]) {
-    --color: #74C3A4;
-    --bg: rgba(52, 121, 97, 0.2);
-    --border: rgba(116, 195, 164, 0.15);
+    --color: #A3BCCB;
+    --bg: rgba(86, 118, 138, 0.22);
+    --border: rgba(163, 188, 203, 0.2);
   }
 
   article .callout:is([data-callout="q&a"], [data-callout="qa"]) {
-    --color: #B7A8E0;
-    --bg: rgba(121, 107, 158, 0.2);
-    --border: rgba(183, 168, 224, 0.15);
+    --color: #C2AFD0;
+    --bg: rgba(117, 96, 128, 0.25);
+    --border: rgba(194, 175, 208, 0.2);
   }
 }
 
@@ -552,15 +619,6 @@ article :not(pre) > code {
   border-radius: 5px;
   padding: 0.1em 0.38em;
   font-size: 0.88em;
-}
-
-/* 分隔線：淡出的漸層 */
-article hr {
-  height: 2px;
-  border: none;
-  background: linear-gradient(90deg, transparent, var(--tertiary), transparent);
-  opacity: 0.45;
-  margin: 2em 0;
 }
 
 /* 圖片 */
@@ -649,9 +707,5 @@ body[data-slug="index"] .callout:is(.section, .quick, .disclaimer) > .callout-co
 
   article .table-container :is(th, td) {
     padding: 0.45em 0.65em;
-  }
-
-  article hr {
-    margin: 1.4em 0;
   }
 }
