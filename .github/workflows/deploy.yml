@@ -49,7 +49,7 @@ jobs:
             --baseUrl "$SITE_URL"
 
           npx quartz plugin install --from-config
-
+          npm install --no-save @quartz-themes/default
           rsync -a \
             --exclude='.git/' \
             --exclude='.github/' \
