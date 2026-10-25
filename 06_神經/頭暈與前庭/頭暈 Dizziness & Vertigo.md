@@ -8,8 +8,7 @@
 
 
 ![頭暈 Red Flag](頭暈%20Red%20Flag.md)
-
-![375](assets/頭暈病人初步分類流程圖.png)
+![](assets/Pasted%20image%2020261025172307.png)
 ## Key Points
 ### 用「時序＋誘發因子」取代「症狀性質四分類」
 - 舊框架：vertigo、presyncope、disequilibrium、lightheadedness
@@ -75,9 +74,8 @@
 - **Romberg's test**：**小腦**有問題 → 睜開眼睛就會抖！！
 
   ![Romberg](assets/Romberg.png)
-- **Head shaking test**（Heptabase 2025-12-09 圖片：head impulse，A 眼睛維持固定在 target；B line of sight 隨頭移動 → quick saccade back to target）
 
-  ![Head impulse](assets/Head_impulse_test.jpg)
+  
 - **Dysequilibrium**![](assets/Dysequilibrium.png)
 
 

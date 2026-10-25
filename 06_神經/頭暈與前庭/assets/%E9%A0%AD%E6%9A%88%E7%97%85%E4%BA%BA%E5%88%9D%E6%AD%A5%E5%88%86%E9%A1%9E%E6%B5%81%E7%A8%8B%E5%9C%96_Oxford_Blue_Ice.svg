@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1520 1600" width="1520" height="1600" role="img" aria-labelledby="chart-title chart-desc">
+  <title id="chart-title">頭暈病人初步分類流程 — Oxford Blue &amp; Ice</title>
+  <desc id="chart-desc">由已排除紅旗徵象之頭暈患者出發，先區分持續型與陣發型。持續型歸入 Acute vestibular syndrome。陣發型再依有無誘發動作，分成 t-EVS 與 s-EVS。</desc>
+  <defs>
+    <linearGradient id="pageBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBFDFE"/>
+      <stop offset="1" stop-color="#F4F9FC"/>
+    </linearGradient>
+    <linearGradient id="startBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102C4C"/>
+      <stop offset="1" stop-color="#235E86"/>
+    </linearGradient>
+    <linearGradient id="decisionBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFDF4"/>
+      <stop offset="1" stop-color="#FFF1C9"/>
+    </linearGradient>
+    <linearGradient id="blueBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4FBFF"/>
+      <stop offset="1" stop-color="#DEEDF8"/>
+    </linearGradient>
+    <linearGradient id="tevsBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5FCFD"/>
+      <stop offset="1" stop-color="#DFF2F3"/>
+    </linearGradient>
+    <linearGradient id="sevsBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5F8FF"/>
+      <stop offset="1" stop-color="#E5ECF9"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="11" flood-color="#0A3556" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 1 1 L 12 7 L 1 13 Z" fill="#34658A" />
+    </marker>
+    <style><![CDATA[
+      text { font-family: 'Noto Sans CJK TC','Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif; }
+      .heading { font-weight: 800; fill: #122D4E; letter-spacing: 1px; }
+      .subheading { font-weight: 400; fill: #667F97; }
+      .node-title { font-weight: 700; fill: #143A5B; }
+      .node-detail { font-weight: 500; fill: #3B5872; }
+      .decision { font-weight: 750; fill: #1D3C58; }
+      .connector { fill: none; stroke: #34658A; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow); }
+      .label { fill:#214968; font-weight: 700; font-size: 27px; }
+      .footnote { fill: #71879A; font-size: 19px; font-weight: 400; }
+    ]]></style>
+  </defs>
+
+  <!-- Paper and editorial masthead -->
+  <rect x="0" y="0" width="1520" height="1600" fill="url(#pageBg)" />
+  <rect x="590" y="63" width="340" height="7" rx="3.5" fill="#9CC6D9" />
+  <text class="heading" x="760" y="138" font-size="57" text-anchor="middle">頭暈病人初步分類流程</text>
+  <text class="subheading" x="760" y="191" font-size="26" text-anchor="middle">Red Flags 已排除後的初步評估</text>
+
+  <!-- Connectors: intentionally behind nodes -->
+  <path class="connector" d="M 760 349 V 403" />
+  <path class="connector" d="M 490 535 H 380 Q 365 535 365 552 V 771" />
+  <path class="connector" d="M 1030 535 H 1095 Q 1110 535 1110 552 V 695" />
+  <path class="connector" d="M 790 835 H 775 Q 760 835 760 850 V 1064 Q 760 1080 744 1080 H 616 Q 600 1080 600 1096 V 1128" />
+  <path class="connector" d="M 1430 835 H 1440 V 1054 Q 1440 1070 1424 1070 H 1221 Q 1205 1070 1205 1086 V 1128" />
+
+  <!-- Start node -->
+  <rect x="450" y="233" width="620" height="116" rx="31" fill="url(#startBg)" stroke="#153A5B" stroke-width="3" filter="url(#softShadow)" />
+  <text x="760" y="307" text-anchor="middle" font-size="37" font-weight="700" fill="#FFFFFF">頭暈病人：Red Flags 已排除</text>
+
+  <!-- First decision -->
+  <polygon points="760,393 1030,535 760,677 490,535" fill="url(#decisionBg)" stroke="#BC9650" stroke-width="4.5" stroke-linejoin="round" filter="url(#softShadow)" />
+  <text class="decision" x="760" y="549" text-anchor="middle" font-size="36">持續型還是陣發型？</text>
+
+  <!-- Decision one branch labels -->
+  <rect x="309" y="624" width="112" height="55" rx="17" fill="#ECF5FB" stroke="#D1E2ED" stroke-width="1.5" />
+  <text class="label" x="365" y="661" text-anchor="middle">持續</text>
+  <rect x="1053" y="625" width="112" height="55" rx="17" fill="#ECF5FB" stroke="#D1E2ED" stroke-width="1.5" />
+  <text class="label" x="1109" y="662" text-anchor="middle">陣發</text>
+
+  <!-- AVS process -->
+  <rect x="92" y="785" width="570" height="215" rx="29" fill="url(#blueBg)" stroke="#2C6C97" stroke-width="4" filter="url(#softShadow)" />
+  <rect x="125" y="816" width="151" height="9" rx="4.5" fill="#6EAECF" />
+  <text class="node-title" x="377" y="885" text-anchor="middle" font-size="31">Acute vestibular syndrome</text>
+  <text class="node-detail" x="377" y="939" text-anchor="middle" font-size="27">→ 見：HINTS 判讀</text>
+
+  <!-- Second decision -->
+  <polygon points="1110,705 1430,835 1110,965 790,835" fill="url(#decisionBg)" stroke="#BC9650" stroke-width="4.5" stroke-linejoin="round" filter="url(#softShadow)" />
+  <text class="decision" x="1110" y="828" text-anchor="middle" font-size="36">有誘發動作？</text>
+  <text class="decision" x="1110" y="877" text-anchor="middle" font-size="26" font-weight="550">（轉頭、翻身、起身）</text>
+
+  <!-- Yes and No branch labels -->
+  <rect x="672" y="985" width="99" height="53" rx="16" fill="#E6F5F3" stroke="#B9DBD8" stroke-width="1.5" />
+  <text class="label" x="721.5" y="1021" text-anchor="middle">Yes</text>
+  <rect x="1347" y="983" width="91" height="53" rx="16" fill="#EAF0FA" stroke="#CBDAEB" stroke-width="1.5" />
+  <text class="label" x="1392.5" y="1019" text-anchor="middle">No</text>
+
+  <!-- Triggered EVS box -->
+  <rect x="343" y="1140" width="480" height="248" rx="30" fill="url(#tevsBg)" stroke="#398D99" stroke-width="4" filter="url(#softShadow)" />
+  <rect x="375" y="1172" width="116" height="9" rx="4.5" fill="#65B7B8" />
+  <text class="node-title" x="583" y="1227" text-anchor="middle" font-size="46">t-EVS</text>
+  <text class="node-detail" x="583" y="1283" text-anchor="middle" font-size="27">BPPV、orthostatic</text>
+  <text class="node-detail" x="583" y="1338" text-anchor="middle" font-size="26">→ 見圖 3：Dix-Hallpike</text>
+
+  <!-- Spontaneous EVS box -->
+  <rect x="894" y="1140" width="530" height="248" rx="30" fill="url(#sevsBg)" stroke="#597DA8" stroke-width="4" filter="url(#softShadow)" />
+  <rect x="928" y="1172" width="116" height="9" rx="4.5" fill="#92B1D5" />
+  <text class="node-title" x="1159" y="1227" text-anchor="middle" font-size="46">s-EVS</text>
+  <text class="node-detail" x="1159" y="1283" text-anchor="middle" font-size="27">vestibular migraine、TIA</text>
+  <text class="node-detail" x="1159" y="1338" text-anchor="middle" font-size="26">依血管風險因子評估</text>
+
+  <!-- Quiet footer with appropriate context -->
+  <line x1="185" y1="1480" x2="1335" y2="1480" stroke="#CBDDE8" stroke-width="2" />
+  <text class="footnote" x="760" y="1522" text-anchor="middle">臨床提醒：HINTS 僅適用於符合條件的 AVS，並應由受過訓練者執行與判讀。</text>
+  <text x="760" y="1558" text-anchor="middle" fill="#98A9B9" font-size="17" font-weight="600" letter-spacing="3">OXFORD BLUE &amp; ICE</text>
+</svg>

@@ -10,8 +10,9 @@
 ## HINTS
 -  只適用於「==急性、持續性、*有眼震*==」的病人
 - 做法
-	- head impulse
-	- nystagmus
-	- test of skew
+	- **H**ead **i**mpulse
+		 ![Head impulse](assets/Head_impulse_test.jpg)
+	- **N**ystagmus
+	- **T**est of **S**kew
 - 受過訓練的醫師用 HINTS 可比一般[神經學檢查](../00_神經學檢查/0_%20Neurologic%20Exam%20神經學檢查.md)更早抓出中樞病灶
-- **HINTS 中樞型或有中樞紅旗 → 優先 MRI**（CT 不足以排除）
+- **HINTS 中樞型或有central red flag → 優先 MRI**（CT 不足以排除）
