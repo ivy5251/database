@@ -8,7 +8,7 @@
 | AVS（約 30%） 急性前庭症候群 | • 前庭神經炎（Vestibular neuritis） | • 後循環缺血性中風（Posterior circulation ischemic stroke） | • 後顱窩出血（Posterior fossa hemorrhage）<br>• Wernicke syndrome<br>• Labyrinthitis<br>• 多發性硬化症（Multiple sclerosis）<br>• 藥物或毒物中毒 |
 |                    |                              |                                                   |                                                                                                                            |
 ## HINTS
--  只適用於「==急性、持續性、***有眼震***==」的病人
+-  只適用於「==急性、持續性、*有眼震*==」的病人
 - 做法
 	- head impulse
 	- nystagmus

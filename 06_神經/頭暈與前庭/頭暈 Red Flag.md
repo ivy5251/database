@@ -6,7 +6,7 @@
     - ***D***ysmetria
     - ***D***rop attack
 - **突發性頭暈＋頭痛／頸痛**：想 vertebral artery dissection、SAH
-- **HINTS 指向 central**（任一項即算）：
+- **HINTS 指向 central**（任一項即算）：詳見[AVS 急性前庭症候群](急性前庭症候群（Acute%20vestibular%20syndrome）.md)
     - Head impulse test 正常
     - Direction-changing nystagmus
     - Skew deviation
