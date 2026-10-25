@@ -20,7 +20,7 @@
   5. Right thorax
   6. Left thorax
 
-  ![E-FAST views](assets/POCUS_EFAST_views.png)
+  ![E-FAST views|327](assets/POCUS_EFAST_views.png)
 
 ## 心臟超音波：Basic views
 - PLAX、PSAX（papillary muscle level）、Subxiphoid 4-chamber、Apical 4-chamber
