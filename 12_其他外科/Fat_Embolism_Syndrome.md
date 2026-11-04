@@ -7,7 +7,7 @@
 > 💡 **Long bone fracture！**
 
 ### 病因
-- **Trauma-related**：**長骨骨折（femur、tibia、pelvis）**、骨科手術（下肢，THR/TKR 無症狀 fat embolism 約 46–65%）；soft tissue injury、[燒燙傷](燒燙傷.md)、crush injury
+- **Trauma-related**：**長骨骨折（femur、tibia、pelvis）**、骨科手術（下肢，THR/TKR 無症狀 fat embolism 約 46–65%）；soft tissue injury、[燒燙傷](../11_外傷Trauma/燒燙傷.md)、crush injury
 - **Non-trauma**：pancreatitis、DM
 - 流行病學：10–40 歲，男性較多；外傷病人 1–3.5%，雙側股骨骨折 4.8–7.5%，髓內釘固定可達 11%
 
@@ -15,7 +15,7 @@
 - **機械性**：骨髓或脂肪組織的脂肪進入撕裂的靜脈 → 肺血管床（RV failure）＋全身發炎 → 影響腦、皮膚、呼吸、視網膜
 - **生化**：free fatty acid、cytokines、CRP
 
-![FES 機轉](assets/FES_機轉.png)
+![FES 機轉](../11_外傷Trauma/assets/FES_機轉.png)
 
 ### 臨床表現
 - 通常受傷後 **24–72 小時**出現
@@ -25,7 +25,7 @@
   2. **Neurologic dysfunction**（agitated 或 hypoactive delirium）
   3. **Petechial rash**（約 50%）：頭、結膜、口腔黏膜、頸、**腋下**、上 1/3 胸廓；只在身體前側非下垂處（背部沒有）
 
-     ![FES petechial rash](assets/FES_rash.png)
+     ![FES petechial rash](../11_外傷Trauma/assets/FES_rash.png)
 
 - 嚴重時：DIC、RV dysfunction、biventricular failure、ARDS、[shock](../04_Infection/Shock.md)、死亡
 
@@ -34,7 +34,7 @@
 |---|---|
 | 腋下或結膜下 petechiae | Tachycardia >110 |
 | Hypoxemia（PaO2 <60，FiO2 0.4） | Fever >38.5°C |
-| 與缺氧不成比例的 CNS depression（非[頭部外傷](頭部外傷.md)） | 眼底視網膜栓子 |
+| 與缺氧不成比例的 CNS depression（非[頭部外傷](../11_外傷Trauma/頭部外傷.md)） | 眼底視網膜栓子 |
 | [Pulmonary edema](../02_CV/Pulmonary_edema.md) | 尿中脂肪、Hct 或血小板突降、ESR 上升、痰中脂肪球 |
 
 > 註：原筆記另一段 minor 還列了 jaundice、renal signs、anemia、thrombocytopenia、fat macroglobulinemia。原表格寫「Tachycardia <110」「Pyrexia <38.5」，方向應為 >，已更正。

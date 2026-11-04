@@ -18,7 +18,7 @@
 
 - 定義：**低血鈉＋euvolemia＋低血漿滲透壓**
 - 常見原因
-  - CNS：[腦膜炎](../04_Infection/Meningitis.md)、腦炎、急性精神病、[中風](../06_Neuro/01_中風Stroke.md)、[頭部外傷](../10_外傷與外科/頭部外傷.md)、腦瘤、brain metastasis
+  - CNS：[腦膜炎](../04_Infection/Meningitis.md)、腦炎、急性精神病、[中風](../06_Neuro/01_中風Stroke.md)、[頭部外傷](../11_外傷Trauma/頭部外傷.md)、腦瘤、brain metastasis
   - 肺：pneumonia、TB、正壓通氣、急性[呼吸衰竭](../03_Chest/呼吸衰竭.md)、**小細胞肺癌**
 - 症狀：體重增加但**無水腫**（低鈉 → ECF 的水跑進細胞 → 細胞水腫，所以會腦水腫）
 - 診斷

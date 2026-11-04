@@ -20,7 +20,7 @@
 
 ### NEED IVSHO（by 書儀）
 ![Conscious change 鑑別](assets/Conscious_change_鑑別.png)
-（alcohol：lorazepam 換算，見 [精神科急診](../../11_其他/精神科急診.md)）
+（alcohol：lorazepam 換算，見 [精神科急診](../../13_其他/精神科急診.md)）
 
 ### 意識的兩個組成（Heptabase）
 - **喚醒度（Arousal）：意識之原動力 ⇒ 腦幹** — 外表上呈醒的狀態；腦幹之網狀系統（ARAS）活動的表現
@@ -76,7 +76,7 @@
   - **Olanzapine**
   - **Haloperidol** → EPS 高，不推薦在精神科病房以外用
 - 重建病人定向感：定時提供病人關於人、時、地資訊
-- Alcohol withdrawal 見 [精神科急診](../../11_其他/精神科急診.md)
+- Alcohol withdrawal 見 [精神科急診](../../13_其他/精神科急診.md)
 
 ## Medications
 （待補）

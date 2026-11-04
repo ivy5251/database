@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch257 › Advanced Treatment of Brain Injury](https://drive.google.com/file/d/1DrZz5sbAAPzEej65JK0t9gA6_8IXJxak/view)｜[Ch257 Head Trauma](https://drive.google.com/file/d/1tuoA-X0-J_u8NK3dlwaUai0xPfav4RPZ/view)
 
 > Source: Heptabase「IICP」「Why 腦壓高會頭痛？Monro-kellie hypothesis」「為什麼trauma要評估Pupil size?」
-> Related: [05_頭痛](../05_頭痛.md)（Monro-Kellie）、[頭部外傷](../../10_外傷與外科/頭部外傷.md)、[意識改變](../02_意識與癲癇/意識改變_AMS.md)
+> Related: [05_頭痛](../05_頭痛.md)（Monro-Kellie）、[頭部外傷](../../11_外傷Trauma/頭部外傷.md)、[意識改變](../02_意識與癲癇/意識改變_AMS.md)
 
 ## Key Points
 - 神經科三大急症：Coma、IICP、SE

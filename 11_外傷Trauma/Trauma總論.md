@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch254 Trauma in Adults](https://drive.google.com/file/d/1ac7ZJ_bXYvHnWGHaEP5j5S_HlJviPq-N/view)｜[Ch261 Pulmonary Trauma](https://drive.google.com/file/d/1u1I0OdHCRACU8CWsrDO2QCuTXvMmyYxO/view)
 
 > Source: Notion「Trauma」總頁（2023/10 外傷科實習問題）＋「SICU」（CRASH-3）；Heptabase「Flail Chest」「Rib Fracture」「評估C-spine (when可以拿掉頸圈？)」「ASIA impairment score」「Myelopathy VS Radiculopathy」
-> 子題另見：[Fat_Embolism_Syndrome](Fat_Embolism_Syndrome.md)、[TIC外傷性凝血病變](TIC外傷性凝血病變.md)、[IAH](../05_GI%20&%20GU/IAH與Abdominal_compartment_syndrome.md)、[Aortic_Dissection](../02_CV/Aortic_Dissection.md)、[頭部外傷](頭部外傷.md)、[脫臼](脫臼.md)、[Primary Survey (ABCDE)](../01_急診流程與處置/初級評估ABCDE.md)、[POCUS](../01_急診流程與處置/POCUS.md)（E-FAST）、[血行動力學](../01_急診流程與處置/血行動力學與重症.md)
+> 子題另見：[Fat_Embolism_Syndrome](../12_其他外科/Fat_Embolism_Syndrome.md)、[TIC外傷性凝血病變](TIC外傷性凝血病變.md)、[IAH](../05_GI%20&%20GU/IAH與Abdominal_compartment_syndrome.md)、[Aortic_Dissection](../02_CV/Aortic_Dissection.md)、[頭部外傷](頭部外傷.md)、[脫臼](脫臼.md)、[Primary Survey (ABCDE)](../01_急診流程與處置/初級評估ABCDE.md)、[POCUS](../01_急診流程與處置/POCUS.md)（E-FAST）、[血行動力學](../01_急診流程與處置/血行動力學與重症.md)
 
 ## Key Points
 ### Lactate 的意義
@@ -91,44 +91,6 @@
 - **CRASH-3（TXA in TBI）**：瞳孔有反應及／或 mild–moderate GCS 的病人較能從 TXA 受益（基礎顱內出血較少）；**延遲給藥效果下降**
 - V-P shunt（水腦症內引流）：放在**皮下**
 
-### 胸部外傷
-**Flail chest**（Heptabase）
-- 定義：連續 3 根肋骨有 2 處以上骨折
-- 臨床表現：胸壁相悖起伏（**paradoxical motion**）→ 吸氣時內縮，呼氣時外擴
-- Management
-  1. 體液補充
-  2. **止痛（很重要！）**：nerve block、epidural、肋間固定帶
-  3. [插管](../01_急診流程與處置/插管與氣道.md) + 呼吸器
-  4. ORIF：很少需要手術！
-  - ⚠️ 原文如此，待查證：Heptabase 版寫「ORIF 很少需要手術」，Notion 版寫 flail chest ⇒ early surgery
-
-**Rib fracture**
-- 什麼時候要開刀？
-	1. Flail chest　
-		- Flail chest 更容易插管、上呼吸器 ⇒ **early surgery**
-	2. >4 根肋骨 displaced（骨頭完全沒連在一起）
-- 手術建議固定 **4–9 肋**（1–2 釘不到且有 scapula 擋住、11–12 浮肋，對呼吸貢獻小）
-- 手術適應症：呼吸衰竭或 flail chest、嚴重胸壁變形、無法脫離呼吸器（非 contusion 造成）、因其他原因開胸時順便固定（on-the-way-out fixation）、nonunion/malunion 持續疼痛
-- 長庚肋骨 team routine
-	1. [CXR](../03_Chest/Chest_X-Ray判讀.md) QD ×3　
-	2. 止痛 by clock　
-	3. 化痰（因為咳痰能力不好）　
-	4. 吸 Triflo（肺擴張、把血擠出去）
-- 初始住院：thoracostomy tube 引流、fluid management、DVT prophylaxis
-- 止痛（mobility 或咳痰能力不足時）：acetaminophen、NSAID、**區域麻醉**；注意呼吸抑制
-- Supportive：incentive spirometry（防插管）
-
-
-- **ICU indication**：>5 根肋骨骨折、multiple displaced、flail chest；tachypnea、SpO2 <92%
-
-  ![Rib fracture 治療](assets/Rib_fracture治療.png)
-
-
-**Hemothorax 手術適應症（urgent thoracotomy）**
-- [Chest tube](../01_急診流程與處置/管路與Procedure.md) 24 小時引流 **1500 ml**
-- 置管後 **300–500 ml/hr 連續 2–4 小時**
-- 大血管或胸壁損傷
-- Pericardial tamponade
 
 ### 骨盆與泌尿
 - **Pelvic fracture**：pelvic ring **unstable** 要開刀（LC type 2–3、APC type 2–3、VS）；**SBP <80 要[輸血](../09_Hema%20&%20Oncology/輸血.md)**

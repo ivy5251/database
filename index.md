@@ -17,13 +17,13 @@ title: Ivy's Emergency Medicine Notes
 ## 症狀導向
 
 > [!section] Chief Complaint
-> - [[胸痛]]
-> - [[呼吸困難]]
+> - [[14_症狀導向/胸痛]]
+> - [[14_症狀導向/呼吸困難]]
 > - [[腹痛]]
 > - [[06_Neuro/03_頭暈 Dizziness & Vertigo|頭暈 Dizziness]]
 > - [[06_Neuro/02_意識與癲癇/意識改變_AMS|意識改變 AMS]]
-> - [[Wheezing與Stridor]]
-> - [[水腫與單腳腫]]
+> - [[14_症狀導向/Wheezing與Stridor]]
+> - [[14_症狀導向/水腫與單腳腫]]
 
 > [!section] Resuscitation & Procedures
 > - [[初級評估ABCDE]]
@@ -80,11 +80,11 @@ title: Ivy's Emergency Medicine Notes
 > - [[07_Nephro/輸液]]
 
 > [!section] Trauma & Surgery 外傷與外科
-> - [[10_外傷與外科/Trauma總論]]
-> - [[10_外傷與外科/頭部外傷]]
-> - [[10_外傷與外科/燒燙傷]]
-> - [[10_外傷與外科/傷口處理]]
-> - [[10_外傷與外科/TIC外傷性凝血病變]]
+> - [[11_外傷Trauma/Trauma總論]]
+> - [[11_外傷Trauma/頭部外傷]]
+> - [[11_外傷Trauma/燒燙傷]]
+> - [[11_外傷Trauma/傷口處理]]
+> - [[11_外傷Trauma/TIC外傷性凝血病變]]
 
 > [!section] Hematology & Oncology 血液腫瘤
 > - [[輸血]]
@@ -100,11 +100,11 @@ title: Ivy's Emergency Medicine Notes
 > - [[10_小兒/兒童抗生素使用]]
 
 > [!section] Others 其他
-> - [[精神科急診]]
-> - [[皮疹與藥物過敏]]
-> - [[急診影像注意事項]]
-> - [[麻醉重點]]
-> - [[胎盤早期剝離]]
+> - [[13_其他/精神科急診]]
+> - [[13_其他/皮疹與藥物過敏]]
+> - [[13_其他/急診影像注意事項]]
+> - [[13_其他/麻醉重點]]
+> - [[13_其他/胎盤早期剝離]]
 
 ## 學習資源
 - [[01_急診流程與處置/Tintinalli_索引|Tintinalli 索引]]

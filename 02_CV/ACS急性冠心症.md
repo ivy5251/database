@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch49 Acute Coronary Syndromes](https://drive.google.com/file/d/1ez2KlnukcroahyngGtQyv2os8ghmjIHP/view)｜[Ch49 › Electrocardiography](https://drive.google.com/file/d/1EFhbf1eh1TjSFw78NiQdi2_1YczthjYU/view)｜[Ch48 Chest Pain](https://drive.google.com/file/d/1uXHAWfGnHVxVqiK-AIN7so5yijk_njIy/view)
 
 > Source: Notion「急性冠心症(ACS)」；Heptabase「有哪些症狀是noncardiac pain」「Symptoms commonly associated with myocardial ischemia」「Mechanical」「Arrhythmic」「啟動STEMI⇒做cath」「Takotsubo cardiomyopathy」「章魚壺心肌症」「什麼時候懷疑Takotsubo cardiomyopathy?」；林口長庚急診 OBN survival guide「[Troponin I f/u 原則](https://lnkemergency.xms.tw/media/1315)」「[MI 用藥須知](https://lnkemergency.xms.tw/media/1317)」（需登入）
-> Related: [EKG判讀](EKG判讀.md)、[胸痛](../11_症狀導向/胸痛.md)、[Pacemaker, ICD & LVAD](Pacemaker_ICD_LVAD.md)
+> Related: [EKG判讀](EKG判讀.md)、[胸痛](../14_症狀導向/胸痛.md)、[Pacemaker, ICD & LVAD](Pacemaker_ICD_LVAD.md)
 
 ## Key Points
 - ACS 包含：**UA、NSTEMI、STEMI**
@@ -197,7 +197,7 @@
 - 放射性檢查／心導管
   - STEMI、高風險 NSTEMI 孕婦第一優先還是做心導管 ± 支架
   - Iodinated contrast 沒有 mutagenic／teratogenic effect，但要注意出生後甲狀腺功能
-  - 50 mSv 以下不會造成胎兒輻射傷害；coronary angiography <1 mSv，影響可忽略（見 [急診影像注意事項](../11_其他/急診影像注意事項.md)）
+  - 50 mSv 以下不會造成胎兒輻射傷害；coronary angiography <1 mSv，影響可忽略（見 [急診影像注意事項](../13_其他/急診影像注意事項.md)）
   - 裝 DES 要吃至少兩個月以上 DAPT，前兩個孕期可以用，第三孕期建議 BMS
   - Fibrinolysis 是相對禁忌，必要時還是可以打
   - 孕婦急救：肚子往左推、IV 打在 diaphragm 以上、CPR 超過 4 分鐘沒 ROSC 就要 resuscitative cesarean delivery
