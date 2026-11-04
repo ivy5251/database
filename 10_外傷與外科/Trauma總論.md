@@ -16,11 +16,11 @@
 - 身體很酸（pH 低）會讓血管無法收縮 ⇒ 低血壓 ⇒ shock
 
 ### ISS（Injury Severity Score）
-- <9 輕度；9–15 中度；**>16 嚴重外傷**（死亡率 10%、可申請重大傷病卡）
+- <9 輕度；9–15 中度；***>16 嚴重外傷***（死亡率 10%、可申請重大傷病卡）
 - 身體分 6 區（頭、臉、胸、腹、四肢含骨盆、體表），每區取 AIS 最高者，**最嚴重 3 區的 AIS 平方加總**
 - AIS 0–5 分
 
-  ![ISS/AIS](assets/ISS_AIS.png)
+  ![ISS/AIS|174](assets/ISS_AIS.png)
 
 
 ### 腹部外傷
@@ -50,18 +50,18 @@
 
 ### Traumatic spinal cord injury
 - **評估 C-spine（when 可以拿掉頸圈？）**（Heptabase）
-  - 只要有任何懷疑 **spine injury** ⇒ 就去**切 CT！！**
-  - 外傷區的通常都是整個某一截 spine 以下都不能動
-  - 會有半邊的通常都不是外傷的問題
-  - 有 SDH 可能就會 coma 了
-- **ASIA impairment scale**（Heptabase 圖片轉錄）
-  | | | |
-  |---|---|---|
+	  - 只要有任何懷疑 **spine injury** ⇒ 就去**切 CT！！**
+	  - 外傷區的通常都是整個某一截 spine 以下都不能動
+	  - 會有"半邊"的通常都不是外傷的問題
+	  - 有 SDH 可能就會 coma 了
+- **ASIA impairment scale**
+- |---|---|---| 
   | A | Complete | No motor, no sensory, no sacral sparing |
   | B | Incomplete | No motor, sensory only |
   | C | Incomplete | 50% of muscles LESS than grade 3（can't raise arms or legs off bed） |
   | D | Incomplete | 50% of muscles MORE than grade 3（can raise arms or legs off bed） |
-  | E | Normal | Motor and sensory function are normal |
+  | E | Normal | Motor and sensory function are normal |  
+
 - Myelopathy 有時候會伴隨 radiculopathy（Heptabase）
 - 內科：vital sign、心律、氧合、neurologic sign；注意低血壓、[呼吸衰竭](../03_Chest/呼吸衰竭.md)、[DVT](../02_CV/DVT與抗凝血藥物.md)
   - Glucocorticoids：methylprednisolone（原筆記：實證可改善 neurologic outcome）
@@ -103,14 +103,22 @@
   - ⚠️ 原文如此，待查證：Heptabase 版寫「ORIF 很少需要手術」，Notion 版寫 flail chest ⇒ early surgery
 
 **Rib fracture**
-- Heptabase：什麼時候要開刀？1. Flail chest　2. >4 根肋骨 displaced（骨頭完全沒連在一起）
-- 長庚肋骨 team routine（Heptabase）：1. [CXR](../03_Chest/Chest_X-Ray判讀.md) QD ×3　2. 止痛 by clock　3. 化痰（因為咳痰能力不好）　4. 吸 Triflo（肺擴張、把血擠出去）
+- 什麼時候要開刀？
+	1. Flail chest　
+		- Flail chest 更容易插管、上呼吸器 ⇒ **early surgery**
+	2. >4 根肋骨 displaced（骨頭完全沒連在一起）
+- 手術建議固定 **4–9 肋**（1–2 釘不到且有 scapula 擋住、11–12 浮肋，對呼吸貢獻小）
+- 手術適應症：呼吸衰竭或 flail chest、嚴重胸壁變形、無法脫離呼吸器（非 contusion 造成）、因其他原因開胸時順便固定（on-the-way-out fixation）、nonunion/malunion 持續疼痛
+- 長庚肋骨 team routine
+	1. [CXR](../03_Chest/Chest_X-Ray判讀.md) QD ×3　
+	2. 止痛 by clock　
+	3. 化痰（因為咳痰能力不好）　
+	4. 吸 Triflo（肺擴張、把血擠出去）
 - 初始住院：thoracostomy tube 引流、fluid management、DVT prophylaxis
 - 止痛（mobility 或咳痰能力不足時）：acetaminophen、NSAID、**區域麻醉**；注意呼吸抑制
 - Supportive：incentive spirometry（防插管）
-- Flail chest 更容易插管、上呼吸器 ⇒ **early surgery**
-- 手術建議固定 **4–9 肋**（1–2 釘不到且有 scapula 擋、11–12 浮肋，對呼吸貢獻小）
-- 手術適應症：呼吸衰竭或 flail chest、嚴重胸壁變形、無法脫離呼吸器（非 contusion 造成）、因其他原因開胸時順便固定（on-the-way-out fixation）、nonunion/malunion 持續疼痛
+
+
 - **ICU indication**：>5 根肋骨骨折、multiple displaced、flail chest；tachypnea、SpO2 <92%
 
   ![Rib fracture 治療](assets/Rib_fracture治療.png)
@@ -127,7 +135,8 @@
 - **Bladder rupture 開刀**：intraperitoneal bladder injury；EBI 合併 bladder neck injury、膀胱內有骨碎片、直腸或陰道損傷、因非 GU 傷需開腹、需 pelvic fixation
 
   ![Bladder rupture 1](assets/Bladder_rupture_1.png)
-  ![Bladder rupture 2](assets/Bladder_rupture_2.jpeg)
+  
+  ![](assets/Pasted%20image%2020261104150549.png)
 
 
 ### 血管
@@ -158,8 +167,9 @@
 - Albumin：讓血管內 volume 上升
 - NPO 太久 → **cholestasis**，bilirubin 上升（沒油脂 → CCK 不分泌 → 膽囊不收縮）
 - 拔管前盡量脫水到「淨體重」；太多水易失敗，太乾不一定比較好
-- 代謝廢物太多（BUN 很高）= 有機酸（原筆記寫 non-anion gap acidosis，⚠️ 有機酸堆積通常是 **high** anion gap，請確認）
-- **Hb <5–6**：升壓劑怎麼用都升不上去，必須輸血
+- 代謝廢物太多（BUN 很高）= 有機酸
+
+
 - Refeeding syndrome
 
   ![Refeeding](assets/Refeeding.png)
