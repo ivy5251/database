@@ -26,7 +26,7 @@ title: Ivy's Emergency Medicine Notes
 > - [[14_症狀導向/水腫與單腳腫]]
 
 > [!section] Resuscitation & Procedures
-> - [[初級評估ABCDE]]
+> - [[01_急診流程與處置/初級評估x-ABCDE]]
 > - [[ACLS]]
 > - [[插管與氣道]]
 > - [[04_Infection/Shock]]

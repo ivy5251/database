@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch254 Trauma in Adults](https://drive.google.com/file/d/1ac7ZJ_bXYvHnWGHaEP5j5S_HlJviPq-N/view)｜[Ch261 Pulmonary Trauma](https://drive.google.com/file/d/1u1I0OdHCRACU8CWsrDO2QCuTXvMmyYxO/view)
 
 > Source: Notion「Trauma」總頁（2023/10 外傷科實習問題）＋「SICU」（CRASH-3）；Heptabase「Flail Chest」「Rib Fracture」「評估C-spine (when可以拿掉頸圈？)」「ASIA impairment score」「Myelopathy VS Radiculopathy」
-> 子題另見：[Fat_Embolism_Syndrome](../12_其他外科/Fat_Embolism_Syndrome.md)、[TIC外傷性凝血病變](TIC外傷性凝血病變.md)、[IAH](../05_GI%20&%20GU/IAH與Abdominal_compartment_syndrome.md)、[Aortic_Dissection](../02_CV/Aortic_Dissection.md)、[頭部外傷](頭部外傷.md)、[脫臼](脫臼.md)、[Primary Survey (ABCDE)](../01_急診流程與處置/初級評估ABCDE.md)、[POCUS](../01_急診流程與處置/POCUS.md)（E-FAST）、[血行動力學](../01_急診流程與處置/血行動力學與重症.md)
+> 子題另見：[Fat_Embolism_Syndrome](../12_其他外科/Fat_Embolism_Syndrome.md)、[TIC外傷性凝血病變](TIC外傷性凝血病變.md)、[IAH](../05_GI%20&%20GU/IAH與Abdominal_compartment_syndrome.md)、[Aortic_Dissection](../02_CV/Aortic_Dissection.md)、[頭部外傷](頭部外傷.md)、[脫臼](脫臼.md)、[Primary Survey (ABCDE)](../01_急診流程與處置/初級評估x-ABCDE.md)、[POCUS](../01_急診流程與處置/POCUS.md)（E-FAST）、[血行動力學](../01_急診流程與處置/血行動力學與重症.md)
 
 ## Key Points
 ### Lactate 的意義

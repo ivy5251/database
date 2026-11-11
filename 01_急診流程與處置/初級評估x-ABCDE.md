@@ -1,8 +1,7 @@
-# Primary Survey (ABCDE)
+# Primary Survey (x-ABCDE)
 
 > 📖 **Tintinalli**：[Ch254 Trauma in Adults](https://drive.google.com/file/d/1ac7ZJ_bXYvHnWGHaEP5j5S_HlJviPq-N/view)
 
-> Source: Heptabase「ABCDE」「AMPLE History」
 > Related: [POCUS](POCUS.md)、[Intubation & Airway](插管與氣道.md)
 
 ## Key Points
@@ -21,9 +20,8 @@
 
 ### Circulation & shock
 - MTP（Massive [transfusion](../09_Hema%20&%20Oncology/輸血.md) protocol）
-- 重要！
-  - HR⬆️ 但是 BP 維持：**class 2**
-  - HR⬆️ ＋ BP⬇️：**class 3**
+- ATLS 11st 新版Shock Classification ^[]
+![](assets/Pasted%20image%2020261104155051.png)
 - 如果 BP、HR 不好的話，可以掃一下 [FAST](POCUS.md)
 
 ### AMPLE History
