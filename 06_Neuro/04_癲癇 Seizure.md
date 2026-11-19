@@ -113,7 +113,7 @@
 	-  Dilatin
 	- Depakine
 	- **Keppra**：藥的交互作用少，如果不會就無腦用Keppra
-- **PTS（post traumatic seizure）**：用**一週（7 days）**以後就可以開始 taper 劑量
+- **PTS（post traumatic seizure）**：用一週（7 days）**以後就可以開始 taper 劑量**（哪些 TBI 需要預防：見 [Seizure prevention in TBI](../卡片/Seizure%20prevention%20in%20TBI.md)）
 ### 其他
 - Carbapenem 副作用有 seizure；吃 Depakine 的人避免使用（見 [抗生素](../04_Infection/抗生素.md)）
 - Quinolone 副作用也有 seizure

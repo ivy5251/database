@@ -1,3 +1,11 @@
+---
+type: 臨床問題
+topics:
+  - "[[頭部外傷 Head Trauma]]"
+  - "[[04_癲癇 Seizure]]"
+source: American College of Surgeons
+date: 2026-11-19
+---
 > [!qa] Ｑ：所有TBI的病人都要使用anti-seizure agent嗎？
 
 American College of Surgeons 建議：

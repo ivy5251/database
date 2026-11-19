@@ -75,7 +75,7 @@ Racoon eye, Battle sign, discharge from ears and noses
   - Loading dose：前 10 分鐘 1 g
   - 之後 8 hr 也是 1 g
 
-![Seizure prevention in TBI](assets/Seizure%20prevention%20in%20TBI.md)
+![Seizure prevention in TBI](../卡片/Seizure%20prevention%20in%20TBI.md)
 
 
 ## Disposition
