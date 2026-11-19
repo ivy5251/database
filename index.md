@@ -8,8 +8,8 @@ title: Ivy's Emergency Medicine Notes
 > 此為個人學習筆記，內容可能有錯誤或已過時，不能取代臨床判斷、院內 routine 與最新指引。
 
 > [!quick] 常用速查
-> - [[ACLS]]
-> - [[常用藥物]]
+> - [[01_流程與處置/ACLS]]
+> - [[01_流程與處置/常用藥物]]
 > - [抗生素](04_Infection/抗生素.md)
 > - [[03_Chest/ABG與酸鹼平衡|ABG]]
 > - [[06_Neuro/01_中風/NIHSS score|NIHSS]]
@@ -26,11 +26,11 @@ title: Ivy's Emergency Medicine Notes
 > - [[14_症狀導向/水腫與單腳腫]]
 
 > [!section] Resuscitation & Procedures
-> - [[01_急診流程與處置/初級評估x-ABCDE]]
-> - [[ACLS]]
-> - [[插管與氣道]]
+> - [[01_流程與處置/初級評估x-ABCDE]]
+> - [[01_流程與處置/ACLS]]
+> - [[01_流程與處置/插管與氣道]]
 > - [[04_Infection/Shock]]
-> - [[POCUS]]
+> - [[01_流程與處置/POCUS]]
 
 ## 依系統瀏覽
 
@@ -107,4 +107,4 @@ title: Ivy's Emergency Medicine Notes
 > - [[13_其他/胎盤早期剝離]]
 
 ## 學習資源
-- [[01_急診流程與處置/Tintinalli_索引|Tintinalli 索引]]
+- [[01_流程與處置/Tintinalli_索引|Tintinalli 索引]]

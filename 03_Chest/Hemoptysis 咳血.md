@@ -1,7 +1,7 @@
 # Massive Hemoptysis
 
 > Source: 林口長庚急診 OBN survival guide「Massive Hemoptysis 處置原則」（[原文](https://lnkemergency.xms.tw/p/hemoptysis)，需登入）
-> Related: [Chest X-Ray判讀](Chest_X-Ray判讀.md)、[Intubation & Airway](../01_急診流程與處置/插管與氣道.md)、[輸血](../09_Hema%20&%20Oncology/輸血.md)
+> Related: [Chest X-Ray判讀](Chest_X-Ray判讀.md)、[Intubation & Airway](../01_流程與處置/插管與氣道.md)、[輸血](../09_Hema%20&%20Oncology/輸血.md)
 
 ## 定義
 - 大量咳血（massive hemoptysis）傳統上以出血量定義，但文獻門檻差異很大：

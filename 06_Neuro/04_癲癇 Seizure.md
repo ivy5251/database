@@ -98,7 +98,7 @@
 | Phenobarbital／Thiopental | GABA-A |
 | Ketamine | **NMDA blockade** |
 
-- [插管](../../01_急診流程與處置/插管與氣道.md) induction：**propofol** 適合 status epilepticus
+- [插管](../01_流程與處置/插管與氣道.md) induction：**propofol** 適合 status epilepticus
 
 | 藥物 | Bolus | Continuous infusion／Maintenance |
 |---|---|---|

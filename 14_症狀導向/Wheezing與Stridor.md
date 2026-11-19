@@ -29,7 +29,7 @@
 - 大氣道阻塞：喉（腫瘤、聲帶麻痺、發炎、喉痙攣）、氣管（狹窄、腫瘤）、異物
 
 ## Management
-- 喉頭水腫造成 stridor：Adrenaline（Bosmin）吸入（見 [常用藥物](../01_急診流程與處置/常用藥物.md#inhalation-選擇)）
+- 喉頭水腫造成 stridor：Adrenaline（Bosmin）吸入（見 [常用藥物](../01_流程與處置/常用藥物.md#inhalation-選擇)）
 - Anaphylaxis：Epinephrine 0.3–0.5 mg IM 大腿外側（R1 Checklist）
 
 ## Medications

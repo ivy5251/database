@@ -10,7 +10,7 @@
 - **[CXR](Chest_X-Ray判讀.md)**
   - **Pleural line 要完整出現**才算
   - 如果是 **skin fold** → 會有 **incomplete border sign**
-- **[POCUS](../01_急診流程與處置/POCUS.md)**
+- **[POCUS](../01_流程與處置/POCUS.md)**
   - Lung sliding 要看一個「顆粒在移動」的感覺（seashore sign）
   - 氣胸：lung sliding 消失、lung point；M-mode 變 barcode sign
   - 超音波參考文獻（Heptabase）：<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299161/>
@@ -21,7 +21,7 @@
   ![Pneumothorax 治療](assets/Pneumothorax_治療.png)
 
 - 對於穩定的小型自發性氣胸，建議觀察並給予氧氣；對於大型或不穩定的情況，則需插入胸管；反覆發作的患者應考慮外科處理，如 VATS 或胸膜固定術。（Heptabase）
-- Chest tube indication 見 [管路與Procedure](../01_急診流程與處置/管路與Procedure.md)
+- Chest tube indication 見 [管路與Procedure](../01_流程與處置/管路與Procedure.md)
 
 - Tension pneumothorax：needle decompression（第 4–5 肋間 anterior axillary line）／finger thoracostomy → chest tube（見 R1 Checklist）
 
@@ -32,4 +32,4 @@
 （待補）
 
 ## Clinical Pearls
-- Endo one-lung [intubation](../01_急診流程與處置/插管與氣道.md) 後，比較黑的那一側要小心 pneumothorax
+- Endo one-lung [intubation](../01_流程與處置/插管與氣道.md) 後，比較黑的那一側要小心 pneumothorax

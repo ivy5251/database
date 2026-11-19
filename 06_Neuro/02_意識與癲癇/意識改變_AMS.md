@@ -54,7 +54,7 @@
 ### Delirium
 - 跟 dementia 最重要的鑑別：**Delirium 會注意力不足**（精神科筆記）⭐️考古⭐️
 - **Hypoactive delirium 有 25% 的死亡率 → 要特別小心！**（Heptabase）
-- 值班處理：Haldol 0.5# IM（見 [常用藥物](../../01_急診流程與處置/常用藥物.md)）
+- 值班處理：Haldol 0.5# IM（見 [常用藥物](../../01_流程與處置/常用藥物.md)）
 
 ## Management
 - **立即要排除的：血糖！、CO2、CT**（R1 Checklist）
@@ -66,7 +66,7 @@
 3. **3 Key brain stem sign**
    1. 中腦 → light reflex
    2. 橋腦 → corneal reflex
-   3. 延腦 → gag reflex（若[插管](../../01_急診流程與處置/插管與氣道.md)則看**抽痰有無反應，要插到 endo 以下的地方**）
+   3. 延腦 → gag reflex（若[插管](../../01_流程與處置/插管與氣道.md)則看**抽痰有無反應，要插到 endo 以下的地方**）
 4. Babinski sign ⇒（+）則大拇指會 dorsiflex，**UMN** lesion
 
 ### Delirium 治療（Heptabase）

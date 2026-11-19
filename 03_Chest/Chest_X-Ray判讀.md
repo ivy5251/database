@@ -52,8 +52,8 @@
 
 ### 管路位置
 - **Endo**：carina 上方 5 cm（landmark：aortic arch 上緣、兩側 clavicle 中間）
-- **[CVC](../01_急診流程與處置/管路與Procedure.md)**：RA/SVC 交界上方 1–2 cm（landmark：與 right main bronchus 平行、第 6 肋間）
-- One-lung [intubation](../01_急診流程與處置/插管與氣道.md)：一側白、心臟被推向白的那側、黑的那側小心氣胸
+- **[CVC](../01_流程與處置/管路與Procedure.md)**：RA/SVC 交界上方 1–2 cm（landmark：與 right main bronchus 平行、第 6 肋間）
+- One-lung [intubation](../01_流程與處置/插管與氣道.md)：一側白、心臟被推向白的那側、黑的那側小心氣胸
 
 ### PA view 十項檢查清單
 ![十項檢查清單](assets/CXR_十項檢查清單.jpeg)

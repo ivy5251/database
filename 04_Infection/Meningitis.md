@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch174 › Central Nervous System Infections Bacterial Meningitis](https://drive.google.com/file/d/1yTU_F1n21IUx3eASvVD9I1tMIenu8l4H/view)｜[Ch174 › Viral Encephalitis](https://drive.google.com/file/d/16Apni4v-D7HhS4bHD8IIh1Ttza-XIBOd/view)｜[Ch175 › Lumbar Puncture](https://drive.google.com/file/d/1oYU6g7eGgtUgIcTGRC0XdUWV1dGHymLV/view)
 
 > Source: Notion「Meningitis」（原在小兒科底下）；Heptabase「CNS infection」「🔎 CNS infection treatment」「2025-12-12（CSF lactate）」＋ CNS infection 2024 highlights；林口長庚急診 OBN survival guide「[CNS infection protocol](https://lnkemergency.xms.tw/media/4793)」（需登入）
-> Related: [Lines & Procedures](../01_急診流程與處置/管路與Procedure.md)（LP contraindication）、[05_頭痛](../06_Neuro/05_頭痛.md)
+> Related: [Lines & Procedures](../01_流程與處置/管路與Procedure.md)（LP contraindication）、[05_頭痛](../06_Neuro/05_頭痛.md)
 
 ## Key Points
 - 典型症狀：發燒、頭痛（燒退後頭痛不會退）、嘔吐、脖子僵直、意識改變

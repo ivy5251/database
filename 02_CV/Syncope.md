@@ -12,7 +12,7 @@
   - 🖼️ 圖片轉錄（手寫）：Collapse → LOC？
     - No → Accidental fall
     - Yes → 正常呼吸心跳？
-      - No → [ACLS](../01_急診流程與處置/ACLS.md)
+      - No → [ACLS](../01_流程與處置/ACLS.md)
       - Yes → 先 LOC 再跌倒？
         - No → Head trauma
         - Yes → Transient？

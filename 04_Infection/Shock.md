@@ -2,7 +2,7 @@
 
 > 📖 **Tintinalli**：[Ch12 Approach to Nontraumatic Shock](https://drive.google.com/file/d/1_-7K7cghtBDttli6WR5kb4xnJkFFjlYi/view)｜[Ch151 Sepsis](https://drive.google.com/file/d/1zM0X3nFtV2mjbyooBZkbWAtr6kk8P6zi/view)
 
-> Source: 合併自 Notion「Shock」＋「Septic shock」；Heptabase「Shock」mindmap（Shock的鑑別診斷、Cardiogenic shock、Hypovolemic shock、🔎Septic shock、三線升壓藥、Levophad的開法、怎麼決定要不要灌水？）；林口長庚急診 OBN survival guide「[有關常用升壓劑們](https://lnkemergency.xms.tw/media/3905)」（Ver 1.1 revised by 張亦鑫，需登入）。血行動力學參數見 [血行動力學與重症](../01_急診流程與處置/血行動力學與重症.md)。
+> Source: 合併自 Notion「Shock」＋「Septic shock」；Heptabase「Shock」mindmap（Shock的鑑別診斷、Cardiogenic shock、Hypovolemic shock、🔎Septic shock、三線升壓藥、Levophad的開法、怎麼決定要不要灌水？）；林口長庚急診 OBN survival guide「[有關常用升壓劑們](https://lnkemergency.xms.tw/media/3905)」（Ver 1.1 revised by 張亦鑫，需登入）。血行動力學參數見 [血行動力學與重症](../01_流程與處置/血行動力學與重症.md)。
 
 ## Key Points
 ![Shock 分類表](assets/Shock_分類表.png)

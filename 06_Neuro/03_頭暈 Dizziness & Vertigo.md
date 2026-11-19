@@ -3,7 +3,7 @@
 > 📖 **Tintinalli**：[Ch170 Vertigo](https://drive.google.com/file/d/1v2YoJge4en4JID5Q8Hz7paLQ9AUIslxB/view)
 
 > Related: [01_中風Stroke](01_中風Stroke.md)（Posterior stroke 5D）、[Syncope](../../02_CV/Syncope.md)
-> 止暈藥：Diphenidol、Benamine、Vena（見 [常用藥物](../../01_急診流程與處置/常用藥物.md)）
+> 止暈藥：Diphenidol、Benamine、Vena（見 [常用藥物](../01_流程與處置/常用藥物.md)）
 
 
 

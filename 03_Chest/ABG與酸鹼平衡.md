@@ -28,7 +28,7 @@
 - 相關：[Respiratory Failure](呼吸衰竭.md)
 
 ### 插管與 ABG
-- pH <7.2 考慮[插管](../01_急診流程與處置/插管與氣道.md)，<7.1 馬上插
+- pH <7.2 考慮[插管](../01_流程與處置/插管與氣道.md)，<7.1 馬上插
 - PaCO2 高：看意識與 pH 代償
 - P/F ratio <300 ⇒ acute respiratory failure
 

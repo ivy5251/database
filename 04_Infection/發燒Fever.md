@@ -36,7 +36,7 @@
 - 如果病人 septic shock 或看起來很 toxic/unstable，可簡單點直接無腦上 Meropenem 或 Doripenem
 
 ### 管路感染
-- **[CVC](../01_急診流程與處置/管路與Procedure.md)**
+- **[CVC](../01_流程與處置/管路與Procedure.md)**
   - 看一下放幾天，視情況拔掉（有懷疑就該拔）
   - 拔的時候要留 tip culture：用無菌手套把 CVC 拔出來，拿手術包內的無菌剪刀，把它剪下放到檢體的小罐子／盒子裡
   - 最好先 on 上新的再拔，不然 on 不上又要用 CVC 給藥會很尷尬
