@@ -26,10 +26,10 @@
 ### 腹部外傷
 - 腹腔內最常受傷的 solid organ：**liver、spleen、kidney**（Trauma abdominal CT 先看這三個）
 - Trauma 造成 bowel perforation 的機會不高
-  - 小孩：主要是外傷，1–7%
-  - 大人：最多是潰瘍（duodenal ulcer 穿孔率為 gastric 的 2–3 倍），其次 diverticular disease（15%）
-  - 老人：perforated appendicitis
-  - Blunt injury 胃穿孔 0.02–1.7%；**penetrating 較容易穿孔**
+	  - 小孩：主要是外傷，1–7%
+	  - 大人：最多是潰瘍（duodenal ulcer 穿孔率為 gastric 的 2–3 倍），其次 diverticular disease（15%）
+	  - 老人：perforated appendicitis
+	  - Blunt injury 胃穿孔 0.02–1.7%；**penetrating 較容易穿孔**
 - Traumatic Whipple 很少見（十二指腸、胰臟在後腹腔），最常在 pancreatic neck（直接壓到脊椎）
 
 ### Traumatic coronary artery dissection
