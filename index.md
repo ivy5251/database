@@ -81,7 +81,7 @@ title: Ivy's Emergency Medicine Notes
 
 > [!section] Trauma & Surgery 外傷與外科
 > - [[11_外傷Trauma/Trauma總論]]
-> - [[11_外傷Trauma/頭部外傷]]
+> - [[11_外傷Trauma/頭部外傷 Head Trauma]]
 > - [[11_外傷Trauma/燒燙傷]]
 > - [[11_外傷Trauma/傷口處理]]
 > - [[11_外傷Trauma/TIC外傷性凝血病變]]

@@ -34,7 +34,7 @@
 |---|---|
 | 腋下或結膜下 petechiae | Tachycardia >110 |
 | Hypoxemia（PaO2 <60，FiO2 0.4） | Fever >38.5°C |
-| 與缺氧不成比例的 CNS depression（非[頭部外傷](../11_外傷Trauma/頭部外傷.md)） | 眼底視網膜栓子 |
+| 與缺氧不成比例的 CNS depression（非[頭部外傷 Head Trauma](../11_外傷Trauma/頭部外傷%20Head%20Trauma.md)） | 眼底視網膜栓子 |
 | [Pulmonary edema](../02_CV/Pulmonary_edema.md) | 尿中脂肪、Hct 或血小板突降、ESR 上升、痰中脂肪球 |
 
 > 註：原筆記另一段 minor 還列了 jaundice、renal signs、anemia、thrombocytopenia、fat macroglobulinemia。原表格寫「Tachycardia <110」「Pyrexia <38.5」，方向應為 >，已更正。

@@ -55,4 +55,4 @@
 ## Clinical Pearls
 - 大量出血時最先不夠的是 **fibrinogen**
 - 常規凝血檢查正常不代表凝血功能正常
-- 相關：CRASH-3（TXA in [TBI](頭部外傷.md)）見 [Trauma總論](Trauma總論.md)
+- 相關：CRASH-3（TXA in [TBI](頭部外傷%20Head%20Trauma.md)）見 [Trauma總論](Trauma總論.md)

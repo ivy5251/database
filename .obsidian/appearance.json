@@ -6,5 +6,6 @@
     "Clinical_Atlas_Obsidian",
     "medical-clean"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": true
 }

@@ -1,8 +1,6 @@
-# Head Trauma
 
 > 📖 **Tintinalli**：[Ch257 Head Trauma](https://drive.google.com/file/d/1tuoA-X0-J_u8NK3dlwaUai0xPfav4RPZ/view)
 
-> Source: Heptabase「Brain trauma」「Traumatic ICH」「Acute SDH」「SDH影像」「EDH」「EDH影像」「SAH影像」「Diffuse axonal injury (DAI)」「Skull base fracture」「Scalp hematoma」「什麼時候要做Brain-CT?」「為什麼trauma要評估Pupil size?」
 > Related: [Trauma總論](Trauma總論.md)（頭部外傷：ICP monitoring、CRASH-3、TTM）、[IICP](../06_Neuro/頭痛與顱內壓/IICP.md)、[01_中風Stroke](../06_Neuro/01_中風Stroke.md)（Hemorrhagic stroke CT、ICH 原因表）
 
 ## Key Points
@@ -19,7 +17,10 @@
 - Alcohol
 - Age <2 y/o
 
-### 為什麼 trauma 要評估 pupil size？
+### Sign:
+Racoon eye, Battle sign, discharge from ears and noses
+
+#### 為什麼 trauma 要評估 pupil size？
 - 因為要看看有沒有 uncal herniation
 
 ### Traumatic ICH
@@ -49,7 +50,6 @@
   - 最常在 high-speed motor vehicle accidents 看到
   - The most common mechanism：頭部強烈的搖晃＆旋轉導致 **accelerating and decelerating motion that leads to shearing forces to the white matter tracts of the brain**
 - Grading（死後解剖）
-
   ![DAI grading](assets/DAI_grading.png)
   - Grade 1：**只有 microscopically 的 axonal damage** — evidence of axonal damage in the white matter of the cerebral hemispheres including the corpus callosum, in the brain stem and, occasionally, in the cerebellum: this damage can only be identified microscopically.
   - Grade 2：**胼胝體有 focal lesion** — focal lesion in the corpus callosum in addition to diffuse axonal damage: the focal lesion was identifiable only microscopically. Can be said to be severe if the focal lesions are apparent macroscopically.
@@ -74,6 +74,9 @@
 - Mild to moderate TBI：**Transamin**
   - Loading dose：前 10 分鐘 1 g
   - 之後 8 hr 也是 1 g
+
+![Seizure prevention in TBI](assets/Seizure%20prevention%20in%20TBI.md)
+
 
 ## Disposition
 （待補）
